@@ -276,7 +276,7 @@ of this practice comes from the cultivation of mindfulness, of paying
 attention. It's so easy to have our blinders on and think, *I'm only
 doing this task, this is what I'm doing.* We don't have enough attention
 and clear comprehension to reflect and ask ourselves, *What are other
-people doing?**Do they need assistance?**Is there some way I can help
+people doing? Do they need assistance? Is there some way I can help
 out?*
 
 When we reflect like this for the sake of others, it helps us cultivate
@@ -469,7 +469,7 @@ mindfulness that's sharp and connected with what's happening around
 us—an attitude that is central to our training. Over time, this attitude
 permeates the way we relate to our minds and our experiences. And that's
 critical, because our defilements don't advertise themselves by holding
-up big signs that say, "*Greed! Hatred! Delusion!**"* So, we need to
+up big signs that say, "*Greed! Hatred! Delusion!*" So, we need to
 look closely if we're to discern and understand the nuances of the
 attachment and delusion we experience. If we haven't cultivated the
 habit of paying attention to details—both external and internal—if we
@@ -629,7 +629,7 @@ have many options, but we do have Ajahn Mahaprasert. We're fortunate,
 because he's a worthy monk to pay respects to.
 
 When we reflect back on the discourse that the Buddha gave on the
-highest blessings, one blessing he points to is *g**āravo ca nivāto ca,*
+highest blessings, one blessing he points to is *gāravo ca nivāto ca,*
 the qualities of respectfulness and humility. These are qualities that
 bring forth the highest blessings. They engender the sense of not having
 to carry the burden of a sense of self all the time—which *is* an
@@ -1157,7 +1157,7 @@ uncomfortable when it's hot like this. So what we need to do, as Dhamma
 practitioners, is learn how to adapt. We learn to dwell with mindfulness
 and equanimity whether things are to our liking or not. The tendency is
 to wait for conditions we like, and, when they arise, only then do we
-say to ourselves, *Okay, n**ow I can practice.* It's an attitude that
+say to ourselves, *Okay, now I can practice.* It's an attitude that
 can easily become habitual. But being tied to the human condition as we
 are, it's rare for things to be just right. So what we need to do is
 develop a willingness to work with conditions as they are. If it's
@@ -1589,7 +1589,7 @@ instructions to twenty-eight *shramaneris* who were preparing to ordain
 as *bhikshunis* next month. It was quite a delightful time. Their
 sincerity was tangible.
 
-One of the ideas I brought up with them is developing *samaṇa s**añña,*
+One of the ideas I brought up with them is developing *samaṇa sañña,*
 the perception or recollection of being a religious seeker. We function
 out of our perceptions. We perceive something to be interesting or
 desirable, and we get excited. We perceive something to be worrisome or
@@ -2863,9 +2863,9 @@ mind.
 In the discourse on Mindfulness of Breathing, this is what the Buddha
 said when instructing on *vedanā* (feeling): "Experiencing *pīti* (joy),
 the meditator breathes in. Experiencing pīti, the meditator breathes
-out. Experiencing *sukha*(happiness), the meditator breathes in.
+out. Experiencing *sukha* (happiness), the meditator breathes in.
 Experiencing sukha, the meditator breathes out." The feelings of pīti
-and sukha**are to be cultivated, experienced and developed, not pushed
+and sukha are to be cultivated, experienced and developed, not pushed
 away or shut out. The vital function of these pleasant feelings is to
 allow the mind to settle.
 
@@ -2882,7 +2882,7 @@ virtue—these are commensurate with the path of the Buddhas.
 As practitioners and meditators, we turn attention to that realm of
 feeling and delve into it, using it as an object to make pleasant
 feeling conscious. It's a valid object of meditation, as we know from
-the Mindfulness of Breathing sutta*—*taking up pīti**or sukha**and
+the Mindfulness of Breathing sutta—taking up pīti or sukha and
 allowing the mind to absorb into that feeling and enjoy the meditation.
 But sometimes we can feel almost guilty about it, thinking to ourselves,
 *I shouldn't be having so much pleasure meditating; it should be hard
@@ -3255,7 +3255,7 @@ ordinary days, which is a good balance. The problem is we sometimes
 treat the days of veneration much like ordinary days, so we end up with
 lots of ordinary days and not so many days worthy of veneration.
 
-The Wan Phra**offers us a quiet time, a day for stepping back from the
+The Wan Phra offers us a quiet time, a day for stepping back from the
 busyness of our ordinary activities. Here at Abhayagiri, we consistently
 encourage everyone to do that. For instance, we remind the community to
 refrain from turning on the computer or continuing with work projects.
@@ -3377,7 +3377,7 @@ activities.
 
 ### 05-29-05
 
-The Buddha taught the *Saranīya**Dhammas*,**which are the six principles
+The Buddha taught the *Saranīya Dhammas*, which are the six principles
 of conciliation or harmonious living. The first three of these Dhammas
 are based on bodily, verbal and mental acts of loving-kindness. By
 generating loving-kindness, we create a strong condition for the arising
@@ -3485,7 +3485,7 @@ and relinquish the defilements of the mind.
 
 ### 06-05-13
 
-As we reflect on the traditional explanation of *aniccā**—*how things
+As we reflect on the traditional explanation of *aniccā*—how things
 are impermanent, inconstant, always changing—it is especially useful to
 also reflect on aniccā as a sense of uncertainty, or as Ajahn Chah would
 say, "It's not a sure thing." We tend to deny or gloss over the fact
@@ -3611,7 +3611,7 @@ assumptions about things from the bias of "my way" or from perceptions
 of the world as good or bad. We might think, *Oh God. Everything is
 falling apart!* Or *Everything is great and I'm going to get what I
 want. The world is going to gratify me!* Well, not sure. We need to stop
-and reflect to ourselves, *What is sure*?**We may see that what is sure
+and reflect to ourselves, *What is sure*? We may see that what is sure
 is what we can know at this present moment. What's sure is we can make
 choices and try to guide ourselves in ways that are skillful.
 
@@ -3813,7 +3813,7 @@ them from various teachers, we may misunderstand the chief reason to
 practice samādhi—again, it's the stabilization of mindfulness. When
 mindfulness isn't steady, we have to return to a wholesome meditation
 object and use formal exercises for developing samādhi, such as the
-mindfulness exercises described in the**Satipatthana Sutta.
+mindfulness exercises described in the Satipatthana Sutta.
 
 Further, samādhi and mindfulness are mutually dependent—each nourishes
 the other: samādhi develops through the continuity of mindfulness
@@ -4183,7 +4183,7 @@ living together harmoniously, there is a need to develop a sense of
 *gratitude* is a bit loaded in the West, sort of like somebody is
 standing behind us waving his finger saying, "You should be grateful."
 That's quite a repelling image, and it doesn't convey the real essence
-of kataññū*,*which**is the faculty within us that recognizes and
+of kataññū, which is the faculty within us that recognizes and
 appreciates the goodness of others.
 
 It's important to exercise this faculty of kataññū to counteract the
@@ -4205,7 +4205,7 @@ establish wholesome states of mind. With our meditation, it's much
 easier to become peaceful when this quality of gratitude is present in
 the mind as opposed to when we experience negativity, which turns the
 mind toward all the flaws we perceive in everyone. So pay attention to
-gratitude—kataññū*—*learn to**appreciate the goodness of others, which
+gratitude—kataññū—learn to appreciate the goodness of others, which
 will have the most beneficial results for our practice and wellbeing.
 
 # The Dhamma of the Buddhas is Everywhere
