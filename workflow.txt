@@ -1,0 +1,22 @@
+pull zips from Google Docs and unzip them
+
+find -name "*doc" -print0 | xargs unoconv -f odt
+find -name "*odt" -print0 | xargs ooo_cat > ../AUTHOR-all.odt
+
+libreoffice ../AUTHOR-all.odt
+
+strip whitespace
+remove blank lines
+confirm author's name is correct for all talks
+substitute dumb- for smart-quotes
+substitute --- for em-dash
+substitue ... for . . .
+save as html
+
+pandoc AUTHOR-all.html AUTHOR-all.md --atx-headers
+
+search AUTHOR-all.md for "\*\*" and troubleshoot
+
+drop into git repo
+
+authors TODO: aa, ajo, an, av, asuc
