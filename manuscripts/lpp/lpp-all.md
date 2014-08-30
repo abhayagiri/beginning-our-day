@@ -2960,7 +2960,7 @@ abstract concept. This doesn't end up being very fruitful for us.
 
 In his seminal discourse on mindfulness of breathing, the Buddha uses
 the verb *paṭisaṃvedeti*, which means to *fully experience* the body, as
-we breathe in, as we breathe out; to *fully experience*feelings, as we
+we breathe in, as we breathe out; to *fully experience* feelings, as we
 breathe in, as we breathe out. It's a quality of inhabiting what is
 truly going on for us. If we stay even a slight distance from what we
 experience, then we don't see it clearly. And when we don't experience
