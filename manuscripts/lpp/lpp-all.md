@@ -428,13 +428,13 @@ not miss out on the opportunity we have.
 
 On the other side, we need to learn how to relax and not get caught up
 in the feeling of urgency. We tend to pile stuff onto ourselves,
-thinking, *I have to get this done and that done and . . .* Or we might
+thinking, *I have to get this done and that done and ...* Or we might
 feel an urgency with regard to future planning: *We have to have a
 budget meeting, and we have to have an insurance meeting, and we have to
-have a business meeting, and*. . . This agitating sort of urgency can
+have a business meeting, and ...* This agitating sort of urgency can
 arise not only with our chores and duties, but with our internal
 spiritual practice as well: *I have to get my mindfulness of breathing
-straight, and keep my reflections going, and . .*. With this sense of
+straight, and keep my reflections going, and ...* With this sense of
 urgency in trying to do everything all at once, we end up becoming
 frantic, and, ironically, very little gets done well or efficiently---it
 really doesn't work. So instead we can remind ourselves, *Hey, it's just
@@ -1314,7 +1314,7 @@ clarity. When we approach the work period like this, we realize it isn't
 something to get out of the way, but rather, it's an important aspect of
 the training. We don't want to be like so many people who live their
 whole lives waiting for the work to be over: *When I get this done, I'll
-be happy and I can relax.* . . . And as death approaches, they're still
+be happy and I can relax.* ... And as death approaches, they're still
 waiting.
 
 It's also helpful to remember that the work we do in the monastery
@@ -1860,7 +1860,7 @@ moves the mind toward restlessness and agitation from which we lose our
 center: One little push, the ball starts rolling, and pretty soon we've
 worked ourselves into a state of anger and conflict. With desire, it
 often starts with the merest sort of interest, which then becomes
-liking, fascination . . . and then we begin to lose control. We don't
+liking, fascination ... and then we begin to lose control. We don't
 know how to stop this momentum of desire because we're not used to
 stopping. It's also helpful to reflect on the occasions when we do
 happen to stop. We might ask ourselves, *Does stopping mean I can't
@@ -3305,10 +3305,10 @@ Of course, the external environment is only one source of uncertainty;
 there's the internal environment, as well---our moods, perceptions,
 thoughts, and feelings---and it's this internal environment that's most
 important to examine. Sometimes we may think, *My practice is going
-well*. *My practice is moving in the right direction. It's really a sure
-thing . . .*and then it changes. Other times we're feeling stuck in a
+well. My practice is moving in the right direction. It's really a sure
+thing ...* and then it changes. Other times we're feeling stuck in a
 pit of difficulties and may think, *This is really what I am and
-everything is hopeless. This is a sure thing . . .* and that too
+everything is hopeless. This is a sure thing ...* and that too
 changes. It's important to point the mind toward the experience of
 change, uncertainty, and impermanence, so it can see the true nature of
 things. Doing this creates a sense of stability and develops the mind's

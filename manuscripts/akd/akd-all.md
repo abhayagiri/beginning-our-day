@@ -868,7 +868,7 @@ process here, when we're a long-term lay resident in the monastery, we
 look forward to becoming an anāgārika. When we're an anāgārika, we look
 very forward to becoming a sāmaṇera. When we're a sāmaṇera we look
 forward to becoming a bhikkhu. Then, when we're a bhikkhu, we look
-forward to becoming an ajahn. And then . . . we're almost dead.
+forward to becoming an ajahn. And then ... we're almost dead.
 
 What is it that we can take with us? We can't take any of those
 identities or roles. We can't take any of the accomplishments with us or
@@ -1192,7 +1192,7 @@ and work very closely with greed, hatred, and delusion.
 
 It's not as if we're trying to create a different person in the future
 who will then be more skilled and capable, *If only I didn't have so
-much anger or craving . . . I'll work on that so in the future I will
+much anger or craving ... I'll work on that so in the future I will
 become somebody who can be much more free.* While it is true that things
 develop over time, it is the effort we put forth right here and right
 now, seeing our reactions and habits just as they arise that allows us
