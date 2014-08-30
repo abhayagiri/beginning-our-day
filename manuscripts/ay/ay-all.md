@@ -95,7 +95,7 @@ others, which in turn inspires us to practice well.
 
 However, this dynamic can create a problem. Many of us come from a
 strongly guilt-driven culture, and we can say things to ourselves like,
-*Everyone is supporting me, so**I should practice hard, I should do
+*Everyone is supporting me, so I should practice hard, I should do
 sitting meditation and walking meditation. I should learn the
 suttas.*For us, the word *should* can mean that if we don't do it, we're
 really bad monks. That's the completely wrong approach. Instead, we can
@@ -483,7 +483,7 @@ particular direction, very often the direction of *bhavataṇhā*.
 Bhavataṇhā is the ongoing creation of and belief in a solid and
 substantial self or identity that we are constantly propping up with
 roles, habits, ideas, views, and opinions—*I'm like this, I'm not like
-that*.**We need to go against that**bhavataṇhā, putting an anchor down
+that*. We need to go against that bhavataṇhā, putting an anchor down
 in the stream of becoming. Penetrating through the illusion of
 bhavataṇhā is one of the most important aspects of our practice. It's
 more important than any of the little hobbies we have, the habits we've
@@ -1708,7 +1708,7 @@ people and to accept ourselves.
 
 With that as a foundation, we then work with the defilements. It is not
 as if we work with the defilements as a condition for accepting
-ourselves—*Once my defilements are under control,**then**I'll accept
+ourselves—*Once my defilements are under control, then I'll accept
 myself.* No. We start with acceptance, and from there we can work with
 whatever difficulties arise. Likewise, there's no need to expect other
 people to live up to our standards of monastery etiquette, harmony, or
@@ -1782,7 +1782,7 @@ whenever someone put a seat out for him, something in my heart would
 roll its figurative eyes. But yesterday morning, as this reaction was
 coming up, I recognized what an unpleasant mind state it was. I said to
 myself, *Wait a minute. Putting out a seat is an act of respect for
-Luang Por**. Luang Por is our teacher, who has given us so much and
+Luang Por. Luang Por is our teacher, who has given us so much and
 helped us in so many ways that we know and don't know. This act reminds
 us of his presence in the monastery as the leader of the community.* So
 then, when I did put out a seat for him, it came with a nice feeling of
@@ -1918,7 +1918,7 @@ rules. As monastics, we have so many rules that are a part of our
 lifestyle. There are countless rules that define the way we live and the
 way we do things. It's interesting to see how Western monks like us
 often relate to the rules in a fearful way. There's a sense of all these
-different rules in place, and we're trying to control**and force
+different rules in place, and we're trying to control and force
 ourselves to live within these different constraints. It can be
 daunting.
 
@@ -2026,15 +2026,15 @@ doubts can creep in. In monastic life we have this form—the bowing, the
 routine, and the other structures we live within—and the doubt may
 arise, *Did the Buddha really teach all the rules we find in the
 Vinaya?* Or we may doubt whether certain parts of the early discourses
-are legitimate. *Did the Buddha really teach those**suttas in the Dīgha
-Nikāya that seem so mythical?*How do we deal with that? In Buddhism we
+are legitimate. *Did the Buddha really teach those suttas in the Dīgha
+Nikāya that seem so mythical?* How do we deal with that? In Buddhism we
 don't have this concept of a permanent deity or a just God—we can't rely
 on that. But there's another trump card we can play: *The Buddha
-existed, and he was fully enlightened*. So I can reflect, *Perhaps
+existed, and he was fully enlightened.* So I can reflect, *Perhaps
 whatever doubts I have arise because the form has been distorted over
 time, or because I'm not understanding how to see through the particular
-issue at hand. But the bottom line is, T**he Buddha existed, and he was
-fully enlightened*. That's a powerful perception, and it's important
+issue at hand. But the bottom line is, The Buddha existed, and he was
+fully enlightened.* That's a powerful perception, and it's important
 that we do not let anything get in the way of that.
 
 We can dwell on the things we don't like, the things we find
@@ -2043,7 +2043,7 @@ persuasive reasons why something we doubt is, in fact, wrong. But the
 effect of dwelling and thinking like this is that the heart can become
 discontented. We needn't invite that sort of discontent when we can just
 as easily dwell on our trump card. *The Buddha existed, and he was fully
-enlightened*. When I bring up this perception, there's immediate joy and
+enlightened.* When I bring up this perception, there's immediate joy and
 love and a recognition that this form, with all its imperfections, has a
 lineage that connects the Buddha with ourselves, right now. Through
 hundreds of generations, we're connected in a direct and tangible way to
@@ -2131,7 +2131,7 @@ of heedlessness. It might seem like a small matter—and it might indeed
 *be* a small matter—but when coupled with other small matters, the
 cumulative effect can have a great impact. We can feel that external
 circumstances have trapped us into making a big decision in which we
-have no choice. But external circumstances aren't the culprits. We**are.
+have no choice. But external circumstances aren't the culprits. We are.
 It was all those little, heedless choices we made along the way.
 
 # Toward a Reliable Refuge
@@ -2212,7 +2212,7 @@ experiences in our lives. We have certain emotions, moods, and
 interactions we want to get rid of because we perceive them as
 unhelpful, irritating, and annoying. We get into a battle between what
 we like and what we don't like. Instead, we can perceive experiences to
-be like fog.****When we see them this way, there's nothing we have to
+be like fog. When we see them this way, there's nothing we have to
 suffer over. Ultimately, we will understand that there is no experience
 or feeling we have to hold onto or be afraid of in this world, in this
 life. If we have our hearts set on peace, truth, contentment, and
