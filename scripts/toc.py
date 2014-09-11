@@ -14,7 +14,7 @@ outfile = sys.stdout
 reader = csv.reader(infile)
 
 for row in reader:
-    author = row[0].strip().lower()
+    author = row[0].strip().decode('utf-8').lower().encode('utf-8')
     date = row[3].strip()
     title = row[4].strip()
     cleantitle = utils.mangle_title(title.decode("utf-8"))
