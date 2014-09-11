@@ -1,7 +1,7 @@
 pull zips from Google Docs and unzip them
 
-find -name "*doc" -print0 | xargs unoconv -f odt
-find -name "*odt" -print0 | xargs ooo_cat > ../AUTHOR-all.odt
+find -name "*doc" -print0 | xargs -0 unoconv -f odt
+find -name "*odt" -print0 | xargs -0 ooo_cat > ../AUTHOR-all.odt
 
 libreoffice ../AUTHOR-all.odt
 
@@ -13,9 +13,12 @@ substitute --- for em-dash
 substitue ... for . . .
 save as html
 
-pandoc AUTHOR-all.html AUTHOR-all.md --atx-headers
+pandoc AUTHOR-all.html -o AUTHOR-all.md --atx-headers
 
 search AUTHOR-all.md for "\*\*" and troubleshoot
+
+scripts/medheads.py < AUTHOR-all.md > AUTHOR-all2.md
+mv AUTHOR-all2.md AUTHOR-all.md
 
 drop into git repo
 
