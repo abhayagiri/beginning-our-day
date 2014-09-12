@@ -108,7 +108,7 @@ diminish the power the hindrances have over us. ""We can therefore feel
 more confident and proficient in dealing with them so that we are not so
 easily blown off course.
 
-# Why Can't We Always Be on Retreat?
+# Can't We Always Be on Retreat?
 
 ## Ajahn Karuṇadhammo
 

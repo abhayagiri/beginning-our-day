@@ -516,7 +516,7 @@ understanding, and not experience the dukkha of aversion. We can
 transform our inner landscape, as with the snow fallen on a forest
 trail.
 
-# Not taking Refuge in the Weather
+# Not Taking Refuge in the Weather
 
 ## Ajahn Jotipālo
 

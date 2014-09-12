@@ -1,4 +1,4 @@
-# When the Mango Picking Pole Is Too Long
+# The Mango Picking Pole Is Too Long
 
 ## Luang Por Pasanno
 
@@ -91,7 +91,7 @@ hooked. You can ask yourself, *How dumb can I get?*That's the way to
 step back from it---by seeing desire clearly and not making a problem of
 it.
 
-# Containing The Chicken
+# Containing the Chicken
 
 ## Luang Por Pasanno
 
@@ -292,7 +292,7 @@ looking out to see how we can be of assistance to others, we undermine
 that modality and give ourselves the opportunity to experience
 well-being.
 
-# Mindfulness with Clarity and Discernment
+# Mindfulness With Clarity and Discernment
 
 ## Luang Por Pasanno
 
@@ -654,7 +654,7 @@ down to meditate, we don't have to wonder what techniques or methods
 will make us peaceful, because the peace is already there waiting for
 us.
 
-# Practicing What Works
+# Practising What Works
 
 ## Luang Por Pasanno
 
@@ -811,7 +811,7 @@ giving up and then make an effort to let go. By starting over with a new
 intention of cāga or piyavācā*,* we again place ourselves in a position
 of creating harmony.
 
-# Which Practice Is Right For Me?
+# Which Practice Is Right for Me?
 
 ## Luang Por Pasanno
 
@@ -905,7 +905,7 @@ respect, space, encouragement, and support for our spiritual endeavors.
 That is a significant act of generosity that helps to transform the
 heart.
 
-# Breathing into Busy Activity
+# Breathing Into Busy Activity
 
 ## Luang Por Pasanno
 
@@ -1719,7 +1719,7 @@ see though the lens of Dhamma we are supporting wholesome inclinations
 toward spiritual truth and spiritual peace, rather than unwholesome
 inclinations that spur the mind into keeping us clouded in delusion.
 
-# Carrying it Around
+# Carrying It Around
 
 ## Luang Por Pasanno
 
@@ -2148,7 +2148,7 @@ habits and tendencies?* We can develop mindfulness and discernment to
 receive the first arrow skillfully and not look for ways to be struck by
 the second, third, or fourth arrow.
 
-# Not Reaching For The Stars
+# Not Reaching for the Stars
 
 ## Luang Por Pasanno
 
@@ -2233,7 +2233,7 @@ of inner stillness.
 
 ## Luang Por Pasanno
 
-### 01-18-04
+### 03-15-05
 
 There are many aspects of experience we can use as a basis for our
 investigation and focus; and there are many styles and types of
@@ -2274,7 +2274,7 @@ and the people around us.
 
 ## Luang Por Pasanno
 
-### 01-18-04
+### 03-15-05
 
 No matter whether one is an ordinary, worldly person or an enlightened
 being, everyone experiences *vedanā:* pleasant, unpleasant and neutral
@@ -2354,11 +2354,11 @@ want---we're likely to create problems. But everything will run smoothly
 if we turn to this internal quality of renunciation, doing our best by
 letting go of our moods, views, and preferences.
 
-# Maybe This Buddha Isn't the Same as the Old Buddha
+# This Buddha Isn't the Same as the Old Buddha
 
 ## Luang Por Pasanno
 
-### 04-24-13
+### 04-23-13
 
 Ajahn Chah used to emphasize the need for steadiness in our practice,
 especially with our application of effort---finding a level that pushes
@@ -2701,11 +2701,11 @@ care for material requisites into our day-to-day practice of mindfulness
 and cultivation of skillful qualities. The material realm will then
 become a more harmonious and pleasant place in which to live.
 
-# Underlying Tendencies Associated with Feeling
+# Underlying Tendencies Associated With Feeling
 
 ## Luang Por Pasanno
 
-### 01-18-04
+### 03-15-05
 
 The Buddha says there are different underlying tendencies associated
 with each of the three feeling tones (*vedanā*). Pleasant feeling has
@@ -2813,7 +2813,7 @@ lives.
 
 ## Luang Por Pasanno
 
-### 01-18-04
+### 03-15-05
 
 As I've mentioned, we can use *vedanā* (feeling tone) as a doorway for
 understanding our experience, and in practice, it's a simple and
@@ -2863,7 +2863,7 @@ mind.
 
 ## Luang Por Pasanno
 
-### 01-18-04
+### 03-15-05
 
 In the discourse on Mindfulness of Breathing, this is what the Buddha
 said when instructing on *vedanā* (feeling): "Experiencing *pīti* (joy),
@@ -2991,7 +2991,7 @@ This is the very foundation on which the practice rests.
 
 ## Luang Por Pasanno
 
-### 01-18-04
+### 03-15-05
 
 A central focus of our practice is to recognize the impermanent nature
 of *vedanā,* the feelings we experience. The Buddha said feeling is like
@@ -3487,7 +3487,7 @@ actions and our speech. And we ask, *How am I establishing mindfulness
 and inner cultivation?*This is how we develop the Dhamma in our hearts
 and relinquish the defilements of the mind.
 
-# Comfortable with Uncertainty
+# Comfortable With Uncertainty
 
 ## Luang Por Pasanno
 
@@ -3580,7 +3580,7 @@ proliferations, ideas, ideals, views and opinions. All this clutter is
 the antithesis of the enlightened being. We can remember that by using
 this simple word. On the in-breath, "Bud." On the out-breath, "dho."
 
-# How Do I Accord with Truth?
+# How Do I Accord With Truth?
 
 ## Luang Por Pasanno
 
@@ -3872,7 +3872,7 @@ carry our attention in a clear and discerning way. Once we develop a
 continuity of wise attention, it will become a firm foundation for all
 of our growth in the practice.
 
-# One Who Sees the Danger In Saṁsāra
+# One Who Sees the Danger in Saṁsāra
 
 ## Luang Por Pasanno
 
@@ -3944,7 +3944,7 @@ includes keeping precepts, composing the senses, and settling the mind,
 while reflecting and investigating with wisdom. We cultivate this
 foundation and let the practice grow from there.
 
-# Waiting Patiently Like A Tick
+# Waiting Patiently Like a Tick
 
 ## Luang Por Pasanno
 
@@ -4216,7 +4216,7 @@ mind toward all the flaws we perceive in everyone. So pay attention to
 gratitude---kataññū---learn to appreciate the goodness of others, which
 will have the most beneficial results for our practice and wellbeing.
 
-# The Dhamma of the Buddhas is Everywhere
+# The Dhamma of the Buddhas Is Everywhere
 
 ## Luang Por Pasanno
 

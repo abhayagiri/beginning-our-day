@@ -945,7 +945,7 @@ us out of suffering.
 So whether we're investigating our moods or working with the
 defilements, mindfulness is key. It's what replaces madness with sanity.
 
-# Beginning with Good Habits 
+# Beginning With Good Habits
 
 ## Ajahn Yatiko
 
@@ -2070,7 +2070,7 @@ enlightened*. It is easily accessible to us and uplifting. As we return
 to this one idea, over and over again, we may well find that it trumps
 all our doubts and difficulties.
 
-# What Does it Mean to Listen
+# What Does It Mean to Listen
 
 ## Ajahn Yatiko
 

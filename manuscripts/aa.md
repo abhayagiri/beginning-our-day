@@ -1407,7 +1407,7 @@ is just the way we perceive things. It was uncertain to begin with. When
 we see this clearly, the causes for conflict, confusion, stress, and
 living a burdened life are no longer generated.
 
-# Seeing Clearly into the Chain of Causation
+# Seeing Clearly Into the Chain of Causation
 
 ## Ajahn Amaro
 
@@ -1597,7 +1597,7 @@ internal *papañca*.
 So without further ado I offer these thoughts for your consideration
 today. Enjoy, as they say.
 
-# So What Am I, Chopped Liver!?
+# So What am I, Chopped Liver!?
 
 ## Ajahn Amaro
 
