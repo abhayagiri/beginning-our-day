@@ -10,7 +10,7 @@ authors = (
     "Ajahn Amaro\n",
     "Ajahn Yatiko\n",
     "Ajahn Karuṇadhammo\n",
-    "Ajahn Joitpālo\n",
+    "Ajahn Jotipālo\n",
     "Ajahn Ñāṇiko\n",
     "Ajahn Vīradhammo\n",
     "Ajahn Sucitto\n",

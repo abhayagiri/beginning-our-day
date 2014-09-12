@@ -1,8 +1,8 @@
-Ajahn Jotipālo
+# Mindfulness Develops Right Speech
 
-05-01-13
+## Ajahn Jotipālo
 
-Mindfulness Develops Right Speech
+### 05-01-13
 
 Ajahn Dton came to visit us once, right after one of our winter
 retreats. During a question and answer period, I asked him if there were
@@ -34,11 +34,11 @@ training in this way, the ability to discern and make judgments about
 speech can become much stronger because we have developed it with
 mindfulness.
 
-Ajahn Jotipālo
+# Turning Inward With Patience
 
-07-03-13
+## Ajahn Jotipālo
 
-Turning Inward With Patience
+### 07-03-13
 
 I have been listening to a few of Bhikkhu Bodhi talks on loving-kindness
 and was surprised when he mentioned that the word *khanti*, patience, is
@@ -84,11 +84,11 @@ physical sensation or a mental perception and we do not need to add
 anything to it or try to make it go away. When we stay with a painful
 feeling in this way, we are experiencing khanti, true patience.
 
-Ajahn Jotipālo
+# Nipako: The Importance of Worldly Discretion
 
-07-12-13
+## Ajahn Jotipālo
 
-Nipako: The Importance of Worldly Discretion
+### 07-12-13
 
 One word mentioned in the Mettā Sutta is *nipako*. It is often
 translated as "wise," "chief," or "highest." Bhikkhu Boddhi translates
@@ -125,11 +125,11 @@ skills in all situations. We can learn to "lay low" with circumspection,
 while learning from those who know what we don't. These are all
 qualities highly commended by the Buddha.
 
-Ajahn Jotipālo
+# Don't Fill Up the Void
 
-07-23-12
+## Ajahn Jotipālo
 
-Don't Fill Up the Void
+### 07-23-12
 
 Why did you come to Abhayagiri? What brought you here? Simply bring that
 inquiry into your mind.
@@ -165,11 +165,11 @@ wholesome intentions that brought us here. So instead, when we find
 ourselves avoiding our experience, we can take the time to be quiet and
 be willing to feel what we are feeling.
 
-Ajahn Jotipālo
+# This Pūjā May Be My Last
 
-09-02-13
+## Ajahn Jotipālo
 
-This Pūjā May Be My Last
+### 09-02-13
 
 There is a fairly well-known sutta where the Buddha indicates that one
 who contemplates death about every few seconds develops mindfulness of
@@ -229,11 +229,11 @@ So I encourage everyone to frequently bring up these contemplations on
 death. And the next time you're sitting on the Ordination Platform for
 pūjā, enjoy the beauty there, and consider, This pūjā may be my last.
 
-Ajahn Jotipālo
+# The Lesser Discourse on the Hole in the Ceiling
 
-11-20-12
+## Ajahn Jotipālo
 
-The Lesser Discourse on the Hole in the Ceiling
+### 11-20-12
 
 In the earlier days, the Dhamma Hall was not quite as nice as it is now.
 There was still carpet on the floor. One day Ajahn Amaro was giving a
@@ -291,11 +291,11 @@ practice from causing a large amount of suffering.
 We can remember this talk as *The Lesser Discourse on the Hole in
 the Ceiling*.
 
-Ajahn Jotipālo
+# The Protective Power of Truth
 
-11-22-13
+## Ajahn Jotipālo
 
-The Protective Power of Truth
+### 11-22-13
 
 In quite a few of our *paritta* chants there is the line *etena* s*acca*
 *vajjena sotthi te hotu sabbadā*, which is roughly translated as, "by
@@ -348,11 +348,11 @@ available to the circumstances we find ourselves in. There is no need to
 wait for fires or murderous robbers to confront us---we can take
 advantage of this protective power in any moment of our day-to-day lives
 
-Ajahn Jotipālo
+# Being With Resistance
 
-11-23-12
+## Ajahn Jotipālo
 
-Being With Resistance
+### 11-23-12
 
 In one of the Dhamma talks Ajahn Chandako gave recently, he said the
 best way that we, as monastics, can support people in the world, support
@@ -388,11 +388,11 @@ possible to see that there's nothing worth fighting against---there's
 really nothing to be gained by being caught up in a mind state of
 resistance.
 
-Ajahn Jotipālo
+# We Don't Have to Struggle
 
-11-29-13
+## Ajahn Jotipālo
 
-We Don't Have to Struggle
+### 11-29-13
 
 Before coming to this practice, most of us had positive ideas about
 meditation---that it brings peace and happiness, even bliss---and those
@@ -442,11 +442,11 @@ place. And now that we have become committed to the practice, our job is
 to explore those avenues for ourselves, to discover which ways lead to
 the most fruitful results.
 
-Ajahn Jotipālo
+# Rehearsing the Mood
 
-12-07-13
+## Ajahn Jotipālo
 
-Rehearsing the Mood
+### 12-07-13
 
 In communicating with other people there is always room for mistakes to
 be made and issues to come up around misunderstandings. When these
@@ -475,11 +475,11 @@ someone, for example, we can ask ourselves, *What's the mood I want to
 be in right now?* If we can deliberately generate a wholesome mood
 within ourselves, we allow our minds to more easily open to the Dhamma.
 
-Ajahn Jotipālo
+# Snow on a Forest Trail
 
-12-08-13
+## Ajahn Jotipālo
 
-Snow on a Forest Trail
+### 12-08-13
 
 This morning I was walking through the forest, on a path that I've
 walked thousands of times before, and everything looked completely
@@ -516,11 +516,11 @@ understanding, and not experience the dukkha of aversion. We can
 transform our inner landscape, as with the snow fallen on a forest
 trail.
 
-Ajahn Jotipālo
+# Not taking Refuge in the Weather
 
-12-23-12
+## Ajahn Jotipālo
 
-Not taking Refuge in the Weather
+### 12-23-12
 
 On mornings like this---when it's pouring down rain, when it's not
 comfortably warm, and we have been assigned a job working outside which
