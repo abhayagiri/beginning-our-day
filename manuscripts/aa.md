@@ -199,7 +199,7 @@ all-night activity. The more we are able to bring mindfulness and
 attention into every aspect of our lives, the more opportunities there
 are for wisdom and understanding to arise.
 
-# Cāgānussati: Recollecting Our Goodness
+# Recollecting Our Goodness
 
 ## Ajahn Amaro
 
@@ -490,7 +490,7 @@ occasion of their death from being something associated with an
 experience of loss and absence into something that is much more a cause
 for brightness and happiness to arise.
 
-# Stepping Into the Rain Toward the Dhamma
+# Stepping Into the Rain
 
 ## Ajahn Amaro
 
@@ -981,7 +981,7 @@ outside is impossible, because everything occupies the same territory,
 it's all of the same order. With this understanding, the heart relates
 to it all in a radically different way.
 
-# Mettā: Remembering to Loosen Up
+# Remembering to Loosen Up
 
 ## Ajahn Amaro
 
@@ -1651,7 +1651,7 @@ attitudes, what arises is gratitude. We are able to appreciate the
 bigger picture, the gifts and the lessons we have received, and the
 potential opportunities we have in the world.
 
-# The Development of Equanimity - Cause and Effect
+# The Development of Equanimity
 
 ## Ajahn Amaro
 

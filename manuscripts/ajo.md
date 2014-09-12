@@ -84,7 +84,7 @@ physical sensation or a mental perception and we do not need to add
 anything to it or try to make it go away. When we stay with a painful
 feeling in this way, we are experiencing khanti, true patience.
 
-# Nipako: The Importance of Worldly Discretion
+# The Importance of Worldly Discretion
 
 ## Ajahn Jotipālo
 

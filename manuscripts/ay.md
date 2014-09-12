@@ -749,7 +749,7 @@ generosity---which is so important to communal living and harmony---but
 also to pay attention to our formal meditation practice---sitting and
 walking---and the ability to put things down.
 
-# Cultivating the Perception of the Present Moment
+# Cultivating Present Moment Perception
 
 ## Ajahn Yatiko
 
@@ -945,7 +945,7 @@ us out of suffering.
 So whether we're investigating our moods or working with the
 defilements, mindfulness is key. It's what replaces madness with sanity.
 
-# Developing Good Habits From the Beginning
+# Beginning with Good Habits 
 
 ## Ajahn Yatiko
 
@@ -1235,7 +1235,7 @@ be a strong feeling that we are living under very special circumstances.
 This in turn uplifts our solitary practice and encourages a more
 encompassing perspective.
 
-# Asubha Kammaṭṭhāna: Perceiving the Unbeautiful
+# Perceiving the Unbeautiful
 
 ## Ajahn Yatiko
 
@@ -2070,7 +2070,7 @@ enlightened*. It is easily accessible to us and uplifting. As we return
 to this one idea, over and over again, we may well find that it trumps
 all our doubts and difficulties.
 
-# What Does it Mean to Listen?
+# What Does it Mean to Listen
 
 ## Ajahn Yatiko
 

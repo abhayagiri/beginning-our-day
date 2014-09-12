@@ -149,7 +149,7 @@ for the mind. We have a lot of space to experiment and work with these
 themes. As we get to know them, we can see what works and what helps the
 mind direct itself towards the Dhamma.
 
-# Directing Attention to Contentment
+# The Dhamma of Contentment
 
 ## Luang Por Pasanno
 
@@ -193,7 +193,7 @@ This aspect of contentment is a fruitful area for investigation. We can
 experiment with it and find ways to draw our hearts closer to that
 quality.
 
-# Being Comfortable is Not the End of Suffering
+# Being Comfortable Is Not the End of Suffering
 
 ## Luang Por Pasanno
 
@@ -253,7 +253,7 @@ experience in this way, we find that everything is bearable, everything
 is quite all right---we are creating a framework of Dhamma rather than a
 framework of our own reactions and habits.
 
-# When Help is Needed
+# When Help Is Needed
 
 ## Luang Por Pasanno
 
@@ -407,7 +407,7 @@ conditions for that feeling? Where is its resolution? How can I help
 bring about that resolution?* In this way, we are contemplating the Four
 Noble Truths exactly as the Buddha intended.
 
-# Urgency: A Paradox of Spiritual Development
+# The Paradox of Urgency
 
 ## Luang Por Pasanno
 
@@ -610,7 +610,7 @@ blessings of a skillful life, sharing those blessings with the people
 we're living with and the people we come into contact with. And that is
 how we bring great blessings into the world.
 
-# Developing Respect & Humility
+# Developing Respect and Humility
 
 ## Luang Por Pasanno
 
@@ -687,7 +687,7 @@ process. But by sticking with this process, by taking a genuine interest
 in it, we can develop a good sense of what practices are truly
 beneficial---what truly works for us.
 
-# Directing Attention in a Skillful Way
+# Directing Attention Skillfully
 
 ## Luang Por Pasanno
 
@@ -783,7 +783,7 @@ But if we drop all of that and attend to just one breath at a time, to
 one mental state at a time, and that's all---if we can attend to things
 from that perspective---then everything is doable.
 
-# Facilitating Harmony Using Cāga and Piyavācā
+# Facilitating Harmony
 
 ## Luang Por Pasanno
 
@@ -1053,7 +1053,7 @@ less suffering. With less mindfulness and less relinquishment, there is
 more suffering. It's a very simple equation, but one we can easily
 forget.
 
-# What Is Important?
+# To See the True Nature of Things
 
 ## Luang Por Pasanno
 
@@ -1252,7 +1252,7 @@ know their arising and their fading away. Whether they are pleasant or
 unpleasant, we don't get caught by them nor do we follow them, we learn
 to relinquish this tendency of mind.
 
-# Choosing the Pāramīs, the Principals of Goodness
+# Choosing the Pāramīs
 
 ## Luang Por Pasanno
 
@@ -1427,7 +1427,7 @@ we can make this simple effort of looking after the path, looking after
 those aspects of training the Buddha laid down for us. When we do this,
 we will produce the natural results of the Middle Way.
 
-# Work is Giving
+# Work Is Giving
 
 ## Luang Por Pasanno
 
@@ -1537,7 +1537,7 @@ by looking at the realities of the human condition, we can apply
 appropriate effort to free ourselves from saṁsāra, and do that which is
 of the most benefit for our lives.
 
-# A Sense of Self – Question and Answer
+# A Sense of Self
 
 ## Luang Por Pasanno
 
@@ -1662,7 +1662,7 @@ And of course, as with any gift, the first beneficiary is ourselves.
 When we relate to the training and the life we are leading in terms of
 giving, it uplifts our hearts.
 
-# Priming the Mind With the Three Characteristics
+# Priming the Mind
 
 ## Luang Por Pasanno
 
@@ -1985,7 +1985,7 @@ to ease and well being. We realize that we don't require so many things
 to keep us happy and comfortable. It's an internal experience based on
 internal qualities.
 
-# Luang Por Chah's Approach – Question and Answer
+# Luang Por Chah's Approach
 
 ## Luang Por Pasanno
 
@@ -2701,7 +2701,7 @@ care for material requisites into our day-to-day practice of mindfulness
 and cultivation of skillful qualities. The material realm will then
 become a more harmonious and pleasant place in which to live.
 
-# The Underlying Tendencies Associated with Feeling
+# Underlying Tendencies Associated with Feeling
 
 ## Luang Por Pasanno
 
@@ -2755,7 +2755,7 @@ feelings we experience. By using the neutral in-breath and out-breath as
 our foundation, we begin to understand how the mind proliferates and
 conditions itself.
 
-# The Khanti Pāramī: A Good, Solid Foundation
+# The Khanti Pāramī
 
 ## Luang Por Pasanno
 
@@ -2987,7 +2987,7 @@ Over and over again, the Buddha encourages us to develop our practice by
 fully engaging with and fully knowing what we encounter and experience.
 This is the very foundation on which the practice rests.
 
-# The Impermanent Nature of Feeling
+# The Impermanence of Feeling
 
 ## Luang Por Pasanno
 
@@ -3287,7 +3287,7 @@ ordinary activities, to reflect on our lives and practice and to
 cultivate letting go. When used in these ways, they truly become days
 worthy of veneration.
 
-# The Uncertain Nature of Things
+# The Experience of Change
 
 ## Luang Por Pasanno
 
@@ -3682,7 +3682,7 @@ The problem with the human condition is this constant seeking and, of
 course, not really finding. So we need to learn how to be someone who
 has enough, and to be someone who enjoys that enough-ness.
 
-# *Nekkhamma*: How to Accord with Conditions
+# According With Conditions
 
 ## Luang Por Pasanno
 
@@ -3836,7 +3836,7 @@ teachers whom we come in contact with. So it's important that we take
 full advantage of these teachings and teachers. They are invaluable
 supports for our practice and spiritual cultivation.
 
-# Yoniso manasikāra: Directing Attention Skillfully
+# Knowing Wholesome and Unwholesome States
 
 ## Luang Por Pasanno
 
@@ -3872,7 +3872,7 @@ carry our attention in a clear and discerning way. Once we develop a
 continuity of wise attention, it will become a firm foundation for all
 of our growth in the practice.
 
-# One Who Sees the Danger In *Saṁsāra*
+# One Who Sees the Danger In Saṁsāra
 
 ## Luang Por Pasanno
 
@@ -3901,7 +3901,7 @@ So we recollect and reflect on our impending death and the endless cycle
 of saṁsāra, in order to sustain our attention and to keep the practice
 as our first priority.
 
-# One-Pointedness–The Foundation for Practice
+# One-Pointedness of Mind
 
 ## Luang Por Pasanno
 
@@ -4176,7 +4176,7 @@ experiences. This is an opportunity for us to learn how to do that in
 our daily lives and to learn how to do that in our formal meditation.
 It's possible to be carrying that investigation with us at all times.
 
-# *Kataññū*: Appreciating the Goodness of Others
+# Appreciating the Goodness of Others
 
 ## Luang Por Pasanno
 

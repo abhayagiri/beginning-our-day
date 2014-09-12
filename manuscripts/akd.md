@@ -1014,7 +1014,7 @@ that created self-image for just a moment, see what it might feel like.
 Feel the sense of relief and ease that arises when it's simply a few
 body parts and a few stray thoughts moving through space and time.
 
-# It's Not Mine
+# Whose Is This?
 
 ## Ajahn Karuṇadhammo
 
@@ -1259,7 +1259,7 @@ concentration is an important part of practice, but it's only one part
 of the practice. It needs to be supported by and firmly grounded in the
 other factors of the path as well.
 
-# The Changing Nature of Our Bodies
+# Our Changing Bodies
 
 ## Ajahn Karuṇadhammo
 
