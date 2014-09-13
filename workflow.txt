@@ -26,6 +26,6 @@ drop into git repo
 from manuscripts/markdown:
 
 ../../scripts/buildvol.py < ../volN-toc.csv | pandoc -f markdown -t html -S | \
-../../scripts/html2tex | fold -s -w 72 | cat ../latex/head.tex - \
+../../scripts/html2tex.py | fold -s -w 72 | cat ../latex/head.tex - \
 ../latex/tail.tex > ../latex/volN.tex
 
