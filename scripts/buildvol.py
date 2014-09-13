@@ -52,9 +52,12 @@ for author in authorfiles:
                 title = text
             elif prefix == "###":
                 date = text
-                talks[author][title] = date
+                #talks[author][title] = date
         buf.write(line)
         line = afile.readline()
+    content = buf.getvalue()
+    if content:
+        talks[author][title] = content
 
 
 infile = sys.stdin
