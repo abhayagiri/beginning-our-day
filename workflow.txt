@@ -22,4 +22,8 @@ mv AUTHOR-all2.md AUTHOR-all.md
 
 drop into git repo
 
-authors TODO: aa, ajo, an, av, asuc
+
+from manuscripts/markdown:
+
+../../scripts/buildvol.py < ../volN-toc.csv | pandoc -f markdown -t html -S | \
+../../scripts/html2tex | fold -s -w 72 > ../latex/volN.tex
