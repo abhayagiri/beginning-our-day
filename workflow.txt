@@ -1,3 +1,19 @@
+TODO:
+Makefiles
+refactor head.tex into a package
+epub/mobi workflow
+
+proposed workflow:
+single-author markdown -> individual talks in markdown
+markdown ---> LaTeX
+          '-> HTML
+[make edits to individual LaTeX and HTML talks]
+each volN.tex \inputs talks from manuscripts/latex
+[build volN.tex into publish/]
+
+
+to generate markdown from TC's .doc's
+
 pull zips from Google Docs and unzip them
 
 find -name "*doc" -print0 | xargs -0 unoconv -f odt
@@ -17,14 +33,12 @@ pandoc AUTHOR-all.html -o AUTHOR-all.md --atx-headers
 
 search AUTHOR-all.md for "\*\*" and troubleshoot
 
-scripts/medheads.py < AUTHOR-all.md > AUTHOR-all2.md
+scripts/mdheads.py < AUTHOR-all.md > AUTHOR-all2.md
 mv AUTHOR-all2.md AUTHOR-all.md
 
-drop into git repo
 
-
-from manuscripts/markdown:
-
+generate pdf from markdown:
+PWD=manuscripts/markdown
 ../../scripts/buildvol.py < ../volN-toc.csv | pandoc -f markdown -t html -S | \
 ../../scripts/html2tex.py | fold -s -w 72 | cat ../latex/head.tex - \
 ../latex/tail.tex > ../latex/volN.tex
