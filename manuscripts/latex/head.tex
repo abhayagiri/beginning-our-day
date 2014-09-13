@@ -1,0 +1,43 @@
+%!TEX TS-program = xetex
+%!TEX encoding = UTF-8 Unicode
+\documentclass[11pt,openany]{memoir}
+
+\usepackage{fontspec}
+\defaultfontfeatures{Mapping=tex-text}
+\setromanfont{Gentium}
+
+\usepackage{geometry}
+\geometry{%
+    paperwidth=5.25in,
+    paperheight=8in,
+    top=54pt,
+    bottom=72pt,
+    inner=54pt,
+    outer=45pt
+}
+
+\makechapterstyle{mainmatter}{%
+    \chapterstyle{default}
+    \setlength{\beforechapskip}{9pt}
+    \setlength{\midchapskip}{0pt}
+    \setlength{\afterchapskip}{12pt}
+    \renewcommand*{\printchaptername}{}
+    \renewcommand*{\printchapternum}{}
+    \renewcommand*{\printchaptertitle}[1]{\huge\itshape\centering ##1}
+}
+\chapterstyle{mainmatter}
+\newcommand{\mychapter}[3]{%
+\chapter*{#1\\{\normalfont\large#2 • #3}}
+}
+
+\sloppy
+\raggedbottom
+\pagestyle{plain}
+\parindent 18pt
+\renewcommand{\baselinestretch}{1.06}
+
+\usepackage[defaultlines=3,all]{nowidow}
+
+
+\begin{document}
+
