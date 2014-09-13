@@ -2080,5 +2080,3 @@ quality of evenness, steadiness, and balance. We can have an unshakable
 and profoundly stable equanimity which is undisturbed in the midst of
 all that arises, moves toward the shore, and disperses.
 
-\
-

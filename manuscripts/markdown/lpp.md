@@ -4302,3 +4302,4 @@ Dhammapada. By making an effort to bring to mind this reflection on
 uncertainty and change, we have an opportunity to brighten and clarify
 the mind with the truth of impermanence, the truth of our conditioned
 experience.
+

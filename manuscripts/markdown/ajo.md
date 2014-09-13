@@ -549,3 +549,4 @@ assumptions am I making? How can I see this situation from a different
 perspective so that I might incline my mind towards a brighter state?*
 When I reflect in this way, the work period or the task I'm attending to
 can be quite enjoyable.
+

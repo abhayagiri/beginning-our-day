@@ -168,3 +168,4 @@ next three days mired in *dukkha*, full of reproach about my foolish
 mistake. It took quite a while to let that one go. So it's important to
 learn how to fail without taking it personally. After all, taking things
 personally is the very thing we're learning to let go of.
+

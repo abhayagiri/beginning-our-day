@@ -1986,3 +1986,4 @@ this process we're realizing that there really isn't any "me" here who's
 doing all of this. We are using skills to develop the Eightfold Path, to
 encourage each other, and to contribute to Saṅgha harmony. Gradually
 this process supports us in developing the insight into who we are not.
+

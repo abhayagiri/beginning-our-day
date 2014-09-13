@@ -63,3 +63,4 @@ happen, it has to be a comfortable ride. And we can feel that comfort in
 the breathing in and the breathing out, in good friendship, and in moral
 living. We get the sense that, *It's okay. It's okay to be here*. That
 gives us the ability to trust the process and to trust the practice.
+

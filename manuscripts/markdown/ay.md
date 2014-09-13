@@ -2528,3 +2528,4 @@ with, like physical agony---things that seem out of our control and
 things that really *are* out of our control. We can find a way to loosen
 our grip so we don't suffer. And that, of course, is the core of our
 practice.
+
