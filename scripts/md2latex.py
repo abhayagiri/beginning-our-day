@@ -145,7 +145,7 @@ while line:
     line = infile.readline()
 
 if buf.tell():
-    outname = '%s_%s_%s.md' % (author, date, title)
+    outname = '%s_%s_%s.tex' % (author, date, title)
     outfile = open(outdir + os.sep + outname, 'w')
     buf.seek(0)
     outfile.write(buf.read())
