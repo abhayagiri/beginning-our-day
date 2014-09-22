@@ -11,6 +11,8 @@ markdown ---> LaTeX
 each volN.tex \inputs talks from manuscripts/latex
 [build volN.tex into publish/]
 
+TODO: write toc2latex.py to generate latex \includes
+
 
 to generate markdown from TC's .doc's
 
@@ -33,9 +35,13 @@ pandoc AUTHOR-all.html -o AUTHOR-all.md --atx-headers
 
 search AUTHOR-all.md for "\*\*" and troubleshoot
 
-scripts/mdheads.py < AUTHOR-all.md > AUTHOR-all2.md
-mv AUTHOR-all2.md AUTHOR-all.md
+scripts/mdheads.py < AUTHOR.md > AUTHOR2.md
+mv AUTHOR2.md AUTHOR.md
 
+edit AUTHOR.md's
+
+PWD=manscripts
+../scripts/md2latex latex/AUTHOR < markdown/AUTHOR.md
 
 generate pdf from markdown:
 PWD=manuscripts/markdown
