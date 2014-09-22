@@ -107,10 +107,14 @@ def fixdate(d):
 def md2latex(infile, outfile):
     pandoc = subprocess.Popen(['pandoc', '-f', 'markdown', '-t', 'html'],
         stdin=subprocess.PIPE, stdout=subprocess.PIPE)
+    fold = subprocess.Popen(['fold', '-s', '-w', '72'],
+        stdin=subprocess.PIPE, stdout=subprocess.PIPE)
     pandoc.stdin.write(infile.read())
     pandoc.stdin.close()
     tree = etree.parse(pandoc.stdout, etree.HTMLParser(encoding='utf-8'))
-    sax.saxify(tree, Html2Latex(outfile))
+    sax.saxify(tree, Html2Latex(fold.stdin))
+    fold.stdin.close()
+    outfile.write(fold.stdout.read())
 
 line = infile.readline()
 
