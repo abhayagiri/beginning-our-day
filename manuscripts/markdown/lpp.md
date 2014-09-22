@@ -3872,7 +3872,7 @@ carry our attention in a clear and discerning way. Once we develop a
 continuity of wise attention, it will become a firm foundation for all
 of our growth in the practice.
 
-# One Who Sees the Danger in Saṁsāra
+# One Who Sees the Danger in Saṃsāra
 
 ## Luang Por Pasanno
 

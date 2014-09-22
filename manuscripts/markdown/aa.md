@@ -1067,7 +1067,7 @@ so, if we ourselves stop creating that division and stress---that
 friction and heat from the grindstone---then we find the citta becomes
 cool, because the division and tension simply aren't there.
 
-# Bringing Sampajañña and Pañña to Work
+# Bringing Sampajañña and Paññā to Work
 
 ## Ajahn Amaro
 
@@ -1157,7 +1157,7 @@ make it be more than it actually is, and we're not adding anything onto
 it. So there's purity, simplicity, and a good-heartedness we can bring
 to everything we do.
 
-# The Importance of Kondañña's Insight
+# The Importance of Koṇḍañña's Insight
 
 ## Ajahn Amaro
 
