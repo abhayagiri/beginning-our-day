@@ -4979,7 +4979,7 @@ direction towards a state of peace, understanding, and calm.
 ### 10-18-13
 
 In several suttas, the Buddha points to *cāga* as a quality that
-facilitates harmony. Cāga is an interesting word. It means "giving" or
+facilitates harmony. *Cāga* is an interesting word. It means "giving" or
 "sharing" and also "giving up." So it's not only the quality of
 generosity, but also the ability to give up our fears, views, and
 opinions---things that end up creating moods and feelings of disharmony.
