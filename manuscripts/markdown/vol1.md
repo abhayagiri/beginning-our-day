@@ -188,7 +188,7 @@ have to do something about this splinter.* Then you carry on and forget
 about it. But the irritation keeps returning until at one point you say
 to yourself, *I really need to do something about this splinter now.
 It's not something I can put up with anymore*. So finally you dig it
-out. The experience of dukkha, or suffering, is the same."
+out. The experience of dukkha, is the same."
 
 It's not as if we're experiencing dukkha all the time; for the most
 part, we live incredibly comfortable lives here. But there's this
@@ -248,7 +248,7 @@ check in every now and again as to the mood and quality of the mind.
 From there, we adjust as needed to bring about the wholesome and
 decrease the unwholesome.
 
-# A Balanced Perspective for Our Views
+# A Balanced Perspective
 
 ## Luang Por Pasanno
 
@@ -309,13 +309,13 @@ Why did you come to Abhayagiri? What brought you here? Simply bring that
 inquiry into your mind.
 
 After traveling for the last month and being fairly busy, I returned to
-Abhayagiri a few days ago. I've tended to go back to my *kuṭi*in the
+Abhayagiri a few days ago. I've tended to go back to my *kuṭi* in the
 afternoons and it's been really quiet. There have been no expectations
 or demands on me. I've noticed in the past, after a period of busyness,
-when I go back to my kuṭi for some quiet time, there is a feeling of
+when I go back to my *kuṭi* for some quiet time, there is a feeling of
 melancholy that comes up and a feeling that I should be doing something.
 I've been looking at that for the last two days, going back to my
-kuṭi and sitting there with that feeling. I'm not trying to label
+*kuṭi* and sitting there with that feeling. I'm not trying to label
 it---anxiety, depression, or whatever else the mind wants to call it.
 I'm just looking at it as a physical sensation and seeing how the mind
 is reacting to it, how the mind is trying to figure out what it is and
@@ -3672,7 +3672,7 @@ relinquishment, letting go of discontent. When we practice like this we
 are likely to find that there is no need to make conditions into a
 problem for ourselves.
 
-# What Does It Mean to Listen
+# What Does It Mean to Listen?
 
 ## Ajahn Yatiko
 
