@@ -47,13 +47,13 @@ Buddha. At the end of this talk, the Buddha recognizes that
 Kondañña has, with deep insight, understood the Dhamma. He says,
 "*Annnyassivatabho Kondañño, annyassivatabho
 Kondaññoti*---Kondañña understands, Kondañña understands." Kondañña
-had awakened to the nature of Dhamma: "*Dhammacakkhuṁ udapādi*---the eye
+had awakened to the nature of Dhamma: "*Dhammacakkhuṃ udapādi*---the eye
 of Dhamma arose." Then the sutta describes exactly what it was that
 Kondañña saw. It wasn't a spectacular vision of the heavens opening up,
 a bewildering light display that he experienced, or streams of deities
 beaming down from the heavens. Rather, his vision of the Dhamma is
-stated simply in the phrase, "*Yaṅkiñci* *samudaya* *dhammaṁ*
-*sabbantaṁ* *nirodha* *dhammanti---*whatever is subject to arising is
+stated simply in the phrase, "*Yaṅkiñci* *samudaya* *dhammaṃ*
+*sabbantaṃ* *nirodha* *dhammanti---*whatever is subject to arising is
 subject to ceasing."
 
 On a worldly level this seems completely unremarkable. That which
@@ -4278,7 +4278,7 @@ eye, eye consciousness, eye contact, the feeling that arises with eye
 contact, visual objects, everything to do with the process of
 vision---and the same with the processes of hearing, smelling, tasting,
 touching, and mental activities---they're all burning with passion,
-aversion, and delusion. He then says, "*Evaṁ passaṁ bhikkhave sutva
+aversion, and delusion. He then says, "*Evaṃ passaṃ bhikkhave sutva
 ariyasāvako cakkusmim'pi nibindati---*Seeing thus, the wise, noble
 disciple becomes dispassionate toward the eye, toward visual objects,
 toward eye consciousness, toward eye contact, and the feeling that
@@ -4302,7 +4302,7 @@ see, smell, taste, hear, touch, and think.
 
 During the course of the day, it's helpful to bring mindfulness to
 recognizing that the quality of friction, tension---what the Buddha
-calls heat, *ādhitaṁ,*burning. The feeling can be one of ownership
+calls heat, *ādhitaṃ,*burning. The feeling can be one of ownership
 regarding some tool, the interest in a particular task, or the
 irritation with an exceptionally obstructive piece of rock that won't
 move out of the way. Whatever it might be---some computer program or
@@ -4321,7 +4321,7 @@ delusion, caught up in reactions, opinions, assumptions, projections,
 and other deluded states. These are all aspects of heat in the context
 of this teaching.
 
-By bringing that quality of mindfulness---evaṁ passaṁ, seeing
+By bringing that quality of mindfulness---evaṃ passaṃ, seeing
 thus---we're able to recognize that feeling of ownership, for example.
 We can recognize the heat that the mind generates out of simple things.
 *Oh look, I'm getting upset with this machine, I'm getting excited about
@@ -4331,7 +4331,7 @@ didn't even know existed before it was assigned to us, suddenly becomes
 cut's not square and we all know who did it!" That would be so
 embarrassing.* By owning something, it can become our great achievement
 or our terrible crime---the heat of pride or the heat of shame. So
-again, "Evaṁ passaṁ bhikkhave--- the wise, noble disciple, seeing thus,
+again, "Evaṃ passaṃ bhikkhave--- the wise, noble disciple, seeing thus,
 becomes dispassionate."
 
 We can see how the mind creates these stupid, absurd reactions and
@@ -5369,18 +5369,18 @@ relinquishment and generosity---our first priority.
 
 The literal translation of the word *bhikkhu* is "one who begs for
 alms." But in keeping with the commentaries, Ajahn Chah used to
-emphasize bhikkhu as meaning "one who sees the danger in *saṁsāra*," the
+emphasize bhikkhu as meaning "one who sees the danger in *saṃsāra*," the
 danger in the endless round of birth and death, the endless wandering.
 That's a useful image for the unfocused, inattentive mind---the mind
 that does not prioritize, that drifts aimlessly about. It wanders to
 moods of like and dislike, moods of resentment and attachment, and
 continues to wander on. This reflection on one who sees the danger in
-saṁsāra applies to everybody, not only monks*.* It can encourage us all
+saṃsāra applies to everybody, not only monks*.* It can encourage us all
 to make good use of our faculties, to take the opportunities afforded us
 through our bodies and our minds.
 
 So we recollect and reflect on our impending death and the endless cycle
-of saṁsāra, in order to sustain our attention and to keep the practice
+of saṃsāra, in order to sustain our attention and to keep the practice
 as our first priority.
 
 # Happy to Stay at Home

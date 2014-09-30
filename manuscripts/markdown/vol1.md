@@ -150,7 +150,7 @@ in and of itself. We can spend some time on the walking path or while we
 are sitting and ask ourselves, *What is the morning reflection for?
 What's the right attitude to have when it is given?* Based on what
 arises out of this questioning, we can challenge ourselves further and
-ask,*If this is the right attitude, is it something that I manage to
+ask, *If this is the right attitude, is it something that I manage to
 have and cultivate? Or have I allowed myself to get into the habit of
 resisting formal structures?*
 
@@ -187,7 +187,7 @@ that causes you to be irritated by it. So the thought arises, *I really
 have to do something about this splinter.* Then you carry on and forget
 about it. But the irritation keeps returning until at one point you say
 to yourself, *I really need to do something about this splinter now.
-It's not something I can put up with anymore*. So finally you dig it
+It's not something I can put up with anymore.* So finally you dig it
 out. The experience of dukkha, is the same."
 
 It's not as if we're experiencing dukkha all the time; for the most
@@ -268,7 +268,7 @@ as, *This is really good---I like this. This is awful---I don't like
 this.* Reactions like those are habitual and need to be questioned.
 
 When the mind assumes it likes an experience, it tends to block out the
-negative aspects in order to prop up the view, *I like this*. So we need
+negative aspects in order to prop up the view, *I like this.* So we need
 to deliberately bring up the negative side for examination, asking
 ourselves, *What are the drawbacks? What are the pitfalls in this? How
 might I get hooked by it?* In the same way, when the mind experiences
@@ -419,7 +419,7 @@ give ourselves the space and freedom to be exactly as we are. There are
 no demands placed on us---not on our physical bodies or on our
 personalities. All of our expectations are irrelevant; they are a
 fiction. We give ourselves freedom to be what we are, and from that
-freedom we wish for ourselves, *May I be happy*.
+freedom we wish for ourselves, *May I be happy.*
 
 For many of us, there can sometimes be a sense, or even an insight, that
 our *modus* *operandi* is not to be happy. For myself, when I look at my
@@ -446,8 +446,8 @@ heartfelt wish for our own happiness.
 
 When doing loving-kindness meditation, we give ourselves space, freedom,
 and acceptance. We express ourselves from a nonjudgmental attitude, *I
-am what I am, and however I am, that's okay.* We bring up the wish,*May
-I be happy*. Then we relax into that space and see what happens.
+am what I am, and however I am, that's okay. *We bring up the wish, *May
+I be happy.* Then we relax into that space and see what happens.
 
 # To See the True Nature of Things
 
@@ -481,13 +481,13 @@ truth in our hearts, then when we die and they cremate us, our lives
 will be worth no more than the handful of ashes we produce---and that's
 not much! We must investigate how to live in a way that truly accords
 with what the Buddha taught. Then we can live in harmony without
-conflicts, difficulties, and problems.\
-*Sīla*, morality, is that which shows us the Buddha's middle way. It
-points to the avoidance of the extremes of pleasure and pain; it means
-knowing the right amount. When we live in the middle way regarding
-actions of body and speech, then we don't cause offense to others; we do
-what is appropriate for human beings. The practice of formal meditation
-is to train our minds and hearts to stay in the middle way.
+conflicts, difficulties, and problems.  *Sīla*, morality, is that which
+shows us the Buddha's middle way. It points to the avoidance of the
+extremes of pleasure and pain; it means knowing the right amount. When
+we live in the middle way regarding actions of body and speech, then we
+don't cause offense to others; we do what is appropriate for human
+beings. The practice of formal meditation is to train our minds and
+hearts to stay in the middle way.
 
 Many people who meditate try to force their minds to be as they want
 them to be. They sit there arguing with their thoughts. If their
@@ -576,7 +576,7 @@ of the Expression Engine software and the obstructive passwords that
 won't let him use the program. When doing such hard work, it can be easy
 to forget about the fact that there are people all over the planet who
 delight in what this work accomplishes, *Oh look, a new Dhamma talk on
-the Abhayagiri website. How marvelous! This is fantastic!*This isn't
+the Abhayagiri website. How marvelous! This is fantastic!* This isn't
 simply about trying to cheer ourselves up or look on the bright side.
 This really is the bright side. Earlier in the year a fellow came to
 Abhayagiri from Liverpool, England. He was so happy to be here. He
@@ -791,9 +791,9 @@ Both in our formal meditation practice and throughout the day we can
 bring to mind and recollect the Buddha, the Dhamma, the Saṅgha, virtue,
 generosity, celestial beings, the body, death, in- and out-breathing,
 and Nibbana---peace. Another helpful theme that is not on this list is
-the quality of saṁvega, spiritual urgency or a chastening of worldly
+the quality of saṃvega, spiritual urgency or a chastening of worldly
 tendencies. This can help remind us of death and the limitations of the
-body. A complementary theme for saṁvega is to set up the intention to
+body. A complementary theme for saṃvega is to set up the intention to
 put forth effort, to realize what the Buddha taught and the example that
 he set. Another important quality that comes to mind is pasāda, which is
 a sense of serene confidence and clarity of well being; it has a joyful
@@ -1081,7 +1081,7 @@ with some of the construction. While I was working, something came to
 mind that I found very fruitful:
 
 To work with the busyness---the activity that I was involved in---I
-returned to the very simple practice of repeating the word "*Buddho*."
+returned to the very simple practice of repeating the word "*buddho*."
 It's a basic, foundational practice that is used throughout Thailand,
 particularly in the northeast. I used that short mantra in conjunction
 with the breath. On the in-breath, "Bud," on the out-breath, "dho."
@@ -1185,11 +1185,11 @@ perception, and recognizing that each building block of self is simply
 an impermanent phenomenon. It isn't a matter of trying to get rid of the
 self or annihilating it in any way, because it's not something that is
 solid or substantial anyway. That's why we reflect on the five
-*khandas–*form, feeling, perception, mental formations and consciousness
-– seeing them as impermanent, unsatisfactory and not-self. When we see
-the five khandas for what they are, we gain insight into their true
-nature and let go of our investment in them–which is not a rejection or
-annihilation, but a clear seeing.
+*khandas*---form, feeling, perception, mental formations and
+consciousness ---seeing them as impermanent, unsatisfactory and
+not-self. When we see the five khandas for what they are, we gain
+insight into their true nature and let go of our investment in
+them---which is not a rejection or annihilation, but a clear seeing.
 
 To be free of the world and worldly tendencies, we need to take leave of
 the world. Taking leave of the world means taking leave of the
@@ -1213,7 +1213,7 @@ is a central part of our practice.
 
 I have been listening to a few of Bhikkhu Bodhi talks on loving-kindness
 and was surprised when he mentioned that the word *khanti*, patience, is
-very closely related to the word *mettā,* loving-kindness. I hadn't
+very closely related to the word *mettā*, loving-kindness. I hadn't
 recognized that before.
 
 He explained that in practice situations, the use of mettā is more of an
@@ -1231,7 +1231,7 @@ it's really difficult. How do you deal with that?" Most of the questions
 are directed towards the practice of loving-kindness as a method for
 sending mettā outward. But we can also turn inward rather than outward.
 This is where Bhikkhu Bodhi says patience comes in. We can learn to turn
-toward the pain we feel---toward the *dukkha*we are experiencing in
+toward the pain we feel---toward the *dukkha* we are experiencing in
 these difficult circumstances---and to hold that dukkha with a quality
 of patience.
 
@@ -1239,7 +1239,7 @@ Ajahn Sucitto once said that we often think of patience as waiting for
 change. *I will endure this situation, gritting my teeth, until it
 changes.* Certainly we might want a painful situation to change, but
 with true patience, according to Ajahn Sucitto, it's more like thinking,
-*I will be with this situation, period*. In other words, there's no
+*I will be with this situation, period.* In other words, there's no
 expectation that the situation will change or get better.
 
 By learning to turn toward our suffering and simply be with it, we are
@@ -1365,15 +1365,15 @@ heart.
 
 ### 08-27-08
 
-*Papañca*, a favorite theme of Ajahn Pasanno's*,*is that stream of
+*Papañca*, a favorite theme of Ajahn Pasanno's, is that stream of
 incessant thinking, the flood of conceptual proliferation that the mind
 can so easily bring up. This produces an endless chatter of
 commentating, fretting, recollecting, re-creating, planning, and
 imagining. The Buddha pointed to three particular qualities which are
 the driving forces behind these processes: craving, conceit, and
-views---the *papañca* *dhammas*. In the Anattalakkhana Sutta---*the
-Discourse on the Characteristic of Not-Self*---he outlined these
-qualities in very simple terms. *Taṇhā* or craving is defined as *etaṁ*
+views---the *papañca* *dhammas*. In the Anattalakkhana Sutta---the
+Discourse on the Characteristic of Not-Self---he outlined these
+qualities in very simple terms. *Taṇhā* or craving is defined as *etaṃ*
 *mama:* *This is mine. This belongs to me. This is my ladder, my
 chopping board, my space.* Next there's *eso'hamasmi*: the conceit "I
 am." *This is what I am. I am a person, I am tall, I am short, I am a
@@ -1383,24 +1383,24 @@ This is me. This is my true nature.*
 
 These are straightforward ways to define the forces that cause so much
 chaos in our lives and so many difficulties in our minds. The mind takes
-a simple perception with a given activity*---*walking along a path,
+a simple perception with a given activity---walking along a path,
 picking up a length of pipe, chopping up some carrots, putting one's
 things away in a room, or any of the hundred little tasks of the
-day*---*and then runs with it: *This is what I'm doing. This is mine.
+day---and then runs with it: *This is what I'm doing. This is mine.
 Those are not his. Who's moved my shoes?* Or it identifies with ideas
 about who we are, for instance that we're weaker than others: *I'm
 pretty feeble, not nearly as strong as I used to be.* The mind takes
 simple feelings and perceptions, these habits of possessiveness and
 identification, and uses them to fuel what we see, hear, smell, taste,
 touch, and think, the objects of our six sense bases.
-Then*---*whoosh!---off it all goes. The papañca erupts.
+Then---whoosh!---off it all goes. The papañca erupts.
 
-I often think of it like a mill. The papañca dhammas*,*possessiveness
+I often think of it like a mill. The papañca dhammas, possessiveness
 and identification, are like the engine that keeps the mill churning. We
 simply feed into the mill the objects of the six sense bases. And out of
 it pours papañca, the endless flow of mental chatter. We need to pay
 attention to the engine, to turn it off or stop giving it fuel, rather
-than getting lost in the stream of mental chatter*---*the commenting,
+than getting lost in the stream of mental chatter---the commenting,
 regretting, planning, and inflating that goes on. Then the whole thing
 gets a lot quieter and more peaceful. The mind can clearly be aware of
 the present without creating this whole welter of confusion around it.
@@ -1408,11 +1408,11 @@ the present without creating this whole welter of confusion around it.
 So that's why it's very helpful that the Buddha pointed out these simple
 flags we can use to recognize when we're fueling the mill of papañca. If
 the mind is saying, *This is mine, this belongs to me, and that's
-yours,*if it's saying, *This is what I am, this is absolutely me and
+yours,* if it's saying, *This is what I am, this is absolutely me and
 truly who and what I am,* that's the signal to let go, to not get caught
 in that process, and to bring more spaciousness to the mind. As soon as
 the mind says, *That's mine, that's yours, I wish I had one of those,
-I'm like this, he's like that---*that's the time to get suspicious. See
+I'm like this, he's like that*---that's the time to get suspicious. See
 the draw, the pull of that. We use the quality of mindfulness to notice
 the me-mine-yours flags and choose not to buy into them, not to fuel the
 engine.
@@ -1450,7 +1450,7 @@ cut through the delusions we create around notions of time. The entire
 universe we attach to---what we like, dislike, dread, hate, fear,
 love---is a creation of our minds. We've created it in the present
 moment. Then we create this illusion of time and a whole universe of
-*saṁsāra*, which we feel trapped in. But the whole creation of time is
+*saṃsāra*, which we feel trapped in. But the whole creation of time is
 something we do now, in the present moment.
 
 Bringing the mind to the present moment is hard work, because, over the
@@ -1468,7 +1468,7 @@ benefit to be gained from returning to the present. No one knows if we
 are in the present moment or not. No one will praise us for it, and we
 won't get any money for it---we don't get anything worldly out of it at
 all. But by continuing to return the mind to the present moment, we can
-eliminate having to bear the weight of the whole saṁsāric universe on
+eliminate having to bear the weight of the whole saṃsāric universe on
 our shoulders. No wonder coming back to the present is such a relief.
 
 # Appreciating the Goodness of Others
@@ -2123,7 +2123,7 @@ But the first thing to do when we find ourselves struggling, is to
 remember that we do not have to struggle. Then we can focus on the body
 or the breath or whatever it is for us that brings that sense of peace
 and tranquility. Or we can reflect on any on of the Seven Factors of
-Enlightenment*---*mindfulness, discernment, energy, rapture,
+Enlightenment---mindfulness, discernment, energy, rapture,
 tranquility, concentration and equanimity---in order to establish a more
 grounded state of mind.
 
@@ -2319,7 +2319,7 @@ peaceful and encourages us to live skillful lives in the monastery.
 
 This is a big day for Venerable Kaccāna. After arriving at Abhayagiri
 about two and a half years ago, today he is making the commitment to
-ordain into the *Bhikkhu Saṅgha*and is taking on the precepts of
+ordain into the *Bhikkhu Saṅgha* and is taking on the precepts of
 training. It's helpful during occasions like this to reflect on the
 process of "going forth" into the Saṅgha---*upasamapadā*---which means
 "lifted" or "raised up." It not only reflects an outer process, but an
@@ -2337,7 +2337,7 @@ in terms of Dhamma. It's going forth from confusion to clarity, from a
 life of being half awake or not awake at all to wakefulness. That's
 something that is useful for all of us to reflect on whether we're
 living as a lay practitioner with commitments and responsibilities in
-the world, as an anāgārika, as a *sāmaṇera*, or as a *bhikkhu*who has
+the world, as an anāgārika, as a *sāmaṇera*, or as a *bhikkhu* who has
 already ordained. If we've formally made the commitment, have been
 "raised up" into the Saṅgha and have already gone forth, still, the most
 important aspect of what we are doing is that going forth from confusion
@@ -2602,16 +2602,16 @@ helpful to contemplate because even though it may not be valid in terms
 of dependent origination, it has a truth to it. We're very much affected
 by each other, dependent on each other, and influence each other, and
 we're inexplicably woven together through the various forces of kamma in
-our cyclical existence in *saṁsāra*. With this, there are all the
+our cyclical existence in *saṃsāra*. With this, there are all the
 various ways that kamma works itself out that we don't really understand
 and can't possibly comprehend because it's so complicated. We find
 ourselves weaving through many, many lifetimes, receiving the results of
 our past actions, being involved with each other over and over again,
 and bound together in our commonality as beings coursing through
-saṁsāra.
+saṃsāra.
 
 We don't know exactly how that process works, but it is possible to
-understand that each of our rebirths in saṁsāra depends on our
+understand that each of our rebirths in saṃsāra depends on our
 relationships with other people and, for better or for worse, how we
 respond to situations and the qualities we develop in relationship to
 each other. Due to causes and conditions, skillful actions and
@@ -2953,11 +2953,11 @@ spiritual life.
 However long we have to live, it is so important to put effort into that
 which is skillful, directing our effort toward the deathless. This can
 have an extraordinary benefit, not only for us, but for everyone else.
-The effort we put into disentangling ourselves from *saṁsāra*---cyclical
-rebirth---is of immense benefit. Saṁsāra keeps weaving its entangling
+The effort we put into disentangling ourselves from *saṃsāra*---cyclical
+rebirth---is of immense benefit. Saṃsāra keeps weaving its entangling
 web because of the inappropriate effort we make buying into it. However,
 by looking at the realities of the human condition, we can apply
-appropriate effort to free ourselves from saṁsāra, and do that which is
+appropriate effort to free ourselves from saṃsāra, and do that which is
 of the most benefit for our lives.
 
 # Toward a Reliable Refuge
@@ -3034,7 +3034,7 @@ sense we have of being the center of experience and generally the center
 of the universe. We tend to carry this sense around with us most of the
 time.
 
-So it's beneficial to pose these questions to ourselves: T*o whom does
+So it's beneficial to pose these questions to ourselves: *To whom does
 this belong? To whom does this kuṭi belong? To whom does this monastery
 belong?* The other night in Vinaya class we were talking about the
 ownership of property, especially as it pertains to monks. We say the
@@ -3080,7 +3080,7 @@ lists of things to do, the never-ending need to attend to the kitchen,
 the various work projects, guest-monk duties, construction, and so
 forth. There's a sense of continuity, of things carrying on from where
 we were before, going on and on. Ajahn Chah once came up with a
-wonderful simile: "*Saṁsāra* is like the ruts left behind the wheels of
+wonderful simile: "*Saṃsāra* is like the ruts left behind the wheels of
 a cart. As the wheels turn, the trail that's left behind them goes on
 and on." There's a sense of repetition, a continuous extension through
 time. But the wheel itself is very stable, it simply pivots around its
@@ -3220,7 +3220,7 @@ about and share with you, so you can follow along with my process and
 possibly make use of it yourselves.
 
 In the morning, I was putting out seats for *pūjā* on the ordination
-platform*.* For a long time I'd been resistant to the idea of putting
+platform. For a long time I'd been resistant to the idea of putting
 out a seat for Luang Por Pasanno when he's away, as he is now. There
 seems to be an ambiguity about whether we put out a seat for him when
 he's gone. Sometimes we do, sometimes we don't. There's no established
@@ -3328,7 +3328,7 @@ replied, "No, just what's in front of your broom." It's helpful to keep
 this sort of perspective.
 
 But we can easily stray from that and tell ourselves, *Oh, there's this
-to do, and that to do; there's this person, and then that person.*It
+to do, and that to do; there's this person, and then that person.* It
 turns into something that sounds complicated and overwhelming. In the
 end, though, it's just the person in front of us that we're dealing
 with, the particular chore or task that needs to be done now, breathing
@@ -3351,7 +3351,7 @@ meditator or practitioner: *I've got to get my precepts down, learn the
 Vinaya, learn the chanting; get this meditation technique, and that
 meditation technique, and this other one I haven't even tried yet; and
 there's this reflection and that understanding of this aspect of
-Buddhist philosophy.*And then we might think, *Oh, this is hopeless. I'm
+Buddhist philosophy.* And then we might think, *Oh, this is hopeless. I'm
 just giving myself more suffering and more difficulty than I ever had
 before!*
 
@@ -3583,13 +3583,13 @@ keep popping up over and over again.
 It's not necessary to create a sense of guilt, self-hatred or
 self-criticism. But it is helpful when we think, *Oh, look---this was
 the action, that is the result. Because this was done, there is that
-effect. This is the cause, and that is the result.*That clear
+effect. This is the cause, and that is the result. *That clear
 observation of the causality of our experience is the doorway to wisdom,
 concentration, and clarity. The more clearly we see the effects in
 meditation of unskillful actions, the more clearly we realize we are
 simply putting obstacles in our own way and sabotaging our own efforts.
 Then we ask ourselves, *Why would I want to do this? Why on earth do I
-want to mess up my own living space like this?*It's as if we're grabbing
+want to mess up my own living space like this?* It's as if we're grabbing
 handfuls of rocks and earth and fistfuls of poison oak and sprinkling
 them all around the inside of our kuṭis. *Why would I want to do that?
 What a strange, stupid thing to do*. This becomes clear to us.
@@ -3645,7 +3645,7 @@ equanimity and balance is more readily available to us? That's very much
 a part of monastic training in this lineage---and how Ajahn Chah trained
 the monks who came to live with him.
 
-The second principle is renunciation---*nekkhamma---*which is an
+The second principle is renunciation---*nekkhamma*---which is an
 integral part of adapting to conditions. The English word "renunciation"
 suggests that we're pushing away or running away from something. But
 that doesn't reflect the real meaning of nekkhamma, which is a sense of
@@ -3761,7 +3761,7 @@ Try to do that as a daily reflection. If we are frequently able to bring
 this perception to mind, then the more real it will become for us.
 Paradoxically, this reflection can bring up a sense of ease and calm.
 This settled quality arises from insight into the characteristics of
-*anicca*and *anattā,*impermanence and not-self. Both characteristics
+*anicca* and *anattā*, impermanence and not-self. Both characteristics
 become more apparent and real so that when serious illness or imminent
 death approaches there will be a familiarity with the nature of one's
 finite existence. The more those familiar feelings can be brought in,
@@ -3799,7 +3799,7 @@ time.* Yet we're not able to sustain it. We swing back and forth.
 Sometimes the results of our efforts might not seem so dazzling. They
 might not make us think, *Now I'm really getting somewhere!* They may
 not even seem interesting. So we can get frustrated and pull back and
-then, sometime later, it's: *Okay, time to buckle down again.*But
+then, sometime later, it's: *Okay, time to buckle down again.* But
 consistency is what's important and paying attention to being
 consistent.
 
@@ -3872,7 +3872,7 @@ Light is a universal image that is used across all religious and
 spiritual traditions. In the first discourse of the Buddha, the
 Dhammacakkappavattana Sutta, there is the contemplation of the Four
 Noble Truths and the implementing of the Eightfold Path. The stock
-phrases that follow this are: *cakkhuṁ udapādi, ñāṇaṁ udapādi, paññā
+phrases that follow this are: *cakkhuṃ udapādi, ñāṇaṃ udapādi, paññā
 udapādi, vijjā udapādi, āloko udapādi:* Vision arises, knowledge arises,
 wisdom arises, clear seeing arises, and light arises. There is a sense
 of light coming into being. From the Buddhist perspective, when we
@@ -4014,11 +4014,11 @@ believe is at the core of our daily lives.
 
 When we do the chanting on the four divine abodes, the
 *Brahmavihāras*---*mettā*, *karuna*, *mudita*,
-*upekkha;*loving-kindness, compassion, gladness, equanimity*---*going
+*upekkha;* loving-kindness, compassion, gladness, equanimity---going
 through each one, it's important to notice the development of equanimity
-around reflections on *kamma,*actions of cause and effect. "I am the
+around reflections on *kamma,* actions of cause and effect. "I am the
 owner of my kamma, heir to my kamma, born of my kamma, related to my
-kamma, abide supported by my kamma*.* Whatever kamma I shall do, for
+kamma, abide supported by my kamma. Whatever kamma I shall do, for
 good or for ill, of that I will be the heir." The other
 Brahmavihāras---mettā, karuṇā and muditā---have an emotional tone, a
 quality of wishing well to ourselves and others, of wishing to be free
@@ -4033,7 +4033,7 @@ When we consciously reflect on cause and effect, we can distinguish one
 from the other in our direct experience, *Ah, this is the cause of that
 result*. Or with greater detail, *Because I've been generous and kind
 and I've been keeping the precepts well, then an inner lightness and
-confidence in my own goodness has developed.*Or *Because I've been
+confidence in my own goodness has developed.* Or *Because I've been
 selfish, deceitful, clumsy, casual, or sloppy, there's this feeling of
 regret, self-criticism, and a negative emotional tone.* This is a very
 conscious way of letting go of the content of happiness or unhappiness
@@ -4051,7 +4051,7 @@ This is the right way to do it. That's wrong. That's the wrong way to do
 it. He shouldn't be doing it that way. He should be doing it this way*.
 But by cultivating equanimity, we can reflect and see more clearly, *I'm
 calling that "right" because of what? Because of the conventions of
-Theravada Buddhism?*Or, *I'm calling this "right" because of my
+Theravada Buddhism?* Or, *I'm calling this "right" because of my
 understanding of the mechanics of the hillside? Or how the drainage
 channels work?* We can more clearly see how our conditioning leaps onto
 those judgments, saying, *This is absolutely right, that is absolutely
@@ -4188,7 +4188,7 @@ while living within constraint. We don't have to be held down by these
 rules and structures, because a feeling of real freedom is present
 within us. And in that freedom, quite spontaneously, there can be a
 sense for us that, *It's not a problem to keep to these rules*. And we
-might think,*This is quite all right. I'm very happy eating one meal a
+might think, *This is quite all right. I'm very happy eating one meal a
 day. I don't mind wearing these robes like everyone else here, and being
 celibate is beneficial for my practice and my mind.*
 
@@ -4228,7 +4228,7 @@ the Eightfold Path give knowledge and understanding and lead to peace
 and awakening. That's the function of the path. When we are aligned with
 the Middle Way, we are in balance---this happens naturally.
 
-In *Pāḷi*, the word *karaṇī,*as in *cakkhukaraṇī,* *ñāṇakaraṇī*, means
+In *Pāḷi*, the word *karaṇī,* as in *cakkhukaraṇī,* *ñāṇakaraṇī*, means
 "to make" or "to produce." It's an emphatic verb. This suggests that
 when we put our practice into balance, a good result will be produced.
 It's helpful to develop a sense of confidence in this natural
@@ -4401,7 +4401,7 @@ the content of consciousness. This is hard work. It is the work of
 spiritual life and one of the main activities we do with spiritual
 practice. It is not like having a livelihood in which we are given a
 clear task, day after day---a livelihood where we might have the
-attitude that, A*s long as I do this I don't have to worry about
+attitude that, *As long as I do this I don't have to worry about
 anything. I just do my job, go home, go to bed, and everything is okay.
 I don't have to give it much thought.* This is not how it is with
 spiritual life, nor with spiritual practice. We are not here merely to
@@ -4545,7 +4545,7 @@ This is true with the way we relate to our moods as well. They're often
 screaming at us, *This is the way it really is!* To save ourselves the
 needless suffering that comes from believing and acting on our moods, we
 challenge them by reflecting, *Is this really true? Is it a sure thing
-that it is unchanging and permanent? Is it trustworthy?*Well, not for
+that it is unchanging and permanent? Is it trustworthy?* Well, not for
 sure.
 
 So, it's important to investigate and reflect on aniccā---to take it in.
@@ -5251,8 +5251,8 @@ even if we do fix something in the body, something else is bound to
 eventually break.
 
 All of the things that happen to us that we think shouldn't happen are
-simply reflective of the way *saṁsāra* is. It wouldn't be saṁsāra if
-things were always going perfectly. By the mere existence of saṁsāra, we
+simply reflective of the way *saṃsāra* is. It wouldn't be saṃsāra if
+things were always going perfectly. By the mere existence of saṃsāra, we
 know that everything in the material world, the realm of the human body
 or psyche is going to either break, change, or deteriorate according to
 certain laws of biology and kamma. These are natural laws that create
@@ -5273,7 +5273,7 @@ as saying, "Everything we need to know can be learned from nature, if we
 just watch and pay attention." Whether it's in the material, physical,
 or mental realm, we can watch the nature of everything. We can see it
 arise, have its own life, and then change and pass away. That's the
-fundamental insight we need to have to truly understand saṁsāra and
+fundamental insight we need to have to truly understand saṃsāra and
 eventually realize complete liberation.
 
 # Bringing Sampajañña and Paññā to Work
