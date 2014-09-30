@@ -1093,7 +1093,7 @@ long as I can play the starring role.* When we recite Buddho, we are not
 feeding, encouraging or supporting the embellishment and dramatization
 of experience.
 
-On the in-breath, "Bud," on the out-breath, "dho,"---it's simple and
+On the in-breath, "bud," on the out-breath, "dho,"---it's simple and
 helpful. Because it is the name of the Buddha, it's a reminder of
 bringing the presence of the Buddha into each in-breath and each
 out-breath. It's bringing the recollection of the Buddha---both as the
@@ -1371,7 +1371,7 @@ can so easily bring up. This produces an endless chatter of
 commentating, fretting, recollecting, re-creating, planning, and
 imagining. The Buddha pointed to three particular qualities which are
 the driving forces behind these processes: craving, conceit, and
-views---the *papañca* *dhammas*. In the Anattalakkhana Sutta---the
+views---the *papañca dhammas*. In the Anattalakkhana Sutta---the
 Discourse on the Characteristic of Not-Self---he outlined these
 qualities in very simple terms. *Taṇhā* or craving is defined as *etaṃ*
 *mama:* *This is mine. This belongs to me. This is my ladder, my
@@ -4785,7 +4785,7 @@ it into words we can repeat to ourselves, so that we can come back to
 this perception of seeing through the fog of thought and experience.
 This can be as simple as telling ourselves, *What I am being distracted
 by is just thought or some other experience, nothing more, and it is
-okay for it to be here in my mind while I am following the breath.*This
+okay for it to be here in my mind while I am following the breath.* This
 is the way the mind can settle and become clearer and more peaceful. We
 should try to see through everything in this way. When we do this with
 thoughts, they tend to subside. Thinking becomes less problematic; the
@@ -4861,7 +4861,7 @@ toward our bodies, thoughts, and feelings, it's merely a sense of not
 finding fault with them, not dwelling in aversion. That much is doable.
 
 To establish the attitude of loving-kindness---the genuine heart of
-mettā*---*is to establish within ourselves a heart of non-contention, a
+mettā---is to establish within ourselves a heart of non-contention, a
 heart which is accepting and accommodating of all mind states. This
 doesn't mean to say that we are approving of every thought we have, or
 that all our feelings of selfishness, violence, aggression, jealousy,
@@ -4886,7 +4886,7 @@ reflect on them, seeing throughout the course of the day how often the
 mind wants to contend against our own bodies and their limitations, our
 feelings and thoughts, and the world around us. We can take it all so
 personally. While simply digging a hole in the ground we might think,
-*That rock is determined to get in my way!*But mettā is the heart of
+*That rock is determined to get in my way!* But mettā is the heart of
 non-contention. We can learn how to work with the world so that
 regardless of how obstructive things may seem to be, how unwanted and
 unbidden, we can recognize that there's no need to start a fight or
@@ -4997,7 +4997,7 @@ they're both part of the training. We train to recognize when our speech
 isn't endearing or kind and then we reestablish our intention and start
 again. Likewise, we train to recognize our resistance to sharing or
 giving up and then make an effort to let go. By starting over with a new
-intention of cāga or piyavācā*,* we again place ourselves in a position
+intention of cāga or piyavācā, we again place ourselves in a position
 of creating harmony.
 
 # Our Changing Bodies
@@ -5140,8 +5140,8 @@ perception of---and connection with---the present moment.
 
 ### 11-22-13
 
-In quite a few of our *paritta* chants there is the line *etena* s*acca*
-*vajjena sotthi te hotu sabbadā*, which is roughly translated as, "by
+In quite a few of our *paritta* chants there is the line *etena sacca
+vajjena sotthi te hotu sabbadā*, which is roughly translated as, "by
 the utterance of this truth may there be safety, protection." About a
 month ago I was on my solo retreat reading a book about the stories
 behind the parittas, the protective chants. And there was this really
@@ -5165,7 +5165,7 @@ the simple truth that, *This hurts*, we can cut it off right there. We
 don't have to go any further into the difficult situation. And that's a
 good thing, because if we did go into it further we'd likely complicate
 the matter---*Why did this have to happen to me? It's not fair. I didn't
-do anything to deserve this!---*and then get lost in negativity. So
+do anything to deserve this!*---and then get lost in negativity. So
 instead of doing that, we can emulate the baby quail. Even if the wind
 had not shifted and the quail had died, well at least he wasn't blaming
 anyone, wallowing in self-pity, or being negative.
@@ -5177,7 +5177,7 @@ that during the robbery he reacted like an animal, fighting and fleeing
 out of fear. Ajahn Sucitto just stayed there with the robbers, quietly
 and calmly dealing with them. When the leader of the robbers held an ax
 over Ajahn's head and was about to murder him, Ajahn Sucitto calmly
-recited, *Namo tassa bhagavato arahato sammāsambuddhassa, "*Homage to
+recited, *Namo tassa bhagavato arahato sammāsambuddhassa*, "Homage to
 the Blessed, Noble, and Perfectly Enlightened One." He came into the
 present moment, made an honest assessment of the situation, and found
 himself truly ready to die. Needless to say, Ajahn lived to tell the
@@ -5496,14 +5496,14 @@ things clearly, we tend to create problems for ourselves.
 
 That is why, when the Buddha taught the Four Noble Truths, he also
 taught a specific duty or response for each truth. For the Noble Truth
-of *dukkha*–the experience of suffering, discontent, dissatisfaction,
+of *dukkha*---the experience of suffering, discontent, dissatisfaction,
 stress–he instructed that this has to be fully known. It's not until we
 fully know the experience of dukkha that we can begin to understand how
 we're contributing to it, getting entangled in it and a part of its
 cause. The Second Truth---the cause of dukkha---is to be relinquished;
-the Third Truth---the cessation of dukkha*---*is to be realized; and the
+the Third Truth---the cessation of dukkha---is to be realized; and the
 Fourth Truth---the path or practice leading to the cessation of
-dukkha*---*is to be developed. But it all begins with the First Truth:
+dukkha---is to be developed. But it all begins with the First Truth:
 fully knowing.
 
 Over and over again, the Buddha encourages us to develop our practice by
@@ -5580,7 +5580,7 @@ easily blown off course.
 
 It is helpful to contemplate how to use *khanti*, patience, in our daily
 practice, and how we can cultivate it as a mental attitude during
-meditation. Patience is an underrated *pāramī*and considered in
+meditation. Patience is an underrated *pāramī* and considered in
 different ways, sometimes even misinterpreted. I remember Varapañño
 Bhikkhu disparaging himself, saying: "I just don't have any pāramīs of
 wisdom, meditation, loving-kindness or anything like that. But at least
@@ -5691,7 +5691,7 @@ work with it.
 ### 05-05-13
 
 One of the teachings Ajahn Chah emphasized most consistently was on the
-theme of uncertainty*---*that everything is not for sure. In a
+theme of uncertainty---that everything is not for sure. In a
 monastery, for instance, it's common for the number of visitors to
 increase, like today, and then decrease; they're here for a while, then
 they disappear. This creates a constant sense of circumstances being
