@@ -40,7 +40,7 @@ the second, third, or fourth arrow.
 
 ### 11-15-08
 
-In the Dhammacakkapavatana Sutta*---*the Discourse on the Turning of the
+In the Dhammacakkapavatana Sutta---the Discourse on the Turning of the
 Wheel of Dhamma---the Buddha addressed the five *samanas*, including
 one named Kondañña, who were his practice companions before he became a
 Buddha. At the end of this talk, the Buddha recognizes that
@@ -52,15 +52,15 @@ of Dhamma arose." Then the sutta describes exactly what it was that
 Kondañña saw. It wasn't a spectacular vision of the heavens opening up,
 a bewildering light display that he experienced, or streams of deities
 beaming down from the heavens. Rather, his vision of the Dhamma is
-stated simply in the phrase, "*Yaṅkiñci* *samudaya* *dhammaṃ*
-*sabbantaṃ* *nirodha* *dhammanti---*whatever is subject to arising is
+stated simply in the phrase, "*Yaṅkiñci samudaya dhammaṃ
+sabbantaṃ nirodha dhammanti*---whatever is subject to arising is
 subject to ceasing."
 
 On a worldly level this seems completely unremarkable. That which
 begins, ends. Whatever goes up, must come down. If it's born, it dies.
 *No big deal,* we might think. But it's worth our reflection: This
 seemingly simple insight, which makes all the difference in the life of
-Kondañña*,* which enables him to awaken to the Dhamma, enter into the
+Kondañña, which enables him to awaken to the Dhamma, enter into the
 stream of Dhamma, thus making full enlightenment absolutely certain from
 that point on---why should that be the most profound insight?
 
@@ -71,7 +71,7 @@ should that mean that full enlightenment is inevitable, that in a
 certain amount of time it will ripen in my complete and total
 liberation? How can that understanding be so important?* We can practice
 picking up that theme, applying it, and seeing it clearly for ourselves.
-It's not simply a collection of words that we hear,*Oh yeah, "All that's
+It's not simply a collection of words that we hear, *Oh yeah, "All that's
 subject to arising is subject to ceasing." Yeah, I know all that.* We
 can practice exploring it and applying it, moment by moment, throughout
 the day. *Why should that be so liberating? Why should that be so
@@ -108,13 +108,13 @@ that happens within us when we apply Kondañña's insight. It changes
 everything because we're no longer obsessing---fixating on the content
 of experience. We're becoming aware of the process of experience itself.
 
-That's fundamentally what insight, *vipassana*, is about. Vipassana is
+That's fundamentally what insight, *vipassanā*, is about. Vipassanā is
 insight into the nature of experience itself---that moment of clear
 seeing when there's a direct awareness of how experience works, what
 experience is. And the result of that is liberation. At that moment the
 heart knows, *This is merely a pattern of nature, a coming, a
 going---changing. That's all it is. That's all it can be. Nothing to get
-excited about. Nothing to get alarmed about.*Right there is the moment
+excited about. Nothing to get alarmed about.* Right there is the moment
 of freedom in seeing clearly that the heart is unburdened. There is an
 unentangled knowing, at least to some small degree. That liberating
 quality is right here, in the midst of everyday activity, mundane
@@ -322,7 +322,7 @@ their buildings and need to fix them right away. So they have to
 postpone their trip for some time.
 
 There are benefits and drawbacks to everything. If we think in terms of,
-*I like this,*or *I don't like that,* we end up trapping ourselves. By
+*I like this*, or *I don't like that*, we end up trapping ourselves. By
 looking at experience from a broader perspective and applying Dhamma to
 it, we can more easily recognize that everything has two or more sides
 and see more clearly how problematic it is to take a personal position
@@ -361,9 +361,9 @@ conditioned to react in that particular situation. This has given me a
 lot of space around difficult interactions that occur with other people,
 and I've been able to recondition my own habitual reactions. When I
 experience aversion to somebody, I can think to myself, *If they could
-act differently they would act differently.*Or I might also think*, When
-the conditions change, this may no longer be their habitual reaction.*It
-can be that impersonal*.*
+act differently they would act differently. *Or I might also think*, When
+the conditions change, this may no longer be their habitual reaction. *It
+can be that impersonal.
 
 This is something we all can do. And when we encounter a situation with
 that sort of wisdom, we can respond with compassion, equanimity, and
@@ -452,10 +452,10 @@ listening will ensure the seed is in good soil.
 In yesterday's reading, Ajahn Baen emphasized a question that is quite
 commonly asked in the Forest Tradition. It's a very simple question that
 we should consider and contemplate in our practice: *Am I supporting the
-defilements, or am I supporting the development of Dhamma?*That very
+defilements, or am I supporting the development of Dhamma?* That very
 simple contemplation is critical, because our preferences and biases
 don't tend to lead us to question in that way. We tend to have thoughts
-like,*What do I prefer? What do I want? What view do I think is right?*
+like, *What do I prefer? What do I want? What view do I think is right?*
 Does that support our defilements of greed, hatred and delusion, or does
 it support Dhamma? That's a question we don't often ask ourselves. But
 we need to bring it up, not only when we're watching and investigating
@@ -476,7 +476,7 @@ dissatisfaction.*
 Again, it's important to frequently ask ourselves, *Is this supporting
 the defilements or is this supporting Dhamma?* We ask this about our
 actions and our speech. And we ask, *How am I establishing mindfulness
-and inner cultivation?*This is how we develop the Dhamma in our hearts
+and inner cultivation?* This is how we develop the Dhamma in our hearts
 and relinquish the defilements of the mind.
 
 # So What am I, Chopped Liver!?
@@ -751,7 +751,7 @@ latch on to. That's why sometimes, no matter how easygoing we may be,
 when we come in contact with some little thing or other we can become
 irritated: the conditions for that irritation were already there. And
 when we get stuck in irritation or anger with another community member,
-we can forget that it's *dukkha.*We're suffering and the other person is
+we can forget that it's *dukkha.* We're suffering and the other person is
 suffering too. Sometimes we can get angry at someone else because
 they're angry. This is ridiculous, but it's the way it works. The Buddha
 said, "If you don't react with anger to an angry person, then you win a
@@ -927,7 +927,7 @@ it's rare for things to be just right. So what we need to do is develop
 a willingness to work with conditions as they are. If it's really hot,
 then we adjust our pace accordingly; perhaps we slow down what we're
 doing. We may say to ourselves, *Really, truly, I can't practice now. I
-have to wait for this to be over and then I can practice.*That's a
+have to wait for this to be over and then I can practice.* That's a
 common response, but we shouldn't waste our time with it.
 
 Often we deal with imperfect conditions by getting in touch with our
@@ -1085,7 +1085,7 @@ However, this dynamic can create a problem. Many of us come from a
 strongly guilt-driven culture, and we can say things to ourselves like,
 *Everyone is supporting me, so I should practice hard, I should do
 sitting meditation and walking meditation. I should learn the
-suttas.*For us, the word *should* can mean that if we don't do it, we're
+suttas.* For us, the word *should* can mean that if we don't do it, we're
 really bad monks. That's the completely wrong approach. Instead, we can
 reflect that, *Since everything is given to me, even this body doesn't
 belong to me. It belongs to the faithful---it's merely loaned to me by
@@ -1507,7 +1507,7 @@ determine what Dhamma to apply, depending on the situation we're in and
 the experience that's arising for us.
 
 As we go about our day, we use reflective awareness to get the best
-sense of how to apply sati-sampajañña*.*We do not need to apply
+sense of how to apply sati-sampajañña. We do not need to apply
 mindfulness and clear comprehension in a mechanical way. When we do our
 daily chanting, we recollect the qualities of the Dhamma, and one of
 these qualities is *opanayiko*: leading inwards. The function of our
@@ -1575,7 +1575,7 @@ mean it's going to work tomorrow, *and* what didn't work in the past
 Ajahn Chah used to repeat a quote from one of his teachers, Ajahn Tong
 Rat, who taught that the practice is very straightforward and easy: "If
 the defilements come high, then duck; if they come low, jump." Within
-the bounds of *sīla,*morality, we practice with whatever the situation
+the bounds of *sīla*, morality, we practice with whatever the situation
 demands---whatever works---as long as it has a wholesome outcome. This
 entails asking ourselves, *How might I work with this particular
 situation?* Once we have a sense of what might be a proper approach, we
@@ -1830,13 +1830,13 @@ last day of your life would be tragic. You might also acknowledge the
 ordinary and practical aspects of life, saying to yourself, *I still
 have things I have to do today. I need to do chores and go to work. Let
 me do this in a way that's going to be an offering so that I can give of
-myself.* *I can support the monastery or help some people.*And finally,
+myself.* *I can support the monastery or help some people.* And finally,
 you might say, *Today is my last opportunity to free the heart from the
 defilements. Let me do my best.*
 
 That's why we're here---to free the heart from greed, hatred, and
 delusion. Sometimes we can get lost in judging our meditation---*My
-samadhi is not good enough.* Although our meditation is very important,
+samādhi is not good enough.* Although our meditation is very important,
 we forget that the whole reason we're meditating is to free ourselves
 from greed, hatred, and delusion. Depth of samadhi---and even profound
 insights---are only significant because they support that freedom. So we
@@ -1898,7 +1898,7 @@ understand desire or to work with it, but simply to say that it takes
 our concerted attention and a willingness to investigate to see how
 desire keeps creeping in. Most importantly, we need to be patient and
 willing to work with the different ways that desire comes up. Don't
-assume that because you've made a resolution,*Oh, I really want to free
+assume that because you've made a resolution, *Oh, I really want to free
 myself from desire,* that it's not going to manifest in various ways.
 Try to be very practical and attentive. Desire always seeks an
 object---that's the way the mind works. It goes to an object and becomes
@@ -1933,7 +1933,7 @@ We investigate, but not in a harsh way. We do this by taking an attitude
 of curiosity about desire, rather than feeling we have to run around
 with a sledgehammer and annihilate it. By paying attention to desire and
 recognizing what desire is doing, we can see how silly it is when we get
-hooked. You can ask yourself, *How dumb can I get?*That's the way to
+hooked. You can ask yourself, *How dumb can I get?* That's the way to
 step back from it---by seeing desire clearly and not making a problem of
 it.
 
@@ -2040,7 +2040,7 @@ community life.
 
 The other day someone was quoting the little signs they have up at Wat
 Mettā. One of them is the acronym WAIT: Why Am I Talking? We can apply
-that sort of inquiry even before we start talking.*Why do I need to
+that sort of inquiry even before we start talking. *Why do I need to
 talk? Is the world going to be a better place if I chime in at this
 point? Why do I want to get involved? Is it merely to engage for the
 sake of engaging? Is it an urge to burn some energy and connect? Is it
@@ -2210,7 +2210,7 @@ A lot of big decisions we make in life are dictated by the many small
 decisions we make on a daily basis. That can be a very powerful
 reflection, and one to keep in mind.
 
-In the book *Crime and Punishment*by Dostoyevsky, the main character
+In the book *Crime and Punishment* by Dostoyevsky, the main character
 offhandedly fantasizes about killing a certain woman and stealing her
 money. He's not really serious about it, but he asks himself, "What if I
 *were* serious?" He plays around with the idea, but realizes that he's
@@ -2355,7 +2355,7 @@ tailspin. It seems many people are becoming more and more focused on
 consuming, without much consideration for what they already have.
 
 By contrast, part of the ethos of living in a monastery as a
-*samaṇa---*a religious seeker---is developing the qualities of
+*samaṇa*, a religious seeker, is developing the qualities of
 simplicity, frugality and the care we take in using and reusing things.
 For instance, I have a cold now and have been blowing my nose quite
 often---I don't know how many times a day. So I try to emulate Master
@@ -2412,7 +2412,7 @@ prepared by someone else. As we bring the cup up to our mouths, we don't
 know how it's going to taste; there's that moment of almost palpable
 uncertainty. Or when we are on our way to perform some task, we might
 think, *I'm now heading up to the workshop to get this particular tool.*
-But if we reflect that finding the tool there is uncertain*,* then when
+But if we reflect that finding the tool there is uncertain, then when
 we get to the workshop and find that in fact the tool isn't there, it's
 not a problem.
 
@@ -2737,7 +2737,7 @@ times.* When that view gets intruded upon---when there's an infection,
 if the body is afflicted with a poison oak rash, or if it is too hot or
 too cold---then we become reactive and that same self-righteousness
 arises: *This is an intrusion upon my space, my time, my convenience. I
-haven't got time for this; it shouldn't be like this.*If we believe
+haven't got time for this; it shouldn't be like this.* If we believe
 those perceptions, then we endlessly create more *dukkha* for
 ourselves---this sense of dis-ease and dissatisfaction---because it's
 just the voice of self view, isn't it?
@@ -2748,8 +2748,8 @@ living in Thailand. At first I was resentful of mosquitoes coming in and
 feeding on me, but at some point I realized that the body is a large,
 pungent magnet, like a big supermarket sign advertising a food source
 where the doors are always open. We don't think of ourselves like that.
-We think, *These darn mosquitoes are annoying*me!*These flies are
-landing on*me! But if we see that this body is simply a pile of
+We think, *These darn mosquitoes are annoying *me!* These flies are
+landing on* me! But if we see that this body is simply a pile of
 heat-producing organic matter with interesting fumes, it makes sense
 that it would draw insects to it. If we shift the perspective a little,
 and drop that sense of self view, then we can similarly drop the burden
@@ -2788,14 +2788,14 @@ mindfulness that's sharp and connected with what's happening around
 us---an attitude that is central to our training. Over time, this
 attitude permeates the way we relate to our minds and our experiences.
 And that's critical, because our defilements don't advertise themselves
-by holding up big signs that say, "*Greed! Hatred! Delusion!*" So, we
+by holding up big signs that say, "Greed! Hatred! Delusion!" So, we
 need to look closely if we're to discern and understand the nuances of
 the attachment and delusion we experience. If we haven't cultivated the
 habit of paying attention to details---both external and internal---if
 we don't put forth the extra effort required for that, then we'll miss
 many significant aspects of our practice.
 
-The Buddha pointed to *yoniso manasikāra*as a vital part of the path. It
+The Buddha pointed to *yoniso manasikāra* as a vital part of the path. It
 refers to skillful and wise reflection and close attention to the root
 of things. This quality doesn't pop up by itself like a mushroom in the
 fall; it has to be cultivated. In our ordinary day-to-day activities, we
@@ -3033,8 +3033,8 @@ to apply effort or energy. In this way faith is nourishment for effort
 and energy in our practice.
 
 These two qualities are among the Five Spiritual Faculties:
-*saddhā*,*viriya, sati, samādhi,* and*pañña;* faith, energy,
-mindfulness, concentration and wisdom*.* None of these factors stands
+*saddhā*, *viriya*, *sati*, *samādhi,* and*pañña;* faith, energy,
+mindfulness, concentration and wisdom. None of these factors stands
 alone. They support, feed and nourish each other. We need to attend to
 saddhā---faith or confidence---in a skillful way, so that it helps
 nourish the qualities of effort, mindfulness, wisdom and samādhi.
@@ -3090,7 +3090,7 @@ Even those of us here might think, *Oh, there are so many difficulties
 in the world---social stresses, problems of climate change, the
 collapsing economy, so many suffering beings in the world. What am I
 doing in a monastery? How am I helping? Am I just trying to hide away
-from the real world?*Those are reasonable questions. But what we find at
+from the real world?* Those are reasonable questions. But what we find at
 the monastery is that because there is a meeting with the real world of
 our own minds and bodies and the physical reality of our existence, we
 are, in an important way, more genuinely engaged with the real world
@@ -3192,10 +3192,10 @@ When the embers are bright red from this insight, then it's like
 starting an engine; the engine takes care of itself once it gets going.
 We start this engine by making an effort to see the specialness of our
 situation, our environment, the teachings, and the comparative rareness
-of this experience. We can ask ourselves,*How many beings are in a
+of this experience. We can ask ourselves, *How many beings are in a
 situation where they are so tight up against the conditions of life that
 they can't separate themselves from those conditions and it just seems
-impossible to get a perspective on the Dhamma?*That's the case for the
+impossible to get a perspective on the Dhamma?* That's the case for the
 vast majority of beings in the universe. Go over this insight into the
 rareness of our opportunity, and work at it over and over again until
 the embers are bright red and the engine is humming along without
@@ -3380,16 +3380,16 @@ we want in order to be grateful; the fact that we're alive, breathing
 and conscious is a lot to be grateful for already.
 
 Last night, one of the people at Yoga Mendocino mentioned the Jewish
-concept of a *Tzadik*–a person who is an adept or a well-developed
-person. One characteristic of Tzadiks is that they have a sense of
+concept of a *tzadik*–a person who is an adept or a well-developed
+person. One characteristic of tzadiks is that they have a sense of
 gratitude. In the Jewish tradition, this would be gratitude to God. This
-reminded me of an Eastern European Jewish story where a Rabbi went to
-visit another highly respected elder Rabbi in the Ukrainian Hasidic
-tradition. The visiting Rabbi says to the elder Rabbi, "In the Talmud it
+reminded me of an eastern European Jewish story where a rabbi went to
+visit another highly respected elder rabbi in the Ukrainian Hasidic
+tradition. The visiting rabbi says to the elder rabbi, "In the Talmud it
 says we should be grateful and praise the Lord even for the evil that
 happens, let alone what is good. How are we supposed to understand
-that?" And the elder Rabbi replies, "Go to my student, Zusha, over in
-the House of Study and ask him." So the visiting Rabbi walks over to the
+that?" And the elder rabbi replies, "Go to my student, Zusha, over in
+the House of Study and ask him." So the visiting rabbi walks over to the
 House of Study and finds Zusha there, emaciated, filthy and clothed in
 rags. He asks, "Zusha, how are we supposed to understand the saying from
 the Talmud that we should be grateful and praise the Lord even for what
@@ -3417,7 +3417,7 @@ us to understand, just as Zusha suggests, that generally speaking,
 
 ### 07-17-12
 
-In the *Sabbāsava Sutta---All the Taints---*(MN 2) the Buddha talks
+In the Sabbāsava Sutta, All the Taints, the Buddha talks
 about. He says we can abandon taints by using the four
 requisites---robes, food, shelter, and medicine---in the appropriate
 way. It's an interesting reflection that taints are to be abandoned by
@@ -3507,7 +3507,7 @@ of meditation practice as different and apart from the activities of our
 ordinary everyday lives. There can be a tendency to think that
 meditation is what happens when we're walking up and down the meditation
 path or in the Dhamma hall when we have our legs crossed and our eyes
-closed*---*that the rest is merely "the other stuff" we need to take
+closed---that the rest is merely "the other stuff" we need to take
 care of so we can do "the real thing" of meditation. But Ajahn Chah was
 very keen to point out that we're capable of suffering in all modes of
 our lives, whether we're sitting on a cushion with our eyes closed,
@@ -3726,14 +3726,14 @@ tick and use investigation so that it can be a real quest.
 ### 04-20-13
 
 The work period is a good time for learning about how to let go. During
-these periods the mind is constantly thinking,*I have to do this and I
+these periods the mind is constantly thinking, *I have to do this and I
 have to do that and this needs to get done before I do that.* But when
 the mind lets go of that it's malleable and, as the Buddha said, "fit
 for work." If we only meditate and don't challenge the mind with
 difficult and unpredictable situations, then the chances are the mind
 won't learn how to let go. What really trains us how to let go are the
 uncertain situations we are faced with. We might tell ourselves,
-*O**kay, today no matter what I do, no matter what anybody says to me,
+*Okay, today no matter what I do, no matter what anybody says to me,
 whether it's someone I don't like or someone I do, I'm going to let go
 no matter what.* And then, sure enough, as soon as we make that
 resolution, someone or something will come along and test us in a way we
@@ -3941,7 +3941,7 @@ so proud of, the things I regret?*
 I've found this theme very useful, and for years when I was at Chithurst
 Monastery I would make it a daily practice. Luang Por Sumedho would
 always be the one ringing the bell at the end of the sittings, and at
-the beginning I would imagine,*Okay, this is the last forty-five minutes
+the beginning I would imagine, *Okay, this is the last forty-five minutes
 or last hour of my life. What will my mind be dwelling on when the bell
 is rung? Can I drop it and be ready to go by the time the sound of the
 ringing fades?* It's often quite shocking, the kind of things that the
@@ -3960,8 +3960,8 @@ summarized the choice we all have at any moment during the day. Working
 out in the cold with the rain dripping down our necks, carrying large
 uncomfortable objects across slippery mud not wanting to drop them,
 finding places to store 300 apples and oranges in a confined space,
-whatever it might be, we have the capacity to *contend against,* and we
-have the capacity to be *content with---*to attune ourselves with the
+whatever it might be, we have the capacity to *contend against*, and we
+have the capacity to be *content with*---to attune ourselves with the
 way things are as we go about our tasks. It's a choice.
 
 Often we relate to obstacles in our lives as being unavoidable. It's as
@@ -3977,7 +3977,7 @@ recognize, *Its my choice whether I make a problem out of this, or not.
 It's my choice to be content with this, or not.*
 
 Our application of mindfulness and clear comprehension, *sati* and
-*sampajañña,*has a lot to do with recognizing that we have choices in
+*sampajañña,* has a lot to do with recognizing that we have choices in
 how we react to the world around us and to our internal states of mind.
 If we also apply the quality of wisdom or discernment, *pañña*, then we
 will choose the path of non-contention, of cultivating the capacity to
@@ -4124,7 +4124,7 @@ want us to go---and stop ourselves from giving in to them. We have to be
 willing to look closely at moods and challenge them. With peaceful
 moods, for instance, if we get what we want and things go the way we
 prefer, that's not very stable, that's no refuge at all. The refuge is
-in *sati-paññā*---mindfulness and wisdom*.* We use sati-paññā to
+in *sati-paññā*---mindfulness and wisdom. We use sati-paññā to
 cultivate truth-discerning awareness at all times. We know our moods, we
 know their arising and their fading away. Whether they are pleasant or
 unpleasant, we don't get caught by them nor do we follow them, we learn
@@ -4147,7 +4147,7 @@ deconstruct. The less we try to create a sense of who we are, or who we
 want people to see us as, then the more natural and at ease we can be.
 
 Earlier I suggested seeing if walking meditation could be used as a
-reflection---walking back and forth with the thought in mind:*I don't
+reflection---walking back and forth with the thought in mind:* I don't
 have to be anybody right now.* By doing this for a short period of time,
 we are planting the seed that may help us stop creating an identity to
 present to the world. Instead of forming that identity, we simply see,
@@ -4253,7 +4253,7 @@ a physical body within the world around us. Each activity is an
 opportunity to inquire of ourselves, *Where is my attention going? Am I
 aware of the body, of my in-breaths and out-breaths? What is needed to
 find a place of balance and clarity? Does the mind need lifting up, or
-settling down?*By doing this, we are caring for our practice throughout
+settling down?* By doing this, we are caring for our practice throughout
 the day, not just during morning and evening meditation. We are
 developing the continuity of practice that is needed for the most
 beneficial results.
@@ -4267,7 +4267,7 @@ beneficial results.
 It often strikes me how the Fire Sermon is the shortest of the three
 cardinal discourses of the Buddha, taking less than fifteen minutes to
 chant. Yet during the course of the Buddha's teaching it, a thousand
-*bhikkhus* became *Arahants*. In the Pāḷi Canon that's the largest
+*bhikkhus* became *arahants*. In the Pāḷi Canon that's the largest
 number of people who were completely liberated during the course of
 listening to a single Dhamma talk. It's a powerful teaching, although it
 can seem unremarkable in certain ways.
@@ -4279,7 +4279,7 @@ contact, visual objects, everything to do with the process of
 vision---and the same with the processes of hearing, smelling, tasting,
 touching, and mental activities---they're all burning with passion,
 aversion, and delusion. He then says, "*Evaṃ passaṃ bhikkhave sutva
-ariyasāvako cakkusmim'pi nibindati---*Seeing thus, the wise, noble
+ariyasāvako cakkusmim'pi nibbindati*---Seeing thus, the wise, noble
 disciple becomes dispassionate toward the eye, toward visual objects,
 toward eye consciousness, toward eye contact, and the feeling that
 arises with eye contact," and so on through the remaining five senses.
@@ -4287,7 +4287,7 @@ arises with eye contact," and so on through the remaining five senses.
 It's extraordinarily simple and direct. First, seeing that the senses
 are on fire; second, recognizing that they're on fire, agitated, heated;
 and then third, responding with coolness, *nibbindati*, dispassion.
-*Nibbidā*is related to *Nibbāna,* "coolness"---there's a cooling in
+*Nibbidā* is related to *Nibbāna*, "coolness"---there's a cooling in
 relationship to the senses. And with that cooling down, that dispassion,
 the hearts of those thousand bhikkhus were liberated. It's
 extraordinarily simple. In the sutta, it almost seems as if nothing has
@@ -4302,7 +4302,7 @@ see, smell, taste, hear, touch, and think.
 
 During the course of the day, it's helpful to bring mindfulness to
 recognizing that the quality of friction, tension---what the Buddha
-calls heat, *ādhitaṃ,*burning. The feeling can be one of ownership
+calls heat, *ādhitaṃ,* burning. The feeling can be one of ownership
 regarding some tool, the interest in a particular task, or the
 irritation with an exceptionally obstructive piece of rock that won't
 move out of the way. Whatever it might be---some computer program or
@@ -4325,7 +4325,7 @@ By bringing that quality of mindfulness---evaṃ passaṃ, seeing
 thus---we're able to recognize that feeling of ownership, for example.
 We can recognize the heat that the mind generates out of simple things.
 *Oh look, I'm getting upset with this machine, I'm getting excited about
-this plan I have, I'm claiming this painting project as mine*. A task we
+this plan I have, I'm claiming this painting project as mine.* A task we
 didn't even know existed before it was assigned to us, suddenly becomes
 "mine." *I hope no one sees that awful wood cut I made. "Look, that
 cut's not square and we all know who did it!" That would be so
@@ -4421,7 +4421,7 @@ If we use our intelligence and think too much, it can lead to
 intellectual endeavors that are not helpful. Truly, what we want to
 cultivate is mindfulness, that awareness that can help us recognize
 that, *This body is not who I am. This body is subject to many
-experiences---feelings, pain of all sorts, and death*. If we are
+experiences---feelings, pain of all sorts, and death.* If we are
 mindful, this reflection can be uplifting---we recognize that we are
 facing something that is the truth of the condition in which we are
 living. It helps us feel much more familiar and intimate with these
