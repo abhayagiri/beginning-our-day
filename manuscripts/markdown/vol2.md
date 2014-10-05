@@ -4460,7 +4460,7 @@ of walking. They weren't used to carrying all their gear for such a long
 distance, but they'll get used to it. They were planning to leave
 Willits yesterday and head up north. Who knows how far they might get
 today, and where they'll be going on alms-round. That is part of the
-adventure and part of the practice of taking on uncertainty,*aniccā*.
+adventure and part of the practice of taking on uncertainty, *aniccā*.
 
 When we are out on the road walking like that, uncertainty is a constant
 presence. In fact, wherever we are and whatever we are doing---whether
@@ -4487,7 +4487,7 @@ When something is in the background, it tends to be fuzzy and
 imperceptible, and we can have all sorts of incorrect assumptions about
 it.
 
-"*Aniccā* *vatta* *saṇkhāra*"---all conditioned things, all phenomena,
+"*Aniccā vatta saṇkhāra*"---all conditioned things, all phenomena,
 are impermanent---that phrase begins one of the suttas in the
 Dhammapada. By making an effort to bring to mind this reflection on
 uncertainty and change, we have an opportunity to brighten and clarify
@@ -4733,7 +4733,7 @@ or craving arises---*vedanā paccaya taṇhā*---feeling conditions
 craving, which then leads to sorrow, lamentation, pain, grief, and
 despair. When we know this chain of causation, we are able to see that a
 feeling can easily turn into thoughts of, *I can't stand this. This is
-wrong. This is bad. I don't like this. I have to get rid of it*. Or the
+wrong. This is bad. I don't like this. I have to get rid of it.* Or the
 opposite, *I want it. This is good. This is mine. I have to keep it,
 hold onto it, or own it.* When this cycle begins with possessiveness, we
 can see how that sense of ownership causes a feeling of loss, and then
@@ -4744,7 +4744,7 @@ influences can have an effect for a lifetime. Similarly, if we mindfully
 catch the process right at the point where vedanā is conditioning
 taṇhā---feeling conditioning craving---the cycle can be broken right
 there. We can live with a heart completely at peace in the realm of
-feeling, reflecting: *This vedanā is present*. I don't have to own it.
+feeling, reflecting: *This vedanā is present. I don't have to own it.
 Praise is sweet; criticism is bitter. Gain is sweet; loss is bitter.
 This is how it is. I don't need to make anything more of it than just
 that. This is the mind that likes sweetness, this is the mind that
@@ -4767,11 +4767,11 @@ compoundedness arises. But if there is full awareness, full knowing,
 full mindfulness, then even that subtle degree of ignorance or delusion
 does not arise and is not given credence.
 
-Discourses on dependent origination often state*,*"With the cessation of
+Discourses on dependent origination often state, "With the cessation of
 ignorance there is the cessation of mental formations, and with the
 cessation of mental formations, there is the cessation of
 consciousness," and so forth. Phra Payutto points out in his book
-*Dependent Origination*that *cessation* is not meant to be taken only in
+*Dependent Origination* that *cessation* is not meant to be taken only in
 terms of something beginning and then ending; the Pali word is
 *nirodha*, which also implies *non-arising*. When there's no ignorance,
 then mental formations do not arise; the mind does not create the world
@@ -4843,7 +4843,7 @@ That's our default bias. There is a deeply ingrained tendency towards
 creating and perceiving the beautiful in the body, to become attached to
 it, worry and fight about it, and become distressed when we lose it.
 
-We all have *rāga-taṇhā---*sensual desire---as part of our being. If our
+We all have *rāga-taṇhā*---sensual desire---as part of our being. If our
 parents didn't have rāga-taṇhā, we wouldn't be here. When it's present,
 we want to perceive the beautiful in the body. When it's not present,
 the body doesn't seem so beautiful anymore---it doesn't appeal to us in
@@ -4996,7 +4996,7 @@ kuṭis and learn how to delight in that.
 
 When the Buddha taught his Aunt Mahāpajāpatī about the Dhamma in brief,
 he emphasized non-proliferation or non-complexity as a characteristic
-that aligns itself with *Dhamma-Vinaya,*the teachings and the
+that aligns itself with *Dhamma-Vinaya*, the teachings and the
 discipline. We can add our complications and complexities to everything
 around us and forget that this training, this practice, in and of
 itself---if we attend to it and maintain our focus---is a natural
@@ -5164,7 +5164,7 @@ assumptions about things from the bias of "my way" or from perceptions
 of the world as good or bad. We might think, *Oh God. Everything is
 falling apart!* Or *Everything is great and I'm going to get what I
 want. The world is going to gratify me!* Well, not sure. We need to stop
-and reflect to ourselves, *What is sure*? We may see that what is sure
+and reflect to ourselves, *What is sure?* We may see that what is sure
 is what we can know at this present moment. What's sure is we can make
 choices and try to guide ourselves in ways that are skillful.
 
@@ -5180,7 +5180,7 @@ conditionality?
 We can begin by asking ourselves, *What's going to lead to my wellbeing,
 happiness and peace? How do I avoid this confusion, difficulty, and
 suffering?* And we can keep taking responsibility, reflecting over and
-over again,*I'm the owner of my actions, heir to my actions, born of my
+over again, *I'm the owner of my actions, heir to my actions, born of my
 actions. Whatever actions I shall do, for good or for ill, of those I
 will be the heir.* But in order to take responsibility like this, we
 need to step back and clearly see: *It's not sure. I don't have to
@@ -5275,10 +5275,10 @@ this process supports us in developing the insight into who we are not.
 ### 09-06-08
 
 By reflecting on the theme of kindness and establishing the quality of
-*mettā,*we gain insight into how mettā is developed. One of the not so
+*mettā*, we gain insight into how mettā is developed. One of the not so
 obvious places where we create qualities of unkindness is in the way
 that we relate to our own attitudes, opinions, and pet projects through
-self-identification. *My responsibility, my job, my role*. Many of these
+self-identification. *My responsibility, my job, my role.* Many of these
 aspects of our lives slip into existence and claim a substantial reality
 without our noticing. *Of course this is what I am. This is my job. I'm
 the water monk; I'm the co-abbot; I'm the head cook; I'm the driver.
@@ -5362,7 +5362,7 @@ cool, because the division and tension simply aren't there.
 
 Contemplations and reflections on death and dying are a means of
 focusing attention, and prioritizing where we choose to put our
-attention. We can ask ourselves,*What is it we are becoming absorbed in?
+attention. We can ask ourselves, *What is it we are becoming absorbed in?
 What are we letting the mind run away with?* These are essential
 contemplations because they help us make the practice---including
 relinquishment and generosity---our first priority.
@@ -5375,7 +5375,7 @@ That's a useful image for the unfocused, inattentive mind---the mind
 that does not prioritize, that drifts aimlessly about. It wanders to
 moods of like and dislike, moods of resentment and attachment, and
 continues to wander on. This reflection on one who sees the danger in
-saṃsāra applies to everybody, not only monks*.* It can encourage us all
+saṃsāra applies to everybody, not only monks. It can encourage us all
 to make good use of our faculties, to take the opportunities afforded us
 through our bodies and our minds.
 
@@ -5570,7 +5570,7 @@ notice!
 
 That's because the mind was primed to focus in a particular way---a way
 that produced an overall state of heedlessness. But if we prime the mind
-to view experience in terms of anicca, dukkha, and anattā*,* in terms of
+to view experience in terms of anicca, dukkha, and anattā, in terms of
 these universal characteristics, then we start to see those
 characteristics more consistently and clearly. However, we tend to
 overlook those fundamental truths of existence, thereby missing the big
