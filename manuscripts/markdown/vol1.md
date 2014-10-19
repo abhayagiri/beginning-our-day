@@ -21,7 +21,7 @@ or what is troublesome. The choice we make is up to each one of us.
 
 ### 12-02-08
 
-Contentment, or santuṭṭhi, is often talked about in the context of
+Contentment, or *santuṭṭhi*, is often talked about in the context of
 material possessions, particularly in our reflections on the four
 requisites of robes, alms-food, lodging, and medicine. It's the quality
 of being content with whatever is offered---the food that's presented to
@@ -41,7 +41,7 @@ It's also important to consider how santuṭṭhi permeates all aspects of
 the path. It's not solely a matter of renunciation, or not being moved
 by desire, agitation, or fear in terms of material things or how we
 relate to other people. Contentment is also the basis for concentration,
-samādhi---that quality of being content with this moment, this breath,
+*samādhi*---that quality of being content with this moment, this breath,
 this footstep, this feeling in the knee, this sound in the room, this
 quality of mood. To be content with just this moment is of enormous
 importance in terms of samādhi, concentration. And if there's
@@ -53,7 +53,7 @@ lack of focus. As a result, samādhi is far away.
 The quality of contentment can drift off in certain ways. It can turn
 into dullness or laziness, or an urge to switch off, while at the same
 time we're thinking of ourselves as being content. Actually, we're
-simply steering the mind towards numbness, a non-feeling state, or a
+simply steering the mind toward numbness, a non-feeling state, or a
 feeling of wanting to getting rid of, not bothering with. That's not
 contentment. And contentment isn't a quality of begrudging resignation.
 Oh well, I'm stuck with this mood, this particular problem or feeling.
@@ -69,7 +69,7 @@ taking it too far in the opposite direction. Contentment is a bright and
 energetic state, but it's also free from self-view and
 self-centeredness. It's not colored by an I-me-mine attitude.
 
-Santuṭṭhi is not only a basis for samādhi, but also for vipassanā,
+Santuṭṭhi is not only a basis for samādhi, but also for *vipassanā*,
 insight. It's the ability to be content with seeing this feeling, this
 thought, this mood, or this memory as a pattern of nature. We're not
 buying into it, trying to read a story into it, or claiming it as self
@@ -77,7 +77,7 @@ or other. Contentment allows us to leave things alone. A painful memory
 arises, does its thing, and ceases. An exciting fantasy arises, does its
 thing, and ceases. An important responsibility arises, does its thing,
 and ceases. That's it. This is a characteristic of contentment, we're
-able to leave things alone. The saṅkhāras, the patterns of the
+able to leave things alone. The *saṅkhāras*, the patterns of the
 world---we can let them be. It's not because we're switching off, we
 don't care, or we're resentfully resigned to some situation. Rather,
 it's a gentleness and presence of mind, a sense of the fullness of
@@ -113,7 +113,7 @@ world. If we find ourselves stuck thinking about a project
 incessantly---trying to get it organized, straight, and complete---we
 can take a few minutes like this to stop.
 
-If we can't stop that momentum though, at least we can look to see if we
+If we can't stop that momentum, at least we can look to see if we
 have the mindfulness to recognize this flow of thoughts. We can pay
 careful attention to the mind that is creating time, a future, plans,
 and everything else. We may find that to be a very valuable reflection
@@ -425,7 +425,7 @@ For many of us, there can sometimes be a sense, or even an insight, that
 our *modus* *operandi* is not to be happy. For myself, when I look at my
 own behavior, it doesn't always feel like it's coming from a wish for
 happiness. It can be like that for all of us, so we cultivate mettā as
-an antidote. We turn our awareness towards mettā, and eventually we may
+an antidote. We turn our awareness toward mettā, and eventually we may
 have a deeper insight: *Actually, I really do want to be happy, and my
 heart genuinely wants that freedom.* The greatest freedom we can
 experience is not the freedom of letting ourselves do what we want out
@@ -796,14 +796,14 @@ tendencies. This can help remind us of death and the limitations of the
 body. A complementary theme for saṃvega is to set up the intention to
 put forth effort, to realize what the Buddha taught and the example that
 he set. Another important quality that comes to mind is pasāda, which is
-a sense of serene confidence and clarity of well being; it has a joyful
+a sense of serene confidence and clarity of well-being; it has a joyful
 sense to it.
 
 We want to encourage these ten recollections in our practice as well as
 these other skillful qualities so that we create a wholesome foundation
 for the mind. We have a lot of space to experiment and work with these
 themes. As we get to know them, we can see what works and what helps the
-mind direct itself towards the Dhamma.
+mind direct itself toward the Dhamma.
 
 # Skills for Letting Go
 
@@ -1228,7 +1228,7 @@ I have given a few talks on loving-kindness. When I do, I often receive
 questions from people concerned with external circumstances, such as,
 "It's so painful to be with this person," or "When I'm in this situation
 it's really difficult. How do you deal with that?" Most of the questions
-are directed towards the practice of loving-kindness as a method for
+are directed toward the practice of loving-kindness as a method for
 sending mettā outward. But we can also turn inward rather than outward.
 This is where Bhikkhu Bodhi says patience comes in. We can learn to turn
 toward the pain we feel---toward the *dukkha* we are experiencing in
@@ -1509,7 +1509,7 @@ easier to become peaceful when this quality of gratitude is present in
 the mind as opposed to when we experience negativity, which turns the
 mind toward all the flaws we perceive in everyone. So pay attention to
 gratitude---kataññū---learn to appreciate the goodness of others, which
-will have the most beneficial results for our practice and wellbeing.
+will have the most beneficial results for our practice and well-being.
 
 # Physical Therapy for the Mind
 
@@ -2112,7 +2112,7 @@ right there.
 Ajahn Buddhadāssa used to talk about enlightenment in the sense of
 experiencing this moment of peace with clarity and then becoming
 familiar with that experience. Of course it is impermanent, it comes and
-it goes, but it is a taste. And we can train the mind to incline towards
+it goes, but it is a taste. And we can train the mind to incline toward
 that state more and more often, to make it stretch out a little longer,
 and return to it throughout the day. With training, this experience of
 peace and clarity can become a touchstone for the mind, and we can turn
@@ -2161,7 +2161,7 @@ interactions, and formal practice.
 
 To put it another way, we can ask ourselves, *What is it that aligns us
 with Dhamma?* The Buddha tells us that if something aligns or accords
-with the Dhamma, it's going to increase our happiness, wellbeing,
+with the Dhamma, it's going to increase our happiness, well-being,
 clarity, and understanding. The opposite is true as well. When what
 we're doing increases our *dukkha*---our anxieties, confusion, and
 agitation---it's a pretty sure bet that we're not aligned with the
@@ -3448,7 +3448,7 @@ The uncertainty of things is simply how they are. But it's the way we
 the areas in which we have more work to do, and the areas in which we
 have a good handle on the practice. What happens when we experience some
 difficulty and anger arises? What happens when we get what we want and
-an experience of happiness and well being arises? How do we respond to
+an experience of happiness and well-being arises? How do we respond to
 that? Do we take it for granted? Do we make assumptions? Do we create
 certainty around it? Do we get caught up in it? Do we create a sense of
 self around it?
@@ -3531,7 +3531,7 @@ and not getting too swept up. Make the breath a force for settling. It
 can be very satisfying paying attention to the breath, the body, and the
 actions involved in the task we're doing. The more we attend to the body
 while we are engaged, the more we can generate a sense of focus and
-wellbeing in the midst of activity.
+well-being in the midst of activity.
 
 # Right Action Guided by Internal Experience
 
@@ -3617,7 +3617,7 @@ us. *The last time I did that, it took me three days to get over it. It
 seemed like a good idea at the time, but there was a lot of wreckage
 left behind after acting in that way*. Because of having seen for
 ourselves the painful effects of unskillful actions, we find ourselves
-respecting and moving towards restraint, modesty, simplicity, and inner
+respecting and moving toward restraint, modesty, simplicity, and inner
 quietude. This is really the best kind of training. Training in terms of
 being obedient to an external force has its place. But being obedient to
 and guided by our own internal experience---that's the kind of training
@@ -4363,7 +4363,7 @@ present moment.
 Usually, at this time of day, there is a sense of anticipation as the
 work period draws near. There are thoughts about what we are going to do
 and what we don't want to do, all of which are influenced by the
-different attitudes that we have towards work. So this silence
+different attitudes that we have toward work. So this silence
 beforehand can sometimes bring up feelings of anxiety, and we might
 think, *Say something, it doesn't matter what it is, just say anything
 to fill the space.* Or the mind can slip into an animal state during
@@ -4934,7 +4934,7 @@ we're assigned, we can instead be attentive to whatever might need
 doing. We can ask ourselves: *How can I help? How can I support the
 other people around me? What would be of service?* When everyone
 reflects in that way, and acts accordingly, the whole community can
-enjoy a sense of well being and happiness. And we may personally learn
+enjoy a sense of well-being and happiness. And we may personally learn
 that there's no real need to make ourselves into somebodies at all.
 
 # Reversing the Tendency to Decline
@@ -4970,7 +4970,7 @@ We can bring mindfulness and attention to this inquiry so as to see the
 direction of our practice. Once we see this direction clearly, we can
 reflect on what we need to adjust or correct. We do this so that our
 practice is moving in a more direct, straight, and less wavering
-direction towards a state of peace, understanding, and calm.
+direction toward a state of peace, understanding, and calm.
 
 # Facilitating Harmony
 
@@ -5605,7 +5605,7 @@ mind that isn't pulled around.
 I've never come across a satisfying translation of khanti: patient
 endurance doesn't quite get it. In general, I think it's important to
 reflect on it in terms of how it manifests for us: *How do I turn the
-mind towards a quality that isn't swayed, pushed, or pulled?* It's a
+mind toward a quality that isn't swayed, pushed, or pulled?* It's a
 willingness to be present with experience and especially important in
 meditation. When any of the five hindrances come up, they feel quite
 compelling and true as moods. So we attempt to have an enduring quality

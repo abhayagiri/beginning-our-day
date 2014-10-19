@@ -469,7 +469,7 @@ to free ourselves from discontent, dissatisfaction and dissonance. When
 the mind or heart is dissonant, we can see that clearly as we become
 aligned with Dhamma. And when the mind and heart are each in tune, we
 can feel that right away, reflecting to ourselves, *This feels peaceful.
-This feels clear. This brings happiness and wellbeing. This is the
+This feels clear. This brings happiness and well-being. This is the
 opposite of following my attachments and desires, which always leads to
 dissatisfaction.*
 
@@ -1027,7 +1027,7 @@ bones are left. The bones are then scattered until there's little
 remaining but a small pile of gray dust. Then a wind comes along and
 blows it here and there until there is nothing left. For all of our
 obsessions about ourselves---our worries, fears and anxieties around
-health and physical wellbeing, and all the uncertainties in our
+health and physical well-being, and all the uncertainties in our
 lives---it is absolutely certain that, on a physical level, we're all
 going to be blown into cosmic dust.
 
@@ -1045,7 +1045,7 @@ kamma. Whatever kamma I shall do, for good or for ill, of that I will be
 the heir." These recollections help us establish our kamma---our actions
 of body, speech and mind---in what is wholesome, skillful and
 beneficial, in what bears fruit in terms of peace and clarity, happiness
-and wellbeing. So it behooves us to take responsibility for these
+and well-being. So it behooves us to take responsibility for these
 contemplations, to reflect upon them and develop them in our practice.
 
 # When Generosity Motivates Our Practice
@@ -2376,7 +2376,7 @@ can live very simply, being conscious of how we use things, and,
 contrary to what one might think, this doesn't make us miserable.
 Contentment is quite the opposite of misery. Living in a conscious way
 like this can make us happier by fostering internal qualities that lead
-to ease and well being. We realize that we don't require so many things
+to ease and well-being. We realize that we don't require so many things
 to keep us happy and comfortable. It's an internal experience based on
 internal qualities.
 
@@ -3401,7 +3401,7 @@ through everything. There are many logical reasons why we could feel
 that something is awful or not up to our standard. But from a different
 perspective, we have the life faculty and the opportunity to come in
 contact with wholesome experiences. We can make a choice with what is
-good and what is bad, what is conducive to happiness and wellbeing, and
+good and what is bad, what is conducive to happiness and well-being, and
 what is conducive to making the choices that lead to those wholesome
 qualities. That's something to be incredibly grateful for. And we can
 generate that gratitude by paying attention to the inclination of our
@@ -4473,7 +4473,7 @@ is going to go, who will be here and what can happen. There is, of
 course, a certain fallacy to those assumptions. It is important to
 remind ourselves of the uncertainty of our existence, the uncertainty of
 what is happening around us and the uncertainty of the things we rely on
-for comfort, security and wellbeing. As a part of practice and training,
+for comfort, security and well-being. As a part of practice and training,
 it is essential to keep bringing up the reflection of impermanence.
 
 When the Buddha speaks about the universal characteristics of all
@@ -4681,7 +4681,7 @@ perceive our work in this way, we can recognize that it's an opportunity
 for giving, for generosity, and for putting forth effort that benefits
 everyone. And we're reminded that generosity is not limited to material
 things, but includes acts of service, wholesome, skillful, and selfless
-actions. As a result, our work can become a source of wellbeing and
+actions. As a result, our work can become a source of well-being and
 happiness.
 
 In Thai, the word for work also means festival. This blurs the
@@ -5177,7 +5177,7 @@ recognizing the causal relationship between particular actions and their
 results. How do we attune ourselves to this cause-and-effect
 conditionality?
 
-We can begin by asking ourselves, *What's going to lead to my wellbeing,
+We can begin by asking ourselves, *What's going to lead to my well-being,
 happiness and peace? How do I avoid this confusion, difficulty, and
 suffering?* And we can keep taking responsibility, reflecting over and
 over again, *I'm the owner of my actions, heir to my actions, born of my
