@@ -105,7 +105,7 @@ def fixdate(d):
 
 
 def md2latex(infile, outfile):
-    pandoc = subprocess.Popen(['pandoc', '-f', 'markdown', '-t', 'html'],
+    pandoc = subprocess.Popen(['pandoc', '-f', 'markdown', '-t', 'html', '-S'],
         stdin=subprocess.PIPE, stdout=subprocess.PIPE)
     fold = subprocess.Popen(['fold', '-s', '-w', '72'],
         stdin=subprocess.PIPE, stdout=subprocess.PIPE)
