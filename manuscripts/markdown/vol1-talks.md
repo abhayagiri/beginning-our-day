@@ -987,7 +987,7 @@ sharing those blessings with the people we’re living with and the people
 we come into contact with. That is how we bring great blessings into the
 world.
 
-# Non-contention Is Full Awareness
+# Non-Contention Is Full Awareness
 
 ## Ajahn Amaro • December 2002
 
@@ -3650,7 +3650,7 @@ It’s important to reflect on the habits we have, to ask ourselves, *Does
 this habit help to make the mind more peaceful, or does it tend to make
 the mind more agitated?* The Thai *kruba ajahns* often use the phrase
 *plien nisai*, which means to change our habits. In the Thai Forest
-tradition there is a strong emphasis on changing one’s unskillful
+Tradition there is a strong emphasis on changing one’s unskillful
 habits. Our chanting includes the “*Ten
 Subjects for Frequent Recollection by Monastics*,” where we
 recite, “I will strive to abandon my former habits. This should be
@@ -3832,8 +3832,7 @@ believe is at the core of our daily lives.
 
 ## Ajahn Amaro • November 2008
 
-When we do the chanting on the four divine abodes, the *
-Brahmavihāras*—*mettā*, *karuṇā*,
+When we do the chanting on the four divine abodes, the *Brahmavihāras*—*mettā*, *karuṇā*,
 *muditā*, *upekkhā*, loving-kindness, compassion, gladness,
 equanimity—going through each one, it’s important to notice the
 development of equanimity around reflections on *kamma*, actions of
@@ -4141,7 +4140,7 @@ that’s basically what we have done here in the monastery.
 
 There’s a strength and power that we build up from engaging in formal
 meditation practice, being on our own, and establishing a sense of
-solitude. This is, of course, important in the Forest tradition. But
+solitude. This is, of course, important in the Forest Tradition. But
 it’s good to ask ourselves, *How much self-concern and self-identity can
 be let go of, worked with, and honed down through the practice of being
 in community?* As individuals, we really aren’t as important as we think
@@ -4867,7 +4866,7 @@ we’re able to apply ourselves in a steady, balanced way, we begin to get
 a feel for what the Buddha meant by “unremitting energy, unwavering
 effort.” This is a factor the Buddha said is crucial for liberation.
 
-# Cultivating Present Moment Perception
+# Cultivating Present-Moment Perception
 
 ## Ajahn Yatiko • June 2012
 
@@ -5399,23 +5398,14 @@ lives.
 
 There’s this lovely passage from the Bhaddekaratta Sutta (MN 131):
 
-Let not a person revive the past
-
-Or on the future build his hopes;
-
-For the past has been left behind
-
-And the future has not been reached.
-
-Instead with insight let him see
-
-Each presently arisen state;
-
-Let him know that and be sure of it,
-
-Invincibly, unshakeably ...
-
-\
+> Let not a person revive the past\
+> Or on the future build his hopes;\
+> For the past has been left behind\
+> And the future has not been reached.\
+> Instead with insight let him see\
+> Each presently arisen state;\
+> Let him know that and be sure of it,\
+> Invincibly, unshakeably ...
 
 Our lives are uncertain in so many different ways. All sorts of
 curveballs could be thrown to us at any time, disrupting our flow. If we
