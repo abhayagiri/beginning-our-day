@@ -1,0 +1,101 @@
+%!TEX TS-program = xetex
+%!TEX encoding = UTF-8 Unicode
+\documentclass[11pt,openany]{memoir}
+
+\usepackage{fontspec}
+\defaultfontfeatures{Mapping=tex-text}
+\setromanfont{Gentium Basic}
+
+\usepackage{geometry}
+\geometry{%
+    paperwidth=5.25in,
+    paperheight=8in,
+    top=54pt,
+    bottom=68pt,
+    inner=54pt,
+    outer=45pt,
+    footskip=30pt
+}
+
+\usepackage[gray]{xcolor}
+\definecolor{authorgray}{gray}{0.2}
+
+\makechapterstyle{mainmatter}{%
+    \chapterstyle{default}
+    \setlength{\beforechapskip}{9pt}
+    \setlength{\midchapskip}{0pt}
+    \setlength{\afterchapskip}{15pt}
+    \renewcommand*{\printchaptername}{}
+    \renewcommand*{\printchapternum}{}
+    \renewcommand*{\printchaptertitle}[1]{\huge\itshape\centering ##1}
+}
+\chapterstyle{mainmatter}
+
+\newcommand{\mychapter}[3]{%
+\chapter*{#1\\[5pt]{\normalfont\large#2 • #3}}
+\addcontentsline{toc}{chapter}{#1\protect\chapternumberline{}}
+\addtocontents{toc}{\noindent\hspace{18pt}{\color{authorgray}\itshape\footnotesize #2}\par}
+}
+\newcommand{\mychaptertoc}[4]{%
+\chapter*{#2\\[5pt]{\normalfont\large#3 • #4}}
+\addcontentsline{toc}{chapter}{#1\protect\chapternumberline{}}
+\addtocontents{toc}{\noindent\hspace{18pt}{\color{authorgray}\itshape\footnotesize #3}\par}
+}
+
+\addtocontents{toc}{\vspace{1em}}
+
+\renewcommand{\cftbeforechapterskip}{.5em}
+\renewcommand{\cftchapterfont}{\normalfont}
+\renewcommand{\cftchapterformatpnum}[1]{{\normalfont #1}}
+\makepagestyle{contents}{}{}{}
+
+\sloppy
+\raggedbottom
+\pagestyle{plain}
+\parindent 18pt
+
+\usepackage[defaultlines=2,all]{nowidow}
+
+\renewcommand{\normalsize}{\fontsize{11pt}{15.0pt}\selectfont}
+\renewcommand{\ldots}{.\thinspace.\thinspace.}
+
+
+\begin{document}
+%\renewcommand{\baselinestretch}{1.1}
+
+\frontmatter
+\addtocontents{toc}{\protect\thispagestyle{plain}}
+\addtocontents{toc}{\mbox{}\par}
+\pagestyle{empty}
+
+{\center
+\vspace*{80pt}
+\huge
+Beginning Our Day
+
+\par}
+\clearpage
+
+\input{colophon.tex}
+
+\pagestyle{plain}
+\tableofcontents*
+
+
+%\thispagestyle{plain}
+\clearpage
+
+\thispagestyle{empty}
+\mbox{} \clearpage
+
+\input{preface.tex}
+
+\mainmatter
+
+\input{vol1-talks.tex}
+
+\input{glossary.tex}
+
+\input{license.tex}
+
+\end{document}
