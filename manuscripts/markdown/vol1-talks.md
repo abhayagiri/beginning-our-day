@@ -1043,7 +1043,7 @@ with some of the construction. While I was working, something came to
 mind that I found very fruitful:
 
 To work with the busyness—the activity that I was involved in—I returned
-to the very simple practice of repeating the word “*Buddho*.” It’s a
+to the very simple practice of repeating the word *Buddho*. It’s a
 basic, foundational practice that is used throughout Thailand,
 particularly in the northeast. I used that short mantra in conjunction
 with the breath. On the in-breath, “Bud,” on the out-breath, “dho.”
@@ -5351,7 +5351,7 @@ Bhikkhu disparaging himself, saying: “I just don’t have any pāramīs of
 wisdom, meditation, loving-kindness or anything like that. But at least
 I can just put up with this. I can build some khanti pāramī.” His
 attitude reminded me of the depressed but lovable donkey Eeyore from
-Winnie-the-Pooh.
+*Winnie-the-Pooh*.
 
 Khanti is actually a proactive engaging with experience in a way that’s
 not getting caught up in or swayed by the reactions and impulses of
