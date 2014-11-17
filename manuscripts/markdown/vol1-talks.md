@@ -552,7 +552,7 @@ goodness it supports—the *kusala kamma* it supports. By providing this
 dwelling, this food, these Dhamma talks, we bring enormous blessings
 into our lives.
 
-Take Tan Thitapañño, for instance. He’s wrestling with the intricacies
+Take Tan Ṭhitapañño, for instance. He’s wrestling with the intricacies
 of the Expression Engine software and the obstructive passwords that
 won’t let him use the program. When doing such hard work, it can be easy
 to forget about the fact that there are people all over the planet who
@@ -1143,9 +1143,9 @@ perception, and recognizing that each building block of self is simply
 an impermanent phenomenon. It isn’t a matter of trying to get rid of the
 self or annihilating it in any way, because it’s not something that is
 solid or substantial anyway. That’s why we reflect on the five
-*khandas*—form, feeling, perception, mental formations, and
+*khandhas*—form, feeling, perception, mental formations, and
 consciousness—seeing them as impermanent, unsatisfactory, and not-self.
-When we see the five khandas for what they are, we gain insight into
+When we see the five khandhas for what they are, we gain insight into
 their true nature and let go of our investment in them, which is not a
 rejection or annihilation, but a clear seeing.
 
@@ -1319,7 +1319,7 @@ can so easily bring up. This produces an endless chatter of
 commentating, fretting, recollecting, recreating, planning, and
 imagining. The Buddha pointed to three particular qualities which are
 the driving forces behind these processes: craving, conceit, and
-views—the *papañca dhammas*. In the Anattalakkhana Sutta—the Discourse
+views—the *papañca dhammas*. In the Anattalakkhaṇa Sutta—the Discourse
 on the Characteristic of Not-Self—he outlined these qualities in very
 simple terms. *Taṇhā* or craving is defined as *etaṃ* *mama:* *This is
 mine. This belongs to me. This is my ladder, my chopping board, my
@@ -1726,7 +1726,7 @@ is. This is what it is, right now.
 When there’s a lot of activity going on—going from here to there,
 finding this and taking it over there, picking up these gas bottles and
 moving them over there, taking them to the wrong place and then taking
-them back—there can be a current of becoming, the flood, the *oghā* of
+them back—there can be a current of becoming, the flood, the *ogha* of
 becoming, which can become very intense. So it is important during the
 flow of activity to be leaning into the wind, to be leaning against
 that.
@@ -1968,7 +1968,7 @@ really take advantage of the practice, we need to learn from our
 circumstances and pay attention to the natural processes around us.
 
 There’s a story that Ajahn Chah used to use in his teachings. It is a
-Jataka tale about a king who takes his retinue off to do some business.
+Jātaka tale about a king who takes his retinue off to do some business.
 As they pass by an area in the forest, the king sees a wild mango tree
 full of mangoes and thinks to himself, *Those mangoes look really good.
 At the end of the day when we’re going back to the palace, I’m going to
@@ -2029,7 +2029,7 @@ our attention? Instead, we can find some other part of the body that is
 not in pain so we can experience that feeling of present-moment peace
 right there.
 
-Ajahn Buddhadāssa used to talk about enlightenment in the sense of
+Ajahn Buddhadāsa used to talk about enlightenment in the sense of
 experiencing this moment of peace with clarity and then becoming
 familiar with that experience. Of course it is impermanent, it comes and
 it goes, but it’s a taste. We can train the mind to incline toward that
@@ -2190,7 +2190,7 @@ instructions to twenty-eight *shramaneris* who were preparing to ordain
 as *bhikshunis* next month. It was quite a delightful time. Their
 sincerity was tangible.
 
-One of the ideas I brought up with them is developing *samaṇa sañña,*
+One of the ideas I brought up with them is developing *samaṇa saññā,*
 the perception or recollection of being a religious seeker. We function
 out of our perceptions. We perceive something to be interesting or
 desirable, and we get excited. We perceive something to be worrisome or
@@ -2241,8 +2241,8 @@ and an inner change that’s useful for us to consider, whether we have
 hair and wear trousers or have a shaved head and wear a *sabong.*
 
 Essentially when we talk about ordaining, it’s usually in terms of going
-forth from the household life into homelessness, from being a *garika*
-to an *anāgārika*, one who lets go of the household life. But in many
+forth from the household life into homelessness, from being an *agārika*
+to an *anagārika*, one who lets go of the household life. But in many
 ways, it’s more about going forth from self-centered thinking to seeing
 in terms of Dhamma. It’s going forth from confusion to clarity, from a
 life of being half awake or not awake at all to wakefulness. That’s
@@ -2796,7 +2796,7 @@ gives us the ability to trust the process and to trust the practice.
 
 ## Luang Por Pasanno • July 2005
 
-One of the American monks in Thailand, Tan Pannyavudo, has just died. He
+One of the American monks in Thailand, Tan Paññāvuḍḍho, has just died. He
 had been spending the Rains Retreat at Ajahn Dun’s monastery. Yesterday
 morning, he didn’t show up for alms round. A monk was sent to check on
 him, and he was found lifeless in the bathroom. It looked like he
@@ -3379,7 +3379,7 @@ well-being in the midst of activity.
 
 ## Ajahn Amaro • December 2008
 
-*Sammā kamanto*—right action—is an essential factor of the Noble
+*Sammā kammanta*—right action—is an essential factor of the Noble
 Eightfold Path. Often the Eightfold Path is summarized as *sīla*,
 *samādhi*, and *paññā*, virtue, concentration, and wisdom. Right action
 is then woven into the section on sīla, along with right speech and
@@ -3832,7 +3832,7 @@ believe is at the core of our daily lives.
 
 ## Ajahn Amaro • November 2008
 
-When we do the chanting on the four divine abodes, the *Brahmavihāras*—*mettā*, *karuṇā*,
+When we do the chanting on the four divine abodes, the *brahmavihāras*—*mettā*, *karuṇā*,
 *muditā*, *upekkhā*, loving-kindness, compassion, gladness,
 equanimity—going through each one, it’s important to notice the
 development of equanimity around reflections on *kamma*, actions of
@@ -3840,13 +3840,13 @@ cause and effect. “I am the owner of my kamma, heir to my kamma, born of
 my kamma, related to my kamma, abide supported by my kamma. Whatever
 kamma I shall do, for good or for ill, of that I will be the heir.”
 
-The other Brahmavihāras—mettā, karuṇā, and muditā—have an emotional
+The other brahmavihāras—mettā, karuṇā, and muditā—have an emotional
 tone, a quality of wishing well to ourselves and others, of wishing to
 be free from suffering. But the fourth one, upekkhā, equanimity, is
 developed through a conscious reflection on *kamma* *vipāka,* kamma and
 its results. That may not sound terribly interesting, and so it can
 easily be pushed aside. But equanimity is the most refined of the
-Brahmavihāras. It’s quite a significant mental quality and is difficult
+brahmavihāras. It’s quite a significant mental quality and is difficult
 to establish.
 
 When we consciously reflect on cause and effect, we can distinguish one
@@ -3906,7 +3906,7 @@ feelings might arise. This is the cause, and this is the effect. See how
 that small reflection can take us a step back from the notion that
 right, wrong, like, and dislike are objective or lasting realities. With
 that stepping back and seeing things more clearly, what we draw closer
-to is the Brahmavihāra of equanimity.
+to is the brahmavihāra of equanimity.
 
 # An Internal Space of Mindfulness
 
@@ -4077,18 +4077,18 @@ we will produce the natural results of the Middle Way.
 
 Last night we had a discussion about the power of practicing in
 community. One of the things I remember fondly about an experience in
-community was during my third vassa away at Chithurst. When I first
-arrived, I was trying to get my bearings and slowly familiarizing myself
-with some of the community members. One of the monks, who was just
-junior to me, sat on my left and I noticed after a number of weeks he
-wasn’t engaging or making any contact. He was very quiet and reserved. I
-didn’t know what to make of it. It was several weeks later that I began
-to think, *Well, perhaps he just doesn’t like me or maybe I said
-something in the beginning that disturbed him.* At one point only he and
-I were in the day room resting after the meal. He had yet to say
-anything to me the entire time since I had arrived. I was sitting on one
-side of the room and he was sitting on the other and he broke into
-conversation saying: “You’re a warrior.”
+community was during my third vassa away at Chithurst Monastery in
+England. When I first arrived, I was trying to get my bearings and
+slowly familiarizing myself with some of the community members. One of
+the monks, who was just junior to me, sat on my left and I noticed after
+a number of weeks he wasn’t engaging or making any contact. He was very
+quiet and reserved. I didn’t know what to make of it. It was several
+weeks later that I began to think, *Well, perhaps he just doesn’t like
+me or maybe I said something in the beginning that disturbed him.* At
+one point only he and I were in the day room resting after the meal. He
+had yet to say anything to me the entire time since I had arrived. I was
+sitting on one side of the room and he was sitting on the other and he
+broke into conversation saying: “You’re a warrior.”
 
 I thought, *What? What does he mean?* so I said to him, “What?”
 
@@ -4285,7 +4285,7 @@ it’s ended. That much we can be absolutely sure of. There’s a natural
 feeling of loss and sadness, a sense that the person was around, a
 friend, close to us, but now gone. Even the Buddha experienced the loss
 of those close to him. There’s a famous passage that takes place after
-the Buddha’s two chief disciples, Sāriputta and Mahamoggallāna, had
+the Buddha’s two chief disciples, Sāriputta and Mahāmoggallāna, had
 passed away. The Buddha says to the gathered Saṅgha, “The assembly seems
 empty now that Sāriputta and Mahamoggallāna are no longer here.” So even
 a fully enlightened being like the Buddha can know and sense the loss of
@@ -4308,13 +4308,13 @@ for brightness and happiness to arise.
 
 ## Luang Por Pasanno • June 2013
 
-As we reflect on the traditional explanation of *aniccā*—how things are
+As we reflect on the traditional explanation of *anicca*—how things are
 impermanent, inconstant, always changing—it is especially useful to also
-reflect on aniccā as a sense of uncertainty, or as Ajahn Chah would say,
+reflect on anicca as a sense of uncertainty, or as Ajahn Chah would say,
 “It’s not a sure thing.” We tend to deny or gloss over the fact that we
 don’t know things for sure. We feel uncomfortable with uncertainty or
 uncomfortable with not knowing something. It can be intimidating. But
-reflecting on aniccā helps bring us back to the awareness of not
+reflecting on anicca helps bring us back to the awareness of not
 knowing, of not being certain. We can be aware of the feeling that
 arises within us when we’re in touch with that uncertainty.
 
@@ -4351,7 +4351,7 @@ challenge them by reflecting, *Is this really true? Is it a sure thing
 that it is unchanging and permanent? Is it trustworthy?* Well, not for
 sure.
 
-It’s important to investigate and reflect on aniccā—to take it in. When
+It’s important to investigate and reflect on anicca—to take it in. When
 we do this, we’re able to apply a true form of wisdom, which doesn’t
 require knowing a lot of things. This wisdom is the ability to abide in
 a place of stability, even as we stay aware of and feel the uncertainty
@@ -5072,7 +5072,7 @@ of attention to do it skillfully.
 When we talk about *sati*, mindfulness, we often think about it in terms
 of being careful with the task or job we’re doing. However, along with
 mindfulness, the other elements of clear comprehension—*sampajañña*—and
-wisdom—*pañña*—are crucial. Clear comprehension means being aware of the
+wisdom—*paññā*—are crucial. Clear comprehension means being aware of the
 context of the activity in which we are engaged, for instance, being
 mindful of the people with whom we are working. An example of this would
 be making sure the sharp end of the mattock we are swinging isn’t about
