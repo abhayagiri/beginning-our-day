@@ -50,6 +50,7 @@ class Html2Latex(xml.sax.handler.ContentHandler):
         if content:
             content = re.sub(r'\.\.\.', r'\ldots{}', content)
             content = re.sub(ur'\u201c', '``', content)
+            content = re.sub(ur'\u2019\u201d', r"'\\thinspace''", content)
             content = re.sub(ur'\u201d', '\'\'', content)
             content = re.sub(ur'\u2018', '`', content)
             content = re.sub(ur'\u2019', '\'', content)
