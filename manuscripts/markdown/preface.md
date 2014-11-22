@@ -1,11 +1,11 @@
 # Preface
 
-“Beginning our day ...”
+“Beginning our day ... ”
 
 These quintessential words are spoken by Luang Por Pasanno before he
 begins each of his morning reflections.
 
-Five days a week, at Abhayagiri's morning meeting, work tasks are
+Five days a week, at Abhayagiri’s morning meeting, work tasks are
 assigned to the residents and guests living in the monastery. Shortly
 thereafter, one of the senior monks offers a brief Dhamma reflection so
 that the residents and guests have something meaningful to recollect
@@ -20,26 +20,32 @@ many different teachings are touched upon, the fundamental aim is to
 encourage the abandonment of the unwholesome, the cultivation of the
 wholesome, and the purification of the mind.
 
-While these teachings may be read together several at a time, readers
-might find it more useful to focus on a single reflection so they can
-easily recollect, contemplate, and make use of it throughout their day.
+While several of these teachings may be read together at one time,
+readers might find it more useful to focus on a single reflection so
+they can easily recollect, contemplate, and make use of it throughout
+their day.
 
 This book was made possible through the contributions of many people.
 Over ten years ago, Pamela Kirby initiated the project when she placed a
 recorder in front of one of the senior monks during a morning reflection
 and proposed that a book be written. Matthew Grad, Jeff Miller, Ila
-Lewis, Ray Peterson, and Laurent Palmatier were the main
-substantive editors of the material, enduring the long and difficult
-process of editing the transcripts into compact and well-written
-teachings. Ruby Grad and Pamela Kirby completed the copy editing. Sumi
-Shin designed the cover. David Burrowes, Dee Cope, Josh Himmelfarb, Evan
-Hirsch and Jeanie Daskais helped with further refining of the text. For
-several years, Khemako Bhikkhu recorded the senior monks' reflections.
-Kovilo Bhikkhu and Pesalo Bhikkhu provided corrections on an early draft
-of the book. Suhajjo Bhikkhu generously dedicated a significant amount
-of time on the overall book design and typesetting of the text.
+Lewis, Ray Peterson, and Laurent Palmatier were the main substantive
+editors of the material, enduring the long and difficult process of
+editing the transcripts into compact and well-written teachings. Ruby
+Grad and Pamela Kirby completed the copy editing. Shirley Johannesen
+compiled the glossary. David Burrowes, Dee Cope, Josh Himmelfarb, Evan
+Hirsch, Jeanie Daskais, Anagārika John Nishinaga, and members of the
+Lotus Volunteer Group: Viveka and Wendy Parker all helped with further
+refining of the text. Sumi Shin designed the cover. Jonathan Payne took
+the cover photos. Michael Smith tumbled the stones for the back cover.
 
-The Kataññuta group of Malaysia, Singapore and Australia generously
+For several years, Khemako Bhikkhu recorded the senior monks’
+reflections. Kovilo Bhikkhu and Pesalo Bhikkhu provided corrections on
+an early draft of the book. Suhajjo Bhikkhu generously dedicated a
+significant amount of time on the overall book design and typesetting of
+the text.
+
+The Kataññutā group of Malaysia, Singapore, and Australia generously
 brought this book into full production.
 
 May these teachings bring insight into the nature of Dhamma and provide
