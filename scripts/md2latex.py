@@ -101,7 +101,7 @@ outfile = sys.stdout
 
 
 
-pandoc = subprocess.Popen(['pandoc', '-f', 'markdown', '-t', 'html', '-S'],
+pandoc = subprocess.Popen(['pandoc', '-f', 'markdown', '-t', 'html'],
     stdin=infile, stdout=subprocess.PIPE)
 sed = subprocess.Popen(['sed', 's/^[[:space:]]*//'],
     stdin=subprocess.PIPE, stdout=subprocess.PIPE)
