@@ -2026,7 +2026,7 @@ our attention? Instead, we can find some other part of the body that is
 not in pain so we can experience that feeling of present-moment peace
 right there.
 
-Ajahn Buddhadasa used to talk about enlightenment in the sense of
+Ajahn Buddhadāsa used to talk about enlightenment in the sense of
 experiencing this moment of peace with clarity and then becoming
 familiar with that experience. Of course it is impermanent, it comes and
 it goes, but it’s a taste. We can train the mind to incline toward that
