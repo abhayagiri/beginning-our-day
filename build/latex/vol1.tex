@@ -42,7 +42,7 @@
 \addtocontents{toc}{\noindent\hspace{18pt}{\color{authorgray}\itshape\footnotesize #3}\par}
 }
 
-\addtocontents{toc}{\vspace{1em}}
+%\addtocontents{toc}{\vspace{1em}}
 
 \renewcommand{\cftbeforechapterskip}{.5em}
 \renewcommand{\cftchapterfont}{\normalfont}
@@ -61,6 +61,9 @@
 
 \frenchspacing
 
+\usepackage{graphicx}
+
+
 \begin{document}
 %\renewcommand{\baselinestretch}{1.1}
 
@@ -69,15 +72,32 @@
 %\addtocontents{toc}{\mbox{}\par}
 \pagestyle{empty}
 
-{\center
-\vspace*{80pt}
-\huge
-Beginning Our Day
+\begin{center}
+\vspace*{100pt}
+{ \huge Beginning Our Day }
 
-\par}
+\vspace{20pt}
+{ \Large Volume One }
+
+\vspace{40pt}
+
+{\large
+Dhamma Reflections from Abhayagiri Monastery
+}
+
+\vfill{}
+
+\includegraphics[width=1in]{abm_logo.eps}
+
+\end{center}
 \clearpage
 
 \input{../../manuscripts/latex/colophon.tex}
+
+\input{../../manuscripts/latex/dedication.tex}
+
+\clearpage
+\mbox{}\clearpage
 
 \pagestyle{plain}
 \tableofcontents*
@@ -91,11 +111,11 @@ Beginning Our Day
 
 \input{../../manuscripts/latex/preface.tex}
 
+\input{../../manuscripts/latex/abbreviations.tex}
+
 \mainmatter
 
 \input{../../manuscripts/latex/vol1-talks.tex}
-
-\input{../../manuscripts/latex/abbreviations.tex}
 
 \input{../../manuscripts/latex/glossary.tex}
 
