@@ -1,6 +1,6 @@
 # Preface
 
-“Beginning our day ... ”
+“Beginning our day ...”
 
 These quintessential words are spoken by Luang Por Pasanno before he
 begins each of his morning reflections.
@@ -52,7 +52,7 @@ May these teachings bring insight into the nature of Dhamma and provide
 a pathway toward the development of true peace and contentment.
 
 Cunda Bhikkhu\
-Abhayagiri Monastery,\
+Abhayagiri Monastery\
 Redwood Valley, California\
 May 15^th^, 2014
 
