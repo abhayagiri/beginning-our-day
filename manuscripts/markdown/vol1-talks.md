@@ -575,7 +575,7 @@ goodness. The Buddha himself encourages cāgānussati, recollecting our
 generosity, because that brightens and brings joy to the mind. We can
 take some time to recollect all the efforts that we’re making on the
 practical front as well as on the *bhāvanā,* the meditation. The word
-*anumodanā* is *rejoicing in the goodness that has been done*. The
+*anumodanā* means rejoicing in the goodness that has been done. The
 cynical mind says, *Yeah, well, that’s one thing. But I’ve really got
 some serious problems. Basically I’m just a defiled mess. I really am!*
 We need to listen to that voice with compassion, but at the same time,
@@ -974,8 +974,8 @@ is no such thing as a day in and of itself that is inauspicious or
 unlucky. We are completely dependent on gathering our own resources into
 doing something that is skillful, beneficial, and wholesome. So the
 opportunity for doing that which is wholesome is in itself what makes it
-a blessing in the world. The Pāḷi word *mahāmaṅgala* means *the highest
-blessings.* The Mahāmaṅgala Sutta encourages the cultivation of that
+a blessing in the world. The Pāḷi word *mahāmaṅgala* means the highest
+blessings. The Mahāmaṅgala Sutta encourages the cultivation of that
 which is skillful: association with good people and developing inner
 virtues that are beneficial to both ourselves and others (Sn 2.4). When
 we cultivate these virtues, we create the blessings of a skillful life,
@@ -1421,7 +1421,7 @@ space. So it’s vital that we share the space harmoniously to ensure that
 things get done, like the external work of taking care of the monastery
 and the internal work of spiritual practice. To lay a foundation for
 living together harmoniously, there is a need to develop a sense of
-*kataññū,* which is usually translated as *gratitude*. Now the word *gratitude*
+*kataññū,* which is usually translated as gratitude. Now the word *gratitude*
 is a bit loaded in the West, sort of like somebody is standing behind us
 waving his finger saying, “You should be grateful.” That’s quite a
 repelling image, and it doesn’t convey the real essence of kataññū,
@@ -2230,9 +2230,9 @@ This is a big day for Venerable Kaccāna. After arriving at Abhayagiri
 about two and a half years ago, today he is making the commitment to
 ordain and go forth into the *Bhikkhu Saṅgha* and is taking on the
 precepts of training. It’s helpful during occasions like this to reflect
-on the process of going forth into the Saṅgha—*upasamapadā*—which means
-“lifted” or
-“raised up.” It not only reflects an
+on the process of going forth into the Saṅgha—*upasampadā*—which means
+lifted or
+raised up. It not only reflects an
 outer process, but an inner process as well. It’s the formal commitment
 of an individual to this particular training and his acceptance into the
 group of monks. It also reflects an inner commitment and an inner change
@@ -2985,7 +2985,7 @@ that so? Oh, it’s terrible.—Really? Is that so?*
 Practicing the Dhamma doesn’t take much. It doesn’t take a lot of
 complicated activity, but it does take application. It takes
 remembrance, recollection, and mindfulness—*sati.* The word *sati* means
-*remembering to pay attention*. If we don’t remember, if we don’t bring
+remembering to pay attention. If we don’t remember, if we don’t bring
 attention to the practice, then that shift of perspective—escaping the
 rut of past and future—doesn’t happen. But if we do remember, then we’re
 able to bring to mind the quality of recollection. *What’s the hurry?
@@ -3486,7 +3486,7 @@ the monks who came to live with him.
 
 The second principle is renunciation—*nekkhamma*—which is an integral
 part of adapting to conditions. The English word *renunciation* suggests
-that we’re *pushing away* or *running away* from something. But that
+that we’re pushing away or running away from something. But that
 doesn’t reflect the real meaning of nekkhamma, which is a sense of
 rising up to conditions with a noble attitude. It’s a quality that
 brightens the mind and allows us to engage with the Dhamma. If we
@@ -4045,8 +4045,8 @@ the Eightfold Path give knowledge and understanding and lead to peace
 and awakening. That’s the function of the path. When we are aligned with
 the Middle Way, we are in balance—this happens naturally.
 
-In Pāḷi the word *karaṇī,* as in *cakkhukaraṇī, ñāṇakaraṇī,* means *to
-make* or *to produce.* It’s an emphatic verb. This suggests that when we
+In Pāḷi the word *karaṇī,* as in *cakkhukaraṇī, ñāṇakaraṇī,* means “to
+make” or “to produce”. It’s an emphatic verb. This suggests that when we
 put our practice into balance, a good result will be produced. It’s
 helpful to develop a sense of confidence in this natural
 cause-and-effect relationship.
@@ -4761,8 +4761,8 @@ direction toward a state of peace, understanding, and calm.
 ## Luang Por Pasanno • October 2013
 
 In several suttas, the Buddha points to *cāga* as a quality that
-facilitates harmony. *Cāga* is an interesting word. It means *giving* or
-*sharing* and also *giving up*. It’s not only the quality of generosity,
+facilitates harmony. *Cāga* is an interesting word. It means giving or
+sharing and also giving up. It’s not only the quality of generosity,
 but also the ability to give up our fears, views, and opinions—things
 that end up creating moods and feelings of disharmony.
 
@@ -5260,7 +5260,7 @@ ourselves treating the experience of having a body as if it were an
 abstract concept. This doesn’t end up being very fruitful for us.
 
 In his seminal discourse on mindfulness of breathing, the Buddha uses
-the verb *paṭisaṃvedeti,* which means *to fully experience.*
+the verb *paṭisaṃvedeti,* which means “to fully experience.”
 We fully
 experience the body as we breathe in
 and as we breathe out; we *fully
