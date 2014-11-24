@@ -298,9 +298,9 @@ After traveling for the last month and being fairly busy, I returned to
 Abhayagiri a few days ago. I’ve tended to go back to my *kuṭi* in the
 afternoons, and it’s been really quiet. There have been no expectations
 or demands on me. I’ve noticed in the past, after a period of busyness,
-when I go back to my *kuṭi* for some quiet time, there is a feeling of
+when I go back to my kuṭi for some quiet time, there is a feeling of
 melancholy that comes up and a feeling that I should be doing something.
-I’ve been looking at that for the last two days, going back to my *kuṭi*
+I’ve been looking at that for the last two days, going back to my kuṭi
 and sitting there with that feeling. I’m not trying to label it—anxiety,
 depression, or whatever else the mind wants to call it. I’m just looking
 at it as a physical sensation and seeing how the mind is reacting to it,
@@ -1421,7 +1421,7 @@ space. So it’s vital that we share the space harmoniously to ensure that
 things get done, like the external work of taking care of the monastery
 and the internal work of spiritual practice. To lay a foundation for
 living together harmoniously, there is a need to develop a sense of
-*kataññū,* which is usually translated as “gratitude.” Now the word *gratitude*
+*kataññū,* which is usually translated as *gratitude*. Now the word *gratitude*
 is a bit loaded in the West, sort of like somebody is standing behind us
 waving his finger saying, “You should be grateful.” That’s quite a
 repelling image, and it doesn’t convey the real essence of kataññū,
@@ -2039,7 +2039,7 @@ discomfort.
 But the first thing to do when we find ourselves struggling is to
 remember that we do not have to struggle. Then we can focus on the body
 or the breath or whatever it is for us that brings that sense of peace
-and tranquility. Or we can reflect on any on of the Seven Factors of
+and tranquility. Or we can reflect on any one of the Seven Factors of
 Enlightenment—mindfulness, discernment, energy, rapture, tranquility,
 concentration, and equanimity—in order to establish a more grounded
 state of mind.
@@ -3845,7 +3845,7 @@ the heir.”
 The other brahmavihāras—mettā, karuṇā, and muditā—have an emotional
 tone, a quality of wishing well to ourselves and others, of wishing to
 be free from suffering. But the fourth one, upekkhā, equanimity, is
-developed through a conscious reflection on *kamma* and *vipāka kamma,*
+developed through a conscious reflection on kamma and *vipāka kamma,*
 action and its results. That may not sound terribly interesting, and so
 it can easily be pushed aside. But equanimity is the most refined of the
 brahmavihāras. It’s quite a significant mental quality and is difficult
@@ -5097,7 +5097,7 @@ the people we are working with. We pay attention to how we’re feeling,
 how everyone else is faring, and we notice that if it’s hot and dry,
 maybe the people working need a drink of water.
 
-With sati-sampajañña, mindfulness combined with clear comprehension,
+With *sati-sampajañña*, mindfulness combined with clear comprehension,
 there’s an overall attending to and caring for not only our own needs,
 but the needs of the people around us. Our minds are attuned to making
 the time we spend working with others an opportunity to develop that
@@ -5133,7 +5133,7 @@ a lightness, a spaciousness to the way it’s held.
 
 If we realize that the cup is already broken, then when the day comes
 that it does indeed break, our heart doesn’t break with it. The cup
-physically smashes, and we realize, *Oh, this is *anicca.* *That’s
+physically smashes, and we realize, *Oh, this is *anicca. *That’s
 always been a part of it. Its anicca is simply ripening at this moment.
 Nothing has gone wrong; nothing bad has happened.* When we understand
 anicca, we are ready for the cup to break. There’s no sense of loss or
@@ -5272,14 +5272,14 @@ things clearly, we tend to create problems for ourselves.
 
 That is why, when the Buddha taught the Four Noble Truths, he also
 taught a specific duty or response for each truth. He instructed that
-the Noble Truth of *dukkha*—the experience of suffering, discontent,
+the First Noble Truth of *dukkha*—the experience of suffering, discontent,
 dissatisfaction, stress—is to be fully known. It’s not until we fully
 know the experience of dukkha that we can begin to understand how we’re
 contributing to it, how we’re getting entangled in it, and how we’re a
-part of its cause. The second truth—the cause of dukkha—is to be
-relinquished; the third truth—the cessation of dukkha—is to be realized;
-and the fourth truth—the path or practice leading to the cessation of
-dukkha—is to be developed. But it all begins with the first truth: fully
+part of its cause. The Second Truth—the cause of dukkha—is to be
+relinquished; the Third Truth—the cessation of dukkha—is to be realized;
+and the Fourth Truth—the path or practice leading to the cessation of
+dukkha—is to be developed. But it all begins with the First Truth: fully
 knowing.
 
 Over and over again, the Buddha encourages us to develop our practice by
