@@ -22,6 +22,7 @@ class Html2Latex(xml.sax.handler.ContentHandler):
         content = re.sub('\n', ' ', content)
         if content:
             content = re.sub(r'\.\.\.', r'\ldots{}', content)
+            content = re.sub(r'\. \. \.', r'\ldots{}', content)
             content = re.sub(ur'\u2026', r'\ldots{}', content)
             content = re.sub(ur'\u201c', '``', content)
             content = re.sub(ur'\u2019\u201d', r"'\\thinspace''", content)
