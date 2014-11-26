@@ -37,18 +37,18 @@ the second, third, or fourth arrow.
 ## Ajahn Amaro • November 2008
 
 In the Dhammacakkapavatana Sutta—the Discourse on the Turning of the
-Wheel of Dhamma—the Buddha addressed the five *samaṇas*, including one
+Wheel of Dhamma—the Buddha addressed the five *samaṇas,* including one
 named Koṇḍañña, who were his practice companions before he became a
 Buddha. At the end of this talk, the Buddha recognized that Koṇḍañña
 had, with deep insight, understood the Dhamma. He said, *“Aññāsi vata
-bho* *Koṇḍañño, aññāsi vata bho Koṇḍañño ti—*Koṇḍañña understands,
+bho* *Koṇḍañño, aññāsi vata bho Koṇḍañño ti*—Koṇḍañña understands,
 Koṇḍañña understands.” Koṇḍañña had awakened to the nature of Dhamma:
-“*Dhammacakkhuṃ udapādi*—the eye of Dhamma arose.” Then the sutta
+*“Dhammacakkhuṃ udapādi*—the eye of Dhamma arose.” Then the sutta
 describes exactly what it was that Koṇḍañña saw. It wasn’t a spectacular
 vision of the heavens opening up, a bewildering light display that he
 experienced, or streams of deities beaming down from the heavens.
 Rather, his vision of the Dhamma was stated simply in the phrase,
-“*Yaṅkiñci samudayadhammaṃ sabbantaṃ nirodhadhamman ti*—whatever is
+*“Yaṅkiñci samudayadhammaṃ sabbantaṃ nirodhadhamman ti*—whatever is
 subject to arising is subject to ceasing.”
 
 On a worldly level this seems completely unremarkable. That which
@@ -345,8 +345,8 @@ conditioned to react in that particular situation. This has given me a
 lot of space around difficult interactions that occur with other people,
 and I’ve been able to recondition my own habitual reactions. When I
 experience aversion to somebody, I can think to myself, *If they could
-act differently they would act differently.* Or I might also think*,
-When the conditions change, this may no longer be their habitual
+act differently they would act differently.* Or I might also think,
+*When the conditions change, this may no longer be their habitual
 reaction.* It can be that impersonal.
 
 This is something we all can do. When we encounter a situation with that
@@ -378,7 +378,7 @@ state right now? What’s the intention? What’s the volition within the
 mind? Is this skillful or not skillful? How do I create and maintain a
 quality of skillfulness?* This is the kind of investigation we can carry
 with us throughout the day. Whether we are sitting in the Dhamma Hall,
-back at our *kuṭis*, or doing our chores, reflecting in this way
+back at our *kuṭis,* or doing our chores, reflecting in this way
 internalizes our experience. It gives us an anchor for recognizing
 whether we’re on track or not, whether we’re according with Dhamma or
 have lost the plot.
@@ -633,7 +633,7 @@ can to gain perspective on them and remember that they come and go. We
 shouldn’t blindly delight in good moods either. It’s okay to enjoy a
 good mood, but if we get lost in it then we’ll get lost when a bad mood
 comes around as well. There’s no way around that. We can’t realistically
-say, *I’ll take the good moods and forget the bad moods*. We train
+say, *I’ll take the good moods and forget the bad moods.* We train
 ourselves in meditation with any mood that comes up. We take stock of it
 and remember that the mood is not who we are, as we chant in the
 Anattalakkhaṇa Sutta. When a mood arises, we do our best to recognize
@@ -932,7 +932,7 @@ helping to clarify the central principles of our lives.
 The activities of the Observance Day—taking the precepts, shaving the
 head, having the all-night vigil, and putting aside the work routine—are
 all geared toward reinforcing the reason we’re here at the monastery.
-We’re not here to construct *kuṭis*, post pictures on the website, cook
+We’re not here to construct *kuṭis,* post pictures on the website, cook
 meals, or any of the 10,000 tasks that occupy our attention. The whole
 point of this place existing, this gathering of human beings on this
 particular patch of hillside, is to realize the Dhamma—to let go of
@@ -1156,7 +1156,7 @@ can be quite enjoyable.
 
 ## Ajahn Yatiko • July 2012
 
-It is worth reflecting on the Thai phrase *krueng yoo.* *Krueng*
+It is worth reflecting on the Thai phrase *krueng yoo. Krueng*
 literally means tool. When it is combined with *yoo,* the loose
 translation is a tool used to sustain. With Dhamma in mind, krueng yoo
 can mean a practice that is used to help sustain one’s spiritual
@@ -1395,7 +1395,7 @@ journey.
 
 ## Luang Por Pasanno • August 2012
 
-Yesterday at teatime, we were talking about *sampajaññ*a*,* clear
+Yesterday at teatime, we were talking about *sampajañña,* clear
 comprehension, which is a quality we can reflect on in our daily
 practice. When the Buddha speaks about mindfulness—*sati*—he rarely
 treats mindfulness as an isolated quality. It’s usually in conjunction
@@ -1751,7 +1751,7 @@ last day of your life would be tragic. You might also acknowledge the
 ordinary and practical aspects of life, saying to yourself, *I still
 have things I have to do today. I need to do chores and go to work. Let
 me do this in a way that’s going to be an offering so that I can give of
-myself.* *I can support the monastery or help some people.* And finally,
+myself. I can support the monastery or help some people.* And finally,
 you might say, *Today is my last opportunity to free the heart from the
 defilements. Let me do my best.*
 
@@ -1906,7 +1906,7 @@ activities. This can be helpful even with very simple things like
 preparing for *pūjā* or getting ready for work. Wherever we go, we don’t
 create a mess, we leave things neat and tidy. After washing our robes in
 the washing room, we wipe up the water around the sink; we make sure
-things are clean and tidy when we leave. Leaving our *kuṭ*i*,* we ask
+things are clean and tidy when we leave. Leaving our *kuṭi,* we ask
 ourselves if everything is neat and tidy. We see that everything is done
 in a circumspect, crisp, and clear manner. In this way, we can cultivate
 an attitude of leaving no trace.
@@ -1962,7 +1962,7 @@ I restrain the urge to comment, to speak, to put forth some opinion or
 some perspective?*
 
 We’re a very large community these days. The monks’ room has many people
-passing through at different times—just before morning *pūjā*, at
+passing through at different times—just before morning *pūjā,* at
 morning teatime, preparing for a morning meeting, during bowl setup,
 preparing for the work period, getting changed after the work period,
 cleaning up after the meal, enjoying evening teatime, before and after
@@ -2283,7 +2283,7 @@ internal qualities.
 We often think of insight meditation as something that we do as part of
 the formal practice. The usual instructions are to take some time to
 focus and concentrate the mind and when it’s steady, to begin reflecting
-upon the flow of experience in terms of *anicca*, *dukkha*, and
+upon the flow of experience in terms of *anicca, dukkha,* and
 *anattā*—impermanence or uncertainty, unsatisfactoriness, and
 selflessness or things not being self. Luang Por Chah encouraged us to
 employ these themes of investigation and contemplation, not just on the
@@ -2338,8 +2338,8 @@ spaciousness and freedom for ourselves. The perception of anicca loosens
 the boundaries and obstructions we continually create through thinking,
 presumptions, opinions, judgments, expectations, and plans. We can learn
 to hold material objects, thoughts, feelings, and actions in the context
-of uncertainty. *This judgment is uncertai*n*,* or *This activity is
-uncertai*n*.* When perceiving in this way, the heart is completely ready
+of uncertainty. *This judgment is uncertain,* or *This activity is
+uncertain.* When perceiving in this way, the heart is completely ready
 and open for the changes that can and often do occur.
 
 If things go in a fortunate way, then we feel the pleasure of that. If
@@ -2543,7 +2543,7 @@ if his blood dried up and his bones crumbled. We say to ourselves,
 Ajahn Chah, Ajahn pointed back at him and said, “Maybe *this* Buddha
 trying to do that isn’t the same as the *old* Buddha.” What Ajahn meant
 was that the Bodhisatta’s resolve was the culmination of hundreds of
-thousands of lifetimes spent building the *pāramī*, with steadiness and
+thousands of lifetimes spent building the *pāramī,* with steadiness and
 patience.
 
 So that’s what we focus on—this steadiness of effort and patient
@@ -2630,7 +2630,7 @@ living in Thailand. At first I was resentful of mosquitoes coming in and
 feeding on me, but at some point I realized that the body is a large,
 pungent magnet, like a big supermarket sign advertising a food source
 where the doors are always open. We don’t think of ourselves like that.
-We think, *These darn mosquitoes are annoying* *me!* *These flies are
+We think, *These darn mosquitoes are annoying me!* *These flies are
 landing on me!* But if we see that this body is simply a pile of
 heat-producing organic matter with interesting fumes, it makes sense
 that it would draw insects to it. If we shift the perspective a little,
@@ -2687,7 +2687,7 @@ its proper place, and then doing what’s called for, even if it’s not
 that, the monastery functions beautifully.
 
 The Buddha based this entire path of liberation upon the experience of
-dissatisfaction, discomfort, stress, suffering—*dukkh*a*.* Paying
+dissatisfaction, discomfort, stress, suffering—*dukkha.* Paying
 attention to details is a doorway though which we can learn what leads
 to dukkha and what doesn’t. While it may seem like a small thing, this
 attention is essential if we’re to live our lives skillfully and in a
