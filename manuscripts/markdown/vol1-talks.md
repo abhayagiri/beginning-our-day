@@ -330,7 +330,7 @@ to feel what we are feeling.
 ## Luang Por Pasanno • July 2005
 
 The other night Ajahn Sucitto gave a Dhamma talk about the type of
-*kamma* that leads to the end of kamma, and one type of kamma he spoke
+kamma that leads to the end of kamma, and one type of kamma he spoke
 about was stopping. The
 importance of stopping is often overlooked. We get so caught up in
 doing, becoming, activity, and engagement that we don’t attend to
@@ -797,7 +797,7 @@ these defilements and let go.
 
 Sometimes we may think it’s impossible for the mind to let go, but it is
 important that we not think this way. The mind will let go in its own
-time according to its conditioning and its *kamma.* In particular,
+time according to its conditioning and its kamma. In particular,
 letting go depends on the kamma of our skillful effort in the practice.
 We don’t need to figure out when the mind will let go, we just keep
 practicing. Walking, standing, sitting, or lying down, we keep the
@@ -2292,7 +2292,7 @@ and maladies. When we reflect on the nature of our human bodies, we can
 see these bodies aren’t really under our control. They don’t obey our
 wishes, our wants, or our desires to be healthy and always comfortable.
 They have their own quirks. Each one of our bodies has a particular set
-of constituents, elements, and predispositions through *kamma,* biology,
+of constituents, elements, and predispositions through kamma, biology,
 and genetics. Each body is more or less following its own life, its own
 course, and there is not a huge amount of control that we have over it.
 We can try to influence it and try to give it proper nourishment and
@@ -2482,7 +2482,7 @@ Nevertheless, the idea of interdependence is something that can be
 helpful to contemplate because even though it may not be valid in terms
 of dependent origination, it has a truth to it. We’re very much affected
 by each other, dependent on each other, and influence each other, and
-we’re inexplicably woven together through the various forces of *kamma*
+we’re inexplicably woven together through the various forces of kamma
 in our cyclical existence in *saṃsāra.* With this, there are all the
 various ways that kamma works itself out that we don’t really understand
 and can’t possibly comprehend because it’s so complicated. We find
@@ -3836,7 +3836,7 @@ believe is at the core of our daily lives.
 When we do the chanting on the four divine abodes, the
 *brahmavihāras—mettā, karuṇā, muditā, upekkhā,* loving-kindness,
 compassion, gladness, equanimity—going through each one, it’s important
-to notice the development of equanimity around reflections on *kamma,*
+to notice the development of equanimity around reflections on kamma,
 actions of cause and effect. “I am the owner of my kamma, heir to my
 kamma, born of my kamma, related to my kamma, abide supported by my
 kamma. Whatever kamma I shall do, for good or for ill, of that I will be
@@ -4302,7 +4302,7 @@ uniting it with an act which is intrinsically wholesome, a brightening
 act of generosity and kindness. Acts of generosity and dedicating merit
 bring happiness, brightness, and invigoration to the mind and the heart.
 Over time, a succession of gathering, making offerings, and creating
-wholesome *kamma* in relationship to that person slowly transforms the
+wholesome kamma in relationship to that person slowly transforms the
 occasion of their death from being something associated with an
 experience of loss and absence into something that is much more a cause
 for brightness and happiness to arise.
@@ -5035,7 +5035,7 @@ simply reflective of the way *saṃsāra* is. It wouldn’t be saṃsāra if
 things were always going perfectly. By the mere existence of saṃsāra, we
 know that everything in the material world, the realm of the human body
 or psyche is going to either break, change, or deteriorate according to
-certain laws of biology and *kamma.* These are natural laws that create
+certain laws of biology and kamma. These are natural laws that create
 the flow of arising and passing away. If we reflect, we can see how our
 expectations take us in a direction that sometimes leads to *dukkha.*
 For example, we get “the diagnosis” and we think, *Why me? I’ve done

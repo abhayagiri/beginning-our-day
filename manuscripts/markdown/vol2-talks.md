@@ -992,7 +992,7 @@ mind, so that they’re conducive to clarity, wisdom, and wholesome states
 of mind.
 
 Everyday we recite the Five Subjects for Frequent Recollection. When
-reciting the fifth, we recollect: “I’m the owner of my *kamma,* heir to
+reciting the fifth, we recollect: “I’m the owner of my kamma, heir to
 my kamma, born of my kamma, related to my kamma, abide supported by my
 kamma. Whatever kamma I shall do, for good or for ill, of that I will be
 the heir.” These recollections help us establish our kamma—our actions
@@ -1247,7 +1247,7 @@ suffering of others and had so much compassion for wanting to end it
 that he offered his life on the cross for all other beings, saying that
 he would willingly die so that others could be absolved of their sins.
 That’s not something that we as Buddhists think is possible—that we
-could take somebody else’s *kamma* away from them. But the notion of
+could take somebody else’s kamma away from them. But the notion of
 wanting to be able to do that, even if it’s not possible, is quite a
 powerful contemplation. The sense of wanting others to be free of
 suffering so much that we are willing to die for it—that’s, at least, in
@@ -1351,7 +1351,7 @@ difficult to settle into the joy of life, to sit back and enjoy being
 alive. He thought that something was wrong with that. I explained to him
 that from a Buddhist perspective it’s not about settling into a joy
 that’s supposedly inherent in life, rather, joy is something that comes
-from past action, from *kamma.* As my father used to say, “There’s no
+from past action, from kamma. As my father used to say, “There’s no
 such thing as a free lunch.” That’s so true and a good reflection for
 the practice. If we want to experience joy, it takes effort. How could
 it be any other way? While it may seem somewhat paradoxical, the effort
@@ -1765,7 +1765,7 @@ can reaffirm our intention to be free of greed, hatred, and delusion, to
 be content with our experience. No matter how difficult our situation
 is—our health, our position, or our mental states—it’s not so bad. It
 could be much worse. It’s enough to be content with. This is simply
-where we find ourselves in this moment. This is where our *kamma* has
+where we find ourselves in this moment. This is where our kamma has
 put us. And it is possible for us to be content with our situation and
 to use it to free ourselves from the defilements.
 
@@ -2630,7 +2630,7 @@ living in Thailand. At first I was resentful of mosquitoes coming in and
 feeding on me, but at some point I realized that the body is a large,
 pungent magnet, like a big supermarket sign advertising a food source
 where the doors are always open. We don’t think of ourselves like that.
-We think, *These darn mosquitoes are annoying me!* *These flies are
+We think, *These darn mosquitoes are annoying me! These flies are
 landing on me!* But if we see that this body is simply a pile of
 heat-producing organic matter with interesting fumes, it makes sense
 that it would draw insects to it. If we shift the perspective a little,
@@ -2876,7 +2876,7 @@ and work very closely with greed, hatred, and delusion.
 
 It’s not as if we’re trying to create a different person in the future
 who will then be more skilled and capable, *If only I didn’t have so
-much anger or craving* . . . *I’ll work on that so in the future I will
+much anger or craving . . . I’ll work on that so in the future I will
 become somebody who can be much more free.* While it is true that things
 develop over time, it is the effort we put forth right here and right
 now, seeing our reactions and habits just as they arise that allows us
@@ -3035,7 +3035,7 @@ us.
 
 ## Ajahn Yatiko • June 2013
 
-Due to our past *kamma*, we have found ourselves in a Buddhist community
+Due to our past kamma, we have found ourselves in a Buddhist community
 with harmony and good feelings, and most importantly, we have teachings
 that are encouraging us in the practice and leading us to truth and
 peace. We have the space and time to practice and relatively good
@@ -3629,14 +3629,14 @@ the habits of mind that cause us suffering.
 As far as habits go, it’s much easier to develop good habits right from
 the beginning rather than trying to correct our bad habits once they’ve
 set in. When people first come to live at a monastery— especially junior
-monks, novices, anagārikas*,* or long-term lay residents—that is the
+monks, novices, anagārikas, or long-term lay residents—that is the
 time for them to develop good habits. It’s much easier to accomplish in
 the early years, because the energy to do so is most available and
 present. So that’s the time to reflect on and establish the practices
 recommended by the Buddha.
 
 Whenever we perform an action there’s a tendency for that action to be
-repeated—that’s an aspect of *kamma.* If we chose to act in a certain
+repeated—that’s an aspect of kamma. If we chose to act in a certain
 way under certain conditions, then whenever those conditions recur,
 we’re likely to act in the same way. When new monastics right away get
 caught up into busyness, distraction, and work projects, then it’s
@@ -3730,7 +3730,7 @@ completely free of basic animal instincts. Our brains may have
 well-developed cortices and speech centers but we also have the lower
 functioning parts that are influenced by basic unwholesome tendencies
 toward territory, ownership, and a sense of “me” and “mine.” These
-tendencies are still part of our cultural inheritance, our *kamma*, and
+tendencies are still part of our cultural inheritance, our kamma, and
 our biology. No matter how skilled we are with an ability to speak, no
 matter how clever we are in the way we think and analyze, these
 tendencies still come bubbling up.
@@ -4098,7 +4098,7 @@ eye, eye consciousness, eye contact, the feeling that arises with eye
 contact, visual objects, everything to do with the process of vision—and
 the same with the processes of hearing, smelling, tasting, touching, and
 mental activities—they’re all burning with passion, aversion, and
-delusion. He then says, “*Evaṃ passaṃ bhikkhave sutvā ariyasāvako
+delusion. He then says, *“Evaṃ passaṃ bhikkhave sutvā ariyasāvako
 cakkhusmiṃ pi nibbindati*—Seeing thus, bhikkhus, the wise noble disciple
 becomes dispassionate toward the eye, toward visual objects, toward eye
 consciousness, toward eye contact, and the feeling that arises with eye
@@ -4251,7 +4251,7 @@ unknown, and it is going to be a radical transformation. That’s exciting
 and interesting, to say the least. Admittedly, death is uncertain, so we
 don’t want to slip into superstition or ungrounded confidence with
 regard to it. We simply want to be willing to open ourselves to it, to
-trust in the *kamma* we have made as human beings and especially, as
+trust in the kamma we have made as human beings and especially, as
 Buddhist practitioners. By trusting in that kamma, we can have the
 courage to open up to the uncertainty of what will come. That is the
 real adventure of the death process.
@@ -4273,7 +4273,7 @@ of walking. They weren’t used to carrying all their gear for such a long
 distance, but they’ll get used to it. They were planning to leave
 Willits yesterday and head up north. Who knows how far they might get
 today and where they’ll be going on alms-round. That is part of the
-adventure and part of the practice of taking on uncertainty, *anicca*.
+adventure and part of the practice of taking on uncertainty, *anicca.*
 
 When we are out on the road walking like that, uncertainty is a constant
 presence. In fact, wherever we are and whatever we are doing—whether on
@@ -4443,7 +4443,7 @@ something, simply making a decision to renounce it doesn’t mean we’re
 done. It’s a process.
 
 Letting go from the heart takes passion, questing, searching,
-determination, time, and cultivating the right *kamma.* Renunciation is
+determination, time, and cultivating the right kamma. Renunciation is
 something that requires commitment, time, and patience. It takes every
 opportunity we have to incline the mind toward letting things go. But we
 can start with small steps, letting go of little problems and
@@ -4524,7 +4524,7 @@ see sights and hear sounds, touch objects, make decisions, engage with
 our bodies in the material world and with the 10,000 thoughts, moods,
 and ideas that arise from those various forms of sense contact. The more
 we internalize and make use of the teachings on dependent origination,
-the more we are aware that this is merely sense contact—*phassa*. Sense
+the more we are aware that this is merely sense contact—*phassa.* Sense
 contact gives rise to pleasant, unpleasant, and neutral feelings—this is
 beautiful, this is ugly, this is ordinary. From that launchpad of
 feeling, in the ordinary flow of our experience, *taṇhā* or craving
@@ -4559,7 +4559,7 @@ and mindfulness is sustained acutely, then ignorance—the whole duality
 of me as a person experiencing the world out there, of me here going
 somewhere else, the subject being the knower of the object—is not given
 any strength or substance. If we don’t catch it, however, that is when
-*avijjā paccaya* *saṅkhāra—*ignorance conditions mental formations. When
+*avijjā paccaya saṅkhāra*—ignorance conditions mental formations. When
 there is ignorance, then that duality of saṅkhāra or compoundedness
 arises. But if there is full awareness, full knowing, full mindfulness,
 then even that subtle degree of ignorance or delusion does not arise and
@@ -4587,7 +4587,7 @@ The Buddha taught the *Saranīya Dhammas,* which are the six principles
 of conciliation or harmonious living. The first three of these Dhammas
 are based on bodily, verbal, and mental acts of loving-kindness. By
 generating loving-kindness, we create a strong condition for the arising
-of wholesome *kamma*. When we establish harmony with others, we build on
+of wholesome kamma. When we establish harmony with others, we build on
 that foundation of loving-kindness. The fourth Dhamma, which encourages
 sharing or giving, also has its basis in loving-kindness. When one is
 living together in a community as we do, this quality of sharing is
@@ -4638,7 +4638,7 @@ creating and perceiving the beautiful in the body, to become attached to
 it, worry and fight about it, and become distressed when we lose it.
 
 We all have *rāga-taṇhā,* sensual desire, as part of our being. If our
-parents didn’t have rāga-taṇhā*,* we wouldn’t be here. When it’s
+parents didn’t have rāga-taṇhā, we wouldn’t be here. When it’s
 present, we want to perceive the beautiful in the body. When it’s not
 present, the body doesn’t seem so beautiful anymore—it doesn’t appeal to
 us in the same way. We’re no longer in the grip of a desire that can
@@ -4978,7 +4978,7 @@ conditions of the world or the conditions of identity and self view.
 Developing insight around the aspect of *anattā,* not-self, is often
 understood to arise from a sudden insight, awakening, or penetration
 that results from the culmination of earnestly practicing *samatha* and
-*vipassanā*, concentration and insight. In a sense there’s a truth to
+*vipassanā,* concentration and insight. In a sense there’s a truth to
 that. A deep and penetrating insight does come through investigation.
 But there’s a slow, gradual process that’s a part of coming to this
 insight of not-self as well. The word that describes this slower process
@@ -5127,7 +5127,7 @@ ourselves against this or that person. Notice how delightful and
 wonderful it is to have none of that being created. We realize, *Oh look
 at that. If I don’t create it, then it’s not there. What an amazing
 surprise!* So much of the stress and difficulty of our personal worlds
-is generated from our own *cittas*, our own minds and hearts. If we
+is generated from our own *cittas,* our own minds and hearts. If we
 ourselves stop creating that division and stress—that friction and heat
 from the grindstone—then we find the citta becomes cool because the
 division and tension simply aren’t there.
@@ -5312,7 +5312,7 @@ all that, as well as trying to keep things fairly quiet.
 
 Last week, during the Thanksgiving Retreat, I didn’t really have a plan
 in mind for what I was going to teach. I ended up talking a lot about
-*anicca,* *dukkha,* and *anattā,* and how these three characteristics
+*anicca, dukkha,* and *anattā,* and how these three characteristics
 display themselves in our practice and how central they are to our
 practice. We constantly use reflections of impermanence,
 unsatisfactoriness, and not-self when investigating our experience. This
