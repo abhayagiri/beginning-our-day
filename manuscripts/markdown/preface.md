@@ -31,13 +31,14 @@ recorder in front of one of the senior monks during a morning reflection
 and proposed that a book be written. Matthew Grad, Jeff Miller, Ila
 Lewis, Ray Peterson, and Laurent Palmatier were the main substantive
 editors of the material, enduring the long and difficult process of
-editing the transcripts into compact and well-written teachings. Ruby
-Grad and Pamela Kirby completed the copy editing. Shirley Johannesen
-compiled the glossary. David Burrowes, Dee Cope, Josh Himmelfarb, Evan
-Hirsch, Jeanie Daskais, Anagārika John Nishinaga, and members of the
-Lotus Volunteer Group: Viveka and Wendy Parker all helped with further
-refining of the text. Sumi Shin designed the cover. Jonathan Payne took
-the cover photos. Michael Smith tumbled the stones for the back cover.
+editing the transcripts into compact and well-written teachings. Pamela
+Kirby helped with multiple stages of the editing process. Ruby Grad
+completed the copy editing. Shirley Johannesen compiled the glossary.
+David Burrowes, Dee Cope, Josh Himmelfarb, Evan Hirsch, Jeanie Daskais,
+Anagārika John Nishinaga, and members of the Lotus Volunteer Group:
+Viveka and Wendy Parker all helped with further refining of the text.
+Sumi Shin designed the cover. Jonathan Payne took the cover photos.
+Michael Smith tumbled the stones for the back cover.
 
 For several years, Khemako Bhikkhu recorded the senior monks’
 reflections. Kovilo Bhikkhu and Pesalo Bhikkhu provided corrections on
@@ -47,6 +48,8 @@ the text.
 
 The Kataññutā group of Malaysia, Singapore, and Australia generously
 brought this book into full production.
+
+Any errors that remain in these reflections are my own responsibility.
 
 May these teachings bring insight into the nature of Dhamma and provide
 a pathway toward the development of true peace and contentment.
