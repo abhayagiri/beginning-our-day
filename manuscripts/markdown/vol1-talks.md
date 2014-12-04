@@ -17,7 +17,7 @@ or what is troublesome. The choice we make is up to each one of us.
 
 ## Ajahn Amaro • December 2008
 
-Contentment, or *santuṭṭhi,* is often talked about in the context of
+Contentment, or *santuṭṭhi*, is often talked about in the context of
 material possessions, particularly in our reflections on the four
 requisites of robes, alms food, lodging, and medicine. It’s the quality
 of being content with whatever is offered—the food that’s presented to
@@ -65,7 +65,7 @@ taking it too far in the opposite direction. Contentment is a bright and
 energetic state, but it’s also free from self view and
 self-centeredness. It’s not colored by an I-me-mine attitude.
 
-Santuṭṭhi is not only a basis for samādhi, but also for *vipassanā,*
+Santuṭṭhi is not only a basis for samādhi, but also for *vipassanā*,
 insight. It’s the ability to be content with seeing this feeling, this
 thought, this mood, or this memory as a pattern of nature. We’re not
 buying into it, trying to read a story into it, or claiming it as self
@@ -73,7 +73,7 @@ or other. Contentment allows us to leave things alone. A painful memory
 arises, does its thing, and ceases. An exciting fantasy arises, does its
 thing, and ceases. An important responsibility arises, does its thing,
 and ceases. That’s it. This is a characteristic of contentment, we’re
-able to leave things alone. The *saṅkhāras,* the patterns of the
+able to leave things alone. The *saṅkhāras*, the patterns of the
 world—we can let them be. It’s not because we’re switching off, we don’t
 care, or we’re resentfully resigned to some situation. Rather, it’s a
 gentleness and presence of mind, a sense of the fullness of being. We’re
@@ -126,7 +126,7 @@ can still share the exact same chaotic mental state as 99 percent of the
 rest of the planet. In those instances we are caught up in the same
 momentum and are identified with it, not questioning it, and flowing on
 and on in the stream of becoming. So we need to use these opportunities
-and formal structures like meetings, *pūjās,* Dhamma talks, and
+and formal structures like meetings, *pūjās*, Dhamma talks, and
 reflections to break that pattern. For you laypeople living outside of a
 monastery it is important to encourage yourselves to find environments
 where you can create a break in that flow of momentum. This can provide
@@ -462,7 +462,7 @@ truth in our hearts, then when we die and they cremate us, our lives
 will be worth no more than the handful of ashes we produce—and that’s
 not much! We must investigate how to live in a way that truly accords
 with what the Buddha taught. Then we can live in harmony without
-conflicts, difficulties, and problems. *Sīla,* morality, is that which
+conflicts, difficulties, and problems. *Sīla*, morality, is that which
 shows us the Buddha’s Middle Way. It points to the avoidance of the
 extremes of pleasure and pain; it means knowing the right amount. When
 we live in the Middle Way regarding actions of body and speech, then we
@@ -524,7 +524,7 @@ We can become quite focused on our faults, wrongdoings, and the things
 we said that were less than generous, friendly, helpful, or patient.
 Even after someone has asked us for advice, what we think about later is
 how much better it would have been to have said this or that. *Oh, I
-really didn’t get that right*. The attention goes to all our
+really didn’t get that right.* The attention goes to all our
 shortcomings, failures, and weaknesses, and we obsess on those
 qualities.
 
@@ -532,7 +532,7 @@ That’s how it was for Ajahn Sumedho. So when Luang Por Chah suggested,
 “Why don’t you recollect all of your good qualities?” there was no
 pigeonhole for him to put them in. At that time any good quality he had,
 he saw as inflated, egotistical, proud, or conceited. But Luang Por
-said, “No. This is *cāgānussati,* recollecting your goodness,
+said, “No. This is *cāgānussati*, recollecting your goodness,
 recollecting your own generosity. It’s a completely normal concept.”
 Now, since we’ve had the good fortune to hear Laung Por Chah’s advice to
 Ajahn Sumedho, it would behoove us to put that advice into practice for
@@ -540,7 +540,7 @@ ourselves.
 
 One way for us to do that is to recollect all the good effort we’re
 making in looking after the kitchen, providing food, looking after the
-construction projects, the *kuṭis,* the buildings, or the micro-hydro
+construction projects, the *kuṭis*, the buildings, or the micro-hydro
 project we’re setting up. These are acts of generosity and kindness, of
 putting forth effort and putting forth our time to help other people.
 Many people have helped with the construction of the kuṭi down by the
@@ -574,7 +574,7 @@ It’s not indulgence, egotism, or pride to be reflecting on that
 goodness. The Buddha himself encourages cāgānussati, recollecting our
 generosity, because that brightens and brings joy to the mind. We can
 take some time to recollect all the efforts that we’re making on the
-practical front as well as on the *bhāvanā,* the meditation. The word
+practical front as well as on the *bhāvanā*, the meditation. The word
 *anumodanā* means rejoicing in the goodness that has been done. The
 cynical mind says, *Yeah, well, that’s one thing. But I’ve really got
 some serious problems. Basically I’m just a defiled mess. I really am!*
@@ -695,7 +695,7 @@ the way it is.
 
 The fact that we experience a particular object as something we don’t
 like is because of the way we structure our values and priorities
-*within.* None of what we experience from the outside—be it community,
+*within*. None of what we experience from the outside—be it community,
 people, activities, or responsibilities—has an objective, factual
 existence. It’s something that we experience through our internal
 senses. We give meaning to things and based on the meaning we give, we
@@ -763,11 +763,11 @@ Both in our formal meditation practice and throughout the day we can
 bring to mind and recollect the Buddha, the Dhamma, the Saṅgha, virtue,
 generosity, celestial beings, the body, death, the breath, and
 Nibbāna—peace. Another helpful theme that is not on this list is the
-quality of *saṃvega,* spiritual urgency or a chastening of worldly
+quality of *saṃvega*, spiritual urgency or a chastening of worldly
 tendencies. This can help remind us of death and the limitations of the
 body. A complementary theme for saṃvega is to set up the intention to
 put forth effort, to realize what the Buddha taught and the example that
-he set. Another important quality that comes to mind is *pasāda,* which
+he set. Another important quality that comes to mind is *pasāda*, which
 is a sense of serene confidence and clarity of well-being; it has a
 joyful sense to it.
 
@@ -816,7 +816,7 @@ out the other screw that didn’t have any problems. I started prying the
 blade out and ended up breaking the planer entirely. Afterward I
 reviewed my mind, and I thought, *I told Doug that I was prepared to
 fail at this, but actually I wasn’t prepared to fail at all.* I spent
-the next three days mired in *dukkha,* full of reproach about my foolish
+the next three days mired in *dukkha*, full of reproach about my foolish
 mistake. It took quite a while to let that one go. So it’s important to
 learn how to fail without taking it personally. After all, taking things
 personally is the very thing we’re learning to let go of.
@@ -1070,7 +1070,7 @@ this simple word. On the in-breath, “Bud.” On the out-breath, “dho.”
 Ajahn Liem is known for working all day long and encouraging the
 monastic community to contribute a great deal of work and service.
 That’s a big part of his teachings. But how well does it fit with our
-practice here? When we are away from our *kuṭis,* many of us carry with
+practice here? When we are away from our *kuṭis*, many of us carry with
 us the desire to return there right away and continue our formal
 practice of sitting and walking meditation. Suppose a senior monk tells
 us that the monastery just received a very large shipment of books, and
@@ -1148,7 +1148,7 @@ To be free of the world and worldly tendencies, we need to take leave of
 the world. Taking leave of the world means taking leave of the
 self-making, I-making habit. In the Buddha’s idiom, when we buy into the
 notion of self, it is an affirmative action we are doing:
-*ahaṅkāra-mamaṅkāra-mānānusayā,* the I-making, my-making, based on the
+*ahaṅkāra-mamaṅkāra-mānānusayā*, the I-making, my-making, based on the
 underlying tendency of conceit. It is the action of getting ourselves
 wrapped up in the perceptions of self—and believing in them.
 
@@ -1163,8 +1163,8 @@ perspective is a central part of our practice.
 ## Ajahn Jotipālo • July 2013
 
 I have been listening to a few of Bhikkhu Bodhi talks on loving-kindness
-and was surprised when he mentioned that the word *khanti,* patience,
-is very closely related to the word *mettā,* loving-kindness. I hadn’t
+and was surprised when he mentioned that the word *khanti*, patience,
+is very closely related to the word *mettā*, loving-kindness. I hadn’t
 recognized that before.
 
 He explained that in practice situations, the use of mettā is more of an
@@ -1308,13 +1308,13 @@ heart.
 
 ## Ajahn Amaro • August 2008
 
-*Papañca,* a favorite theme of Ajahn Pasanno’s, is that stream of
+*Papañca*, a favorite theme of Ajahn Pasanno’s, is that stream of
 incessant thinking, the flood of conceptual proliferation that the mind
 can so easily bring up. This produces an endless chatter of
 commentating, fretting, recollecting, recreating, planning, and
 imagining. The Buddha pointed to three particular qualities which are
 the driving forces behind these processes: craving, conceit, and
-views—the *papañca dhammas.* In the Anattalakkhaṇa Sutta—the Discourse
+views—the *papañca dhammas*. In the Anattalakkhaṇa Sutta—the Discourse
 on the Characteristic of Not-Self—he outlined these qualities in very
 simple terms. *Taṇhā* or craving is defined as *etaṃ mama: This is
 mine. This belongs to me. This is my ladder, my chopping board, my
@@ -1390,7 +1390,7 @@ meditation, where the work is to bring our minds into the present and
 cut through the delusions we create around notions of time. The entire
 universe we attach to—what we like, dislike, dread, hate, fear, love—is
 a creation of our minds. We’ve created it in the present moment. Then we
-create this illusion of time and a whole universe of *saṃsāra,* which we
+create this illusion of time and a whole universe of *saṃsāra*, which we
 feel trapped in. But the whole creation of time is something we do now,
 in the present moment.
 
@@ -1421,12 +1421,12 @@ space. So it’s vital that we share the space harmoniously to ensure that
 things get done, like the external work of taking care of the monastery
 and the internal work of spiritual practice. To lay a foundation for
 living together harmoniously, there is a need to develop a sense of
-*kataññū,* which is usually translated as gratitude. Now the word *gratitude*
-is a bit loaded in the West, sort of like somebody is standing behind us
-waving his finger saying, “You should be grateful.” That’s quite a
-repelling image, and it doesn’t convey the real essence of kataññū,
-which is the faculty within us that recognizes and appreciates the
-goodness of others.
+*kataññū*, which is usually translated as gratitude. Now the word
+*gratitude* is a bit loaded in the West, sort of like somebody is
+standing behind us waving his finger saying, “You should be grateful.”
+That’s quite a repelling image, and it doesn’t convey the real essence
+of kataññū, which is the faculty within us that recognizes and
+appreciates the goodness of others.
 
 It’s important to exercise this faculty of kataññū to counteract the
 mind’s tendency to focus on the things that irritate us, the flaws, the
@@ -1615,7 +1615,7 @@ same with the energy and effort we put into our practice.
 
 Through this entire process, especially the first phase, it is extremely
 helpful to hold the attitude and perception that making an effort is
-actually *pleasant.* If effort is exercised properly, the experience of
+actually *pleasant*. If effort is exercised properly, the experience of
 effort is enjoyable, invigorating—something we can learn to delight in.
 If we don’t take delight in putting forth effort, then it is quite an
 unpleasant experience. So we need to learn how to experience the
@@ -1674,7 +1674,7 @@ logistical nightmares *inside* that are the real troublemakers. It’s
 always good to bring that to mind. It’s not the external complications
 that really make things difficult, it’s the way we pick things up,
 create complications, and tangle things within ourselves. That’s the
-real cause of tension, of *dukkha,* of stress within.
+real cause of tension, of *dukkha*, of stress within.
 
 Every monastery is the same during the festival season. It draws
 together a large complex array of different tasks that need to be taken
@@ -1739,8 +1739,8 @@ is half filled, it’s finished. As you’re carrying along the carpets or
 untangling the flags, it’s finished. Even though the knot is still
 there, it’s finished.
 
-That’s because the Dhamma is here and now. The Dhamma is *akāliko,*
-timeless, and it’s *sandiṭṭhiko,* apparent here and now. The Dhamma
+That’s because the Dhamma is here and now. The Dhamma is *akāliko*,
+timeless, and it’s *sandiṭṭhiko*, apparent here and now. The Dhamma
 doesn’t simply happen when the knot is untangled or when the carpet is
 laid out and all of the food is cooked. It’s not, *Okay, the Dhamma is
 here now, it wasn’t here before.* The Dhamma is always here. During the
@@ -1750,10 +1750,10 @@ day. It’s here now.
 
 If we remember that—really let the mind awaken to that—then that
 presence to the Dhamma will inform our every action. We can then attune
-to the *citta,* the heart—to that quality, that fundamental, timeless
+to the *citta*, the heart—to that quality, that fundamental, timeless
 presence of Dhamma—in the midst of activity. Then any external
 complications won’t contribute to any internal complications, to any
-internal *papañca.*
+internal *papañca*.
 
 So without further ado I offer these thoughts for your consideration
 today. Enjoy, as they say.
@@ -1845,7 +1845,7 @@ sunny day. It just vanished.
 
 ## Luang Por Pasanno • May 2013
 
-Keeping our *kuṭis,* our dwelling places, in order helps to keep our
+Keeping our *kuṭis*, our dwelling places, in order helps to keep our
 minds in order as well. So anytime we leave our kuṭis, we should make
 sure everything is put away, neat and tidy.
 
@@ -1897,18 +1897,18 @@ the community in whatever way one can.
 
 During my retreat, I spent some time reflecting on the theme of giving.
 In the Pāḷi language there are a couple of different words used for
-giving. There is *dāna,* which
-is generosity or giving, and *cāga,* which has a broader
-scope than generosity. Cāga refers to the aspect of giving as well, but
-it can be used more with the tone of giving over, giving to something,
-or giving up in terms of relinquishment. There is a sense of handing
-over or giving toward some higher ideal that can manifest in many ways.
-We can give up a material object as an offering with a sense of
-selflessness. This might be an object we like or something we would like
-to keep, but for the sake or benefit of somebody else we give it over to
-someone. With cāga, when we give, it is not with a feeling of loss but
-rather with a feeling of fulfillment. There is a sense that we are
-getting more from giving up, from relinquishing than from holding on.
+giving. There is *dāna*, which is generosity or giving, and *cāga*,
+which has a broader scope than generosity. Cāga refers to the aspect of
+giving as well, but it can be used more with the tone of giving over,
+giving to something, or giving up in terms of relinquishment. There is a
+sense of handing over or giving toward some higher ideal that can
+manifest in many ways.  We can give up a material object as an offering
+with a sense of selflessness. This might be an object we like or
+something we would like to keep, but for the sake or benefit of somebody
+else we give it over to someone. With cāga, when we give, it is not with
+a feeling of loss but rather with a feeling of fulfillment. There is a
+sense that we are getting more from giving up, from relinquishing than
+from holding on.
 
 In our daily lives and in the monastery we give up time to people, give
 up self-concern and ask ourselves, *What can I do to make life a little
@@ -2082,8 +2082,7 @@ we’re doing increases our *dukkha*—our anxieties, confusion, and
 agitation—it’s a pretty sure bet that we’re not aligned with the Dhamma.
 Trying to emulate a practice used by a respected teacher may seem like a
 fine idea, but the test is whether applying that practice accords with
-the Dhamma for *you*—in your
-own, personal experience.
+the Dhamma for *you*—in your own, personal experience.
 
 To employ this test skillfully takes practice, reflection, and a
 willingness to experiment and try things out. But it’s something we need
@@ -2237,18 +2236,18 @@ outer process, but an inner process as well. It’s the formal commitment
 of an individual to this particular training and his acceptance into the
 group of monks. It also reflects an inner commitment and an inner change
 that’s useful for us to consider, whether we have hair and wear trousers
-or have a shaved head and wear a *sabong.*
+or have a shaved head and wear a *sabong*.
 
 Essentially when we talk about
 ordaining, it’s usually in terms of going forth from the household life
-into homelessness, from being an *agārika* to an *anagārika,*
+into homelessness, from being an *agārika* to an *anagārika*,
 one who lets go of the household life. But in many ways, it’s more about
 going forth from self-centered thinking to seeing in terms of Dhamma.
 It’s going forth from confusion to clarity, from a life of being half
 awake or not awake at all to wakefulness. That’s something that is
 useful for all of us to reflect on whether we’re living as a lay
 practitioner with commitments and responsibilities in the world, as an
-anagārika, as a *sāmaṇera,* or as a *bhikkhu* who has already ordained.
+anagārika, as a *sāmaṇera*, or as a *bhikkhu* who has already ordained.
 If we’ve formally made the commitment, have been “raised up” into the
 Saṅgha and have already gone forth, still, the most important aspect of
 what we are doing is that going forth from confusion and self-centered
@@ -2350,7 +2349,7 @@ skillfully. So we practice being attentive and effective with our tasks,
 duties, and interactions with other people.
 
 When we learn to do that, we can build a firm foundation of clarity and
-clear comprehension—*sampajañña.* The Buddha spoke of sampajañña as
+clear comprehension—*sampajañña*. The Buddha spoke of sampajañña as
 clearly comprehending the circumstances we’re in, the people we’re with,
 and the effects we’re having on the world around us. With this quality
 we can anchor our actions in our own non-delusion, non-confusion. And
@@ -2483,7 +2482,7 @@ helpful to contemplate because even though it may not be valid in terms
 of dependent origination, it has a truth to it. We’re very much affected
 by each other, dependent on each other, and influence each other, and
 we’re inexplicably woven together through the various forces of kamma
-in our cyclical existence in *saṃsāra.* With this, there are all the
+in our cyclical existence in *saṃsāra*. With this, there are all the
 various ways that kamma works itself out that we don’t really understand
 and can’t possibly comprehend because it’s so complicated. We find
 ourselves weaving through many, many lifetimes, receiving the results of
@@ -2867,7 +2866,7 @@ experiences, and that’s the way we move toward a reliable refuge.
 
 ## Ajahn Karuṇadhammo • August 2013
 
-A few days ago I noticed that just above the door of my *kuṭi,* there is
+A few days ago I noticed that just above the door of my *kuṭi*, there is
 a large colony of yellow jackets that has decided to make its home under
 my roof. Yellow jackets are notoriously territorial. As the summer
 continues on and becomes hotter and drier, there is less food and as the
@@ -2940,7 +2939,7 @@ lists of things to do, the never-ending need to attend to the kitchen,
 the various work projects, guest-monk duties, construction, and so
 forth. There’s a sense of continuity, of things carrying on from where
 we were before, going on and on. Ajahn Chah once came up with a
-wonderful simile: *“Saṃsāra* is like the ruts left behind the wheels of
+wonderful simile: “*Saṃsāra* is like the ruts left behind the wheels of
 a cart. As the wheels turn, the trail that’s left behind them goes on
 and on.” There’s a sense of repetition, a continuous extension through
 time. But the wheel itself is very stable, it simply pivots around its
@@ -2970,9 +2969,9 @@ ideas, and plans have a quality of flowing, of continually and
 unrelentingly moving. It’s so easy for us to be caught up in the
 urgencies of what’s gone before or what we have to do, and then to
 create a sense of self around that in the present moment. It’s important
-to question this process. When the urgencies of the mind come up*—I did
+to question this process. When the urgencies of the mind come up—*I did
 this, and I have to do that, and I need to get this done, and so-and-so
-is going to call, I have to, I have to—it’s* good to get out of the rut,
+is going to call, I have to, I have to*—it’s good to get out of the rut,
 as it were, to stop obsessing on the “have done’s” and the “have to’s,”
 and question the feeling of urgency, obligation, and entanglement with
 past and future. We can ask ourselves, *Is this endless trail of doing
@@ -2984,7 +2983,7 @@ that so? Oh, it’s terrible.—Really? Is that so?*
 
 Practicing the Dhamma doesn’t take much. It doesn’t take a lot of
 complicated activity, but it does take application. It takes
-remembrance, recollection, and mindfulness—*sati.* The word *sati* means
+remembrance, recollection, and mindfulness—*sati*. The word *sati* means
 remembering to pay attention. If we don’t remember, if we don’t bring
 attention to the practice, then that shift of perspective—escaping the
 rut of past and future—doesn’t happen. But if we do remember, then we’re
@@ -3379,15 +3378,14 @@ well-being in the midst of activity.
 
 ## Ajahn Amaro • December 2008
 
-*Sammā kammanta*—right
-action—is an essential factor of
-the Noble Eightfold Path. Often the Eightfold Path is summarized
-as *sīla, samādhi,* and *paññā,* virtue, concentration, and wisdom.
-Right action is then woven into the section on sīla, along with right
-speech and right livelihood. As a result, when we are considering
-meditation, we may focus on the samādhi section of the path and forget
-the influence of right action on our minds and states of consciousness
-throughout the day, including our time meditating.
+*Sammā kammanta*—right action—is an essential factor of the Noble
+Eightfold Path. Often the Eightfold Path is summarized as *sīla*,
+*samādhi*, and *paññā*, virtue, concentration, and wisdom.  Right action
+is then woven into the section on sīla, along with right speech and
+right livelihood. As a result, when we are considering meditation, we
+may focus on the samādhi section of the path and forget the influence of
+right action on our minds and states of consciousness throughout the
+day, including our time meditating.
 
 Often during the course of our lives in the monastery, because we have a
 prescribed set of rules for conduct and a prescribed routine, we can
@@ -3596,7 +3594,7 @@ Try to do that as a daily reflection. If we are frequently able to bring
 this perception to mind, then the more real it will become for us.
 Paradoxically, this reflection can bring up a sense of ease and calm.
 This settled quality arises from insight into the characteristics of
-*anicca* and *anattā,* impermanence and not-self. Both characteristics
+*anicca* and *anattā*, impermanence and not-self. Both characteristics
 become more apparent and real so that when serious illness or imminent
 death approaches there will be a familiarity with the nature of one’s
 finite existence. The more those familiar feelings can be brought in,
