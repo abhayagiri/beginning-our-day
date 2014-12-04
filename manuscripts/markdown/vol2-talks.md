@@ -335,8 +335,8 @@ a transient phenomenon, like the snow on the trail. It’s merely the
 result of some condition that came into being. Whatever habitual
 reactions we may have, they have been conditioned into us. They’re all
 due to past causes. And just like snow will melt given a certain
-temperature, when the conditions change for us, our reactions may can
-change.
+temperature, when the conditions change for us, our reactions may change
+as well.
 
 I used to be bothered by a couple of people in the community, the way
 they habitually reacted in certain situations. Then one day it hit me
@@ -1124,7 +1124,7 @@ mental state and what’s going on in the mind *is* our practice.
 
 ## Ajahn Jotipālo • December 2012
 
-On mornings like this—when it’s pouring down rain, when it’s not
+On mornings like this—when it’s pouring down with rain, when it’s not
 comfortably warm, and we have been assigned a job working outside which
 will be wet and inconvenient—in this situation, the mind may rebel or
 complain.
@@ -1922,9 +1922,9 @@ bang-crash-bang-crash-bang-thump-thump. So we need to be sensitive to
 the impact we have on those around us and try not to leave a trace of
 noise. In terms of our relations with people, we can reflect on the
 things we say by asking ourselves, What kind of trace am I leaving in
-this conversations by the comments I’ve made? With our internal
-processes we can ask ourselves, *What kind of trace am I leaving in my
-mind due to the moods I’ve picked up or the attitudes, views and
+this conversations by the comments I’ve made?* With our internal
+processes we can ask , *What kind of trace am I leaving in my
+mind due to the moods I’ve picked up or the attitudes, views, and
 perspectives I’m holding?*
 
 Instead of leaving behind the debris of our mental, spoken, and bodily
@@ -2916,7 +2916,7 @@ In his teachings, Tan Ajahn Dtun emphasized samādhi—concentration or
 collectedness of mind—the fourth spiritual power. In doing so, he also
 specified that the function of samādhi is to stabilize and steady
 mindfulness. Ajahn Chah taught this as well. This is important because
-it’s easy for us to get caught in up our preconceptions about the
+it’s easy for us to get caught up in our preconceptions about the
 various states of samādhi and its purposes. Having read or heard about
 them from various teachers, we may misunderstand the chief reason to
 practice samādhi. Again, it’s the stabilization of mindfulness. When
@@ -3091,8 +3091,8 @@ about unhealthy levels of smoke in the air due to the large fires
 burning in the area. And of course, there was the risk of fire itself. I
 said to myself sarcastically, Oh, this looks like a wonderful place to
 go camping! Luang Por Pasanno is urging me to go and says it’s a great
-opportunity. I keep thinking, Does he just want to send me off to my
-death? Sitting there during pūjā, I had the sense that it really could
+opportunity. I keep thinking, *Does he just want to send me off to my
+death?* Sitting there during pūjā, I had the sense that it really could
 be my last pūjā on that platform.
 
 This is true for every single one of us. Maybe you’re not heading off to
@@ -3808,7 +3808,7 @@ object across slippery wet clay in the rain—it’s up to us whether we
 tense up about it and contend against it. It’s our choice to buy into
 our story and contend against the way things are, becoming anxious or
 irritated—or not. This is a theme I often use for my own practice, to
-recognize, *Its my choice whether I make a problem out of this, or not.
+recognize, *It’s my choice whether I make a problem out of this, or not.
 It’s my choice to be content with this—or not.*
 
 Our application of mindfulness and clear comprehension, *sati* and
@@ -4167,10 +4167,10 @@ open. There’s less heat, friction, and abrasion in our world.
 
 ## Luang Por Pasanno • August 2013
 
-Sometimes we feel compelled to be think, figure things out, analyze what
-we’re doing, marshal all the logical reasons for directing our practice
-in a particular way. But in the end, it’s simply busyness. And an
-important part of our practice is developing skills that prevent the
+Sometimes we feel compelled to think, figure things out, analyze what
+we’re doing, and marshal all the logical reasons for directing our
+practice in a particular way, but in the end, it’s simply busyness. And
+an important part of our practice is developing skills that prevent the
 mind from being trapped in busyness.
 
 Ajahn Chah used the example of picking mangoes. In Thailand, mangoes are
@@ -4190,7 +4190,7 @@ a pole that’s been cut to the proper length, we need to tailor our
 thought processes to the task at hand. The task at hand is
 understanding: *How do I not suffer? How do I not create problems? How
 do I not increase my suffering and confusion?* Those questions are more
-important than *Do I have all the information I need? Should I think
+important than, *Do I have all the information I need? Should I think
 more about my problem? What logic can I use to figure it out?* This can
 be mental overkill—more than what the Buddha would have us do.
 
@@ -5324,13 +5324,13 @@ application of our mindfulness and contemplative living.
 It is quite essential in the practice to bring that investigation into
 the mind, so that the mind is seeded or primed. Last night at tea time
 we were talking about a video used to demonstrate a psychological
-phenomenon. It shows a circle of people people passing two basketballs
-around. Some people in the group are wearing black and the others are
-wearing white. One ball is being passed between the players wearing
-black and the other ball is being passed between the players wearing
-white. The people viewing the video are told to keep track of the number
-of times the ball gets passed between the players wearing white. As a
-result, viewers focus on the players in white shirts and the ball to the
+phenomenon. It shows a circle of people passing two basketballs around.
+Some people in the group are wearing black and the others are wearing
+white. One ball is being passed between the players wearing black and
+the other ball is being passed between the players wearing white. The
+people viewing the video are told to keep track of the number of times
+the ball gets passed between the players wearing white. As a result,
+viewers focus on the players in white shirts and the ball to the
 exclusion of most everything else. So when somebody in the video dressed
 in a gorilla suit walks through the group of people throwing the
 basketballs, beats his chest, and walks off, most people don’t even
