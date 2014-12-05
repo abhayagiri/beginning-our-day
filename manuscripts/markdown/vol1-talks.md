@@ -307,7 +307,7 @@ at it as a physical sensation and seeing how the mind is reacting to it,
 how the mind is trying to figure out what it is, and why it’s there.
 When I feel this way my tendency and desire is to say to myself, *I
 should go do something to help the monastery or read a book or do
-walking meditation ...* There is this low-grade desire in me to avoid
+walking meditation . . .* There is this low-grade desire in me to avoid
 feeling this melancholy. I don’t *want* to feel it. Even something as
 wholesome as reading or studying, if the intention behind that is to
 avoid feeling something then it’s good to investigate that.
@@ -346,7 +346,7 @@ moves the mind toward restlessness and agitation from which we lose our
 center: one little push, the ball starts rolling, and pretty soon we’ve
 worked ourselves into a state of anger and conflict. With desire, it
 often starts with the merest sort of interest, which then becomes
-liking, fascination ... and then we begin to lose control. We don’t
+liking, fascination . . . and then we begin to lose control. We don’t
 know how to stop this momentum of desire because we’re not used to
 stopping. It’s also helpful to reflect on the occasions when we do
 happen to stop. We might ask ourselves, *Does stopping mean I can’t
@@ -3279,9 +3279,9 @@ there’s the internal environment, as well—our moods, perceptions,
 thoughts, and feelings—and it’s this internal environment that’s most
 important to examine. Sometimes we may think, *My practice is going
 well. My practice is moving in the right direction. It’s really a sure
-thing ...* and then it changes. Other times we’re feeling stuck in a
+thing . . .* and then it changes. Other times we’re feeling stuck in a
 pit of difficulties and may think, *This is really what I am, and
-everything is hopeless. This is a sure thing ...* and that too
+everything is hopeless. This is a sure thing . . .* and that too
 changes. It’s important to point the mind toward the experience of
 change, uncertainty, and impermanence, so it can see the true nature of
 things. Doing this creates a sense of stability and develops the mind’s
@@ -4166,7 +4166,7 @@ structure of support and make full use of it.
 ## Ajahn Yatiko • June 2013
 
 Sitting here in silence, some might say, feels like a waste of time.
-Sitting here waiting ... waiting for something to be said. It could be
+Sitting here waiting . . . waiting for something to be said. It could be
 a waste of time if we are sitting here waiting mindlessly. But it is not
 a waste of time if there is mindfulness present and an awareness of the
 present moment.
@@ -5408,7 +5408,7 @@ There’s this lovely passage from the Bhaddekaratta Sutta (MN 131):
 > Instead with insight let him see\
 > Each presently arisen state;\
 > Let him know that and be sure of it,\
-> Invincibly, unshakeably ...
+> Invincibly, unshakeably . . .
 
 Our lives are uncertain in so many different ways. All sorts of
 curveballs could be thrown to us at any time, disrupting our flow. If we
