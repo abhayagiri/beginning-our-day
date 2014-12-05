@@ -56,11 +56,13 @@ class Html2Latex(xml.sax.handler.ContentHandler):
             pass
         elif qname == 'blockquote':
             self.outfile.write('\\begin{quote}\n')
+        elif qname == 'strong':
+            self.outfile.write(r'\textbf{')
     def endElementNS(self, name, qname):
         self.path.pop()
         if qname == 'p':
             self.outfile.write('\n\n')
-        elif qname == 'em':
+        elif qname in ['em', 'strong']:
             self.outfile.write('}')
         elif qname == 'blockquote':
             self.outfile.write('\\end{quote}\n\n')
