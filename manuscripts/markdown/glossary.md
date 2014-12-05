@@ -14,7 +14,7 @@ cooking food.
 **anicca** impermanent, inconstant, unsteady. Ajahn Chah translated it
 as: not sure.
 
-**arahant** Literally: a ‘Worthy One’. A person whose mind is free of
+**arahant** Literally: a “Worthy One.” A person whose mind is free of
 defilement, who has abandoned all ten of the fetters that bind the mind
 to the cycle of rebirth, whose heart is free of mental effluents or
 outflows, and who is thus not destined for further rebirth. A title for
