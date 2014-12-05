@@ -37,11 +37,11 @@ the second, third, or fourth arrow.
 ## Ajahn Amaro • November 2008
 
 In the Dhammacakkapavatana Sutta, the Discourse on the Turning of the
-Wheel of Dhamma, the Buddha addressed the five *samaṇas,* including one
+Wheel of Dhamma, the Buddha addressed the five *samaṇas*, including one
 named Koṇḍañña, who were his practice companions before he became a
 Buddha. At the end of this talk, the Buddha recognized that Koṇḍañña
 had, with deep insight, understood the Dhamma. He said, *“Aññāsi vata
-bho* *Koṇḍañño, aññāsi vata bho Koṇḍañño ti*—Koṇḍañña understands,
+bho Koṇḍañño, aññāsi vata bho Koṇḍañño ti*—Koṇḍañña understands,
 Koṇḍañña understands.” Koṇḍañña had awakened to the nature of Dhamma:
 *“Dhammacakkhuṃ udapādi*—the eye of Dhamma arose.” Then the sutta
 describes exactly what it was that Koṇḍañña saw. It wasn’t a spectacular
@@ -98,13 +98,13 @@ we experience our thoughts, feelings, and perceptions, then it changes
 the whole way we hold things. We can notice that change within the
 heart. *Oh right, this is a changing thing. I can call it good or bad. I
 can call it success or failure. But its primary quality is that it’s
-changing. It came into being and now it’s ending.* *That’s the most
+changing. It came into being and now it’s ending. That’s the most
 important thing about it.* We notice that shift in the heart, that shift
 that happens within us when we apply Koṇḍañña’s insight. It changes
 everything because we’re no longer obsessing—fixating on the content of
 experience. We’re becoming aware of the process of experience itself.
 
-That’s fundamentally what insight, *vipassanā,* is about. Vipassanā is
+That’s fundamentally what insight, *vipassanā*, is about. Vipassanā is
 insight into the nature of experience itself—that moment of clear seeing
 when there’s a direct awareness of how experience works, what experience
 is. And the result of that is liberation. At that moment the heart
@@ -283,7 +283,7 @@ the decreasing of the unwholesome ones.
 
 There is a feeling of change today since the rain has come. The rain on
 the roof is an unfamiliar sound after months and months of dry summer.
-As I came down this morning for *pūjā,* there was the smell of moisture
+As I came down this morning for *pūjā*, there was the smell of moisture
 in the air. We can pay attention to that feeling of change.
 
 The mind tends to look at things from a one-sided perspective. We might
@@ -379,7 +379,7 @@ state right now? What’s the intention? What’s the volition within the
 mind? Is this skillful or not skillful? How do I create and maintain a
 quality of skillfulness?* This is the kind of investigation we can carry
 with us throughout the day. Whether we are sitting in the Dhamma Hall,
-back at our *kuṭis,* or doing our chores, reflecting in this way
+back at our *kuṭis*, or doing our chores, reflecting in this way
 internalizes our experience. It gives us an anchor for recognizing
 whether we’re on track or not, whether we’re according with Dhamma or
 have lost the plot.
@@ -408,7 +408,7 @@ still benefit greatly. If we hear a reflection with the right attitude
 and a desire for what is wholesome, then value can be acquired even if
 we’re not aware of it.
 
-One of Ajahn Geoff’s books is called *The Karma of Questions.* That’s a
+One of Ajahn Geoff’s books is called *The Karma of Questions*. That’s a
 fascinating theme to reflect on: What kind of kamma is involved in
 asking questions? It’s not so much in getting an answer, but in asking
 the question that we create our kamma. Similarly, we can reflect on the
@@ -570,11 +570,11 @@ requisites—robe cloth, food, shelter, and medicine—and reflect on how we
 rely on people’s generosity and kindness when we receive these
 offerings. Inner qualities that arise from reflecting in this way are
 contentment and gratitude, which are said to be a source of the highest
-blessings—*maṅgala.* These blessings are not only beneficial for us, but
+blessings—*maṅgala*. These blessings are not only beneficial for us, but
 beneficial for others as well. People become inspired and confident when
 they see we are using the requisites in a wholesome way.
 
-While reading Paul Breiter’s book, *One Monk, Many Masters,* I was
+While reading Paul Breiter’s book, *One Monk, Many Masters*, I was
 reminded of Ajahn Chah saying, “I have never seen any rich people in the
 world. I see a lot of people, a lot of visitors, but I’ve never seen any
 rich people in the world. All I’ve seen is people who don’t have
@@ -658,7 +658,7 @@ To do this, we need to establish a habit of reflecting and investigating
 in a particular way. First, by examining phenomena carefully—the quality
 of experience, and the results that come from interacting with
 experience in the usual way—we find there’s always some kind of
-*dukkha,* some kind of suffering, stress or discontent. Then we reflect
+*dukkha*, some kind of suffering, stress or discontent. Then we reflect
 on that, investigating its cause and how to bring about its cessation.
 When applying these steps, we’re not viewing the world through the lens
 of self, of me and my problems, me and my accomplishments, me and my
@@ -718,7 +718,7 @@ latch on to. That’s why sometimes, no matter how easygoing we may be,
 when we come in contact with some little thing we can become
 irritated—the conditions for that irritation were already there. And
 when we get stuck in irritation or anger with another community member,
-we can forget that it’s *dukkha.* We’re suffering and the other person
+we can forget that it’s *dukkha*. We’re suffering and the other person
 is suffering too. Sometimes we can get angry at someone else because
 they’re angry. This is ridiculous, but it’s the way it works. The Buddha
 said, “If you don’t react with anger to an angry person, then you win a
@@ -933,7 +933,7 @@ helping to clarify the central principles of our lives.
 The activities of the Observance Day—taking the precepts, shaving the
 head, having the all-night vigil, and putting aside the work routine—are
 all geared toward reinforcing the reason we’re here at the monastery.
-We’re not here to construct *kuṭis,* post pictures on the website, cook
+We’re not here to construct *kuṭis*, post pictures on the website, cook
 meals, or any of the 10,000 tasks that occupy our attention. The whole
 point of this place existing, this gathering of human beings on this
 particular patch of hillside, is to realize the Dhamma—to let go of
@@ -1041,15 +1041,15 @@ For us, the word *should* can mean that if we don’t do it, we’re really
 bad monks. That’s the completely wrong approach. Instead, we can reflect
 that *Since everything is given to me, even this body doesn’t belong to
 me. It belongs to the faithful—it’s merely loaned to me by them.* With
-that in mind, there’s still the sense that we *“should”* practice, but
-it comes from a completely different *“should.”* It’s more like a
-voluntary *“should.”* It comes from a wholesome desire to practice
+that in mind, there’s still the sense that we “*should*” practice, but
+it comes from a completely different “*should*.” It’s more like a
+voluntary “*should*.” It comes from a wholesome desire to practice
 because we know that it’s worthwhile, a decent thing to do. We come to
 realize, *It’s for my own benefit, and it’s for other people’s benefit.*
 
 As we walk on the meditation path, we can contemplate the difference
 between these two kinds of “shoulds.” There’s a significant difference
-between the *“should”* of guilt and the *“should”* of the natural and
+between the “*should*” of guilt and the “*should*” of the natural and
 wonderful activity we’re interested in doing. We can reflect on the
 blessings of our lives, the things that have come to us, and realize
 what a wonderful opportunity we have to practice and cultivate the path
@@ -1157,8 +1157,8 @@ can be quite enjoyable.
 
 ## Ajahn Yatiko • July 2012
 
-It is worth reflecting on the Thai phrase *krueng yoo. Krueng*
-literally means tool. When it is combined with *yoo,* the loose
+It is worth reflecting on the Thai phrase *krueng yoo*. *Krueng*
+literally means tool. When it is combined with *yoo*, the loose
 translation is a tool used to sustain. With Dhamma in mind, krueng yoo
 can mean a practice that is used to help sustain one’s spiritual
 existence. So we might reflect and ask ourselves, *In my daily life,
@@ -1181,7 +1181,7 @@ Rather than trying to force the mind, we can instead have an internal
 dialogue. *Why is it that I don’t want to practice sometimes? What is
 that about?* Without forcing and imposing our control, we can get to the
 root of the problem, through skillful investigation. Instead of
-*telling,* we’re *asking*—we’re probing, inquiring, and looking for the
+*telling*, we’re *asking*—we’re probing, inquiring, and looking for the
 defilements that lurk within. Forcing ourselves to do something doesn’t
 actually deal with any of the defilements. We need to investigate: What
 are the conditions that give rise to the defilements? What causes them
@@ -1221,7 +1221,7 @@ useful function, it can also be quite limiting and isolating, and
 sometimes leads to selfish behavior. What we are doing instead is
 learning how to let go of the fixation on I, me, and mine—to relinquish
 that self-centric modality of living in the world. This fixation, the
-Buddha said, is one of the main sources of *dukkha.* By looking out to
+Buddha said, is one of the main sources of *dukkha*. By looking out to
 see how we can be of assistance to others, we undermine that modality
 and give ourselves the opportunity to experience well-being.
 
@@ -1396,12 +1396,12 @@ journey.
 
 ## Luang Por Pasanno • August 2012
 
-Yesterday at teatime, we were talking about *sampajañña,* clear
+Yesterday at teatime, we were talking about *sampajañña*, clear
 comprehension, which is a quality we can reflect on in our daily
 practice. When the Buddha speaks about mindfulness—*sati*—he rarely
 treats mindfulness as an isolated quality. It’s usually in conjunction
 with some other quality—particularly, clear comprehension,
-*sati-sampajañña.* Without clear comprehension, our mindfulness tends to
+*sati-sampajañña*. Without clear comprehension, our mindfulness tends to
 be rather narrowly focused. We can forget that the Buddha is encouraging
 us to have a broadness of attention and awareness and a reflective
 quality while we are cultivating mindfulness. So we need to make clear
@@ -1449,7 +1449,7 @@ As we go about our day, we use reflective awareness to get the best
 sense of how to apply sati-sampajañña. We do not need to apply
 mindfulness and clear comprehension in a mechanical way. When we do our
 daily chanting, we recollect the qualities of the Dhamma, and one of
-these qualities is *opanayiko:* leading inward. The function of our
+these qualities is *opanayiko*: leading inward. The function of our
 practice is to draw our attention inward; to draw the world and
 interaction with the world around us, inward. That is how we are able to
 hold things with clarity and discernment, applying sati-sampajañña to
@@ -1510,7 +1510,7 @@ work for us now. This makes it necessary to adapt and experiment. Ajahn
 Chah used to repeat a quote from one of his teachers, Ajahn Tong Rat,
 who taught that the practice is very straightforward and easy: “If the
 defilements come high, then duck; if they come low, jump.” Within the
-bounds of *sīla,* morality, we practice with whatever the situation
+bounds of *sīla*, morality, we practice with whatever the situation
 demands—whatever works—as long as it has a wholesome outcome. This
 entails asking ourselves, *How might I work with this particular
 situation?* Once we have a sense of what might be a proper approach, we
@@ -1588,7 +1588,7 @@ This evening is the night of our Lunar Observance. It’s an opportunity
 to recollect the refuges and precepts, and to reflect on the direction
 we want to guide our spiritual practice. In the Thai language, the
 Observance Day is called the *Wan Phra* which is roughly translated as
-*Holy Day,* *Monk Day,* or perhaps *Day Worthy of Veneration.*
+*Holy Day*, *Monk Day*, or perhaps *Day Worthy of Veneration*.
 
 As Ajahn Chah used to say, the Buddha made these special days part of
 our training, and it’s not too much for the Buddha to have asked that we
@@ -1907,7 +1907,7 @@ activities. This can be helpful even with very simple things like
 preparing for *pūjā* or getting ready for work. Wherever we go, we don’t
 create a mess, we leave things neat and tidy. After washing our robes in
 the washing room, we wipe up the water around the sink; we make sure
-things are clean and tidy when we leave. Leaving our *kuṭi,* we ask
+things are clean and tidy when we leave. Leaving our *kuṭi*, we ask
 ourselves if everything is neat and tidy. We see that everything is done
 in a circumspect, crisp, and clear manner. In this way, we can cultivate
 an attitude of leaving no trace.
@@ -1922,9 +1922,9 @@ sitting in the Dhamma Hall next door, it’s
 bang-crash-bang-crash-bang-thump-thump. So we need to be sensitive to
 the impact we have on those around us and try not to leave a trace of
 noise. In terms of our relations with people, we can reflect on the
-things we say by asking ourselves, What kind of trace am I leaving in
+things we say by asking ourselves, *What kind of trace am I leaving in
 this conversations by the comments I’ve made?* With our internal
-processes we can ask , *What kind of trace am I leaving in my
+processes we can ask, *What kind of trace am I leaving in my
 mind due to the moods I’ve picked up or the attitudes, views, and
 perspectives I’m holding?*
 
@@ -1952,18 +1952,18 @@ yada, yada.” And then off it goes. This is one of the perennial issues
 of community life.
 
 The other day someone was quoting the little signs they have at Wat
-Mettā. One of them is the acronym WAIT: Why Am I Talking? We can apply
-that sort of inquiry even before we start talking. *Why do I need to
+Mettā. One of them is the acronym WAIT: *Why Am I Talking?* We can apply
+that sort of inquiry even before we start talking. Why do I need to
 talk? Is the world going to be a better place if I chime in at this
 point? Why do I want to get involved? Is it merely to engage for the
 sake of engaging? Is it an urge to burn some energy and connect? Is it
 just to fill up space? Is this actually going to be a benefit? Is this
 going to unite or divide? Is this going to bring clarity to others? Can
 I restrain the urge to comment, to speak, to put forth some opinion or
-some perspective?*
+some perspective?
 
 We’re a very large community these days. The monks’ room has many people
-passing through at different times—just before morning *pūjā,* at
+passing through at different times—just before morning *pūjā*, at
 morning teatime, preparing for a morning meeting, during bowl setup,
 preparing for the work period, getting changed after the work period,
 cleaning up after the meal, enjoying evening teatime, before and after
@@ -1989,7 +1989,7 @@ bench outside, or come into the Dhamma Hall. We can choose solitude over
 putting ourselves in close quarters where talking and pointless chitchat
 tend to launch themselves. This is one of the simplest and most direct
 ways the Buddha encouraged the development of mindfulness and the
-restraint of the *āsavas,* the outflows. We don’t put ourselves in
+restraint of the *āsavas*, the outflows. We don’t put ourselves in
 situations where that outflowing is going to be encouraged. We put
 ourselves somewhere else. It’s very simple. We’re not creating the
 conditions whereby a lack of restraint is being encouraged. Rather,
@@ -2194,8 +2194,8 @@ relinquish those habits or go against their grain.
 
 ## Ajahn Karuṇadhammo • August 2012
 
-Yesterday, at teatime we were talking about right concentration, *sammā*
-*samādhi.* One of the guests staying here had a question about
+Yesterday, at teatime we were talking about right concentration, *sammā
+samādhi*. One of the guests staying here had a question about
 mindfulness versus concentration. It’s a good subject to reflect on
 because we can sometimes be hard on ourselves when we are trying to
 concentrate our minds and the practice doesn’t feel like it’s going so
@@ -2252,7 +2252,7 @@ By 2010 it was up to almost sixty—and that was when the economy was in a
 tailspin. It seems many people are becoming more and more focused on
 consuming, without much consideration for what they already have.
 
-By contrast, part of the ethos of living in a monastery as a *samaṇa,* a
+By contrast, part of the ethos of living in a monastery as a *samaṇa*, a
 religious seeker, is developing the qualities of simplicity, frugality
 and the care we take in using and reusing things. For instance, I have a
 cold now and have been blowing my nose quite often—I don’t know how many
@@ -2284,7 +2284,7 @@ internal qualities.
 We often think of insight meditation as something that we do as part of
 the formal practice. The usual instructions are to take some time to
 focus and concentrate the mind and when it’s steady, to begin reflecting
-upon the flow of experience in terms of *anicca, dukkha,* and
+upon the flow of experience in terms of *anicca*, *dukkha*, and
 *anattā*—impermanence or uncertainty, unsatisfactoriness, and
 selflessness or things not being self. Luang Por Chah encouraged us to
 employ these themes of investigation and contemplation, not just on the
@@ -2293,8 +2293,8 @@ activities. We can use these themes as constant companions to explore
 and process our own experience as we relate to the events of the day.
 
 Ajahn Chah particularly emphasized the contemplation of anicca. He would
-often render the word *anicca* as *uncertainty,* rather than
-*impermanence.* When we think of things being impermanent it can have a
+often render the word *anicca* as *uncertainty*, rather than
+*impermanence*. When we think of things being impermanent it can have a
 remote or objective quality, whereas uncertainty describes the feeling
 of the mind and heart when we experience change and transiency. That’s
 what we perceive—the feeling of uncertainty. We don’t know. It’s not
@@ -2412,7 +2412,7 @@ meaning to life.
 
 ## Luang Por Pasanno • July 2013
 
-Several nights ago I gave a talk on the ten *pāramīs,* qualities that
+Several nights ago I gave a talk on the ten *pāramīs*, qualities that
 are helpful for cultivation and development: generosity, virtue,
 renunciation, wisdom, effort, truthfulness, resolution, loving-kindness,
 patience, and equanimity. Each is helpful to bring up as an alternative
@@ -2544,7 +2544,7 @@ if his blood dried up and his bones crumbled. We say to ourselves,
 Ajahn Chah, Ajahn pointed back at him and said, “Maybe *this* Buddha
 trying to do that isn’t the same as the *old* Buddha.” What Ajahn meant
 was that the Bodhisatta’s resolve was the culmination of hundreds of
-thousands of lifetimes spent building the *pāramī,* with steadiness and
+thousands of lifetimes spent building the *pāramī*, with steadiness and
 patience.
 
 So that’s what we focus on—this steadiness of effort and patient
@@ -2592,7 +2592,7 @@ ourselves and suffering for others.
 ## Ajahn Amaro • August 2008
 
 When we put up a building, we think it’s our building, our Dhamma Hall,
-or our *kuṭi,* but no one informs the geckos, the lizards, and the other
+or our *kuṭi*, but no one informs the geckos, the lizards, and the other
 creatures in the forest. They think it’s their place too. The
 woodpeckers were around long before the humans showed up in this valley.
 This is the season when woodpeckers start to gather acorns and drill
@@ -2688,7 +2688,7 @@ its proper place, and then doing what’s called for, even if it’s not
 that, the monastery functions beautifully.
 
 The Buddha based this entire path of liberation upon the experience of
-dissatisfaction, discomfort, stress, suffering—*dukkha.* Paying
+dissatisfaction, discomfort, stress, suffering—*dukkha*. Paying
 attention to details is a doorway though which we can learn what leads
 to dukkha and what doesn’t. While it may seem like a small thing, this
 attention is essential if we’re to live our lives skillfully and in a
@@ -2902,8 +2902,8 @@ benefit our practice. The wholesome result of faith is the inclination
 to apply effort or energy. In this way faith is nourishment for effort
 and energy in our practice.
 
-These two qualities are among the five spiritual faculties: *saddhā,
-viriya, sati, samādhi,* and *paññā* (faith, energy, mindfulness,
+These two qualities are among the five spiritual faculties: *saddhā*,
+*viriya*, *sati*, *samādhi*, and *paññā* (faith, energy, mindfulness,
 concentration, and wisdom). None of these factors stands alone. They
 support, feed, and nourish each other. We need to attend to saddhā—faith
 or confidence—in a skillful way, so that it helps nourish the qualities
@@ -3011,7 +3011,7 @@ have many options, but we do have Ajahn Maha Prasert. We’re fortunate,
 because he’s a worthy monk to pay respects to.
 
 When we reflect back on the discourse that the Buddha gave on the
-highest blessings, one blessing he points to is *gāravo ca nivāto ca,*
+highest blessings, one blessing he points to is *gāravo ca nivāto ca*,
 the qualities of respectfulness and humility. These are qualities that
 bring forth the highest blessings. They engender the sense of not having
 to carry the burden of a sense of self all the time—which is an
@@ -3080,7 +3080,7 @@ can be fully functional one moment, and dead two or three seconds later.
 So we have good reason to contemplate death quite often, as the Buddha
 suggested.
 
-Sitting on the ordination platform this morning for *pūjā,* I had an
+Sitting on the ordination platform this morning for *pūjā*, I had an
 unusually strong sense of how beautiful it was, just sitting there. I
 asked myself why I might be feeling this way. We are getting ready to go
 on a trip to Yosemite and there is a national disaster occurring just
@@ -3238,7 +3238,7 @@ we want in order to be grateful; the fact that we’re alive, breathing
 and conscious is a lot to be grateful for already.
 
 Last night, one of the people at Yoga Mendocino mentioned the Jewish
-concept of a *tzadik,* a person who is an adept or a well-developed
+concept of a *tzadik*, a person who is an adept or a well-developed
 person. One characteristic of tzadiks is that they have a sense of
 gratitude. In the Jewish tradition, this would be gratitude to God. This
 reminded me of an eastern European Jewish story where a rabbi went to
@@ -3315,7 +3315,7 @@ strengthen over the years.
 quest seems to revolve around me trying to attain something. The thought
 of dropping my self seems like a snake swallowing its tail.
 
-*Luang Por* *Pasanno:* That’s the way it is in the beginning. It’s a
+*Luang Por Pasanno:* That’s the way it is in the beginning. It’s a
 process of feeling it out. You have to play with it and work it out over
 time as you get better and better at it. It’s important in the beginning
 to be in the right container and have good spiritual friends. These
@@ -3674,7 +3674,7 @@ do something quite noble.
 We can also look at work in terms of something that is enjoyable. In the
 English language, the word *work* doesn’t have the connotation of being
 enjoyable. However, in Thai, the same word that one uses for *work* is
-also used to mean *festival.* If it’s a festival, it’s an opportunity to
+also used to mean *festival*. If it’s a festival, it’s an opportunity to
 get together and have a good time. This creates a completely different
 perception than drudgery. It is interesting seeing how many connotations
 we bring to words. Certainly it’s the perception we have of work and
@@ -3796,7 +3796,7 @@ summarized the choice we all have at any moment during the day. Working
 out in the cold with the rain dripping down our necks, carrying large
 uncomfortable objects across slippery mud not wanting to drop them,
 finding places to store 300 apples and oranges in a confined space,
-whatever it might be, we have the capacity to *contend against,* and we
+whatever it might be, we have the capacity to *contend against*, and we
 have the capacity to be *content with*—to attune ourselves with the way
 things are as we go about our tasks. It’s a choice.
 
@@ -3813,9 +3813,9 @@ recognize, *It’s my choice whether I make a problem out of this, or not.
 It’s my choice to be content with this—or not.*
 
 Our application of mindfulness and clear comprehension, *sati* and
-*sampajañña,* has a lot to do with recognizing that we have choices in
+*sampajañña*, has a lot to do with recognizing that we have choices in
 how we react to the world around us and to our internal states of mind.
-If we also apply the quality of wisdom or discernment, *paññā,* then we
+If we also apply the quality of wisdom or discernment, *paññā*, then we
 will choose the path of non-contention, of cultivating the capacity to
 attune. Even in the midst of the most difficult or challenging
 circumstances, we don’t have to dwell in aversion, we don’t have to
@@ -3836,7 +3836,7 @@ of urgency, and then we’re told to relax, let go, and cultivate a
 feeling of spaciousness.
 
 On one side, the Buddha encourages us to cultivate the quality of
-*saṃvega,* which is usually translated as a sense of spiritual urgency.
+*saṃvega*, which is usually translated as a sense of spiritual urgency.
 It’s the recognition that life is short and everything is uncertain, so
 we need to take this practice seriously. We urgently need to apply our
 attention and effort in order to fulfill the teachings and not miss out
@@ -3879,7 +3879,7 @@ who are community residents—who are here all the time and have listened
 to these reflections every day for years—the danger is that we might
 develop an attitude that has us thinking, *The senior monk is just doing
 his thing, giving a reflection, and it doesn’t really affect me. I don’t
-need to pay attention or internalize any of it.* *Here’s my chance to
+need to pay attention or internalize any of it. Here’s my chance to
 zone out and think about something else.*
 
 If that is our experience then it’s a real loss, because the purpose of
@@ -3920,7 +3920,7 @@ In the late afternoon, he went over to Ajahn Chah’s dwelling place.
 Oftentimes monks would go over there in the afternoon when laypeople
 came by to pay respects and ask questions; it was a good opportunity to
 hear Ajahn Chah give advice. As evening approached, Ajahn Chah sent
-everybody off to *pūjā,* except for Ajahn Ñāṇadhammo, who alone was
+everybody off to *pūjā*, except for Ajahn Ñāṇadhammo, who alone was
 asked to stay. He sat beneath Luang Por Chah, massaging his feet. In the
 distance he could hear the chanting of evening pūjā, with the stillness
 of the forest almost palpable. Ajahn Ñāṇadhammo described it as an
@@ -4088,7 +4088,7 @@ beneficial results.
 It often strikes me how the Fire Sermon is the shortest of the three
 cardinal discourses of the Buddha, taking less than fifteen minutes to
 chant. Yet during the course of the Buddha’s teaching it, a thousand
-*bhikkhus* became *arahants.* In the Pāḷi Canon that’s the largest
+*bhikkhus* became *arahants*. In the Pāḷi Canon that’s the largest
 number of people who were completely liberated during the course of
 listening to a single Dhamma talk. It’s a powerful teaching, although it
 can seem unremarkable in certain ways.
@@ -4099,7 +4099,7 @@ eye, eye consciousness, eye contact, the feeling that arises with eye
 contact, visual objects, everything to do with the process of vision—and
 the same with the processes of hearing, smelling, tasting, touching, and
 mental activities—they’re all burning with passion, aversion, and
-delusion. He then says, *“Evaṃ passaṃ bhikkhave sutvā ariyasāvako
+delusion. He then says, “*Evaṃ passaṃ bhikkhave sutvā ariyasāvako
 cakkhusmiṃ pi nibbindati*—Seeing thus, bhikkhus, the wise noble disciple
 becomes dispassionate toward the eye, toward visual objects, toward eye
 consciousness, toward eye contact, and the feeling that arises with eye
@@ -4107,8 +4107,8 @@ contact,” and so on through the remaining five senses.
 
 It’s extraordinarily simple and direct. First, seeing that the senses
 are on fire; second, recognizing that they’re on fire, agitated, heated;
-and then third, responding with coolness, *nibbindati,* dispassion.
-*Nibbidā* is related to *Nibbāna,* coolness—there’s a cooling in
+and then third, responding with coolness, *nibbindati*, dispassion.
+*Nibbidā* is related to *Nibbāna*, coolness—there’s a cooling in
 relationship to the senses. And with that cooling down, that dispassion,
 the hearts of those thousand bhikkhus were liberated. It’s
 extraordinarily simple. In the sutta, it almost seems as if nothing has
@@ -4123,7 +4123,7 @@ smell, taste, hear, touch, and think.
 
 During the course of the day, it’s helpful to bring mindfulness to
 recognizing that the quality of friction, tension—what the Buddha calls
-heat, *āditta,* burning. The feeling can be one of ownership regarding
+heat, *āditta*, burning. The feeling can be one of ownership regarding
 some tool, the interest in a particular task, or the irritation with an
 exceptionally obstructive piece of rock that won’t move out of the way.
 Whatever it might be—some computer program or printer that won’t
@@ -4135,9 +4135,9 @@ Recognition requires mindfulness.
 As we bring mindfulness to the course of our days, we can observe the
 sense world and how we respond to what we see, hear, smell, taste,
 touch, and think—the mental realms of moods, memories, ideas, and plans.
-We can notice when that heat arises. We notice the heat of *rāga,* of
-passion, wanting, and desiring; the heat of *dosa,* of aversion, being
-irritated, upset, obstructed; the heat of *moha,* delusion, caught up in
+We can notice when that heat arises. We notice the heat of *rāga*, of
+passion, wanting, and desiring; the heat of *dosa*, of aversion, being
+irritated, upset, obstructed; the heat of *moha*, delusion, caught up in
 reactions, opinions, assumptions, projections, and other deluded states.
 These are all aspects of heat in the context of this teaching.
 
@@ -4274,7 +4274,7 @@ of walking. They weren’t used to carrying all their gear for such a long
 distance, but they’ll get used to it. They were planning to leave
 Willits yesterday and head up north. Who knows how far they might get
 today and where they’ll be going on alms-round. That is part of the
-adventure and part of the practice of taking on uncertainty, *anicca.*
+adventure and part of the practice of taking on uncertainty, *anicca*.
 
 When we are out on the road walking like that, uncertainty is a constant
 presence. In fact, wherever we are and whatever we are doing—whether on
@@ -4392,7 +4392,7 @@ internal articulation of Dhamma.
 
 ## Ajahn Jotipālo • July 2013
 
-One word mentioned in the Mettā Sutta is *nipako.* It is often
+One word mentioned in the Mettā Sutta is *nipako*. It is often
 translated as wise, chief, or highest. Bhikkhu Bodhi translates it as
 discretion and talks about it in terms of worldly skills or practical
 wisdom. One way to reflect on this translation of nipako is in the realm
@@ -4407,7 +4407,7 @@ and practical wisdom with this type of experience. We can learn how to
 skillfully approach a person and work out a problem even in a situation
 that is difficult or uncomfortable.
 
-Nipako comes from the root word *nipa,* which means to lay low. So I
+Nipako comes from the root word *nipa*, which means to lay low. So I
 think of it as not jumping into a conversation with the first thing that
 comes to mind, and not trying to be the first person to come up with a
 quick solution. Instead, it is more akin to paying attention and
@@ -4459,7 +4459,7 @@ find peace where we can.
 ## Luang Por Pasanno • July 2013
 
 It’s helpful to consider and reflect on how we perceive work. If we
-bring up the word *work,* what comes to mind? There may be a feeling of
+bring up the word *work*, what comes to mind? There may be a feeling of
 drudgery, that it’s onerous, maybe even odious. We often view work as
 something we’re beset with, something we have to get done and out of the
 way before we can be comfortable and at ease. Or we may think of work as
@@ -4525,7 +4525,7 @@ see sights and hear sounds, touch objects, make decisions, engage with
 our bodies in the material world and with the 10,000 thoughts, moods,
 and ideas that arise from those various forms of sense contact. The more
 we internalize and make use of the teachings on dependent origination,
-the more we are aware that this is merely sense contact—*phassa.* Sense
+the more we are aware that this is merely sense contact—*phassa*. Sense
 contact gives rise to pleasant, unpleasant, and neutral feelings—this is
 beautiful, this is ugly, this is ordinary. From that launchpad of
 feeling, in the ordinary flow of our experience, *taṇhā* or craving
@@ -4572,7 +4572,7 @@ cessation of mental formations, there is the cessation of
 consciousness,” and so forth. Phra Payutto points out in his book
 *Dependent Origination* that cessation is not meant to be taken only in
 terms of something beginning and then ending. The Pāḷi word for
-cessation is *nirodha,* which also implies *non-arising.* When there’s
+cessation is *nirodha*, which also implies *non-arising*. When there’s
 no ignorance, then mental formations do not arise, the mind does not
 create the world of “thingness” or “this-and-thatness.” This is the
 realization of Dhamma. It is simply Dhamma. It is not fabricated. It is
@@ -4584,7 +4584,7 @@ peace and clarity of realizing the Dhamma here and now.
 
 ## Luang Por Pasanno • May 2005
 
-The Buddha taught the *Saranīya Dhammas,* which are the six principles
+The Buddha taught the *Saranīya Dhammas*, which are the six principles
 of conciliation or harmonious living. The first three of these Dhammas
 are based on bodily, verbal, and mental acts of loving-kindness. By
 generating loving-kindness, we create a strong condition for the arising
@@ -4638,7 +4638,7 @@ That’s our default bias. There is a deeply ingrained tendency toward
 creating and perceiving the beautiful in the body, to become attached to
 it, worry and fight about it, and become distressed when we lose it.
 
-We all have *rāga-taṇhā,* sensual desire, as part of our being. If our
+We all have *rāga-taṇhā*, sensual desire, as part of our being. If our
 parents didn’t have rāga-taṇhā, we wouldn’t be here. When it’s
 present, we want to perceive the beautiful in the body. When it’s not
 present, the body doesn’t seem so beautiful anymore—it doesn’t appeal to
@@ -4786,7 +4786,7 @@ kuṭis and learn how to delight in that.
 
 When the Buddha taught his aunt, Mahāpajāpatī about the Dhamma in brief,
 he emphasized non-proliferation or non-complexity as a characteristic
-that aligns itself with *Dhamma-Vinaya,* the teachings and the
+that aligns itself with *Dhamma-Vinaya*, the teachings and the
 discipline. We can add our complications and complexities to everything
 around us and forget that if we attend to the practice and maintain our
 focus, this practice, in and of itself, is a natural shedding of
@@ -4976,10 +4976,10 @@ conditions of the world or the conditions of identity and self view.
 
 ## Ajahn Karuṇadhammo • December 2012
 
-Developing insight around the aspect of *anattā,* not-self, is often
+Developing insight around the aspect of *anattā*, not-self, is often
 understood to arise from a sudden insight, awakening, or penetration
 that results from the culmination of earnestly practicing *samatha* and
-*vipassanā,* concentration and insight. In a sense there’s a truth to
+*vipassanā*, concentration and insight. In a sense there’s a truth to
 that. A deep and penetrating insight does come through investigation.
 But there’s a slow, gradual process that’s a part of coming to this
 insight of not-self as well. The word that describes this slower process
@@ -5054,7 +5054,7 @@ this process supports us in developing the insight into who we are not.
 ## Ajahn Amaro • September 2008
 
 By reflecting on the theme of kindness and establishing the quality of
-*mettā,* we gain insight into how mettā is developed. One of the
+*mettā*, we gain insight into how mettā is developed. One of the
 not-so-obvious places where we create qualities of unkindness is in the
 way that we relate to our own attitudes, opinions, and pet projects
 through self-identification, *My responsibility, my job, my role.* Many
@@ -5100,7 +5100,7 @@ in the appropriate way, but at the same time send out signals that are
 based on identifying with a particular position. *I’m right. This is my
 job. You don’t matter. What I’m doing is important. My views are
 correct. What you do is totally insignificant.* It’s all the habits of
-self creating the *I* and *my.* We can take the ordinary, utterly
+self creating the *I* and *my*. We can take the ordinary, utterly
 innocent activities of our monastic lives—helping out with the work
 tasks, washing the dishes, putting things away in our cupboards, or
 whatever it might be—and use them to feed those I-creating, my-creating
@@ -5128,7 +5128,7 @@ ourselves against this or that person. Notice how delightful and
 wonderful it is to have none of that being created. We realize, *Oh look
 at that. If I don’t create it, then it’s not there. What an amazing
 surprise!* So much of the stress and difficulty of our personal worlds
-is generated from our own *cittas,* our own minds and hearts. If we
+is generated from our own *cittas*, our own minds and hearts. If we
 ourselves stop creating that division and stress—that friction and heat
 from the grindstone—then we find the citta becomes cool because the
 division and tension simply aren’t there.
@@ -5146,7 +5146,7 @@ relinquishment and generosity—our first priority.
 
 The literal translation of the word *bhikkhu* is one who begs for alms.
 But in keeping with the commentaries, Ajahn Chah used to emphasize
-bhikkhu as meaning one who sees the danger in *saṃsāra,* the danger in
+bhikkhu as meaning one who sees the danger in *saṃsāra*, the danger in
 the endless round of birth and death, the endless wandering. That’s a
 useful image for the unfocused, inattentive mind—the mind that does not
 prioritize, that drifts aimlessly about. It wanders to moods of like and
@@ -5170,8 +5170,8 @@ our formal meditation practice. A key to this is learning how to delight
 in meditation—the freedom that comes from simply sitting, not becoming
 anything, resting in a state of mind that is able to put things down.
 
-Yesterday I was reflecting on the word *concentration,* which is the
-most common translation for *samādhi.* I think that’s a poor translation
+Yesterday I was reflecting on the word *concentration*, which is the
+most common translation for *samādhi*. I think that’s a poor translation
 because concentration has a strong sense of coercing the mind, forcing
 it to be a certain way. My understanding of samādhi is that it is a
 freeing experience, rather than one which squeezes the mind into a
@@ -5181,11 +5181,11 @@ obsessed with or attached to. What remains is a mind that is relaxed,
 peaceful, and stable. It’s not going out to search for happiness,
 because it is quite happy to stay where it is, at home.
 
-We often use the words *cultivating concentration,* which is an
+We often use the words *cultivating concentration*. which is an
 important expression, but it can be misleading. Quite simply, it means
 developing the ability to put things down. We can recognize that the
 things which we attach ourselves to are endless and that this attachment
-results in *bhavataṇhā,* a sense of becoming—the incessant inclination
+results in *bhavataṇhā*, a sense of becoming—the incessant inclination
 to exist, plan, create an identity, and attach to some idea of ourselves
 as some thing. We’re caught up in this becoming like an animal in a
 trap. Either we see that it’s going to lead to suffering or we don’t,
@@ -5313,7 +5313,7 @@ all that, as well as trying to keep things fairly quiet.
 
 Last week, during the Thanksgiving Retreat, I didn’t really have a plan
 in mind for what I was going to teach. I ended up talking a lot about
-*anicca, dukkha,* and *anattā,* and how these three characteristics
+*anicca*, *dukkha*, and *anattā*, and how these three characteristics
 display themselves in our practice and how central they are to our
 practice. We constantly use reflections of impermanence,
 unsatisfactoriness, and not-self when investigating our experience. This
@@ -5404,7 +5404,7 @@ project we are doing or being indifferent and waiting for the work
 period to be over. Whatever perceptions and attitudes we may have
 regarding the chore we’re doing, it’s essential to take that chore as an
 opportunity for establishing and sustaining our mindfulness. This is
-done with the help of *yoniso manasikāra,* skillful or wise attention.
+done with the help of *yoniso manasikāra*, skillful or wise attention.
 
 As we were having tea, I spoke about the importance the Buddha placed on
 yoniso manasikāra. Its function is to direct attention in an alert and
