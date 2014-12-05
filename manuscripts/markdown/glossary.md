@@ -1,4 +1,4 @@
-**Ajahn>** (Thai) From the
+**Ajahn** (Thai) From the
 Pāḷi *ācariya*, literally “teacher”; often used in western monasteries
 as a title of senior monks or nuns who have been ordained for ten years
 or more.
