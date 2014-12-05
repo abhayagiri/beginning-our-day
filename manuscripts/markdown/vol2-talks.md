@@ -36,8 +36,8 @@ the second, third, or fourth arrow.
 
 ## Ajahn Amaro • November 2008
 
-In the Dhammacakkapavatana Sutta—the Discourse on the Turning of the
-Wheel of Dhamma—the Buddha addressed the five *samaṇas,* including one
+In the Dhammacakkapavatana Sutta, the Discourse on the Turning of the
+Wheel of Dhamma, the Buddha addressed the five *samaṇas,* including one
 named Koṇḍañña, who were his practice companions before he became a
 Buddha. At the end of this talk, the Buddha recognized that Koṇḍañña
 had, with deep insight, understood the Dhamma. He said, *“Aññāsi vata
@@ -308,13 +308,14 @@ their buildings and need to fix them right away. So they have to
 postpone their trip for some time.
 
 There are benefits and drawbacks to everything. If we think in terms of,
-*I like this,* or *I don’t like that,* we end up trapping ourselves. By
+*I like this* or *I don’t like that,* we end up trapping ourselves. By
 looking at experience from a broader perspective and applying Dhamma to
 it, we can more easily recognize that everything has two or more sides
 and see more clearly how problematic it is to take a personal position
 on what we are experiencing. That way we’re not investing in the
 I-me-mine of how we think things should be. Rather, we’re examining the
-way things are, reflecting on both their benefits and their drawbacks.
+way things are, reflecting on both the benefits and drawbacks of the
+situation.
 
 # Snow on a Forest Trail
 
@@ -361,12 +362,12 @@ trail.
 
 As we engage in activity, we can ground our awareness in the body and
 use it as a helpful anchor for our practice. We do this by having a
-tactile sense of contact with the ground, contact with physical movement
-and contact with the material world around us. This brings awareness
-into the body, but it’s also important how this awareness is held. The
-Buddha’s way of teaching and training is through questioning and
-reflection. We’re not trying to apply a catechism of, “The body is like
-this,” repeating it over and over again. The awareness is an
+tactile sense of contact with the ground, contact with physical
+movement, and contact with the material world around us. This brings
+awareness into the body, but it’s also important how this awareness is
+held. The Buddha’s way of teaching and training is through questioning
+and reflection. We’re not trying to apply a catechism of, “The body is
+like this,” repeating it over and over again. The awareness is an
 exploration, an investigation. We are asking ourselves, *What is the
 experience I’m having? Does it feel comfortable or not? Does it feel
 wholesome or not? Is this what mindfulness is, or not?* This kind of
@@ -698,9 +699,9 @@ practice.
 
 ## Ajahn Ñāṇiko • July 2012
 
-Living in a monastery can be very difficult to do—eating one meal a day,
+Living in a monastery can be very difficult—eating one meal a day,
 keeping precepts, trying to live and work together as a harmonious
-community. But as Master Hua has said, if we want to practice Dhamma, we
+community. But as Master Hua said, if we want to practice Dhamma, we
 have to do what’s difficult, what others would not choose to do. Even
 though most people wouldn’t choose to live in this way, there’s an
 enormous benefit to what we’re doing here. Living in community, we learn
@@ -733,10 +734,10 @@ unstoppable mental proliferation. That’s how it is sometimes. But these
 experiences are good to have—by going through them, we become stronger.
 Even so, it’s difficult to do.
 
-Master Hua has said that we’re aiming to develop a “long-enduring
-mind”—a mind that can sustain itself through the months and years
-without sinking far down, becoming dark, falling out of the robes, or
-not wanting to be in a monastery anymore. To develop this long-enduring
+Master Hua said that we’re aiming to develop a “long-enduring mind”—a
+mind that can sustain itself through the months and years without
+sinking far down, becoming dark, falling out of the robes, or not
+wanting to be in a monastery anymore. To develop this long-enduring
 mind, we need to come back to peace, to the skillful actions that help
 sustain us, and to the factors of letting go. We need to come back again
 and again, moment by moment. It may be difficult to do, but the reward
