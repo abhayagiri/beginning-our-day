@@ -3647,13 +3647,13 @@ constant and consistent.”
 
 It’s important to reflect on the habits we have, to ask ourselves, *Does
 this habit help to make the mind more peaceful, or does it tend to make
-the mind more agitated?* The Thai Forest ajahns often use the phrase *plien
-nisai,* which means “to change habits.” In the Thai Forest Tradition
-there is a strong emphasis on changing one’s unskillful habits. Our
-chanting includes the *“Ten Subjects for Frequent Recollection by
-Monastics,”* where we recite, “I will strive to
-abandon my former habits. This should be reflected upon again and again
-by one who has gone forth.” (AN 10.48)
+the mind more agitated?* The Thai Forest ajahns often use the phrase
+*plien nisai*, which means “to change habits.” In the Thai Forest
+Tradition there is a strong emphasis on changing one’s unskillful
+habits. Our chanting includes the “Ten Subjects for Frequent
+Recollection by Monastics”, where we recite, “I will strive to abandon
+my former habits. This should be reflected upon again and again by one
+who has gone forth.” (AN 10.48)
 
 Habits run deep, and they’re very difficult to change. But if we have a
 habit and notice that it’s causing us to be agitated, or if we are
@@ -3661,7 +3661,7 @@ habitually irritated by something, we can use the Buddha’s teachings any
 time of the day to change our direction.
 
 I remember Ajahn Jayasāro telling a group of us in Thailand, “If you are
-keeping *sīla,* then no matter what lifestyle you are leading—even if
+keeping *sīla*, then no matter what lifestyle you are leading—even if
 you are not meditating much—all day is an opportunity to be letting go
 of defilement and training the mind.” So whether we are working,
 meditating, or whatever, there’s always an opening for us to change our
@@ -3832,7 +3832,7 @@ believe is at the core of our daily lives.
 ## Ajahn Amaro • November 2008
 
 When we do the chanting on the four divine abodes, the
-*brahmavihāras—mettā, karuṇā, muditā, upekkhā,* loving-kindness,
+*brahmavihāras*—*mettā*, *karuṇā*, *muditā*, *upekkhā*, loving-kindness,
 compassion, gladness, equanimity—going through each one, it’s important
 to notice the development of equanimity around reflections on kamma,
 actions of cause and effect. “I am the owner of my kamma, heir to my
@@ -3843,7 +3843,7 @@ the heir.”
 The other brahmavihāras—mettā, karuṇā, and muditā—have an emotional
 tone, a quality of wishing well to ourselves and others, of wishing to
 be free from suffering. But the fourth one, upekkhā, equanimity, is
-developed through a conscious reflection on kamma and *vipāka kamma,*
+developed through a conscious reflection on kamma and *vipāka kamma*,
 action and its results. That may not sound terribly interesting, and so
 it can easily be pushed aside. But equanimity is the most refined of the
 brahmavihāras. It’s quite a significant mental quality and is difficult
@@ -3902,7 +3902,7 @@ food. It simply wouldn’t concern us.
 So this is an encouragement for all of us—particularly with the rainy
 weather, working outside in the rain, trickles of chilly water running
 down our necks and into our socks—to notice when the mind says *like* or
-*dislike, right* or *wrong.* Because it’s the rainy season, these
+*dislike*, *right* or *wrong*. Because it’s the rainy season, these
 feelings might arise. This is the cause, and this is the effect. See how
 that small reflection can take us a step back from the notion that
 right, wrong, like, and dislike are objective or lasting realities. With
@@ -3934,7 +3934,7 @@ beautiful. Instead, we can pay special attention to maintaining
 mindfulness.
 
 It’s not that difficult to be mindful when we are on our own in our
-*kuṭis.* But when we’re engaging with others, when there are duties that
+*kuṭis*. But when we’re engaging with others, when there are duties that
 need to be done, or when something needs doing right away, it takes
 effort to stop ourselves from being swept up in agitation and effort to
 maintain a space of mindfulness and letting go. What we are letting go
@@ -4043,7 +4043,7 @@ the Eightfold Path give knowledge and understanding and lead to peace
 and awakening. That’s the function of the path. When we are aligned with
 the Middle Way, we are in balance—this happens naturally.
 
-In Pāḷi the word *karaṇī,* as in *cakkhukaraṇī, ñāṇakaraṇī,* means “to
+In Pāḷi the word *karaṇī*, as in *cakkhukaraṇī, ñāṇakaraṇī*, means “to
 make” or “to produce”. It’s an emphatic verb. This suggests that when we
 put our practice into balance, a good result will be produced. It’s
 helpful to develop a sense of confidence in this natural
@@ -4255,7 +4255,7 @@ Por take root in the heart.
 There is a skillful and beautiful Buddhist tradition for families and
 friends of someone who has passed away. The family members and friends
 come to the monastery and make offerings that support the monastic
-community. They receive *puñña,* merit from these offerings, and they
+community. They receive *puñña*, merit from these offerings, and they
 dedicate that merit to the deceased in whatever state of being he or she
 may have moved on to. In countries like Thailand, Sri Lanka, and for
 Buddhists who live in the West, there are certain occasions when family
@@ -4619,7 +4619,7 @@ inner stillness.
 
 ## Ajahn Amaro • September 2008
 
-Often when we practice loving-kindness, *mettā,* it involves an active
+Often when we practice loving-kindness, *mettā*, it involves an active
 well-wishing to all beings, such as when we repeat the phrases, “May you
 be happy, may they be happy, may all beings be happy, healthy, safe, at
 ease,” and so forth. Certainly that’s an important part of
@@ -4923,7 +4923,7 @@ connection with—the present moment.
 ## Ajahn Jotipālo • November 2013
 
 In quite a few of our *paritta* chants there is the line *etena sacca
-vajjena sotthi te hotu sabbadā,* which is roughly translated as, “by the
+vajjena sotthi te hotu sabbadā*, which is roughly translated as, “by the
 utterance of this truth may there be safety, protection.” About a month
 ago I was on my solo retreat reading a book about the stories behind the
 parittas, the protective chants. There was this touching tale from the
@@ -4959,7 +4959,7 @@ during the robbery he reacted like an animal, fighting and fleeing out
 of fear. Ajahn Sucitto just stayed there with the robbers, quietly and
 calmly dealing with them. When the leader of the robbers held an ax over
 Ajahn’s head and was about to murder him, Ajahn Sucitto calmly recited,
-*Namo tassa bhagavato arahato sammāsambuddhassa,* “Homage to the
+*Namo tassa bhagavato arahato sammāsambuddhassa*, “Homage to the
 Blessed, Noble, and Perfectly Enlightened One.” He came into the present
 moment, made an honest assessment of the situation, and found himself
 truly ready to die. Needless to say, Ajahn lived to tell the tale, and
@@ -5035,7 +5035,7 @@ know that everything in the material world, the realm of the human body
 or psyche is going to either break, change, or deteriorate according to
 certain laws of biology and kamma. These are natural laws that create
 the flow of arising and passing away. If we reflect, we can see how our
-expectations take us in a direction that sometimes leads to *dukkha.*
+expectations take us in a direction that sometimes leads to *dukkha*.
 For example, we get “the diagnosis” and we think, *Why me? I’ve done
 everything right. It’s too soon. Why should this happen? Going to
 doctors and having treatments isn’t what I was planning to do for the
@@ -5069,7 +5069,7 @@ is very much in the spirit of developing Saṅgha—cultivating a capacity
 to put forth effort and energy in a collaborative way. It requires a lot
 of attention to do it skillfully.
 
-When we talk about *sati,* mindfulness, we often think about it in terms
+When we talk about *sati*, mindfulness, we often think about it in terms
 of being careful with the task or job we’re doing. However, along with
 mindfulness, the other elements of clear comprehension—*sampajañña*—and
 wisdom—*paññā*—are crucial. Clear comprehension means that when we are
@@ -5178,7 +5178,7 @@ when we’re talking about meditation—for the mind to become settled,
 peaceful, and still we need to have the ability to be content with the
 breath or some other meditation object. In the suttas, the Buddha describes
 contentment as one of the characteristics of a great being or a noble
-one, an *ariya.* We learn to be content with our robes, alms food,
+one, an *ariya*. We learn to be content with our robes, alms food,
 lodging, and with our cultivation, our development of meditation.
 
 This aspect of contentment is a fruitful area for investigation. We can
@@ -5258,15 +5258,13 @@ ourselves treating the experience of having a body as if it were an
 abstract concept. This doesn’t end up being very fruitful for us.
 
 In his seminal discourse on mindfulness of breathing, the Buddha uses
-the verb *paṭisaṃvedeti,* which means “to fully experience.”
-We fully
-experience the body as we breathe in
-and as we breathe out; we *fully
-experience* feelings as we
-breathe in and as we breathe out. It’s a quality of inhabiting what is
-truly going on for us. If we stay even a slight distance from what we
-experience, then we don’t see it clearly. And when we don’t experience
-things clearly, we tend to create problems for ourselves.
+the verb *paṭisaṃvedeti*, which means “to fully experience.” We fully
+experience the body as we breathe in and as we breathe out; we *fully
+experience* feelings as we breathe in and as we breathe out. It’s a
+quality of inhabiting what is truly going on for us. If we stay even a
+slight distance from what we experience, then we don’t see it clearly.
+And when we don’t experience things clearly, we tend to create problems
+for ourselves.
 
 That is why, when the Buddha taught the Four Noble Truths, he also
 taught a specific duty or response for each truth. He instructed that
@@ -5295,7 +5293,7 @@ these hindrances and work with them because they are not only an
 obstruction when we sit in meditation, they’re also concrete
 manifestations of the underlying tendencies: greed, hatred, and
 delusion. These are the tendencies that keep us moving through
-*saṃsāra,* cyclical rebirth. By examining the hindrances, we can see how
+*saṃsāra*, cyclical rebirth. By examining the hindrances, we can see how
 these underlying tendencies manifest themselves in our daily lives. They
 tend to be more obvious to us if we are accustomed to them and start to
 work with them in a constructive way.
@@ -5348,7 +5346,7 @@ easily blown off course.
 
 ## Luang Por Pasanno • April 2013
 
-It is helpful to contemplate how to use *khanti,* patience, in our daily
+It is helpful to contemplate how to use *khanti*, patience, in our daily
 practice, and how we can cultivate it as a mental attitude during
 meditation. Patience is an underrated *pāramī* and considered in
 different ways, sometimes even misinterpreted. I remember Varapañño
@@ -5356,13 +5354,13 @@ Bhikkhu disparaging himself, saying: “I just don’t have any pāramīs of
 wisdom, meditation, loving-kindness or anything like that. But at least
 I can just put up with this. I can build some khanti pāramī.” His
 attitude reminded me of the depressed but lovable donkey Eeyore from
-*Winnie-the-Pooh.*
+*Winnie-the-Pooh*.
 
 Khanti is actually a proactive engaging with experience in a way that’s
 not getting caught up in or swayed by the reactions and impulses of
 either liking or disliking or of desire and aversion. It has an enduring
 quality to it. One of the phrases the Buddha uses to describe the
-impulses of mind is *abhijjhā domanassa,* desire and aversion or a
+impulses of mind is *abhijjhā domanassa*, desire and aversion or a
 gladness-sadness type of impulse. We can try to have an enduring and
 patient attitude toward that so we’re not reactive. When we’re not
 reactive, then desire and aversion, liking and disliking go their
@@ -5370,7 +5368,7 @@ natural way, and they cease. So when we’re engaged in some sort of
 interaction, whether it’s pleasant or unpleasant, the mind isn’t getting
 swept up in it. Similarly, when we’re engaged in some kind of task,
 chore or duty, and we have been cultivating patience, then what comes to
-mind is a kind of *gravitas,* a sense of weight, ballast, or anchor in
+mind is a kind of *gravitas*, a sense of weight, ballast, or anchor in
 the mind that isn’t pulled around.
 
 I’ve never come across a satisfying translation of khanti—patient
@@ -5434,7 +5432,7 @@ suffering. These insights are accessible and not that difficult to
 penetrate, but it takes determination.
 
 We have to go into the stream of the compulsive mind that’s going in a
-particular direction, very often the direction of *bhavataṇhā.*
+particular direction, very often the direction of *bhavataṇhā*.
 Bhavataṇhā is the ongoing creation of and belief in a solid and
 substantial self or identity that we are constantly propping up with
 roles, habits, ideas, views, and opinions—*I’m like this, I’m not like
