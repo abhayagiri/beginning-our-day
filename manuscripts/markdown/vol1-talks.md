@@ -41,8 +41,8 @@ to other people. Contentment is also the basis for concentration,
 this footstep, this feeling in the knee, this sound in the room, this
 quality of mood. To be content with just this moment is of enormous
 importance in terms of samādhi, concentration. And if there’s
-discontent—I have to become more concentrated, gain more insight, be
-more comfortable, I have to, I have to—then even though we may be well
+discontent—*I have to become more concentrated, gain more insight, be
+more comfortable, I have to, I have to*—then even though we may be well
 intentioned, discontent continually creates a cause for agitation and a
 lack of focus. As a result, samādhi is far away.
 
@@ -50,7 +50,7 @@ The quality of contentment can drift off in certain ways. It can turn
 into dullness or laziness or an urge to switch off, while at the same
 time we’re thinking of ourselves as being content. Actually, we’re
 simply steering the mind toward numbness, a non-feeling state or a
-feeling of wanting to getting rid of, not bothering with. That’s not
+feeling of wanting to get rid of, not bothering with. That’s not
 contentment. Contentment isn’t a quality of begrudging resignation—*Oh
 well, I’m stuck with this mood, this particular problem or feeling. I’ll
 just grit my teeth and bear it. I’ll just wait for this to be over*—this
@@ -272,7 +272,7 @@ white—it’s always a mixture. Without this balanced perspective, we tend
 to go through cycles of elation and depression, excitement and
 frustration and then wonder why that’s happening. Well, in all
 likelihood, it’s happening because we’ve attached ourselves to some sort
-of all or nothing view.
+of all-or-nothing view.
 
 Ajahn Chah encouraged us to question our views of experience by having
 us ask ourselves, *Is this for sure? Is this really what’s happening?*
@@ -310,7 +310,7 @@ should go do something to help the monastery or read a book or do
 walking meditation . . .* There is this low-grade desire in me to avoid
 feeling this melancholy. I don’t *want* to feel it. Even something as
 wholesome as reading or studying, if the intention behind that is to
-avoid feeling something then it’s good to investigate that.
+avoid feeling something, then it’s good to investigate that.
 
 For at least a period of our afternoon, when we have solitude, I think
 it is good to set aside some time to do nothing in particular. Don’t
@@ -329,15 +329,14 @@ to feel what we are feeling.
 
 ## Luang Por Pasanno • July 2005
 
-The other night Ajahn Sucitto gave a Dhamma talk about the type of
-kamma that leads to the end of kamma, and one type of kamma he spoke
-about was stopping. The
-importance of stopping is often overlooked. We get so caught up in
-doing, becoming, activity, and engagement that we don’t attend to
-stopping—it’s a neglected aspect of our practice. This isn’t about
-sitting around doing nothing, because that’s a form of doing as well.
-It’s about stopping habits of greed, irritation, and confusion. It’s
-about stepping back and ceasing.
+The other night Ajahn Sucitto gave a Dhamma talk about the type of kamma
+that leads to the end of kamma, and one type of kamma he spoke about was
+stopping. The importance of stopping is often overlooked. We get so
+caught up in doing, becoming, activity, and engagement that we don’t
+attend to stopping—it’s a neglected aspect of our practice. This isn’t
+about sitting around doing nothing, because that’s a form of doing as
+well.  It’s about stopping habits of greed, irritation, and confusion.
+It’s about stepping back and ceasing.
 
 Throughout the day, during work periods and in meditation, we can
 reflect on how much the mind gets swept up in activity and in
@@ -350,7 +349,7 @@ liking, fascination . . . and then we begin to lose control. We don’t
 know how to stop this momentum of desire because we’re not used to
 stopping. It’s also helpful to reflect on the occasions when we do
 happen to stop. We might ask ourselves, *Does stopping mean I can’t
-function? Or is it more so that when I stop and stand in awareness, I
+function? Or is it more that when I stop and stand in awareness, I
 accomplish things more skillfully than when the mind is swept up by
 moods and thoughts?*
 
@@ -446,7 +445,7 @@ When we are feeling enthusiastic, we can easily give ourselves to the
 practice. But it can also happen that, at times, we feel completely
 disillusioned, even to the extent that we forget the original confidence
 and faith we had. But that’s natural. It’s like swimming a long way. We
-become tired. There’s no need to panic though; we can simply be still
+become tired. There’s no need to panic, though we can simply be still
 for a while. Then when we have regained strength, we continue. When we
 understand in accordance with nature, we understand these states will
 change. Despair, if that is what has arisen, will pass. We keep
@@ -581,10 +580,10 @@ some serious problems. Basically I’m just a defiled mess. I really am!*
 We need to listen to that voice with compassion, but at the same time,
 we don’t want to let it run our lives. So we listen and then gently park
 it to one side. We can reflect, *Even if I’m filled with utterly ghastly
-defilements, still there are things I’ve done that have helped people.*
+defilements, still there are things I’ve done that have helped people.
 That’s an undeniable fact. There’s some goodness or brightness that I’ve
 brought into the lives of others. My effort to be a little bit more
-patient has benefited other beings. How wonderful! By letting that
+patient has benefited other beings.* How wonderful! By letting that
 brightness inform our lives, we can be encouraged and gladdened by it.
 
 # Where Did That Self Go?
@@ -601,7 +600,7 @@ to reduce sensual desire when there is a strong attachment to the human
 body as an object of attraction. We can also bring this reflection up as
 a way of dividing up what we usually consider a unit, a whole, something
 to attach a sense of self to. Oftentimes we identify with this body as
-either me or mine, as something I possess or something that is actually
+either “me” or “mine,” as something I possess or something that is actually
 who I am. The “Thirty-Two Parts of the Body” contemplation helps us
 tease the body apart so that we can reflect on how this body is just a
 collection of parts, any one of which we would be hard-pressed to say is
@@ -619,15 +618,15 @@ how we normally do. When we look at things in a different way or see
 different aspects or angles of physical and mental phenomena, it can
 help us see how much stock we put into the continuity of the perceptual
 realm. As the Anattalakkhaṇa Sutta suggests, we can see how we attach to
-our perceptions a sense of me, myself, and who I am. This continuity of
+our perceptions a sense of “me,” “myself,” and who I am. This continuity of
 thoughts, perceptions, and feelings weaves a web of self and sometimes
-gets changed or altered or diminished, *Where did that “me” go to? Where
+gets changed or altered or diminished. *Where did that “me” go to? Where
 did that self go? Is it a different one? Is it the same one but looked
 at from a different angle? Or is it possibly just another perception
 that I have weaved together to give a sense of security and stability?*
 
 It is good to reflect on the change and instability of what we normally
-call me or mine, both in the body and in the mind. We can take this up
+call “me” or “mine,” both in the body and in the mind. We can take this up
 as a contemplation and examination, and ask ourselves, *Am I really any
 of these?*
 
@@ -698,7 +697,7 @@ like is because of the way we structure our values and priorities
 *within*. None of what we experience from the outside—be it community,
 people, activities, or responsibilities—has an objective, factual
 existence. It’s something that we experience through our internal
-senses. We give meaning to things and based on the meaning we give, we
+senses. We give meaning to things and, based on the meaning we give, we
 attach to this and hate that. We create an entire world out of what we
 experience, and we end up *living* in that world. The world, as we know
 it, isn’t actually out there; it’s in our heads. Understanding this
@@ -747,7 +746,7 @@ and skillful thoughts, and the mind can become settled and clear.
 
 Ajahn Chah said that meditation is like containing a chicken. In a
 village, when a person has a chicken and is concerned that it’s going to
-run off, he gets a loosely woven large bamboo basket and plunks it over
+run off, he gets a loosely-woven large bamboo basket and plunks it over
 the chicken. Rice can be put in the basket, and the chicken stays in the
 container. One doesn’t have to tie the chicken down or keep it from
 taking a step anywhere. Having a container for the chicken is
@@ -785,7 +784,7 @@ In our practice we are normally working with the core defilements of
 greed, anger, and delusion. Often when these defilements arise, the way
 we deal with them is through restraint. When we restrain the defilements
 it feels different than actually letting them go. With restraint, we
-continue to experience the defilement, it’s an undercurrent in the mind.
+continue to experience the defilement; it’s an undercurrent in the mind.
 By contrast, when we genuinely let something go, there is a feeling of
 being completely refreshed and replenished. There can be an experience
 in both the body and the mind of being filled with a clear, cool, pure
@@ -833,9 +832,9 @@ arising of faith as a real possibility for us.
 As Westerners, most of us are not on familiar ground when we reflect on
 faith. But it is an important quality for balancing the different
 aspects of our practice. In particular, faith comes first among the Five
-Spiritual Powers. It is used to balance wisdom—the fifth Power, and to
+Spiritual Powers. It is used to balance wisdom, the fifth Power, and to
 support energy and effort—the second Power. How does that work? Wisdom
-arises from investigative analysis, and without faith, investigative
+arises from investigative analysis, and, without faith, investigative
 analysis becomes dry, and we tend to lose energy. The qualities of faith
 include confidence and devotion, both of which naturally result in
 increased energy and effort. Energy and effort need to be nourished, and
@@ -865,7 +864,7 @@ externalize, *It’s happening to somebody else, not me.* But at some
 point, it won’t be somebody else, it will be us, and it would be nice to
 think that we are ready for it when it comes. This isn’t meant to be a
 morbid reflection, but more an encouragement to contemplate death,
-bringing us closer to the reality of it and encouraging a sense of
+bringing us closer to the reality of it and to encourage a sense of
 heedfulness and urgency in the practice.
 
 It’s so easy to get lost in the tasks of the day, particularly as we are
@@ -933,11 +932,11 @@ Sometimes our attempts at communicating can be hopelessly indirect,
 which is not helpful. For example, if we feel somebody is being unkind
 to us, rather than letting them know we might instead ostentatiously
 increase our “kindness” around them, hoping they’ll get the message and
-change. This rarely works and can sometimes be seen as passive
-aggressive. So it’s important to establish genuinely truthful speech to
-directly express our needs to others, at the appropriate time, so they
-can hear and understand us. This takes practice, but it’s very much a
-part of the path.
+change. This rarely works and can sometimes be seen as
+passive-aggressive. So it’s important to establish genuinely truthful
+speech to directly express our needs to others, at the appropriate time,
+so they can hear and understand us. This takes practice, but it’s very
+much a part of the path.
 
 More generally, it is also important to act with a generous heart, no
 matter what we’re doing. This requires an attitude of taking
@@ -1155,17 +1154,17 @@ wrapped up in the perceptions of self—and believing in them.
 As we go about our day, we can reflect upon, investigate, and challenge
 these assumptions about the self and be willing to work with them over
 time. These assumptions are deeply ingrained in the mind, so examining
-them, making this process conscious, and being aware of that self
-perspective is a central part of our practice.
+them, making this process conscious, and being aware of that
+self-perspective is a central part of our practice.
 
 # Turning Inward With Patience
 
 ## Ajahn Jotipālo • July 2013
 
-I have been listening to a few of Bhikkhu Bodhi talks on loving-kindness
-and was surprised when he mentioned that the word *khanti*, patience,
-is very closely related to the word *mettā*, loving-kindness. I hadn’t
-recognized that before.
+I have been listening to a few of Bhikkhu Bodhi’s talks on
+loving-kindness and was surprised when he mentioned that the word
+*khanti*, patience, is very closely related to the word *mettā*,
+loving-kindness. I hadn’t recognized that before.
 
 He explained that in practice situations, the use of mettā is more of an
 external, outgoing energy, where we make a genuine wish for other people
@@ -1244,8 +1243,8 @@ lifestyle that we’re offered as renunciants.
 ## Ajahn Karuṇadhammo • April 2012
 
 There are three ways we act on the inclinations, impulses, and
-intentions that come through the mind, and this is through body, speech,
-or mind. In a monastery, where there are many restraints on our
+intentions that come through the mind, and these are through body,
+speech, or mind. In a monastery, where there are many restraints on our
 activities, we can particularly notice the action of speech. Because
 actions and ideas are often expressed through speech, it’s good to focus
 attention on this habit so we can learn about ourselves through our
@@ -1278,7 +1277,7 @@ careful with our speech because people are sensitive, and regrets can
 arise when others are hurt through the use of wrong speech. The Mettā
 Sutta suggests that we be not only straightforward in speech, but gentle
 as well. Even if our speech is true, we must be mindful of the impact
-our words have in a community as well as when we are engaging in the
+our words have in a community, as well as when we are engaging in the
 world outside of the monastery.
 
 # The Generosity of Respect
@@ -1351,7 +1350,7 @@ the present without creating this whole welter of confusion around it.
 That’s why it’s very helpful that the Buddha pointed out these simple
 flags we can use to recognize when we’re fueling the mill of papañca. If
 the mind is saying, *This is mine, this belongs to me, and that’s
-yours,* if it’s saying, *This is what I am, this is absolutely me and
+yours;* if it’s saying, *This is what I am, this is absolutely me and
 truly who and what I am,* then that’s the signal to let go, to not get
 caught in that process, and to bring more spaciousness to the mind. As
 soon as the mind says, *That’s mine, that’s yours, I wish I had one of
@@ -1397,7 +1396,7 @@ in the present moment.
 Bringing the mind to the present moment is hard work, because, over the
 years, we have pursued the habit of creating time so that now this habit
 has great momentum and it keeps pushing us into the past and future. As
-a result, we could say, it takes a real “balancing act” to overcome that
+a result, we could say, it takes a real balancing act to overcome that
 momentum—to bring ourselves back to a place that is centered and
 balanced in the present moment. Doing this is a matter of balance rather
 than effort.
@@ -1405,12 +1404,12 @@ than effort.
 When we see clearly, we know that there’s only the present moment.
 That’s all there has ever been. It takes commitment and determination to
 see this and take it seriously. There is no worldly benefit to be gained
-from returning to the present. No one knows if we are in the present
-moment or not. No one will praise us for it, and we won’t get any money
-for it—we don’t get anything worldly out of it at all. But by continuing
-to return the mind to the present moment, we can eliminate having to
-bear the weight of the whole saṃsāric universe on our shoulders. No
-wonder coming back to the present is such a relief.
+from returning to the present. No one else knows if we are in the
+present moment or not. No one will praise us for it, and we won’t get
+any money for it—we don’t get anything worldly out of it at all. But by
+continuing to return the mind to the present moment, we can eliminate
+having to bear the weight of the whole saṃsāric universe on our
+shoulders. No wonder coming back to the present is such a relief.
 
 # Appreciating the Goodness of Others
 
