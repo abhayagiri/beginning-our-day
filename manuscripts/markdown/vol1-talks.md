@@ -2512,14 +2512,14 @@ and large it’s an incredibly rare opportunity. We can do our best to
 take full advantage of this situation because this life is short, and we
 don’t know exactly where we’re going to end up the next time around. We
 keep the momentum going by cultivating the wholesome and skillful
-qualities we want to bring with us so these qualities carry on into the
+qualities we want to bring with us. These qualities carry on into the
 future in case we don’t finish our work in this lifetime.
 
 All of the wholesome intentions we cultivate now will condition what
 happens for us the next time around and, most importantly, will
 condition the quality of our lives right here and right now. We are
 working on letting go of unskillful tendencies, the aversion, greed,
-self-interest, and selfishness and cultivating qualities of virtue and
+self-interest, and selfishness, and cultivating qualities of virtue and
 generosity, to make a commitment to ending the cycle of suffering.
 That’s how we can increase the potential of being in association with
 like-minded people in lifetimes to come. This is the meaning of true
@@ -2541,7 +2541,7 @@ We need to apply some discernment. When we experience difficulty,
 conflict or dis-ease, we direct our attention toward that, investigate
 its causes, and examine the process by which it is unfolding. This is
 not to say we should be reaching out intellectually and coming up with
-rational explanations, rather, it is being willing to investigate and
+rational explanations; rather, it is being willing to investigate and
 bring one’s attention to the matter at hand.
 
 Once when Ajahn Chah was visiting the U.S. someone asked him a question
@@ -2590,7 +2590,7 @@ an experience some of us have. Others among us don’t have a lot of
 emotional content or aren’t really aware of it. Some people can be very
 much in their heads and rational, absorbed in thought, analysis or
 speculation. Others can be absorbed in some mood, positive or negative.
-But mindfulness is that which is in the background containing all of
+But mindfulness is that which is in the background, containing all of
 those experiences.
 
 That’s what we want to cultivate—that capacity to observe whatever it is
@@ -2613,7 +2613,7 @@ out of suffering.
 So whether we’re investigating our moods or working with the
 defilements, mindfulness is key. It’s what replaces madness with sanity.
 
-# Everything Is Mind Attended
+# Everything Is Mind-Attended
 
 ## Ajahn Amaro • December 2008
 
@@ -2626,17 +2626,17 @@ very good teaching, isn’t it?
 
 It’s like the mood of the mind. It can be so persistent when it’s stuck
 on some track, excited, irritated, or worried about something. There
-seems to be a coloring of the whole world. This is my problem. I’m
+seems to be a coloring of the whole world. *This is my problem. I’m
 supposed to worry about this. I have to worry about this. This is my
 project. The only thing that really matters in the world are the
 railings on the Bhikkhu Commons *kuṭi* or clearing the trap under the
-sink at Casa Serena. The center of the world is this particular job we
+sink at Casa Serena.* The center of the world is this particular job we
 have, these letters that have to be written or this meal that has to be
 cooked. These things that the mind latches onto seem so real and
 permanent—our particular projects, responsibilities, fears, hopes, and
-desires. Well, of course it’s that way. Can’t you see? Then
+desires. *Well, of course it’s that way. Can’t you see?* Then
 suddenly—snap! Overnight the world changes color, and there’s a whole
-different mood. Suddenly, Oh look, it’s all different. How utterly
+different mood. Suddenly, *Oh look, it’s all different.* How utterly
 transformed our perceptions can be merely by a different shape, coloring
 of the landscape, or the sound of the valley.
 
@@ -2651,17 +2651,17 @@ much the world can change when we’re in the midst of some particular
 anxiety, worry, project, or activity—it helps to provide a perspective.
 Oh, this is only my impression. Now I see.
 
-We get caught up in thinking, I have my name written on this particular
+We get caught up in thinking, *I have my name written on this particular
 issue. It’s mine. I’m responsible for this project. I have to dig this
-hole. I have to fix this railing. I’m the one who has to pay the debt.
+hole. I have to fix this railing. I’m the one who has to pay the debt.*
 It seems so real and important, so much like it’s the center of the
 world. We see what the mind has put onto it, what Luang Por Chah would
 call “a mind-attended thing.” He would say, “Everything is mind
 attended.” Even though in the Abhidhamma it says there are some things
-which are mind attended and there are some things which are not mind
-attended, Luang Por Chah would say, “Well, actually, everything is mind
-attended.” As soon as we know about something, we form an opinion, make
-a judgment, and create things with our thoughts.
+which are mind-attended and there are some things which are not
+mind-attended, Luang Por Chah would say, “Well, actually, everything is
+mind-attended.” As soon as we know about something, we form an opinion,
+make a judgment, and create things with our thoughts.
 
 A simple event like a snowfall, a change of the landscape, and we’re
 reminded that this particular thing that’s so significant to us is only
@@ -2747,7 +2747,7 @@ forgive you, okay?
 Yes, everything is breaking down. But we can get through that, we can be
 bigger than that. We can be bigger than getting it right and wrong. We
 can be bigger than success and failure, praise and blame, gain and loss.
-What a relief to get out of the game. There will be some pain though,
+What a relief to get out of the game. There will be some pain, though,
 and we might even cause pain. Maybe the way out of it is being a bit
 more relaxed, at ease, broad-minded, and less concerned about being
 right, perfect, on time, prepared, well-defended, and approved.
@@ -2760,9 +2760,9 @@ Then we can learn to let go of it, to come out of it—and to come out of
 the agitation and self-consciousness that arises up in these forms.
 
 This is important to learn, isn’t it? It is nothing esoteric or
-high-minded, just basic sanity. But the wonderful thing is that although
-it is very ordinary, it is also extremely profound because it starts to
-dismantle all those reflexes that seem so ingrained and out of
+high-minded, just basic sanity. But the wonderful thing is that,
+although it is very ordinary, it is also extremely profound because it
+starts to dismantle all those reflexes that seem so ingrained and out of
 control—reflexes that grip us, push us around, make us flustered, say
 things we wish we hadn’t said, or make us feel bad.
 
@@ -2887,7 +2887,7 @@ of them have found me more than twenty feet away, and I’ve been stung
 twice. After the first couple of days observing them in their
 territorial and protective nature, I was reminded of how really foolish
 it is to have any sense of ownership around “my kuṭi.” It’s likely that
-their sense of possession is even stronger than mine to the point of
+their sense of possession is even stronger than mine, to the point of
 aggressively defending their position. For them it is “their kuṭi,” not
 mine, and they are simply defending their territory against me. This is
 another reminder of the sense of ownership and control we have, the
@@ -2918,7 +2918,7 @@ thoughts are these? Whose opinions are these? Whose neuroses are these?
 Whose problems are these?* We have such a strong sense of ownership
 around all of this. We hope to do whatever is possible to reasonably
 maximize comfort and skillfulness, yet, if we have a sense of personal
-attachment, personal identity to any of this, then at some point when
+attachment, personal identity, to any of this, then at some point when
 things change, we are bound to suffer.
 
 This is a reflection we can keep in mind as we practice throughout the
@@ -3349,7 +3349,7 @@ the Dhamma.
 There has been a lot of busyness here these days. Many things need to be
 done, and we’re doing them. But it’s important to be careful about how
 much we get swept up into the busyness of our lives. Those are two
-different things–the doing of a task and the frantic, busy, scattered
+different things—the doing of a task and the frantic, busy, scattered
 energy we may bring to the task. We can try to watch and reflect on the
 feeling behind what we’re doing. What is the energy behind it? Recognize
 where the feeling of agitation comes from.
@@ -3562,7 +3562,7 @@ can I be most attentive without being overly solicitous?*
 
 I recognize, both in myself and others, that this kind of speculation
 and questioning are expressions of a truly noble concern for what Iris’s
-experience may be like and how we want to help. In some ways though, as
+experience may be like and how we want to help. In some ways, though, as
 we try to help we can take the focus off our own experiences and put off
 the need to reflect on ourselves. Many of the Buddha’s teachings
 encourage us to pay attention to and contemplate the body in terms of
@@ -3595,7 +3595,7 @@ this perception to mind, then the more real it will become for us.
 Paradoxically, this reflection can bring up a sense of ease and calm.
 This settled quality arises from insight into the characteristics of
 *anicca* and *anattā*, impermanence and not-self. Both characteristics
-become more apparent and real so that when serious illness or imminent
+become more apparent and real, so that when serious illness or imminent
 death approaches there will be a familiarity with the nature of one’s
 finite existence. The more those familiar feelings can be brought in,
 the less fear there is around letting go of that which really isn’t ours
@@ -3759,9 +3759,9 @@ to be just like this; this is going to be really wonderful; that is
 going to be great.* But the challenge is remembering that it’s just a
 story, it’s not a sure thing. The mind can also buy into, *It’s going to
 be awful; it’s going to be dreadful; how am I going to bear with this?*
-What can help us with this is thinking *it’s not a sure thing.* We
+What can help us with this is thinking, *it’s not a sure thing.* We
 develop the ability to hold experience within the framework of
-mindfulness, reflection, investigation, and discernment and openly
+mindfulness, reflection, investigation, and discernment, and openly
 acknowledge that we’re not sure what it’s going to be like. When we hold
 experience in this way, we find that everything is bearable, everything
 is quite all right—we are creating a framework of Dhamma rather than a
@@ -3789,7 +3789,7 @@ interact with each other in thoughtful and caring ways.
 
 A line that comes to mind is in the Mettā Sutta, “straightforward and
 gentle in speech” (Sn 1.8)—it’s a combination of two different actions.
-We aren’t just straightforward but also gentle, nor are we merely
+We aren’t just straightforward, but also gentle, nor are we merely
 gentle; we need to be straightforward. It’s both qualities at the same
 time. This is often not an easy task—it takes a tremendous amount of
 skill and mindfulness to be straightforward and gentle simultaneously.
@@ -3811,14 +3811,14 @@ Conversely, people can be overly concerned about how something is
 communicated because they do not want to upset anyone, cause any
 discord, or are afraid of someone’s reaction. When this occurs, the
 message may be delivered in a way that is indirect, uncertain, or not
-straightforward at all and therefore, the content of what is being said
+straightforward at all, and therefore, the content of what is being said
 and its meaning is misunderstood. Perhaps one is communicating out of
 fear—afraid to speak up in a situation where someone needs a clear
 statement. We can end up being imprecise or ambiguous, thinking that
 we’ve communicated a message, but the other person has not heard a word
 of what needed to be said.
 
-Being able to combine clarity, honesty, gentleness, and kindness to what
+Being able to combine clarity, honesty, gentleness, and kindness in what
 we say is a skill that requires a lot of attention and work. We are
 learning to consider both how our speech is delivered and how it will be
 received. I find for myself that it’s an ongoing exercise of making
@@ -3914,7 +3914,7 @@ to is the brahmavihāra of equanimity.
 ## Luang Por Pasanno • July 2012
 
 Currently, there are many visiting monastics and laypeople here, and the
-numbers are at the high-end of what we are used to. In some areas of the
+numbers are at the high end of what we are used to. In some areas of the
 monastery there is limited space and close quarters. In the monk’s room,
 the kitchen, and various other places where we are doing activities
 together we need to attend to the ways we interact with each other. It
@@ -3936,7 +3936,7 @@ mindfulness.
 It’s not that difficult to be mindful when we are on our own in our
 *kuṭis*. But when we’re engaging with others, when there are duties that
 need to be done, or when something needs doing right away, it takes
-effort to stop ourselves from being swept up in agitation and effort to
+effort to stop ourselves from being swept up in agitation, and effort to
 maintain a space of mindfulness and letting go. What we are letting go
 of is suffering. When we use mindfulness and relinquishment, there’s
 less suffering. With less mindfulness and less relinquishment, there is
@@ -4029,7 +4029,7 @@ contemplation. How can we loosen our tight grip on the rules, while at
 the same time continuing to follow them, understanding that they are an
 essential part of the monastic path? Contemplating in this way takes
 intelligence and ingenuity—plus circumspection, to ensure that our
-reflections bring positive results—results that enrich and enliven our
+reflections bring positive results, esults that enrich and enliven our
 practice.
 
 # The Natural Result
@@ -4089,7 +4089,7 @@ me or maybe I said something in the beginning that disturbed him.* At
 one point only he and I were in the day room resting after the meal. He
 had yet to say anything to me the entire time since I had arrived. I was
 sitting on one side of the room and he was sitting on the other and he
-broke into conversation saying: “You’re a warrior.”
+broke into conversation, saying, “You’re a warrior.”
 
 I thought, *What? What does he mean?* so I said to him, “What?”
 
@@ -4098,7 +4098,7 @@ He replied, “You’re a warrior, aren’t you?”
 I thought to myself, *Well, I’ve never thought of myself as a warrior.*
 So I asked him: “What do you mean? Why do you say that I’m a warrior?”
 
-He replied back to me, “Well I know, because I’m a warrior too.”
+He replied back to me, “Well, I know, because I’m a warrior, too.”
 
 I thought, *What’s going on in this guy’s mind?* Again I said, “What do
 you mean?”
@@ -4118,7 +4118,7 @@ Last night here at the monastery, we were talking about living in
 community—the effect people have on us and how, particularly as
 Westerners, we have a strong individual self-identity and therefore
 construct so much *dukkha* around that identity. With this individualism
-in our culture, we don’t have a lot of experience living in community
+in our culture, we don’t have a lot of experience living in community,
 nor do we understand the benefits of living with and learning from other
 people in this way. Ajahn Chah’s training heavily emphasized the power
 of living in community. It can be difficult to live this way because we
@@ -4134,7 +4134,7 @@ they banged up against each other and against the rough surface of the
 drum until all the skins were peeled off. When I first saw this I
 thought, *Wow, this is just what living in community is like.* Part of
 it is the process of constantly being in a close living environment with
-other people until over time all the rough edges are worn down through
+other people until, over time, all the rough edges are worn down through
 interaction and give and take. There aren’t a lot of people who would
 willingly throw themselves into a situation like a vegetable peeler, but
 that’s basically what we have done here in the monastery.
@@ -4198,7 +4198,7 @@ brings us closer to the present moment.
 
 The present moment is the place where we can recognize: There is the
 content of experience; there is something in the content that we find
-appealing—something that tempts us to make it our own, and there is a
+appealing—something that tempts us to make it our own; and there is a
 desire compelling us to grab onto that content. When we’re connected to
 our present-moment experience in this way, there is the wisdom that
 tells us, *I know this process of content-appeal-desire-compulsion is
@@ -4214,7 +4214,7 @@ practice. It is not like having a livelihood in which we are given a
 clear task, day after day—a livelihood where we might have the attitude
 that *As long as I do this I don’t have to worry about anything. I just
 do my job, go home, go to bed, and everything is okay. I don’t have to
-give it much thought.* This is not how it is with spiritual life nor
+give it much thought.* This is not how it is with spiritual life, nor
 with spiritual practice. We are not here merely to have a place to stay
 and food to eat—that would be a terrible motivation. The motivation to
 be here has to be for something noble, something that involves the
@@ -4232,7 +4232,7 @@ even though there’s an underlying foundation of simplicity, one goes
 through various phases of solitude and group activity. It’s important to
 make a conscious effort to bring things back to a life of more solitude
 and less engagement. It’s interesting to see how the mind picks up a
-particular way of relating and then rolls along with it so we need to
+particular way of relating and then rolls along with it, so we need to
 make that conscious effort to pull back.
 
 It’s not as if engagement is bad—it’s been a wonderful and fruitful time
@@ -4256,7 +4256,7 @@ There is a skillful and beautiful Buddhist tradition for families and
 friends of someone who has passed away. The family members and friends
 come to the monastery and make offerings that support the monastic
 community. They receive *puñña*, merit from these offerings, and they
-dedicate that merit to the deceased in whatever state of being he or she
+dedicate that merit to the deceased, in whatever state of being he or she
 may have moved on to. In countries like Thailand, Sri Lanka, and for
 Buddhists who live in the West, there are certain occasions when family
 and friends come to make these offerings—some short period of time after
@@ -4294,8 +4294,8 @@ friends and companions. That’s only natural and to be expected. It’s
 realistic.
 
 The customs of gathering together, taking precepts, making offerings,
-dedicating the merit to benefit an individual are ways of taking that
-feeling of sadness and loss on the occasion of a person’s death and
+and dedicating the merit to benefit an individual are ways of taking
+that feeling of sadness and loss on the occasion of a person’s death and
 uniting it with an act which is intrinsically wholesome, a brightening
 act of generosity and kindness. Acts of generosity and dedicating merit
 bring happiness, brightness, and invigoration to the mind and the heart.
@@ -4311,7 +4311,7 @@ for brightness and happiness to arise.
 
 As we reflect on the traditional explanation of *anicca*—how things are
 impermanent, inconstant, always changing—it is especially useful to also
-reflect on anicca as a sense of uncertainty, or as Ajahn Chah would say,
+reflect on anicca as a sense of uncertainty, or, as Ajahn Chah would say,
 “It’s not a sure thing.” We tend to deny or gloss over the fact that we
 don’t know things for sure. We feel uncomfortable with uncertainty or
 uncomfortable with not knowing something. It can be intimidating. But
@@ -4337,7 +4337,7 @@ first place. In other words, if we have lost touch with the fact that,
 like all views and opinions, “It’s not a sure thing,” then we may likely
 feel ashamed or uncomfortable. But if we keep this notion of uncertainty
 with all that we do and say then when we do make a mistake—an honest
-mistake—based on some assumption rather than a deliberate lie, then it’s
+mistake, based on some assumption rather than a deliberate lie—then it’s
 not so much of a problem. It’s uncertain, and we don’t need to take it
 personally, thinking that *I’m such an awful person, I never get it
 right, I should have known better.* When we hold our thoughts and words
@@ -4373,7 +4373,7 @@ harder and make a new determination so I won’t get stuck in these
 states.* That’s not going to solve the problem.
 
 Even so, when done properly, making a determination can be extremely
-valuable and when a determination is valuable, if we slip up on it, then
+valuable, and when a determination is valuable, if we slip up on it, then
 it’s helpful for us to recommit to the determination straight away. But
 with deeply rooted internal states—such as irritation, ill will, being
 judgmental, and other defilements that linger within—we can’t control
@@ -4383,7 +4383,7 @@ Instead, it needs to come from a state of investigation and study. It
 doesn’t help us or other people if we criticize ourselves for slipping
 up—and it also doesn’t help to tell ourselves not to be critical.
 
-We can’t force ourselves to be happy but there can be an investigation
+We can’t force ourselves to be happy, but there can be an investigation
 and a realization that we don’t have to suffer over something. It really
 is possible to take a negative state, loosen it, and say to ourselves,
 *I don’t have to suffer over this—it’s really not necessary for me to
@@ -4451,28 +4451,28 @@ it’s positive qualities or negative qualities, we come into the world
 with these attributes based on past actions and past habitual
 conditioning. Whatever they are, we easily identify with them and
 believe that’s who we are: *I’m a person who has abilities in
-construction, carpentry, computers, or whatever our skills are* or, *I’m
+construction, carpentry, computers,* or whatever our skills are, or, *I’m
 a person who has a lot of anger, sensual desire, fear, anxiety.* We take
 these different kinds of qualities we experience throughout our lives
 and personalize them, creating an image of ourselves in our own minds.
 
 We do the same with other people. We see certain qualities,
-characteristics, or habits so we identify a person as a particular type
-or someone who always has a certain characteristic. He’s an angry person
-or she’s a person who has a lot of sensual desire. Even if we’re smart
-enough and know about Buddhist practice to the extent we don’t really
-believe that’s who we are, for the most part that’s still how we
-operate. We continue to go through our daily activities, seeing the
-world of ourselves and the world outside through that perceptual lens of
-good and bad qualities. To counter this tendency, we persist in chipping
-away at that sense of solidity, that sense of a permanent self.
+characteristics, or habits, so we identify a person as a particular type
+or someone who always has a certain characteristic. *He’s an angry
+person. She’s a person who has a lot of sensual desire.* Even if
+we’re smart enough and know about Buddhist practice to the extent we
+don’t really believe that’s who we are, for the most part that’s still
+how we operate. We continue to go through our daily activities, seeing
+the world of ourselves and the world outside through that perceptual
+lens of good and bad qualities. To counter this tendency, we persist in
+chipping away at that sense of solidity, that sense of a permanent self.
 
 Every time we find ourselves lamenting over an unskillful quality or
 habit we have or puffing ourselves up thinking we’re exceptionally good
 in some area, it’s important to keep reflecting, *Well, that’s not
 really who I am.* These are just qualities that come from
 conditioning—sometimes through skillful attention, sometimes through
-unskillful attention, and they’re essentially a conglomeration of images
+unskillful attention—and they’re essentially a conglomeration of images
 and ideas that have formed into the perception: *This is who I am.* Try
 to see them objectively as conditioned qualities and don’t take
 ownership. By recognizing this constant change and flow of
@@ -4510,7 +4510,7 @@ were certain things I didn’t like being asked to do. Years later, when I
 became the work monk, these tendencies weren’t there at all because I
 had control. But even later, when it was again someone else who had the
 work monk job, my tendency toward resistance came back. This is only an
-example—a reminder that our tendencies to feel resistance or any
+example—a reminder that our tendencies to feel resistance, or any
 unwholesome tendencies, simply arise out of causes and conditions. It’s
 important not to see them as wrong, but simply as tendencies of the
 mind.
@@ -4566,7 +4566,7 @@ like. Instead, we can perceive experiences to be like fog. When we see
 them this way, there’s nothing we have to suffer over. Ultimately, we
 will understand that there is no experience or feeling we have to hold
 onto or be afraid of in this world, in this life. If we have our hearts
-set on peace, truth, contentment, and virtue then with that as a refuge,
+set on peace, truth, contentment, and virtue, then with that as a refuge,
 we don’t have to fear anything. When we commit ourselves to these
 principles and values, everything we experience throughout the day is
 easier to let go of. We can see through it all.
@@ -4589,8 +4589,8 @@ breath becomes more evident. Clarity and peace arise.
 
 As I was reading some teachings by Ajahn Munindo, a phrase he used
 resonated with me, and I find it useful to bring up and contemplate. He
-spoke of inner stillness, specifically, trying to attend to things such
-as performing one’s duties, or engaging with what needs to be done with
+spoke of inner stillness—specifically, trying to attend to things such
+as performing one’s duties, or engaging with what needs to be done, with
 a quality of inner stillness.
 
 Often the mind is impinged upon by the notion that it should be
@@ -4793,12 +4793,12 @@ absorbed in our activities—identified with them or with being the doer
 of particular tasks. This is when mindfulness, clear comprehension,
 attention, and alertness can all lapse.
 
-The goal of the practice and of the contemplative lifestyle in general
+The goal of the practice, and of the contemplative lifestyle in general,
 isn’t simply to go to work in the morning, punch the time clock, and
 mentally check out. Nor is it helpful to take the view that when the
 work is out of the way, then it’s time to practice. Instead, as much as
 possible, we are looking for a continuity of mindfulness and clarity
-throughout all of our activities and that means bringing to mind a
+throughout all of our activities, and that means bringing to mind a
 suitable object for focusing one’s attention—that’s what mindfulness is.
 We choose a wholesome object for this, one that will lead to skillful
 states of mind. Sometimes that’s difficult, especially if we are doing
@@ -4894,7 +4894,7 @@ mental efforts. This can calm the mind so it’s able to come back,
 seemingly of its own accord. Other times we need to exert a conscious
 effort to reconnect with the present. At first when we do that, we can
 only sustain the connection for a little while before losing it again.
-That’s because it’s a perception, left to its own devices, it comes and
+That’s because it’s a perception; left to its own devices, it comes and
 goes, like all other perceptions. If we want to sustain this
 present-moment perception, to develop a mastery around it, we have to
 cultivate the perception repeatedly, over and over again. When some
@@ -4922,8 +4922,8 @@ connection with—the present moment.
 
 ## Ajahn Jotipālo • November 2013
 
-In quite a few of our *paritta* chants there is the line *etena sacca
-vajjena sotthi te hotu sabbadā*, which is roughly translated as, “by the
+In quite a few of our *paritta* chants there is the line “*etena sacca
+vajjena sotthi te hotu sabbadā*”, which is roughly translated as, “by the
 utterance of this truth may there be safety, protection.” About a month
 ago I was on my solo retreat reading a book about the stories behind the
 parittas, the protective chants. There was this touching tale from the
@@ -5021,7 +5021,7 @@ foundation and let the practice grow from there.
 I remember the first experiences Luang Por Liem had with his heart
 difficulties in Thailand. Apparently the condition had been going on for
 quite some time. He had symptoms of fatigue and probably shortness of
-breath among other things. It wasn’t until it was quite progressed that
+breath, among other things. It wasn’t until it was quite progressed that
 he did anything about it. When asked why it took him so long to look
 into it, his response was something like: “I thought this was what the
 body was supposed to do.” That’s the nature of the body, isn’t it? Even
@@ -5071,8 +5071,8 @@ of attention to do it skillfully.
 
 When we talk about *sati*, mindfulness, we often think about it in terms
 of being careful with the task or job we’re doing. However, along with
-mindfulness, the other elements of clear comprehension—*sampajañña*—and
-wisdom—*paññā*—are crucial. Clear comprehension means that when we are
+mindfulness, the other elements of clear comprehension, *sampajañña*, and
+wisdom, *paññā*, are crucial. Clear comprehension means that when we are
 engaged in an activity, we
 are at the same time aware of the context the activity takes place in.
 An example of this during the work period would be making sure the sharp
@@ -5175,7 +5175,7 @@ Dhamma as a refuge, he didn’t mean that we take refuge in the Dhamma of
 discontent. Our refuge is in the Dhamma of contentment, the ability to
 not be pulled away from the present moment. This is absolutely essential
 when we’re talking about meditation—for the mind to become settled,
-peaceful, and still we need to have the ability to be content with the
+peaceful, and still, we need to have the ability to be content with the
 breath or some other meditation object. In the suttas, the Buddha describes
 contentment as one of the characteristics of a great being or a noble
 one, an *ariya*. We learn to be content with our robes, alms food,
@@ -5217,7 +5217,7 @@ on that. But there’s another trump card we can play: *The Buddha
 existed, and he was fully enlightened.* So I can reflect, *Perhaps
 whatever doubts I have arise because the form has been distorted over
 time, or because I’m not understanding how to see through the particular
-issue at hand. But the bottom line is, The Buddha existed, and he was
+issue at hand. But the bottom line is, the Buddha existed, and he was
 fully enlightened.* That’s a powerful perception, and it’s important
 that we do not let anything get in the way of that.
 
@@ -5323,10 +5323,10 @@ hindrances. Although we probably have experienced most of them many
 times, we can have particular tendencies in regards to which ones we
 move to first. We might tend toward escaping from discomfort by using
 sensual gratification and indulgence. Or we may react to challenging
-situations with immediate irritation by using a verbal retort or with
-resistance by having an internal sense of heating up. Likewise, we may
-become confused and doubtful or shut everything out by annihilating
-ourselves with sleep or worry and become restless and anxious.
+situations with immediate irritation, by using a verbal retort, or with
+resistance, by having an internal sense of heating up. Likewise, we may
+become confused and doubtful, or shut everything out by annihilating
+ourselves with sleep, or worry and become restless and anxious.
 
 We take note of where our buttons get pushed and the responses that tend
 to be most habitual, and start working with these aspects throughout the
@@ -5357,13 +5357,13 @@ attitude reminded me of the depressed but lovable donkey Eeyore from
 *Winnie-the-Pooh*.
 
 Khanti is actually a proactive engaging with experience in a way that’s
-not getting caught up in or swayed by the reactions and impulses of
-either liking or disliking or of desire and aversion. It has an enduring
+not getting caught up in, or swayed by, the reactions and impulses of
+either liking or disliking, or of desire and aversion. It has an enduring
 quality to it. One of the phrases the Buddha uses to describe the
-impulses of mind is *abhijjhā domanassa*, desire and aversion or a
+impulses of mind is *abhijjhā domanassa*, desire and aversion, or a
 gladness-sadness type of impulse. We can try to have an enduring and
 patient attitude toward that so we’re not reactive. When we’re not
-reactive, then desire and aversion, liking and disliking go their
+reactive, then desire and aversion, liking and disliking, go their
 natural way, and they cease. So when we’re engaged in some sort of
 interaction, whether it’s pleasant or unpleasant, the mind isn’t getting
 swept up in it. Similarly, when we’re engaged in some kind of task,
@@ -5371,11 +5371,11 @@ chore or duty, and we have been cultivating patience, then what comes to
 mind is a kind of *gravitas*, a sense of weight, ballast, or anchor in
 the mind that isn’t pulled around.
 
-I’ve never come across a satisfying translation of khanti—patient
-endurance doesn’t quite get it. In general, I think it’s important to
+I’ve never come across a satisfying translation of khanti—“patient
+endurance” doesn’t quite get it. In general, I think it’s important to
 reflect on it in terms of how it manifests for us: *How do I turn the
 mind toward a quality that isn’t swayed, pushed, or pulled?* It’s a
-willingness to be present with experience and especially important in
+willingness to be present with experience, and especially important in
 meditation. When any of the five hindrances come up, they feel quite
 compelling and true as moods. We attempt to have an enduring quality of
 mind that is present with the hindrances and attends to them as they
@@ -5383,7 +5383,7 @@ follow their natural cycle: arising, persisting, and ceasing. They come
 into being and pass away. One of the functions of patience is to help us
 refrain from feeding our defilements. When we’re not feeding or
 nourishing our reactive moods, then there’s a real steadiness there.
-With khanti present we’re not trying to manipulate conditions around us
+With khanti present, we’re not trying to manipulate conditions around us
 so that they suit our preferences or to manipulate people to make them
 pleasing to be around. Neither worldly conditions nor people are going
 to fulfill our preferences or desires. But when we have khanti to
@@ -5433,7 +5433,7 @@ penetrate, but it takes determination.
 
 We have to go into the stream of the compulsive mind that’s going in a
 particular direction, very often the direction of *bhavataṇhā*.
-Bhavataṇhā is the ongoing creation of and belief in a solid and
+Bhavataṇhā is the ongoing creation of, and belief in, a solid and
 substantial self or identity that we are constantly propping up with
 roles, habits, ideas, views, and opinions—*I’m like this, I’m not like
 that.* We need to go against that bhavataṇhā, putting an anchor down in
@@ -5448,7 +5448,7 @@ tragic, and we need to do our utmost to cut it off.
 
 To cut it off requires being aware of it. In the Anangaṇa Sutta—Without
 Blemishes—the Buddha points to the case where a person with a blemish
-“understands as it actually is, ‘I have a blemish in myself’” (MN 5). He
+“understands as it actually is, ‘I have a blemish in myself’”. He
 has a blemish and *knows* he has a blemish, and therefore can be
 expected to exert himself to abandon that blemish. But a person who
 doesn’t realize he has a blemish is not likely to do anything about it.
@@ -5490,7 +5490,7 @@ things. That framework is in place to support an *internal* quality of
 renunciation, which needs to be cultivated at all times. Internal
 renunciation means we’re not desperately holding on to circumstances,
 moods and feelings. Giving up material things is not that difficult.
-When we give up our moods, views, opinions, and preferences we are
+When we give up our moods, views, opinions, and preferences, we are
 striking more at the heart of renunciation.
 
 We learn to bring this quality of renunciation into our daily lives and
