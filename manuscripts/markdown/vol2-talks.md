@@ -4022,7 +4022,7 @@ there are many more beings in need than we could possibly help in a
 meaningful way. Trying to center ourselves in unreserved, unremitting
 service often leads to suffering, frustration, and burnout.
 
-The middle way for all of this—for finding a center—is based on the
+The Middle Way for all of this—for finding a center—is based on the
 Triple Gem, the Buddha, the Dhamma, and the Saṅgha. We can rely on the
 Triple Gem for our center. We already know how much time we waste
 focused on our own little thoughts, ideas, perceptions, aspirations,

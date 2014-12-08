@@ -73,7 +73,7 @@ or other. Contentment allows us to leave things alone. A painful memory
 arises, does its thing, and ceases. An exciting fantasy arises, does its
 thing, and ceases. An important responsibility arises, does its thing,
 and ceases. That’s it. This is a characteristic of contentment, we’re
-able to leave things alone. The *saṅkhāras*, the patterns of the
+able to leave things alone. The mental formations, the patterns of the
 world—we can let them be. It’s not because we’re switching off, we don’t
 care, or we’re resentfully resigned to some situation. Rather, it’s a
 gentleness and presence of mind, a sense of the fullness of being. We’re
@@ -724,7 +724,7 @@ and what’s important in our life.
 
 ## Luang Por Pasanno • August 2012
 
-The theme we used for *Upāsikā* Day yesterday was brightening the mind
+The theme we used for Upāsikā Day yesterday was brightening the mind
 and focusing on the ten *anussati*—the Ten Recollections: Buddha,
 Dhamma, Saṅgha, virtue, generosity, celestial beings, mindfulness of the
 body, mindfulness of death, mindfulness of breathing, and Nibbāna—peace.
@@ -832,13 +832,13 @@ arising of faith as a real possibility for us.
 As Westerners, most of us are not on familiar ground when we reflect on
 faith. But it is an important quality for balancing the different
 aspects of our practice. In particular, faith comes first among the Five
-Spiritual Powers. It is used to balance wisdom, the fifth Power, and to
-support energy and effort—the second Power. How does that work? Wisdom
-arises from investigative analysis, and, without faith, investigative
-analysis becomes dry, and we tend to lose energy. The qualities of faith
-include confidence and devotion, both of which naturally result in
-increased energy and effort. Energy and effort need to be nourished, and
-faith is an important part of that nourishment.
+Spiritual Faculties. It is used to balance wisdom, the fifth Power, and
+to support energy and effort—the second Power. How does that work?
+Wisdom arises from investigative analysis, and, without faith,
+investigative analysis becomes dry, and we tend to lose energy. The
+qualities of faith include confidence and devotion, both of which
+naturally result in increased energy and effort. Energy and effort need
+to be nourished, and faith is an important part of that nourishment.
 
 The opposite is true as well: When the wisdom faculty is lacking in
 faith, it often leads to cleverness and a superficially critical way of
@@ -988,13 +988,13 @@ world.
 
 Under the Bodhi tree the Buddha’s response to death—in the form of
 Māra’s threats, cajolings, temptations, and attempts to cause doubts—his
-response was not life-affirmation, going into deep *jhāna* to evade
-Māra, blasting him with a *vajra* bolt, trying to be reasonable and
-negotiate on Māra’s terms, or trying to justify himself. Instead, the
-Buddha’s response was a fearless wakefulness. Almost invariably,
-throughout the accounts of the Buddha’s meetings with Māra, as soon as
-he is aware of the malefactor’s presence, he says: “I know you, Māra.”
-And the game is over.
+response was not life-affirmation, going into a deep state of
+concentration to evade Māra, blasting him with a *vajra* bolt, trying to
+be reasonable and negotiate on Māra’s terms, or trying to justify
+himself. Instead, the Buddha’s response was a fearless wakefulness.
+Almost invariably, throughout the accounts of the Buddha’s meetings with
+Māra, as soon as he is aware of the malefactor’s presence, he says: “I
+know you, Māra.” And the game is over.
 
 Maybe this is a myth or maybe not, but such tales maintain their power
 through their congruity with truth as we experience it. When Māra knows
@@ -1706,16 +1706,17 @@ all under construction simultaneously. During that time, there was
 someone who was touring the monastery and saw all these different
 construction projects. He was quite amazed and bewildered. He then saw
 Luang Por Liem, who was running the whole show and had just come down
-off of the roof of a *sālā* with a welding torch in hand. The man said
-to Luang Por, “This is incredible, this is amazing, there’s so much
-happening here. I bet you’ll be really glad when it’s finished.” And
-Luang Por Liem responded, in his inimitable Luang Por Liem way, “I finish
-it every day.” That is a very simple observation, but coming from Luang
-Por Liem, it’s not merely a nice thing to say. It’s not just sophistry;
-it’s the actuality. Yes, we have bare girders here and wet concrete over
-there and so many pits for the concrete rings to go in under all of
-these toilets, and they are all sitting out there in heaps. But it’s
-completely finished, just as it is. This is what it is, right now.
+off of the roof of a large building with a welding torch in hand. The
+man said to Luang Por, “This is incredible, this is amazing, there’s so
+much happening here. I bet you’ll be really glad when it’s finished.”
+And Luang Por Liem responded, in his inimitable Luang Por Liem way, “I
+finish it every day.” That is a very simple observation, but coming from
+Luang Por Liem, it’s not merely a nice thing to say. It’s not just
+sophistry; it’s the actuality. Yes, we have bare girders here and wet
+concrete over there and so many pits for the concrete rings to go in
+under all of these toilets, and they are all sitting out there in heaps.
+But it’s completely finished, just as it is. This is what it is, right
+now.
 
 When there’s a lot of activity going on—going from here to there,
 finding this and taking it over there, picking up these gas bottles and
