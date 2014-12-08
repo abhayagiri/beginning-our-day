@@ -1923,7 +1923,7 @@ bang-crash-bang-crash-bang-thump-thump. So we need to be sensitive to
 the impact we have on those around us and try not to leave a trace of
 noise. In terms of our relations with people, we can reflect on the
 things we say by asking ourselves, *What kind of trace am I leaving in
-this conversations by the comments I’ve made?* With our internal
+this conversation by the comments I’ve made?* With our internal
 processes we can ask, *What kind of trace am I leaving in my
 mind due to the moods I’ve picked up or the attitudes, views, and
 perspectives I’m holding?*
@@ -3513,7 +3513,7 @@ This is quite a useful quality to cultivate. It’s easy to get involved
 in our mental worlds but we can take the opportunity, even while working
 or walking from one place to another, to broaden the focus a bit. This
 helps to create a little more space in the mind and body without
-drifting off into a nether world. It reminds me of something Ajahn
+drifting off into the aether . It reminds me of something Ajahn
 Sumedho used to say, possibly quoting Ajahn Chah: “Oftentimes we think
 of the mind as being within the body. We have this body and inside it is
 the mind. But it may be even more skillful to consider that the body is
