@@ -1446,7 +1446,7 @@ establish wholesome states of mind. With our meditation, it’s much
 easier to become peaceful when this quality of gratitude is present in
 the mind as opposed to when we experience negativity, which turns the
 mind toward all the flaws we perceive in everyone. So pay attention to
-gratitude—kataññū—learn to appreciate the goodness of others, which will
+gratitude—kataññū. Learn to appreciate the goodness of others, which will
 have the most beneficial results for our practice and well-being.
 
 # Physical Therapy for the Mind
@@ -1475,7 +1475,7 @@ long-term healing.
 
 I thought about this in line with how the mind works, the way we usually
 buy into our moods, both the positive and the negative ones. We find
-ourselves swinging back and forth in a yo-yo-like manner being drawn to
+ourselves swinging back and forth in a yo-yo-like manner, being drawn to
 and believing in the salvation of our positive moods and then, when they
 fade, reacting quite aversively to the negative ones. We can end up
 getting lost in the entire process. Each time we respond by moving
@@ -1485,7 +1485,7 @@ sense of equanimity so that we are not constantly buying into and
 reacting to these different moods that pass through the mind.
 
 This is similar to the way habits develop in the body. In the mind, an
-event happens, it triggers a perception—a habitual way of looking at an
+event happens. It triggers a perception—a habitual way of looking at an
 experience. That reminds us of something similar in the past, and we
 react in the same way through either aversion or attraction. Something
 can be unpleasant—a difficult situation that causes discomfort,
@@ -1509,10 +1509,10 @@ allowing ourselves to experience the discomfort of an unskillful habit
 as we get to know and examine our reactions. This helps us refrain from
 automatically repeating the same old pattern. It also gives us time to
 respond with more wisdom and skillfulness based on having seen and
-understood the reaction clearly. As it holds true with physical therapy
-for the body, we can unlearn habits that have caused long-term
-unwholesome reactions in the mind. We just need to be willing to pause
-and observe the space around our uncomfortable experiences.
+understood the reaction clearly. As with physical therapy for the body,
+we can unlearn habits that have caused long-term unwholesome reactions
+in the mind. We just need to be willing to pause and observe the space
+around our uncomfortable experiences.
 
 # An Opportunity to Develop Mindfulness
 
@@ -1655,7 +1655,7 @@ arise. And when that happens, we find true ease and comfort.
 It’s important to investigate in these ways and to stretch our
 capabilities. Whether we are developing our formal, solitary practice or
 engaged in our communal duties, we try to let go of that sense of
-comfort seeking and undermine the underlying tendencies that cause us
+comfort-seeking and undermine the underlying tendencies that cause us
 complication and difficulty.
 
 # Abhayagiri Is Complete
@@ -1676,7 +1676,7 @@ create complications, and tangle things within ourselves. That’s the
 real cause of tension, of *dukkha*, of stress within.
 
 Every monastery is the same during the festival season. It draws
-together a large complex array of different tasks that need to be taken
+together a large, complex array of different tasks that need to be taken
 care of with so many extra people lending a hand while also being part
 of the mix. As Luang Por Pasanno was saying yesterday, we need to lean
 into the wind in a very conscious way so as to counteract the tendency
@@ -1701,21 +1701,21 @@ thinking, *Now the monastery is complete, now it is done.*
 With those words, I was taking a leaf out of Luang Por Liem’s book. I
 remember when preparations were underway for Luang Por Chah’s funeral,
 and a *cetiya* for his cremation was under construction. A whole new
-eating hall, road system, water towers, and over 630 toilets were all
-under construction simultaneously. During that time, there was someone
-who was touring the monastery and saw all these different construction
-projects. He was quite amazed and bewildered. He then saw Luang Por Liem
-who was running the whole show and had just come down off of the roof of
-a *sālā* with a welding torch in hand. The man said to Luang Por, “This
-is incredible, this is amazing, there’s so much happening here, I bet
-you’ll be really glad when it’s finished.” And Luang Por Liem responded
-in his inimitable Luang Por Liem way, “I finish it every day.” That is a
-very simple observation, but coming from Luang Por Liem, it’s not merely
-a nice thing to say. It’s not just sophistry; it’s the actuality. Yes,
-we have bare girders here and wet concrete over there and so many pits
-for the concrete rings to go in under all of these toilets, and they are
-all sitting out there in heaps. But it’s completely finished, just as it
-is. This is what it is, right now.
+eating hall, road system, water towers, and more than 630 toilets were
+all under construction simultaneously. During that time, there was
+someone who was touring the monastery and saw all these different
+construction projects. He was quite amazed and bewildered. He then saw
+Luang Por Liem, who was running the whole show and had just come down
+off of the roof of a *sālā* with a welding torch in hand. The man said
+to Luang Por, “This is incredible, this is amazing, there’s so much
+happening here. I bet you’ll be really glad when it’s finished.” And
+Luang Por Liem responded, in his inimitable Luang Por Liem way, “I finish
+it every day.” That is a very simple observation, but coming from Luang
+Por Liem, it’s not merely a nice thing to say. It’s not just sophistry;
+it’s the actuality. Yes, we have bare girders here and wet concrete over
+there and so many pits for the concrete rings to go in under all of
+these toilets, and they are all sitting out there in heaps. But it’s
+completely finished, just as it is. This is what it is, right now.
 
 When there’s a lot of activity going on—going from here to there,
 finding this and taking it over there, picking up these gas bottles and
@@ -1795,9 +1795,9 @@ Every year after the Rains Retreat he would ask Ajahn Chah if he could
 leave the training, but Ajahn Chah would refuse. This went on for five
 years. After every Rains Retreat, just like clockwork, there would be
 Ajahn Toon with his offering of flowers and incense respectfully asking
-to leave the Saṅgha. Ajahn Chah would always talk him out of it or
-sometimes just get up and walk away. Ajahn Toon ended up staying a monk,
-and now he’s a really good teacher in our lineage.
+to leave the Saṅgha. Ajahn Chah would always talk him out of it or,
+sometimes, just get up and walk away. Ajahn Toon ended up staying a
+monk, and now he’s a really good teacher in our lineage.
 
 # A Positive Encounter With Death
 
@@ -1906,11 +1906,11 @@ with a sense of selflessness. This might be an object we like or
 something we would like to keep, but for the sake or benefit of somebody
 else we give it over to someone. With cāga, when we give, it is not with
 a feeling of loss but rather with a feeling of fulfillment. There is a
-sense that we are getting more from giving up, from relinquishing than
+sense that we are getting more from giving up, from relinquishing, than
 from holding on.
 
 In our daily lives and in the monastery we give up time to people, give
-up self-concern and ask ourselves, *What can I do to make life a little
+up self-concern, and ask ourselves, *What can I do to make life a little
 bit easier or a little more pleasant for somebody else?* We may see that
 someone is overworked or overstretched in what they are doing, and we
 keep our eyes open for the opportunity to make a gesture of giving. For
@@ -2044,7 +2044,7 @@ concentration, and equanimity—in order to establish a more grounded
 state of mind.
 
 There are many avenues we can take to cultivate the peace and happiness
-in meditation which brought many of us to the practice in the first
+in meditation that brought many of us to the practice in the first
 place. Now that we have become committed to the practice, our job is to
 explore those avenues for ourselves, to discover which ways lead to the
 most fruitful results.
@@ -2316,8 +2316,8 @@ insight into this process, we are able to live without a constant sense
 of protection and anxiety in regard to this body, which is merely
 following its own course. We look after ourselves in reasonable ways but
 without attachment or clinging to a sense that *This is who I am; this
-is myself.* The body is basically a set of elements that is constantly,
-changing, moving, evolving, and transforming just like the world around
+is myself.* The body is basically a set of elements that is constantly
+changing, moving, evolving, and transforming, just like the world around
 us.
 
 # Only Part of the Picture
@@ -2467,17 +2467,17 @@ In recent years there’s been a modern Western interpretation of
 dependent co-arising that’s derived from an explanation of the
 interdependence in the world, with the people in it being interconnected
 in a vast web of cause-and-effect relationships and experience—“It’s all
-connected” as people like to say. There’s a belief that there’s no type
+connected,” as people like to say. There’s a belief that there’s no type
 of action or activity in the world that doesn’t have some sort of effect
 on the whole of existence, all action and interaction. This isn’t a very
 accurate representation of what the Buddha’s teaching on dependent
 origination is all about. It’s actually pretty far from what the Buddha
 taught. Dependent origination is a teaching about how ignorance
-conditions the arising of suffering and all the various factors involved
-as well as the cessation of that entire process.
+conditions the arising of suffering and all the various factors
+involved, as well as the cessation of that entire process.
 
 Nevertheless, the idea of interdependence is something that can be
-helpful to contemplate because even though it may not be valid in terms
+helpful to contemplate, because even though it may not be valid in terms
 of dependent origination, it has a truth to it. We’re very much affected
 by each other, dependent on each other, and influence each other, and
 we’re inexplicably woven together through the various forces of kamma
