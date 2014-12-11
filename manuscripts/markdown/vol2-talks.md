@@ -188,7 +188,7 @@ do, and instead focus on the way our attachments, cravings, and
 defilements move through experience. We can see that they aren’t
 ours—they don’t belong to us. We need to recognize and appreciate that.
 
-The Pāḷi word *āgantuka* means newcomer or guest. An āgantuka monk is a
+The Pāli word *āgantuka* means newcomer or guest. An āgantuka monk is a
 visiting monk who comes from a different tradition, who may have
 different standards of Vinaya, or who does not know the way we do things
 here. In one sutta passage, the Buddha says that the defilements are
@@ -387,7 +387,7 @@ have lost the plot.
 We need to develop these essential skills so that they permeate every
 aspect of our practice, no matter where we are or what we are doing. As
 Ajahn Chah and so many other teachers have often said, “The Dhamma of
-the Buddhas is everywhere. We don’t have to go to the Pāḷi Canon to find
+the Buddhas is everywhere. We don’t have to go to the Pāli Canon to find
 it. We don’t have to be sitting in a monastery to find it.” It’s the
 ability we have to recognize and see the truth, to see the way things
 truly are. It’s everywhere. We can connect with it, we can contact it,
@@ -649,8 +649,8 @@ As we bring the practice into our daily lives, it’s immensely beneficial
 to use the Four Noble Truths when viewing experience—in our formal
 meditation, interactions with others, and engagements with various
 duties. This is not something to save for later—after studying the
-suttas, developing all the *jhānas* and formless absorptions, all the
-psychic powers, we finally contemplate the Noble Truths and become
+suttas, developing all the states of concentration, all the psychic
+powers, we finally contemplate the Noble Truths and become
 enlightened—it’s not like that. The Four Noble Truths are to be put into
 practice right now.
 
@@ -1733,12 +1733,16 @@ heedlessly. One of the monks present says he contemplates that he might
 die in the time it takes for an in-breath or an out-breath. The Buddha
 commends him for that. After all, we could die on an in-breath, before
 breathing out. And with every out-breath, we could die before breathing
-in again. This is a powerful reflection. It brings the mind into the
-present moment in a striking way. Taken to a deep level, this reflection
-can cause the hindrances to be in abeyance, because the hindrances
-almost always involve the passage of time. If the mind is in the present
-moment, and if we recognize that death could come this very instant—with
-the snap of a finger—then there’s no time for the hindrances to arise.
+in again. This is a powerful reflection.  It brings the mind into the
+present moment in a striking way.The Buddha described a group of five
+unskillful mind states that hinder the mind.  These five hindrances are:
+sensual desire, ill will, sloth and drowsiness, restlessness and
+anxiety, and skeptical doubt. Taken to a deep level, this reflection on
+death can cause the hindrances to be in abeyance, because the hindrances
+almost always involve the passage of time.  If the mind is in the
+present moment, and if we recognize that death could come this very
+instant—with the snap of a finger—then there’s no time for the
+hindrances to arise.
 
 For many of us, this is an old reflection. One way you can give it new
 life is to assume that this is your last day alive and that your moment
@@ -4089,7 +4093,7 @@ It often strikes me how the Fire Sermon is the shortest of the three
 cardinal discourses of the Buddha, taking less than fifteen minutes to
 chant. Yet during the course of the Buddha’s teaching it, a thousand
 *bhikkhus* became *arahants*, enlightened beings no longer subject to
-rebirth. In the Pāḷi Canon that’s the largest number of people who were
+rebirth. In the Pāli Canon that’s the largest number of people who were
 completely liberated during the course of listening to a single Dhamma
 talk. It’s a powerful teaching, although it can seem unremarkable in
 certain ways.
@@ -4114,7 +4118,7 @@ relationship to the senses. And with that cooling down, that dispassion,
 the hearts of those thousand bhikkhus were liberated. It’s
 extraordinarily simple. In the sutta, it almost seems as if nothing has
 happened, as if very little instruction was given. But like many other
-Buddhist teachings, particularly in the Pāḷi tradition, if we blink, we
+Buddhist teachings, particularly in the Pāli tradition, if we blink, we
 miss it. The teachings can be quite subtle. They’re not very
 demonstrative or highly elaborate. This particular teaching is like
 that. We can easily miss the key piece: having the mindfulness to
@@ -4572,7 +4576,7 @@ ignorance, there is the cessation of mental formations, and with the
 cessation of mental formations, there is the cessation of
 consciousness,” and so forth. Phra Payutto points out in his book
 *Dependent Origination* that cessation is not meant to be taken only in
-terms of something beginning and then ending. The Pāḷi word for
+terms of something beginning and then ending. The Pāli word for
 cessation is *nirodha*, which also implies *non-arising*. When there’s
 no ignorance, then mental formations do not arise, the mind does not
 create the world of “thingness” or “this-and-thatness.” This is the
@@ -5316,9 +5320,9 @@ Last week, during the Thanksgiving Retreat, I didn’t really have a plan
 in mind for what I was going to teach. I ended up talking a lot about
 *anicca*, *dukkha*, and *anattā*—impermanence, unsatisfactoriness, and
 not-self—and how these three characteristics display themselves in our
-practice and how central they are. We constantly use reflections of
-these three characteristics when investigating our experience. This is
-not a contemplation we only do on retreat or during a time of formal
+practice and how central they are. We constantly use reflections on the
+three characteristics when investigating our experience.  This is not a
+contemplation we only do on retreat or during a time of formal
 meditation; it’s an investigative perspective that we bring to all of
 our experience, both in formal practice, as well as in the day-to-day
 application of our mindfulness and contemplative living.

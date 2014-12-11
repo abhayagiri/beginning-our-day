@@ -973,7 +973,7 @@ is no such thing as a day in and of itself that is inauspicious or
 unlucky. We are completely dependent on gathering our own resources into
 doing something that is skillful, beneficial, and wholesome. So the
 opportunity for doing that which is wholesome is in itself what makes it
-a blessing in the world. The Pāḷi word *mahāmaṅgala* means the highest
+a blessing in the world. The Pāli word *mahāmaṅgala* means the highest
 blessings. The Mahāmaṅgala Sutta encourages the cultivation of that
 which is skillful: association with good people and developing inner
 virtues that are beneficial to both ourselves and others (Sn 2.4). When
@@ -1090,7 +1090,7 @@ time is right.
 When we are able let go of the past and future, we are letting go of our
 fears, fixed views, attachments, and desires—we are letting go of our
 defilements. This is a profound experience. We can study all we want
-about Buddhism and have incredible knowledge of the scriptures in Pāḷi.
+about Buddhism and have incredible knowledge of the scriptures in Pāli.
 We can even write a book on mindfulness, but still not know what
 mindfulness is or how to let go of a basic defilement. These are some of
 the most important aspects of the path—to practice mindfulness and
@@ -1896,7 +1896,7 @@ they have. There is an impulse to give, to serve, to offer oneself to
 the community in whatever way one can.
 
 During my retreat, I spent some time reflecting on the theme of giving.
-In the Pāḷi language there are a couple of different words used for
+In the Pāli language there are a couple of different words used for
 giving. There is *dāna*, which is generosity or giving, and *cāga*,
 which has a broader scope than generosity. Cāga refers to the aspect of
 giving as well, but it can be used more with the tone of giving over,
@@ -4043,7 +4043,7 @@ the Eightfold Path give knowledge and understanding and lead to peace
 and awakening. That’s the function of the path. When we are aligned with
 the Middle Way, we are in balance—this happens naturally.
 
-In Pāḷi the word *karaṇī*, as in *cakkhukaraṇī, ñāṇakaraṇī*, means “to
+In Pāli the word *karaṇī*, as in *cakkhukaraṇī, ñāṇakaraṇī*, means “to
 make” or “to produce”. It’s an emphatic verb. This suggests that when we
 put our practice into balance, a good result will be produced. It’s
 helpful to develop a sense of confidence in this natural
