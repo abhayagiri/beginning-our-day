@@ -1088,28 +1088,28 @@ positive way?*
 There’s a story Ajahn Sumedho tells about sweeping during his early days
 at Wat Pah Pong. It is a standard practice in forest monasteries to
 sweep the grounds, and Wat Pah Pong is no different. The day before each
-Wan Phra, the bell would ring to indicate that it was time for sweeping,
-and all the monks were supposed to go out and sweep the large, dusty
-central areas of the monastery. Ajahn Sumedho relates how he didn’t like
-going out into the heat and the dust, nor did he like the activity of
-group sweeping, so he’d usually wait to join the group until he was
-about the last person to come out. Because he took so long to join the
-group, he’d often get the last broom, which was usually some scruffy old
-thing, made of a few little twigs that didn’t really do much. Ajahn
-Sumedho said he would go along and scratch a bit at the ground, stand,
-wait, internally grumbling and complaining, saying to himself, *This is
-really stupid. I don’t like this. Why do we have to do this?* His mind
-would go on and on. Of course, Ajahn Chah noticed what was happening,
-and one day during the sweeping period he walked past Ajahn Sumedho and
-said, “Wat Pah Pong—is it suffering?” Ajahn Sumedho reflected on this,
-*Wat Pah Pong—is it suffering? No, of course not! Wat Pah Pong isn’t
-suffering! It’s me! It’s not Wat Pah Pong. I like Wat Pah Pong. I’m the
-one making suffering out of this. It’s me.* That was a powerful and
-significant insight for him—to see that the external situation is one
-thing, and whether or not he adds suffering to it is another. After
-that, Ajahn Sumedho put more energy and enthusiasm into the sweeping. By
-doing so and reflecting, he decreased the suffering for himself and
-turned sweeping into an enjoyable experience.
+Observance Day, the bell would ring to indicate that it was time for
+sweeping, and all the monks were supposed to go out and sweep the large,
+dusty central areas of the monastery. Ajahn Sumedho relates how he
+didn’t like going out into the heat and the dust, nor did he like the
+activity of group sweeping, so he’d usually wait to join the group until
+he was about the last person to come out. Because he took so long to
+join the group, he’d often get the last broom, which was usually some
+scruffy old thing, made of a few little twigs that didn’t really do
+much. Ajahn Sumedho said he would go along and scratch a bit at the
+ground, stand, wait, internally grumbling and complaining, saying to
+himself, *This is really stupid. I don’t like this. Why do we have to do
+this?* His mind would go on and on. Of course, Ajahn Chah noticed what
+was happening, and one day during the sweeping period he walked past
+Ajahn Sumedho and said, “Wat Pah Pong—is it suffering?” Ajahn Sumedho
+reflected on this, *Wat Pah Pong—is it suffering? No, of course not! Wat
+Pah Pong isn’t suffering! It’s me! It’s not Wat Pah Pong. I like Wat Pah
+Pong. I’m the one making suffering out of this. It’s me.* That was a
+powerful and significant insight for him—to see that the external
+situation is one thing, and whether or not he adds suffering to it is
+another. After that, Ajahn Sumedho put more energy and enthusiasm into
+the sweeping. By doing so and reflecting, he decreased the suffering for
+himself and turned sweeping into an enjoyable experience.
 
 We can use our chores in the same way—to bring up energy, a sense of
 relinquishment, generosity, service, and mindfulness. Doing that helps
@@ -4088,10 +4088,11 @@ beneficial results.
 It often strikes me how the Fire Sermon is the shortest of the three
 cardinal discourses of the Buddha, taking less than fifteen minutes to
 chant. Yet during the course of the Buddha’s teaching it, a thousand
-*bhikkhus* became *arahants*. In the Pāḷi Canon that’s the largest
-number of people who were completely liberated during the course of
-listening to a single Dhamma talk. It’s a powerful teaching, although it
-can seem unremarkable in certain ways.
+*bhikkhus* became *arahants*, enlightened beings no longer subject to
+rebirth. In the Pāḷi Canon that’s the largest number of people who were
+completely liberated during the course of listening to a single Dhamma
+talk. It’s a powerful teaching, although it can seem unremarkable in
+certain ways.
 
 In the sutta, the Buddha goes through a list explaining how all of the
 aspects of the senses are burning with greed, hatred, and delusion. The
@@ -4988,12 +4989,12 @@ self-making process, this sense of me and mine, and the ownership and
 identity around all the things we usually identity with. The process of
 self-effacement is a progressive and steady process, a whittling away
 over time through various practices, not only with the practice of
-meditation and development of insight around the three characteristics,
-but also with everything we do as part of community training. Many of
-the things that we incorporate into our daily lives and daily practices
-are ways of increasing this kind of self-effacement, this gradual
-diminishing of the sense of identity. It’s a process that can take many,
-many years.
+meditation and development of insight around the three
+characteristics—suffering, impermanence, and not-self—but also with
+everything we do as part of community training. Many of the things that
+we incorporate into our daily lives and daily practices are ways of
+increasing this kind of self-effacement, this gradual diminishing of the
+sense of identity. It’s a process that can take many, many years.
 
 Dhamma practice and training, particularly in the monastic form, is a
 long-term endeavor. There are many ways that our structures and
@@ -5313,11 +5314,11 @@ all that, as well as trying to keep things fairly quiet.
 
 Last week, during the Thanksgiving Retreat, I didn’t really have a plan
 in mind for what I was going to teach. I ended up talking a lot about
-*anicca*, *dukkha*, and *anattā*, and how these three characteristics
-display themselves in our practice and how central they are to our
-practice. We constantly use reflections of impermanence,
-unsatisfactoriness, and not-self when investigating our experience. This
-is not a contemplation we only do on retreat or during a time of formal
+*anicca*, *dukkha*, and *anattā*—impermanence, unsatisfactoriness, and
+not-self—and how these three characteristics display themselves in our
+practice and how central they are. We constantly use reflections of
+these three characteristics when investigating our experience. This is
+not a contemplation we only do on retreat or during a time of formal
 meditation; it’s an investigative perspective that we bring to all of
 our experience, both in formal practice, as well as in the day-to-day
 application of our mindfulness and contemplative living.
