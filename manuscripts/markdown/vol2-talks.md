@@ -649,7 +649,7 @@ As we bring the practice into our daily lives, it’s immensely beneficial
 to use the Four Noble Truths when viewing experience—in our formal
 meditation, interactions with others, and engagements with various
 duties. This is not something to save for later—after studying the
-suttas, developing all the states of concentration, all the psychic
+suttas, developing all the states of concentration and the psychic
 powers, we finally contemplate the Noble Truths and become
 enlightened—it’s not like that. The Four Noble Truths are to be put into
 practice right now.
@@ -725,9 +725,9 @@ said, “If you don’t react with anger to an angry person, then you win a
 battle hard to win.” When interacting with others, we may need to
 swallow our pride from time to time, as difficult as that may be.
 
-I remember during my third *vassa* in Thailand, I was doing walking
-meditation every day for several hours after the meal. There was a lot
-of doubt coming up. I was literally driving myself to tears with
+I remember during my third Rains Retreat in Thailand, I was doing
+walking meditation every day for several hours after the meal. There was
+a lot of doubt coming up. I was literally driving myself to tears with
 constant doubts in the mind. There I was on the walking meditation path,
 no one else is around, and I’m mired in suffering because of this
 unstoppable mental proliferation. That’s how it is sometimes. But these
@@ -1734,15 +1734,16 @@ die in the time it takes for an in-breath or an out-breath. The Buddha
 commends him for that. After all, we could die on an in-breath, before
 breathing out. And with every out-breath, we could die before breathing
 in again. This is a powerful reflection.  It brings the mind into the
-present moment in a striking way.The Buddha described a group of five
-unskillful mind states that hinder the mind.  These five hindrances are:
-sensual desire, ill will, sloth and drowsiness, restlessness and
-anxiety, and skeptical doubt. Taken to a deep level, this reflection on
-death can cause the hindrances to be in abeyance, because the hindrances
-almost always involve the passage of time.  If the mind is in the
-present moment, and if we recognize that death could come this very
-instant—with the snap of a finger—then there’s no time for the
-hindrances to arise.
+present moment in a striking way.
+
+The Buddha described a group of five unskillful mind states that hinder
+the mind.  These five hindrances are: sensual desire, ill will, sloth
+and drowsiness, restlessness and anxiety, and skeptical doubt. Taken to
+a deep level, this reflection on death can cause the hindrances to be in
+abeyance, because the hindrances almost always involve the passage of
+time.  If the mind is in the present moment, and if we recognize that
+death could come this very instant—with the snap of a finger—then
+there’s no time for the hindrances to arise.
 
 For many of us, this is an old reflection. One way you can give it new
 life is to assume that this is your last day alive and that your moment
@@ -3517,7 +3518,7 @@ This is quite a useful quality to cultivate. It’s easy to get involved
 in our mental worlds but we can take the opportunity, even while working
 or walking from one place to another, to broaden the focus a bit. This
 helps to create a little more space in the mind and body without
-drifting off into the aether . It reminds me of something Ajahn
+drifting off into the aether. It reminds me of something Ajahn
 Sumedho used to say, possibly quoting Ajahn Chah: “Oftentimes we think
 of the mind as being within the body. We have this body and inside it is
 the mind. But it may be even more skillful to consider that the body is
@@ -4240,7 +4241,7 @@ actually present within us.
 
 If we use our intelligence and think too much, it can lead to
 intellectual endeavors that are not helpful. Truly, what we want to
-cultivate is mindfulness, awareness that can help us recognize that
+cultivate is mindfulness, awareness that can help us recognize that,
 *This body is not who I am. This body is subject to many
 experiences—feelings, pain of all sorts, and death.* If we are mindful,
 this reflection can be uplifting—we recognize that we are facing
@@ -4970,7 +4971,7 @@ difficulty, and suffering?* And we can keep taking responsibility,
 reflecting over and over again, *I’m the owner of my actions, heir to my
 actions, born of my actions. Whatever actions I shall do, for good or
 for ill, of those I will be the heir.* But in order to take
-responsibility like this, we need to step back and clearly see that
+responsibility like this, we need to step back and clearly see that,
 *It’s not sure. I don’t have to believe my moods. I don’t have to
 believe the world around me. I don’t have to get caught in conditions.
 None of it is sure.* Once this sinks in, we can allow right view and the

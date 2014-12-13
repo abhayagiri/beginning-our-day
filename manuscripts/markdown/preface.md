@@ -47,6 +47,10 @@ an early draft of the book. Suhajjo Bhikkhu generously dedicated a
 significant amount of time on the overall book design and typesetting of
 the text.
 
+*The Collected Teachings of Ajahn Chah* published by Aruna Publications
+in 2011 provided many of the terms in the glossary.
+
+
 The Kataññutā group of Malaysia, Singapore, and Australia generously
 brought this book into full production.
 

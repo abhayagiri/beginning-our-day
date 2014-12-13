@@ -91,8 +91,8 @@ with the quality of contentment—being at ease, tapping into the fullness
 of Dhamma, the completeness of Dhamma. It’s always here because
 contentment is related to the quality of wholeness. It reflects the
 wholeness and the completeness of Dhamma. Nothing is missing, nothing
-needs adding or taking away. Knowing this, we can be content with the
-way things are.
+needs to be added or taken away. Knowing this, we can be content with
+the way things are.
 
 # Breaking the Momentum
 
@@ -179,7 +179,7 @@ that causes you to be irritated by it. So the thought arises, *I really
 have to do something about this splinter.* Then you carry on and forget
 about it. But the irritation keeps returning until at one point you say
 to yourself, *I really need to do something about this splinter now.
-It’s not something I can put up with anymore.* So finally you dig it
+It’s not something I can put up with anymore.* Finally you dig it
 out. The experience of dukkha is the same.”
 
 It’s not as if we’re experiencing dukkha all the time; for the most
@@ -384,14 +384,14 @@ learn to trust in fundamental clarity and wisdom.
 
 ## Ajahn Yatiko • December 2012
 
-When we do *mettā* meditation—loving-kindness meditation—it’s often good
-to start with ourselves. But when doing that, it is important that we
-not put ourselves under our thumbs—making demands about who we are and
-what we should be. When this happens, it’s as if we’re looking at the
-mind the way judgmental parents look at their child, power tripping and
-demanding that the child behave in a particular way. *I’m going to tell
-this kid what to do, and he’s going to do what I say!* There can be no
-joy in approaching the mind with the assumption that it will toe the
+When we do *mettā* meditation, loving-kindness meditation, it’s often
+good to start with ourselves. But when doing that, it is important that
+we not put ourselves under our thumbs—making demands about who we are
+and what we should be. When this happens, it’s as if we’re looking at
+the mind the way judgmental parents look at their child, power tripping
+and demanding that the child behave in a particular way. *I’m going to
+tell this kid what to do, and he’s going to do what I say!* There can be
+no joy in approaching the mind with the assumption that it will toe the
 line if we force it to do so. Joy has to be unfettered with a sense of
 real freedom.
 
@@ -2039,8 +2039,8 @@ discomfort.
 But the first thing to do when we find ourselves struggling is to
 remember that we do not have to struggle. Then we can focus on the body
 or the breath or whatever it is for us that brings that sense of peace
-and tranquility. Or we can reflect on any one of the Seven Factors of
-Enlightenment—mindfulness, discernment, energy, rapture, tranquility,
+and tranquility. Or we can reflect on any one of the seven factors of
+enlightenment—mindfulness, discernment, energy, rapture, tranquility,
 concentration, and equanimity—in order to establish a more grounded
 state of mind.
 
@@ -2316,7 +2316,7 @@ to ourselves and to what we experience throughout the day. By gaining
 insight into this process, we are able to live without a constant sense
 of protection and anxiety in regard to this body, which is merely
 following its own course. We look after ourselves in reasonable ways but
-without attachment or clinging to a sense that *This is who I am; this
+without attachment or clinging to a sense that, *This is who I am; this
 is myself.* The body is basically a set of elements that is constantly
 changing, moving, evolving, and transforming, just like the world around
 us.
@@ -5131,7 +5131,7 @@ a lightness, a spaciousness to the way it’s held.
 
 If we realize that the cup is already broken, then when the day comes
 that it does indeed break, our heart doesn’t break with it. The cup
-physically smashes, and we realize, *Oh, this is *anicca. *That’s
+physically smashes, and we realize, *Oh, this is anicca. That’s
 always been a part of it. Its anicca is simply ripening at this moment.
 Nothing has gone wrong; nothing bad has happened.* When we understand
 anicca, we are ready for the cup to break. There’s no sense of loss or
