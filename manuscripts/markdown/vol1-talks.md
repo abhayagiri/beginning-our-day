@@ -5122,12 +5122,12 @@ existence.
 
 Another teaching that Ajahn Chah would stress over and over was to
 recognize that “the cup is already broken.” The objects of the material
-world have within them an impermanent nature. They are destined to fall
-apart and disintegrate. The building we are currently constructing is
-already broken; it will fall apart or be demolished someday, so the
-efforts we’re making are not toward a permanent end. We still continue
-to do what we do carefully, attentively, as well as we can, but there’s
-a lightness, a spaciousness to the way it’s held.
+world have within them *anicca*, an impermanent nature. They are
+destined to fall apart and disintegrate. The building we are currently
+constructing is already broken; it will fall apart or be demolished
+someday, so the efforts we’re making are not toward a permanent end. We
+still continue to do what we do carefully, attentively, as well as we
+can, but there’s a lightness, a spaciousness to the way it’s held.
 
 If we realize that the cup is already broken, then when the day comes
 that it does indeed break, our heart doesn’t break with it. The cup
