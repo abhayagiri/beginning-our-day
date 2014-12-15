@@ -2584,10 +2584,10 @@ mood except us; everyone else is sitting there with faces that seem to
 look bored, while we’re trying to be with some intense emotion. This is
 an experience some of us have. Others among us don’t have a lot of
 emotional content or aren’t really aware of it. Some people can be very
-much in their heads and rational, absorbed in thought, analysis or
-speculation. Others can be absorbed in some mood, positive or negative.
-But mindfulness is that which is in the background, containing all of
-those experiences.
+much in their heads and quite rational, absorbed in thought, analysis,
+or speculation. Others can be absorbed in some mood, positive or
+negative.  But mindfulness is that which is in the background,
+containing all of those experiences.
 
 That’s what we want to cultivate—that capacity to observe whatever it is
 we’re experiencing. To be able to watch our experiences, moods, biases,
@@ -2607,7 +2607,8 @@ defilements all lead to suffering. Mindfulness is that which leads us
 out of suffering.
 
 So whether we’re investigating our moods or working with the
-defilements, mindfulness is key. It’s what replaces madness with sanity.
+defilements, mindfulness is the key. It’s what replaces madness with
+sanity.
 
 # Everything Is Mind-Attended
 
@@ -2621,20 +2622,20 @@ highlighted in a strange, unusual way, all the color washed out. It’s a
 very good teaching, isn’t it?
 
 It’s like the mood of the mind. It can be so persistent when it’s stuck
-on some track, excited, irritated, or worried about something. There
+on some track, excited, irritated, or worried about something.  There
 seems to be a coloring of the whole world. *This is my problem. I’m
 supposed to worry about this. I have to worry about this. This is my
-project. The only thing that really matters in the world are the
-railings on the Bhikkhu Commons kuṭi or clearing the trap under the
-sink at Casa Serena.* The center of the world is this particular job we
-have, these letters that have to be written or this meal that has to be
-cooked. These things that the mind latches onto seem so real and
+project. The only thing that really matters in the world are fixing the
+railings at the Bhikkhu Commons or clearing the trap under the sink at
+Casa Serena.* The center of the world is this particular job we have,
+these letters that have to be written or this meal that has to be
+cooked.  These things that the mind latches onto seem so real and
 permanent—our particular projects, responsibilities, fears, hopes, and
 desires. *Well, of course it’s that way. Can’t you see?* Then
 suddenly—snap! Overnight the world changes color, and there’s a whole
 different mood. Suddenly, *Oh look, it’s all different.* How utterly
-transformed our perceptions can be merely by a different shape, coloring
-of the landscape, or the sound of the valley.
+transformed our perceptions can be when there is simply a different
+shape, coloring of the landscape, or sound of the valley.
 
 This is an excellent reflection on our moods. When we think we’re in the
 middle of some difficult tangle, some big issue or conflict, an
@@ -2645,7 +2646,7 @@ concerned about in the first place. It wasn’t the way we thought it was.
 It was a mistaken impression. When we see and reflect in this way—how
 much the world can change when we’re in the midst of some particular
 anxiety, worry, project, or activity—it helps to provide a perspective.
-Oh, this is only my impression. Now I see.
+*Oh, this is only my impression. Now I see.*
 
 We get caught up in thinking, *I have my name written on this particular
 issue. It’s mine. I’m responsible for this project. I have to dig this
@@ -2665,7 +2666,7 @@ significant because of our particular conditioning, our particular
 expectations, fears, hopes, or abilities. The thing’s significance is
 not inherent, it’s merely something the mind has added onto the thing.
 With this realization we can carry out the work we need to do. We can
-fix those railings, dig this hole, cook that food, answer those letters
+fix those railings, dig this hole, cook that food, answer those letters,
 and move that table around those difficult corners in a much more
 easeful and peaceful way. It’s not the center of the world. We can see
 that it isn’t so personal, so burdensome, or so much about “me” and
@@ -2700,8 +2701,8 @@ scattered; we forget about our resolve to stick with whatever it is that
 we’re doing.
 
 It is important to develop the ability of attending to and following
-through on our resolutions. That’s because, after setting our resolve
-concerning some activity, we often find ourselves experiencing
+through on our resolutions. That’s because, after setting a resolution
+with a particular some activity, we often find ourselves experiencing
 restlessness or boredom when actually engaged in that activity—whether
 it’s meditation or some mundane task. When that happens, we end up
 replacing what we’re doing with something else, and the cycle begins
@@ -2749,7 +2750,7 @@ more relaxed, at ease, broad-minded, and less concerned about being
 right, perfect, on time, prepared, well-defended, and approved.
 
 We can go down into our bellies, relax, breathe out, open up, and trust
-that as human beings we have what it takes to be human beings. We can
+that as human beings we have what it takes to *be* human beings. We can
 learn from that process, and we can learn to not make a big deal out of
 it. We can learn to not get confused by it or expect miracles out of it.
 Then we can learn to let go of it, to come out of it—and to come out of
@@ -2767,7 +2768,7 @@ on all that need—the need to be something, prove something, get
 somewhere—until we can be, miraculously, right here, in a place that
 doesn’t have a location. Because it doesn’t have a location, we never
 leave it. Because we never leave it, we *can’t* leave it. So there isn’t
-any kind of grief or sadness, no ups or downs, no holding on, or
+any kind of grief or sadness, up or down, no holding on, or
 worrying.
 
 In the ongoing truthfulness of our practice it’s important to sift
@@ -2781,7 +2782,7 @@ this feels in the body. Then we start to get a sense of what it’s like
 to release it all.
 
 This is what we practice. This is the dissolving. Dissolving involves
-the letting go of control, self-image, and self-territories. For that to
+letting go of control, self-image, and self-territories. For that to
 happen, it has to be a comfortable ride. We can feel that comfort in the
 breathing in and the breathing out, in good friendship, and in moral
 living. We get the sense that *It’s okay. It’s okay to be here.* That
@@ -2792,7 +2793,7 @@ gives us the ability to trust the process and to trust the practice.
 ## Luang Por Pasanno • July 2005
 
 One of the American monks in Thailand, Tan Paññāvuḍḍho, has just died.
-He had been spending the Rains Retreat at Ajahn Dun’s monastery.
+He had been spending the Rains Retreat at Ajahn Dtun’s monastery.
 Yesterday morning, he didn’t show up for alms round. A monk was sent to
 check on him, and he was found lifeless in the bathroom. It looked like
 he fainted while standing up, fell, and hit his head on the way down.
@@ -2844,19 +2845,20 @@ doesn’t really matter. We are going to be dead soon, and in the bigger
 picture it doesn’t matter how the electrical system is functioning.
 
 This is the same with whatever mood we are experiencing. Moods are an
-obstacle to our practice, because we’re so tempted to believe in them. A
-dark, despairing, frustrated mood, or a bright, blissful, joyful mood—it
-doesn’t matter which—consciousness can get stuck on the perception or
-belief either way. More to the point, moods can’t provide a reliable
-refuge—they come and go like the wind.
+obstacle to our practice, because we’re so tempted to believe in them.
+With a dark, despairing, frustrated mood, or a bright, blissful, joyful
+mood—it doesn’t matter which—consciousness can get stuck on the
+perception or belief either way. More to the point, moods can’t provide
+a reliable refuge—they come and go like the wind.
 
-We should contemplate our experiences and remind ourselves: when they’re
-good, that’s not a refuge; when they’re bad, that’s not something to get
-stuck on. What we find with this practice is that, since everything we
-experience, feel, and imagine is moving and transient, none of that can
-be a true refuge. The refuge lies elsewhere. So we go through this
-process of deconstructing our experiences, stepping back from these
-experiences, and that’s the way we move toward a reliable refuge.
+We should contemplate our experiences and remind ourselves: when moods
+are good, that’s not a refuge; when moods are bad, that’s not something
+to get stuck on.  Since everything we experience, feel, and imagine is
+moving and transient, this particular practice may help us understand
+that none of these things can be taken as a true refuge.  The refuge
+lies elsewhere. So we go through this process of deconstructing our
+experiences, stepping back from these experiences, and that’s the way we
+move toward a reliable refuge.
 
 # Whose Is This?
 
@@ -2882,9 +2884,9 @@ the past few days and it does, indeed, stir them up. In fact, a couple
 of them have found me more than twenty feet away, and I’ve been stung
 twice. After the first couple of days observing them in their
 territorial and protective nature, I was reminded of how really foolish
-it is to have any sense of ownership around “my kuṭi.” It’s likely that
+it is to have any sense of ownership around *my kuṭi.* It’s likely that
 their sense of possession is even stronger than mine, to the point of
-aggressively defending their position. For them it is “their kuṭi,” not
+aggressively defending their position. For them it is *their kuṭi,* not
 mine, and they are simply defending their territory against me. This is
 another reminder of the sense of ownership and control we have, the
 sense we have of being the center of experience and generally the center
@@ -2901,21 +2903,21 @@ buildings? They probably have a sense that they own the whole monastery.
 
 This feeling of ownership also extends to all of the things that give us
 a sense of who we are, particularly the human body. We tend to think of
-this body as “my body, my foot, my knee, my back,” and do what is
+this body as *my body, my foot, my knee, my back,* and do what is
 necessary to defend ourselves against all of the situations that might
 come and threaten the body. We treat illnesses, and we take care of
 whatever has befallen us with a sense of possession, a sense that this
-has happened to “my body.” We take antibiotics or put on different
+has happened to *my body.* We take antibiotics or put on different
 ointments and salves to defend the body against all of the organisms
 that are taking over. But the millions of organisms that live in our
-bodies may think this body is theirs (if they do think). It’s helpful to
-ask ourselves: *Whose body is this? Whose feelings are these? Whose
-thoughts are these? Whose opinions are these? Whose neuroses are these?
-Whose problems are these?* We have such a strong sense of ownership
-around all of this. We hope to do whatever is possible to reasonably
-maximize comfort and skillfulness, yet, if we have a sense of personal
-attachment, personal identity, to any of this, then at some point when
-things change, we are bound to suffer.
+bodies may think of these bodies as theirs (if they do think). It’s
+helpful to ask ourselves: *Whose body is this? Whose feelings are these?
+Whose thoughts are these? Whose opinions are these? Whose neuroses are
+these?  Whose problems are these?* We have such a strong sense of
+ownership around all of this. We hope to do whatever is possible to
+reasonably maximize comfort and skillfulness, yet, if we have a sense of
+personal attachment, personal identity, to any of this, then at some
+point when things change, we are bound to suffer.
 
 This is a reflection we can keep in mind as we practice throughout the
 day. Even though we spend a lot of time developing skillful means and
@@ -3083,9 +3085,9 @@ coming up, I recognized what an unpleasant mind state it was. I said to
 myself, *Wait a minute. Putting out a seat is an act of respect for
 Luang Por. Luang Por is our teacher, who has given us so much and helped
 us in so many ways that we know and don’t know. This act reminds us of
-his presence in the monastery as the leader of the community.* So then,
-when I did put out a seat for him, it came with a nice feeling of relief
-to know that I could overcome this defilement of which I was previously
+his presence in the monastery as the leader of the community.* So when I
+did put out a seat for him, it came with a nice feeling of relief to
+know that I could overcome this defilement of which I was previously
 unaware.
 
 It reminded me of Ajahn Sumedho’s story about washing Ajahn Chah’s feet.
@@ -3103,27 +3105,28 @@ be established as monastery etiquette; I don’t feel so strongly about
 it, and if someone does not set out a seat, I think that’s okay. Rather,
 I’m trying to encourage us all to reflect on our attitudes about respect
 and to question why we feel the way we do. We can simply ask ourselves
-whether these attitudes are suffering or not suffering.
+whether these attitudes are causing us to suffer in any way.
 
-From that we might sense the relief that can come from choosing an
-attitude that leads to a bright mind state instead of an unpleasant one.
-Showing respect is a nice thing; it brings up a nice feeling. It doesn’t
-matter if people criticize us or think showing respect is stupid. If we
-do something that feels right, that feels kind, then it is a good thing
-to do. At the same time, it is not as if we are following a rule. It
-comes from free choice, and that’s what makes it beautiful. If this were
-a rule and we put out a seat with a sense that this is what we were
-supposed to do, that wouldn’t feel very special. It needs to come from
-the heart. When it does come from the heart there is an attitude we can
-have of wanting to use whatever opportunities are available to show
-respect and be reminded of something good, something uplifting.
+By examining our attitude in this way, we might find that we have a
+sense of relief when we choose an attitude that leads to a bright mind
+state instead of an unpleasant one. Showing respect is a nice thing; it
+brings up a nice feeling. It doesn’t matter if people criticize us or
+think showing respect is stupid. If we do something that feels right,
+that feels kind, then it is a good thing to do. At the same time, it is
+not as if we are following a rule. It comes from free choice, and that’s
+what makes it beautiful. If this were a rule and we put out a seat with
+a sense that this is what we were supposed to do, that wouldn’t feel
+very special. It needs to come from the heart. When it does come from
+the heart there is an attitude we can have of wanting to use whatever
+opportunities are available to show respect and be reminded of something
+good, something uplifting.
 
 We can use that attitude in our practice no matter what situation we
-find ourselves in. We can do something good, something kind, be
-forgiving, patient, thoughtful, and helpful to each other. This is the
-foundation of group harmony. We have a harmonious community of both
-laypeople and monastics, and that harmony has its foundation in mutual
-respect.
+find ourselves in. We can do something that is good or kind for another
+person. We can be forgiving, patient, thoughtful, and helpful with each
+other. This is the foundation of group harmony. We have a harmonious
+community of both laypeople and monastics, and that harmony has its
+foundation in mutual respect.
 
 # Rehearsing the Mood
 
@@ -3132,9 +3135,9 @@ respect.
 In communicating with other people there is always room for mistakes to
 be made and issues to come up around misunderstandings. When these
 problems occur, we can sometimes find it helpful to seek advice from
-someone else to help clarify what we want to say to the other person the
-next time we speak with him or her. We do this so we are sure we will be
-speaking factually, and at an appropriate time.
+someone else to help clarify what we want to say to the person we're
+having problems with. We do this so the next time we speak with that
+person, we will be speaking factually and at an appropriate time.
 
 I was listening to a talk by Ajahn Soṇa and he gave a beautiful piece of
 advice in regards to this type of situation. Once we are clear about
@@ -3227,14 +3230,14 @@ this quality of clinging is by contemplating impermanence. This
 contemplation can give rise to a sense of dispassion, disenchantment,
 and can result in the ability to let go and release the clinging.
 
-Alternatively, we can notice the sense of holding on to anything and use
-that as a basis for letting go of the perception of permanence and
+Alternatively, we can notice the sense of holding on to *anything* and
+use that as a basis for letting go of the perception of permanence and
 solidity. We then see how much difficulty it causes when we’re involved
 with work or interaction with people, and there’s this sense of holding
 on. I find it useful to go directly to the mind-motion of holding onto
 something and watch how it reinforces the sense of solidity, permanence,
 and a false reality. When we cling or hold tightly to some notion or
-opinion, as a result everything becomes more concrete, more focused on
+opinion, as a result, everything becomes more concrete, more focused on
 the subject and object, more about “me”—more entangled and involved.
 
 The views we cling to all tend to play with, feed on, and support each
@@ -3244,9 +3247,9 @@ see the clinging or holding onto something. In that process of
 recognition, it’s possible to realize, *I can drop this. I don’t need to
 hold onto this. I can let it go.* We might then notice the sense of ease
 in the mind that comes when we are able to do that. We may also gain
-insight into impermanence that appears right there, because if we don’t
-hold onto something then it just moves on by itself. As quickly as it
-appears, it passes away, particularly in the realm of feelings,
+insight into the impermanence that appears right there, because if we
+don’t hold onto something then it just moves on by itself. As quickly as
+it appears, it passes away, particularly in the realm of feelings,
 perceptions, and moods. When we don’t hold onto those experiences, we
 see how quickly they change, morph, disappear, reappear, and disappear
 again.
@@ -3325,18 +3328,18 @@ while we remain seated passively. With a different attitude we could say
 to ourselves, *I’m the one with the power here. It’s my life, and I have
 to do what is going to be beneficial and meaningful for myself.*
 
-We should remember that. At the end of a reflections talk—whatever has
-been said—we’re the ones who have to take responsibility for its impact.
-What are we going to do with what’s been said? The teacher’s reflection
-can be something extremely simple. But if we are listening to it with
-the right attitude and in the right way, it can trigger something very
-valuable in our minds and hearts. Conversely, we might hear a talk that
-is extremely profound, rich, deep, subtle, and meaningful. However, if
-we are only sitting here because we always sit here at this time of day
-or we do not make an effort to extract meaning from what is said, then
-we are not going to get anything out of it. It all comes down to the
-quality of attention we bring to the present moment and how we listen to
-the Dhamma.
+We should remember that. When a teacher has finished offering a short
+reflection—whatever has been said—we’re the ones who have to take
+responsibility for its impact.  What are we going to do with what’s been
+said? The teacher’s reflection can be something extremely simple. But if
+we are listening to it with the right attitude and in the right way, it
+can trigger something very valuable in our minds and hearts. Conversely,
+we might hear a talk that is extremely profound, rich, deep, subtle, and
+meaningful. However, if we are only sitting here because we always sit
+here at this time of day or we do not make an effort to extract meaning
+from what is said, then we are not going to get anything out of it. It
+all comes down to the quality of attention we bring to the present
+moment and how we listen to the Dhamma.
 
 # Breathing Into Busy Activity
 
