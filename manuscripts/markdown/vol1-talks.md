@@ -145,8 +145,8 @@ are sitting and ask ourselves, *What is the morning reflection for? What
 is the right attitude to have when it is given?* Based on what arises
 out of this questioning, we can challenge ourselves further and ask, *If
 this is the right attitude, is it something that I manage to have and
-cultivate, or have I allowed myself to get into the habit of resisting
-formal structures?*
+cultivate, or have I allowed myself to have gotten into the habit of
+resisting formal structures?*
 
 We are giving ourselves the space and time to pay attention to this flow
 of becoming and to use these reflections and wholesome structures to
@@ -186,8 +186,8 @@ It’s not as if we’re experiencing dukkha all the time; for the most
 part, we live incredibly comfortable lives here. But there’s this
 recurring sense of dis-ease, discontent, dissatisfaction. We need to
 make a strong determination to investigate it, understand it, resolve
-it, relinquish it, not shrink back from it and really try to dig it out.
-We are trying to understand the nature of the human condition—the
+it, relinquish it, not shrink back from it, and really try to dig it
+out.  We are trying to understand the nature of the human condition—the
 condition that keeps us cycling back to that feeling of dis-ease. It’s a
 willingness to patiently put forth effort and to work with our
 experiences. This is an opportunity for us to learn how to do that in
@@ -445,18 +445,18 @@ When we are feeling enthusiastic, we can easily give ourselves to the
 practice. But it can also happen that, at times, we feel completely
 disillusioned, even to the extent that we forget the original confidence
 and faith we had. But that’s natural. It’s like swimming a long way. We
-become tired. There’s no need to panic, though we can simply be still
-for a while. Then when we have regained strength, we continue. When we
+become tired. There’s no need to panic, we can simply be still for a
+while. Then when we have regained strength, we continue. When we
 understand in accordance with nature, we understand these states will
 change. Despair, if that is what has arisen, will pass. We keep
 practicing. By observing our minds and seeing how our attitudes are
-continually changing we more clearly understand that impermanence is
+continually changing, we more clearly understand that impermanence is
 natural.
 
 Isn’t cultivating Dhamma as important as breathing? If we stop
-breathing, then we die. If we are not established in a right
-understanding of the truth—of the way things are—then also we die. We
-lose touch with what is truly good. If we are lacking the richness of
+breathing, then we die. If we are not established in the right
+understanding of truth—the truth of the way things are—then also we die.
+We lose touch with what is truly good. If we are lacking the richness of
 truth in our hearts, then when we die and they cremate us, our lives
 will be worth no more than the handful of ashes we produce—and that’s
 not much! We must investigate how to live in a way that truly accords
@@ -573,8 +573,8 @@ It’s not indulgence, egotism, or pride to be reflecting on that
 goodness. The Buddha himself encourages cāgānussati, recollecting our
 generosity, because that brightens and brings joy to the mind. We can
 take some time to recollect all the efforts that we’re making on the
-practical front as well as on the *bhāvanā*, the meditation. The word
-*anumodanā* means rejoicing in the goodness that has been done. The
+practical front as well as with the formal meditation practice. The
+word *anumodanā* means rejoicing in the goodness that has been done. The
 cynical mind says, *Yeah, well, that’s one thing. But I’ve really got
 some serious problems. Basically I’m just a defiled mess. I really am!*
 We need to listen to that voice with compassion, but at the same time,
@@ -583,7 +583,7 @@ it to one side. We can reflect, *Even if I’m filled with utterly ghastly
 defilements, still there are things I’ve done that have helped people.
 That’s an undeniable fact. There’s some goodness or brightness that I’ve
 brought into the lives of others. My effort to be a little bit more
-patient has benefited other beings.* How wonderful! By letting that
+patient has benefited other beings. How wonderful!* By letting that
 brightness inform our lives, we can be encouraged and gladdened by it.
 
 # Where Did That Self Go?
@@ -618,12 +618,13 @@ how we normally do. When we look at things in a different way or see
 different aspects or angles of physical and mental phenomena, it can
 help us see how much stock we put into the continuity of the perceptual
 realm. As the Anattalakkhaṇa Sutta suggests, we can see how we attach to
-our perceptions a sense of “me,” “myself,” and who I am. This continuity of
-thoughts, perceptions, and feelings weaves a web of self and sometimes
-gets changed or altered or diminished. *Where did that “me” go to? Where
-did that self go? Is it a different one? Is it the same one but looked
-at from a different angle? Or is it possibly just another perception
-that I have weaved together to give a sense of security and stability?*
+our perceptions a sense of “me,” “myself,” and “who I am.” This
+continuity of thoughts, perceptions, and feelings weaves a web of self
+and sometimes gets changed or altered or diminished. *Where did that
+“me” go to? Where did that self go? Is it a different one? Is it the
+same one but looked at from a different angle? Or is it possibly just
+another perception that I have weaved together to give a sense of
+security and stability?*
 
 It is good to reflect on the change and instability of what we normally
 call “me” or “mine,” both in the body and in the mind. We can take this up
@@ -725,11 +726,11 @@ and what’s important in our life.
 ## Luang Por Pasanno • August 2012
 
 The theme we used for Upāsikā Day yesterday was brightening the mind
-and focusing on the ten *anussati*—the Ten Recollections: Buddha,
+and focusing on the ten *anussati*—the ten recollections: Buddha,
 Dhamma, Saṅgha, virtue, generosity, celestial beings, mindfulness of the
 body, mindfulness of death, mindfulness of breathing, and Nibbāna—peace.
 Several people expressed their appreciation for being taught about the
-Ten Recollections in that it gave them more freedom and flexibility to
+ten recollections in that it gave them more freedom and flexibility to
 work with the mind.
 
 Meditation can often become mechanical or method oriented, or focus
@@ -770,7 +771,7 @@ he set. Another important quality that comes to mind is *pasāda*, which
 is a sense of serene confidence and clarity of well-being; it has a
 joyful sense to it.
 
-We want to encourage these Ten Recollections in our practice as well as
+We want to encourage these ten recollections in our practice as well as
 these other skillful qualities so that we create a wholesome foundation
 for the mind. We have a lot of space to experiment and work with these
 themes. As we get to know them, we can see what works and what helps the
@@ -887,14 +888,14 @@ greater potential to be a life free of regret and remorse.
 
 Death is a present-moment experience; it’s not in the future. When the
 moment of death arrives, it will be just that moment—everything before
-that moment of death is still life, with all of its projections, worries
-and fears, including the fear of that approaching death. But when death
-actually occurs, it is just one brief moment. So at the moment of death,
-death is now. Before that moment, it is just a projection. With
-contemplation of death we become more familiar with this inevitable
-ending so that when it finally comes, we are prepared for it, neither
-afraid of it or confused with this very ordinary present-moment
-experience.
+that moment of death is still life, with all of its projections,
+worries, and fears, including the fear of that approaching death. But
+when death actually occurs, it is just one brief moment. So at the
+moment of death, death is now. Before that moment, it is just a
+projection. With contemplation of death we become more familiar with
+this inevitable ending so that when it finally comes, we are prepared
+for it, neither afraid of it or confused with this very ordinary
+present-moment experience.
 
 If we keep that in mind then we do not really have any other option than
 to contemplate what’s going on for us right here and right now. It’s the
@@ -930,7 +931,7 @@ communicate with others, even when there’s a thorny issue at hand.
 
 Sometimes our attempts at communicating can be hopelessly indirect,
 which is not helpful. For example, if we feel somebody is being unkind
-to us, rather than letting them know we might instead ostentatiously
+to us, rather than letting them know, we might instead ostentatiously
 increase our “kindness” around them, hoping they’ll get the message and
 change. This rarely works and can sometimes be seen as
 passive-aggressive. So it’s important to establish genuinely truthful
@@ -987,22 +988,21 @@ world.
 ## Ajahn Amaro • December 2002
 
 Under the Bodhi tree the Buddha’s response to death—in the form of
-Māra’s threats, cajolings, temptations, and attempts to cause doubts—his
-response was not life-affirmation, going into a deep state of
-concentration to evade Māra, blasting him with a *vajra* bolt, trying to
-be reasonable and negotiate on Māra’s terms, or trying to justify
-himself. Instead, the Buddha’s response was a fearless wakefulness.
-Almost invariably, throughout the accounts of the Buddha’s meetings with
-Māra, as soon as he is aware of the malefactor’s presence, he says: “I
-know you, Māra.” And the game is over.
+Māra’s threats, cajolings, temptations, and attempts to cause doubts—was
+not life-affirmation, going into a deep state of concentration to evade
+Māra, blasting him with a *vajra* bolt, trying to be reasonable and
+negotiate on Māra’s terms, or trying to justify himself. Instead, the
+Buddha’s response was a fearless wakefulness.  Almost invariably,
+throughout the accounts of the Buddha’s meetings with Māra, as soon as
+he is aware of the malefactor’s presence, he says: “I know you, Māra.”
+And the game is over.
 
 Maybe this is a myth or maybe not, but such tales maintain their power
 through their congruity with truth as we experience it. When Māra knows
 the Buddha has seen the hook inside the bait, he knows his victim is not
 going to bite. Māra is defeated in that gesture of knowing. This
 suggests that the opposite of death is not birth, life-affirmation, or
-the destruction of death, but rather the opposite of death is
-wakefulness.
+the destruction of death. Rather, the opposite of death is wakefulness.
 
 Perhaps the most meaningful way of considering the encounters between
 the Buddha and Māra is to regard them as depicting the arising of
@@ -1010,7 +1010,7 @@ unwholesome, ego-based states in the mind of the Buddha. They portray
 the instinctual fears, doubts, and desires that arise, but have no place
 to land. When using the myth as a map of our own psyches, Māra
 represents our ego-death experiences—loneliness, anger, obsessiveness,
-greed, and doubt, and the Buddha’s example points the way for our hearts
+greed, and doubt—and the Buddha’s example points the way for our hearts
 to respond most skillfully with a wise, wakeful, and radical
 non-contention. As soon as we contend against death, we’ve bought into
 Māra’s value system and bitten his hook—when we hate and fear death, or
@@ -1070,11 +1070,11 @@ Ajahn Liem is known for working all day long and encouraging the
 monastic community to contribute a great deal of work and service.
 That’s a big part of his teachings. But how well does it fit with our
 practice here? When we are away from our *kuṭis*, many of us carry with
-us the desire to return there right away and continue our formal
-practice of sitting and walking meditation. Suppose a senior monk tells
-us that the monastery just received a very large shipment of books, and
-that we’ll need to help out with that as soon as the meal ends until
-eight o’clock at night. What would be our internal response?
+us the desire to return to our *kuṭis* right away and continue our
+formal practice of sitting and walking meditation. Suppose a senior monk
+tells us that the monastery just received a very large shipment of
+books, and that we’ll need to help out with that as soon as the meal
+ends until eight o’clock at night. What would be our internal response?
 
 As monastics, we’re to set our intention toward staying aware of the
 present moment and letting go of our attachments to the future and past.
@@ -1149,7 +1149,8 @@ self-making, I-making habit. In the Buddha’s idiom, when we buy into the
 notion of self, it is an affirmative action we are doing:
 *ahaṅkāra-mamaṅkāra-mānānusayā*, the I-making, my-making, based on the
 underlying tendency of conceit. It is the action of getting ourselves
-wrapped up in the perceptions of self—and believing in them.
+wrapped up in the perceptions of self and believing in these
+perceptions.
 
 As we go about our day, we can reflect upon, investigate, and challenge
 these assumptions about the self and be willing to work with them over
@@ -1161,29 +1162,24 @@ self-perspective is a central part of our practice.
 
 ## Ajahn Jotipālo • July 2013
 
-I have been listening to a few of Bhikkhu Bodhi’s talks on
-loving-kindness and was surprised when he mentioned that the word
-*khanti*, patience, is very closely related to the word *mettā*,
-loving-kindness. I hadn’t recognized that before.
+I have been listening to a few of Bhikkhu Bodhi’s talks on *mettā*,
+loving-kindness. He explained that in many practice situations, mettā
+can often be used with an external, outgoing energy and making a genuine
+wish for other people to be happy. However, there is also an internal
+response that can occur for us when we express mettā in this way. 
 
-He explained that in practice situations, the use of mettā is more of an
-external, outgoing energy, where we make a genuine wish for other people
-to be happy. Traditionally, the first stage of mettā practice is focused
-on wishing happiness for ourselves, which comes with a sense of
-generating kindness and gentleness that goes inward rather than out. But
-a good deal of the practice involves a desire for other beings to be
-happy. In this way, it is about applying an externally directed energy.
-
-I have given a few talks on loving-kindness. When I do, I often receive
-questions from people concerned with external circumstances, such as,
-“It’s so painful to be with this person,” or “When I’m in this situation
-it’s really difficult. How do you deal with that?” Most of the questions
-are directed toward the practice of loving-kindness as a method for
-sending mettā outward. But we can also turn inward rather than outward.
-This is where Bhikkhu Bodhi says patience comes in. We can learn to turn
-toward the pain we feel—toward the *dukkha* we are experiencing in these
-difficult circumstances—and to hold that dukkha with a quality of
-patience.
+I was surprised when Bhikkhu Bodhi mentioned that the word *khanti*,
+patience, is very closely related to the word *mettā*, loving-kindness.
+I hadn’t recognized that before. I have given a few talks on mettā and
+when I do, I often receive questions from people concerned with external
+circumstances, such as, “It’s so painful to be with this person . . .”
+or “When I’m in this situation it’s really difficult. How do you deal
+with that?” Most of the questions are directed toward the practice of
+loving-kindness as a method for sending mettā outward. But we can also
+turn inward rather than outward. This is where Bhikkhu Bodhi says
+patience comes in. We can learn to turn toward the pain we feel—toward
+the dukkha we are experiencing in these difficult circumstances—and to
+hold that dukkha with a quality of patience.
 
 Ajahn Sucitto once said that we often think of patience as waiting for
 change. *I will endure this situation, gritting my teeth, until it
@@ -1197,7 +1193,7 @@ staying at the level of feeling. We are not getting into the story, the
 proliferation, or creating a self around it. If someone says something
 to us and we become angry or feel uncomfortable, instead of going
 outward, as we typically do with mettā, we can go inward. So when we
-feel pain in a situation, we can first recognize it. Then, we move
+feel pain in a situation, we can first recognize it. Then we move
 toward the painful feeling and explore it. If we can refrain from
 getting into the story behind the feeling, it will be that much easier
 to experience the feeling without wanting to change it. It’s merely a
@@ -1315,7 +1311,7 @@ imagining. The Buddha pointed to three particular qualities which are
 the driving forces behind these processes: craving, conceit, and
 views—the *papañca dhammas*. In the Anattalakkhaṇa Sutta—the Discourse
 on the Characteristic of Not-Self—he outlined these qualities in very
-simple terms. *Taṇhā* or craving is defined as *etaṃ mama: This is
+simple terms. *Taṇhā*, craving, is defined as *etaṃ mama: This is
 mine. This belongs to me. This is my ladder, my chopping board, my
 space.* Next there’s *eso’hamasmi*: the conceit “I am.” *This is what I
 am. I am a person, I am tall, I am short, I am a woman, I am a man, I am
@@ -1455,7 +1451,7 @@ have the most beneficial results for our practice and well-being.
 
 Recently I’ve made visits to a physical therapist because I have some
 ongoing muscle issues that have plagued me for the last twenty years.
-Often, this type of situation originates with a small abnormality that
+Often this type of situation originates with a small abnormality that
 causes pain, and many people will subconsciously allow the body to
 adjust to it or slump in a certain way to relieve that pain. Although
 this gives temporary relief, it turns out that people have adjusted
@@ -1519,7 +1515,7 @@ around our uncomfortable experiences.
 ## Luang Por Pasanno • July 2012
 
 The Buddha spoke about the different postures for meditation—walking,
-sitting, standing and lying down—basically every position of the body.
+sitting, standing, and lying down—basically every position of the body.
 He also spoke about the “foundations of mindfulness,” that is, the body,
 feelings, the mind, and objects of mind. These are all supports we can
 use to develop attention. We have the opportunity to cultivate
@@ -1602,8 +1598,8 @@ But the situation is not bleak. In the beginning stage of making an
 effort, there is a hump we have to get over, but then it gets easier.
 There are three phases of effort. In the first phase, energy needs to be
 aroused, and this requires discipline and exertion. In the second phase,
-once energy is aroused and established, the effort maintains itself to a
-certain extent, because of that established energy. The third phase is
+once energy is aroused and established, the effort maintains itself, to
+a certain extent, because of that established energy. The third phase is
 known as being unshakable, where nothing can stop the effort and energy
 until the goal is achieved. The first phase is the most difficult,
 because it takes a lot of strength and resolution simply to get things
@@ -1631,7 +1627,7 @@ There’s an element of the human psyche that is constantly looking for
 comfort, security, and ease. We can sometimes believe that the end of
 suffering is when we bring about the circumstances in which we don’t
 have to extend ourselves or put forth too much effort. But even when
-we’ve managed to manipulate conditions in a way that allow us to feel
+we’ve managed to manipulate conditions in a way that allows us to feel
 relatively comfortable and laid back, we inevitably realize that we are
 still suffering.
 
@@ -1647,16 +1643,14 @@ pointed to the Middle Way. Rather than investigating what it is that
 makes us feel relatively comfortable and secure, we can investigate what
 it is that undermines the tendencies of greed, hatred, and delusion. We
 need to look very carefully, asking ourselves, *What are those
-underlying roots of delusion? What are those habits of selfishness?* By
-investigating like this, we learn that we don’t need to be tripped up by
-our habits or defilements; we learn to be okay with whatever conditions
-arise. And when that happens, we find true ease and comfort.
+underlying roots of delusion? What are those habits of selfishness?*
 
-It’s important to investigate in these ways and to stretch our
-capabilities. Whether we are developing our formal, solitary practice or
-engaged in our communal duties, we try to let go of that sense of
-comfort-seeking and undermine the underlying tendencies that cause us
-complication and difficulty.
+By investigating like this, we learn that we don’t need to be tripped up
+by our habits or defilements; we learn to let go of our comfort-seeking
+and to undermine the underlying tendencies that cause us complication
+and difficulty; and we learn to be okay with whatever conditions arise.
+When we have stretched our capabilities this far, we can find true ease
+and comfort that is independent of any causes or conditions.
 
 # Abhayagiri Is Complete
 
@@ -1684,39 +1678,39 @@ we have to create inner complication, because there’s such a great
 potential during this time for getting caught up, being busy, resentful,
 or excited.
 
-Yesterday when some of us were walking around with Tan Ṭhitābho in the
-morning, we saw so many new *kuṭis* and the new workshop which were all
-were built over the last couple of years since I departed. These were
-things that Luang Por Pasanno, myself, and others would fantasize about.
-*It’d be a nice place to have a kuṭi there, or we could do this here, or
-maybe we should put the workshop there.* Many of these things have
-suddenly become a reality. Of course, these physical changes took place
-slowly and steadily over time. So much has evolved since June 1st, 1996
-when I, along with Anagārika Tom, now Ajahn Karuṇadhammo, Debbie, and a
-gang of others rolled up to the newly purchased property. On that very
-first evening, once we’d cleaned up the house, set up the domed tents
-that we’d be living in, gotten ourselves sorted and settled, I remember
+Yesterday, when some of us were walking around with Tan Ṭhitābho in the
+morning, we saw many new *kuṭis* and the new workshop which were all
+built over the last couple of years since I departed. These were things
+that Luang Por Pasanno, myself, and others would fantasize about. *It’d
+be a nice place to have a kuṭi there, or we could do this here, or maybe
+we should put the workshop there.* Many of these things have suddenly
+become a reality. Of course, these physical changes took place slowly
+and steadily over time. So much has evolved since June 1st, 1996 when I,
+along with Anagārika Tom, now Ajahn Karuṇadhammo, Debbie, and a gang of
+others rolled up to the newly purchased property. On that very first
+evening, once we’d cleaned up the house, set up the domed tents that
+we’d be living in, gotten ourselves sorted and settled, I remember
 thinking, *Now the monastery is complete, now it is done.*
 
 With those words, I was taking a leaf out of Luang Por Liem’s book. I
 remember when preparations were underway for Luang Por Chah’s funeral,
-and a *cetiya* for his cremation was under construction. A whole new
-eating hall, road system, water towers, and more than 630 toilets were
-all under construction simultaneously. During that time, there was
-someone who was touring the monastery and saw all these different
-construction projects. He was quite amazed and bewildered. He then saw
-Luang Por Liem, who was running the whole show and had just come down
-off of the roof of a large building with a welding torch in hand. The
-man said to Luang Por, “This is incredible, this is amazing, there’s so
-much happening here. I bet you’ll be really glad when it’s finished.”
-And Luang Por Liem responded, in his inimitable Luang Por Liem way, “I
-finish it every day.” That is a very simple observation, but coming from
-Luang Por Liem, it’s not merely a nice thing to say. It’s not just
-sophistry; it’s the actuality. Yes, we have bare girders here and wet
-concrete over there and so many pits for the concrete rings to go in
-under all of these toilets, and they are all sitting out there in heaps.
-But it’s completely finished, just as it is. This is what it is, right
-now.
+and a *cetiya*, a religious monument, for his cremation was under
+construction. A whole new eating hall, road system, water towers, and
+more than 630 toilets were all under construction simultaneously. During
+that time, there was someone who was touring the monastery and saw all
+these different construction projects. He was quite amazed and
+bewildered. He then saw Luang Por Liem, who was running the whole show
+and had just come down off of the roof of a large building with a
+welding torch in hand. The man said to Luang Por, “This is incredible,
+this is amazing, there’s so much happening here. I bet you’ll be really
+glad when it’s finished.” And Luang Por Liem responded in his
+inimitable Luang Por Liem way, “I finish it every day.” That is a very
+simple observation, but coming from Luang Por Liem, it’s not merely a
+nice thing to say. It’s not just sophistry; it’s the actuality. Yes, we
+have bare girders here and wet concrete over there and so many pits for
+the concrete rings to go in under all of these toilets, and they are all
+sitting out there in heaps.  But it’s completely finished, just as it
+is. This is what it is, right now.
 
 When there’s a lot of activity going on—going from here to there,
 finding this and taking it over there, picking up these gas bottles and
@@ -1734,7 +1728,7 @@ so many things to do, and they are important, and they have my name on
 them, and I can’t just brush them away.* But with the reflection,
 *Abhayagiri is complete,* we can keep that worldly perspective in its
 appropriate place and recognize that, within a larger context, it’s just
-as Luang Por Liem was expressing: It’s finished. Even when the gas tank
+as Luang Por Liem was expressing: it’s finished. Even when the gas tank
 is half filled, it’s finished. As you’re carrying along the carpets or
 untangling the flags, it’s finished. Even though the knot is still
 there, it’s finished.
@@ -1797,8 +1791,10 @@ leave the training, but Ajahn Chah would refuse. This went on for five
 years. After every Rains Retreat, just like clockwork, there would be
 Ajahn Toon with his offering of flowers and incense respectfully asking
 to leave the Saṅgha. Ajahn Chah would always talk him out of it or,
-sometimes, just get up and walk away. Ajahn Toon ended up staying a
-monk, and now he’s a really good teacher in our lineage.
+sometimes, just get up and walk away. He saw that even though Ajahn Toon
+wanted to leave, he was capable of persevering in the practice. Ajahn
+Toon ended up staying a monk, and now he’s a really good teacher in our
+lineage.
 
 # A Positive Encounter With Death
 
@@ -1928,11 +1924,11 @@ venerable ones wish to do?*
 We can also think about cāga in regard to our views and opinions. This
 is a monastery with a lot of independent-minded folks, some of whom have
 strong personalities (I put myself in that category). There can
-sometimes be a sense that I know the best way to do something, therefore
-that is the way we should do it. It can be a real workout to notice that
-inclination, suspend it, and acknowledge that even if we are right,
-maybe it’s not the best way to proceed. There are many collective ways
-that we do things in the monastery, and even if we don’t agree with
+sometimes be a sense that, *I know the best way to do something,
+therefore that is the way we should do it.* It can be a real workout to
+notice that inclination, suspend it, and acknowledge that even if we are
+right, maybe it’s not the best way to proceed. There are many collective
+ways that we do things in the monastery, and even if we don’t agree with
 them, we can acknowledge we have a common agreement to do as the group
 does and let go of our views and opinions about the matter. This is what
 we all signed up for. We operate in a container, the monastery, that has
@@ -1958,16 +1954,16 @@ toward ultimate realization.
 
 As we practice, one of the qualities that we need to cultivate or attend
 to is learning how to pay attention to our circumstances, what is
-happening around us. So often we wait for instruction, or the right
+happening around us. So often we wait for instruction, the right
 circumstances, or a sign that we are doing the right thing. For us to
 really take advantage of the practice, we need to learn from our
 circumstances and pay attention to the natural processes around us.
 
-There’s a story that Ajahn Chah used to use in his teachings. It is a
-Jātaka tale about a king who takes his retinue off to do some business.
-As they pass by an area in the forest, the king sees a wild mango tree
-full of mangoes and thinks to himself, *Those mangoes look really good.
-At the end of the day when we’re going back to the palace, I’m going to
+There’s a story that Ajahn Chah used in his teachings. It is a Jātaka
+tale about a king who takes his retinue off to do some business.  As
+they pass by an area in the forest, the king sees a wild mango tree full
+of mangoes and thinks to himself, *Those mangoes look really good.  At
+the end of the day when we’re going back to the palace, I’m going to
 stop by this tree and have some of those mangoes. That will be really
 refreshing.* Then he moves on. However, the people toward the back of
 the retinue have a different idea, and they start to bash the tree and
@@ -1984,10 +1980,10 @@ seems to be the same as it was before. There is a real problem with
 having a full tree, and it’s the same problem I have with my life: I
 have many duties, responsibilities, and many people around me. Maybe I
 should transform my life to be more like this scrawny mango tree and
-step out of my duties and responsibilities.* That was his impetus to go
-forth on the spiritual path to become a religious seeker. In the future,
-whenever he was asked who his teacher was, he would respond: “A mango
-tree was my teacher” (Jā 22.60-61).
+step out of my worldly duties and responsibilities.* That was his
+impetus to go forth on the spiritual path to become a religious seeker.
+In the future, whenever he was asked who his teacher was, he would
+respond: “A mango tree was my teacher” (Jā 22.60-61).
 
 So when we consider the circumstances, the events, and the natural
 processes around us, we see that truth is being displayed all the time.
@@ -2007,8 +2003,8 @@ meditation—that it brings peace and happiness, even bliss—and those
 ideas are what motivated us to become practitioners. For many of us,
 however, the reality is that meditation can often be a struggle, rather
 than an experience of bliss and happiness. When we close our eyes, there
-can be a lot of physical or mental pain. Or there can be a sense of
-pushing away from our experiences, or a general feeling of discomfort
+can be a lot of physical or mental pain. There can be a sense of
+pushing away from our experiences or a general feeling of discomfort
 and tension.
 
 When I think about my own practice, what often creates the struggle I
@@ -2088,7 +2084,7 @@ To employ this test skillfully takes practice, reflection, and a
 willingness to experiment and try things out. But it’s something we need
 to do. Practicing Dhamma in accordance with Dhamma—*dhammānudhamma
 paṭipatti*—is a quality that needs our close attention. In fact, it’s a
-key element of stream entry. So as we go about our daily lives, as we
+key element of stream-entry. So as we go about our daily lives, as we
 continue to cultivate the practice, it is helpful to reflect: *Does what
 I’m doing accord with Dhamma? What I’m saying, thinking, and
 feeling—does it accord with Dhamma?* If we are willing to investigate
@@ -2183,12 +2179,12 @@ valuable practice and is quite nourishing to our hearts.
 ## Luang Por Pasanno • July 2005
 
 Yesterday, at the City of the Dharma Realm in Sacramento, I was giving
-instructions to twenty-eight *shramaneris* who were preparing to ordain
-as *bhikshunis* next month. It was quite a delightful time. Their
-sincerity was tangible.
+instructions to twenty-eight novices who were preparing to ordain as
+nuns next month. It was quite a delightful time. Their sincerity was
+tangible.
 
-One of the ideas I brought up with them is developing *samaṇa saññā, the
-perception or recollection of being a religious seeker.* We function out
+One of the ideas I brought up with them is developing *samaṇa saññā*, the
+perception or recollection of being a religious seeker. We function out
 of our perceptions. We perceive something to be interesting or
 desirable, and we get excited. We perceive something to be worrisome or
 troublesome, and we start to have aversion or negativity. Perceptions
@@ -2236,32 +2232,31 @@ outer process, but an inner process as well. It’s the formal commitment
 of an individual to this particular training and his acceptance into the
 group of monks. It also reflects an inner commitment and an inner change
 that’s useful for us to consider, whether we have hair and wear trousers
-or have a shaved head and wear a *sabong*.
+or have a shaved head and wear a robe.
 
-Essentially when we talk about
-ordaining, it’s usually in terms of going forth from the household life
-into homelessness, from being an *agārika* to an *anagārika*,
-one who lets go of the household life. But in many ways, it’s more about
-going forth from self-centered thinking to seeing in terms of Dhamma.
-It’s going forth from confusion to clarity, from a life of being half
-awake or not awake at all to wakefulness. That’s something that is
-useful for all of us to reflect on whether we’re living as a lay
-practitioner with commitments and responsibilities in the world, as an
-anagārika, as a *sāmaṇera*, or as a *bhikkhu* who has already ordained.
-If we’ve formally made the commitment, have been “raised up” into the
-Saṅgha and have already gone forth, still, the most important aspect of
-what we are doing is that going forth from confusion and self-centered
-thinking to being awake. Unfortunately, we sometimes hang on to the
-formal commitment of having gone forth and taking the precepts of a monk
-so that after years of experience, we can forget the part about waking
-up, about going forth from confusion to clarity and seeing in terms of
-Dhamma.
+Essentially when we talk about ordaining, it’s usually in terms of going
+forth from the household life into homelessness, from being an *agārika*
+to an *anagārika*, one who lets go of the household life. But in many
+ways, it’s more about going forth from self-centered thinking to seeing
+in terms of Dhamma.  It’s going forth from confusion to clarity, from a
+life of being half awake or not awake at all to wakefulness. That’s
+something that is useful for all of us to reflect on whether we’re
+living as a lay practitioner with commitments and responsibilities in
+the world, as an anagārika, as a *sāmaṇera*, or as a *bhikkhu* who has
+already ordained.  If we’ve formally made the commitment, have been
+“raised up” into the Saṅgha, and have already gone forth, still, the
+most important aspect of what we are doing is that going forth from
+confusion and self-centered thinking to being awake. Unfortunately, we
+sometimes hang on to the formal commitment of having gone forth and
+taking the precepts of a monk so that after years of experience, we can
+forget the part about waking up, about going forth from confusion to
+clarity and seeing in terms of Dhamma.
 
 Whether we’re a lay person or a monastic, this auspicious day of
 Sāmaṇera Kaccāna’s going forth can encourage all of us to go forth in
-terms of our attitudes, the way that we relate to the world, choosing to
-be mindful, choosing to be awake, and choosing not to be so
-self-concerned or self-obsessed.
+terms of our attitudes, the way that we relate to the world. We
+can choose to be mindful, to be awake, and to be not so self-concerned
+or self-obsessed.
 
 On a practical level we have many tasks to pull together today in
 preparation for the ordination. But, it’s good to bear in mind these
@@ -2277,8 +2272,8 @@ inform all of our tasks so that the day itself becomes a resonance of
 the gesture of going forth. That’s what the ceremony is all about. In
 this way it really makes going forth alive and meaningful, informing all
 of our lives. It’s not only helping outside, it’s also helping us to
-work on our inner lives, our inner worlds, together. It’s our collective
-going forth.
+work on our inner lives, our inner worlds. In this way it is our
+collective going forth.
 
 # Our Changing Bodies
 
@@ -2414,15 +2409,16 @@ our aloneness.
 
 Throughout the day it is helpful for us to recollect that we are a
 community of alms mendicants. We rely on what is offered to us as gifts
-of goodwill: robes, alms food, shelter and medicine—the four requisites.
-Traditionally, in Thai monasteries the monastic community brings the
-requisites to mind as part of its formal morning and evening chanting.
-The chants encourage the monastics to ask themselves, *Did I use the
-requisites skillfully? Was I heedful when I used them? Do I understand
-their true purpose?* We too should reflect in this way. It’s easy to
-expect that everything will be there for us and that everything will be
-of good quality. But as alms mendicants, the emphasis is on contentment
-with what we have and being circumspect with what we are using.
+of goodwill: robes, alms food, shelter, and medicine—the four
+requisites.  Traditionally, in Thai monasteries, the monastic community
+brings the requisites to mind as part of its formal morning and evening
+chanting.  The chants encourage the monastics to ask themselves, *Did I
+use the requisites skillfully? Was I heedful when I used them? Do I
+understand their true purpose?* We too should reflect in this way. It’s
+easy to expect that everything will be there for us and that everything
+will be of good quality. But as alms mendicants, the emphasis is on
+contentment with what we have and being circumspect with what we are
+using.
 
 There’s a story about a monk who was cleaning Ajahn Maha Boowa’s *kuṭi*
 and threw away two used matches that were on the altar. When the Ajahn
@@ -2518,12 +2514,12 @@ future in case we don’t finish our work in this lifetime.
 All of the wholesome intentions we cultivate now will condition what
 happens for us the next time around and, most importantly, will
 condition the quality of our lives right here and right now. We are
-working on letting go of unskillful tendencies, the aversion, greed,
-self-interest, and selfishness, and cultivating qualities of virtue and
-generosity, to make a commitment to ending the cycle of suffering.
-That’s how we can increase the potential of being in association with
-like-minded people in lifetimes to come. This is the meaning of true
-interdependence.
+working on letting go of unskillful tendencies: aversion, greed,
+self-interest, and selfishness, and we are cultivating qualities of
+virtue and generosity, to make a commitment to ending the cycle of
+suffering.  That’s how we can increase the potential of being in
+association with like-minded people in lifetimes to come. This is the
+meaning of true interdependence.
 
 # Is Rock Climbing Like Meditation?
 
@@ -2538,7 +2534,7 @@ and now.” It sounds very good, but if that’s all we practice, we can be
 left without having reflected or investigated to any great degree.
 
 We need to apply some discernment. When we experience difficulty,
-conflict or dis-ease, we direct our attention toward that, investigate
+conflict, or dis-ease, we direct our attention toward that, investigate
 its causes, and examine the process by which it is unfolding. This is
 not to say we should be reaching out intellectually and coming up with
 rational explanations; rather, it is being willing to investigate and
@@ -2562,11 +2558,11 @@ It’s not just about awareness—it’s awareness with discernment.
 
 To develop this discernment we can begin by asking ourselves, *What is
 the nature of things—the nature of conditions—the nature of my own
-mind?* Then we bring the attention inwards and focus our awareness on
+mind?* Then we bring the attention inward and focus our awareness on
 the various feelings that are present. In particular, we attend to the
 feelings of dis-ease, dissatisfaction, or suffering and come to
 understand that those feelings are merely feelings. With any particular
-feeling we have we ask ourselves, *What are the causal conditions for
+feeling we have, we ask ourselves, *What are the causal conditions for
 that feeling? Where is its resolution? How can I help bring about that
 resolution?* In this way, we are contemplating the Four Noble Truths
 exactly as the Buddha intended.
@@ -2629,7 +2625,7 @@ on some track, excited, irritated, or worried about something. There
 seems to be a coloring of the whole world. *This is my problem. I’m
 supposed to worry about this. I have to worry about this. This is my
 project. The only thing that really matters in the world are the
-railings on the Bhikkhu Commons *kuṭi* or clearing the trap under the
+railings on the Bhikkhu Commons kuṭi or clearing the trap under the
 sink at Casa Serena.* The center of the world is this particular job we
 have, these letters that have to be written or this meal that has to be
 cooked. These things that the mind latches onto seem so real and
