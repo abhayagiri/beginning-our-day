@@ -2262,23 +2262,24 @@ tailspin. It seems many people are becoming more and more focused on
 consuming, without much consideration for what they already have.
 
 By contrast, part of the ethos of living in a monastery as a *samaṇa*, a
-religious seeker, is developing the qualities of simplicity, frugality
-and the care we take in using and reusing things. For instance, I have a
-cold now and have been blowing my nose quite often—I don’t know how many
-times a day. So I try to emulate Master Hua, who would use the same
-tissue over and over again, until it became apparent that it could no
-longer be used again. I must admit that despite trying, I cannot match
-his austerity in this regard. However, it’s a good illustration of
-frugality and taking care of what we use—we don’t need to throw a tissue
-away after only using it once, but instead, we can keep reusing it until
-it’s completely worn out. Simplicity and frugality are about doing
-little things like that: paying attention to all the things we use,
-taking care of them and avoiding waste. Living like this helps protect
-the culture of modesty and contentment we’ve established here.
+religious seeker, is developing the qualities of simplicity and
+frugality, and learning to be careful with how we use and reuse things.
+For instance, I have a cold now and have been blowing my nose quite
+often—I don’t know how many times a day. So I try to emulate Master Hua,
+who would use the same tissue over and over again until it became
+apparent that it could no longer be used. I must admit that despite
+trying, I cannot match his austerity in this regard. However, it’s a
+good illustration of frugality and taking care of what we use—we don’t
+need to throw a tissue away after only using it once, but instead, we
+can keep reusing it until it’s completely worn out. Simplicity and
+frugality are about doing little things like that: paying attention to
+all the things we use, taking care of them, and avoiding waste. Living
+like this helps protect the culture of modesty and contentment we’ve
+established here.
 
 There’s an idiom in Thai that refers to “one who is contented with
 little.” Reflecting on this can inspire a life without complication. We
-can live very simply, being conscious of how we use things, and,
+can live very simply, being conscious of how we use things, and
 contrary to what one might think, this doesn’t make us miserable.
 Contentment is quite the opposite of misery. Living in a conscious way
 like this can make us happier by fostering internal qualities that lead
@@ -2286,7 +2287,7 @@ to ease and well-being. We realize that we don’t require so many things
 to keep us happy and comfortable. It’s an internal experience based on
 internal qualities.
 
-# Exploring Uncertainty in Daily Life
+# The Best Potato Salad I’ve Ever Made
 
 ## Ajahn Amaro • July 2005
 
@@ -2302,8 +2303,8 @@ activities. We can use these themes as constant companions to explore
 and process our own experience as we relate to the events of the day.
 
 Ajahn Chah particularly emphasized the contemplation of anicca. He would
-often render the word *anicca* as *uncertainty*, rather than
-*impermanence*. When we think of things being impermanent it can have a
+often render the word *anicca* as uncertainty, rather than
+impermanence. When we think of things being impermanent it can have a
 remote or objective quality, whereas uncertainty describes the feeling
 of the mind and heart when we experience change and transiency. That’s
 what we perceive—the feeling of uncertainty. We don’t know. It’s not
@@ -2322,7 +2323,7 @@ a problem.
 
 Although Ajahn Pasanno is leaving for Sacramento this morning, if we
 keep the uncertainty reflection in mind, then we can be clear that we
-don’t really know if he is going to get to there. The van driving him
+don’t really know if he is going to get there. The van driving him
 might have a burst tire or the drive shaft might snap somewhere along
 the highway, and then he would spend the day contemplating the heat
 element in the valley. Not that I wish for that to happen, but I can say
@@ -2348,7 +2349,7 @@ spaciousness and freedom for ourselves. The perception of anicca loosens
 the boundaries and obstructions we continually create through thinking,
 presumptions, opinions, judgments, expectations, and plans. We can learn
 to hold material objects, thoughts, feelings, and actions in the context
-of uncertainty. *This judgment is uncertain,* or *This activity is
+of uncertainty. *This judgment is uncertain. This activity is
 uncertain.* When perceiving in this way, the heart is completely ready
 and open for the changes that can and often do occur.
 
@@ -2356,23 +2357,23 @@ If things go in a fortunate way, then we feel the pleasure of that. If
 they go in an unfortunate way, then we feel the painfulness of it. Ajahn
 Chah would say that clinging to happiness is just as bad as clinging to
 unhappiness. It’s like trying to take hold of the tail of the snake
-rather than the head. If things go in a fortunate way, we might clinging
-to happiness and say to ourselves, *Oh great, now I have it, this is
-excellent*—which means the heart has invested in that happiness. This
-happiness is like the tail of the snake. Even if we grasp the harmless
-tail, it’s not very long before the head whips around and bites us. For
-example, if we’ve been preparing the meal, we think, *Oh great, this is
-the best potato salad I’ve ever made. It’s really good, I’m really
-pleased with this.* Then someone comes along, takes a mouthful and says,
-“Is it supposed to taste like this?” The anger or misery we feel is
-exactly proportional to the degree we had invested our happiness in the
-potato salad being just right, pleasing, and good. So we can learn to
-see that judgment as it’s arising and consider, *Is the salad truly
-good? It’s uncertain.* That way, we don’t take hold of the snake’s tail.
-If someone says it’s bad, we can realize that it’s simply their
-judgment, and the snake’s head doesn’t bite us. We might say to
+rather than the head. If things go in a fortunate way, we might be
+clinging to happiness and say to ourselves, *Oh great, now I have it,
+this is excellent*—which means the heart has invested in that happiness.
+This happiness is like the tail of the snake. Even if we grasp the
+harmless tail, it’s not very long before the head whips around and bites
+us. For example, if we’ve been preparing the meal, we might think, *Oh
+great, this is the best potato salad I’ve ever made. It’s really good,
+I’m really pleased with this.* Then someone comes along, takes a
+mouthful and says, “Is it supposed to taste like this?” The anger or
+misery we feel is exactly proportional to the degree we had invested our
+happiness in the potato salad being just right, pleasing, and good. So
+we can learn to see that judgment as it’s arising and consider, *Is the
+salad truly good? It’s uncertain.* That way, we don’t take hold of the
+snake’s tail.  If someone says it’s bad, we can realize that it’s simply
+their judgment, and the snake’s head doesn’t bite us. We might say to
 ourselves, *That person’s a fool for thinking that.* But then we can see
-that this too is our own judgment. Good or bad salad or whatever is just
+that this too is our own judgment. “Good salad” or “bad salad” is just
 the way we perceive things. It was uncertain to begin with. When we see
 this clearly, the causes for conflict, confusion, stress, and living a
 burdened life are no longer generated.
@@ -2382,13 +2383,13 @@ burdened life are no longer generated.
 ## Ajahn Yatiko • September 2012
 
 As monastics, it’s worth keeping in mind where our focus is. It is not
-on worldly skills such as well-honed public speaking. The Buddha said in
-former times the monks who were respected and praised were those who
-lived and trained in the forest and put effort into practice but later,
-respect and praise went to the monks who had good speaking skills.
-Skills, talents, and even an ability to give good Dhamma talks are
-praiseworthy, but what we are here for is the training. We are here to
-train the heart, and training the heart doesn’t necessarily result in
+on worldly skills such as well-honed public speaking. The Buddha said
+that in former times the monks who were respected and praised were those
+who lived and trained in the forest and put effort into practice, but
+later, respect and praise went to the monks who had good speaking
+skills. Skills, talents, and even an ability to give good Dhamma talks
+are praiseworthy, but what we are here for is the training. We are here
+to train the heart, and training the heart doesn’t necessarily result in
 anything remarkable in terms of the external world. Training the heart
 results in sincerity, openness, peace, and mindfulness. We should keep
 in mind that this is why we’re here. There’s no other reason.
@@ -2432,18 +2433,18 @@ these pāramīs in a general way. For example, *How do I want to orient
 myself and my practice? What principles of training do I feel need
 attending to?* When we think in terms of the pāramīs, the underlying
 connecting thread is making a commitment to or leaning toward what is
-wholesome and skillful, uplifting, and brightening. We don’t need to put
+wholesome and skillful, uplifting and brightening. We don’t need to put
 a name on it or have a label for it. We can orient ourselves with these
 fundamental principles of wholesomeness and skillfulness and encourage
 ourselves toward these brightening qualities of mind. In a very
-elemental way, the function of these principles of goodness is to
-alleviate a tendency toward suffering.
+elemental way, the function of these principles is to alleviate a
+tendency toward suffering.
 
 When we’re engaged in work or duties or have to deal with different
 personalities in our living situations, we have an opportunity to bring
 to mind these principles of training and to incline ourselves toward
 that which is wholesome and skillful. It’s so easy to rationalize
-negativity, aversion, frustration and a sense of *Oh, woe is me,* and
+negativity, aversion, frustration, and a sense of *Oh, woe is me,* and
 really miss the point that we always have an option to choose. We can
 make an effort to keep exercising that option of choosing and inclining
 ourselves toward those principles of goodness. The pāramīs are ways of
@@ -2469,13 +2470,13 @@ with cancer, a number of people who need to see certain practitioners,
 doctors, and therapists for body issues, and six people going in for
 blood work tomorrow. We chanted the “Reflection on the Thirty-Two Parts
 of the Body” this morning. We do this reflection and examine the body
-because we are so strongly attached to it as either who I am, something
+because we are so strongly attached to it as either: who I am, something
 of which I am in possession of, or something over which I should have
 control. It forms a major part of who we think we are, and because of
 that strong attachment, when things go wrong we suffer greatly. That is
 why a large part of the practice is to try, over and over again, to
-alter that belief of the body being self or possessed by a self. If we
-can lessen that attachment over time, little by little, when things go
+alter the belief that the body is self or possessed by a self. If we can
+lessen that attachment over time, then little by little, when things go
 wrong, we do what we need to do to take care of the health of our
 bodies, but we don’t do it with a sense of strong attachment,
 identification, clinging, pain, sorrow, lamentation, or grief.
@@ -2496,20 +2497,20 @@ it into consciousness at a very deep level. We do this by accepting that
 these bodies of ours are not things over which we have any control. We
 reflect on the process of aging, sickness, and death, let it sink in and
 at the same time, we look carefully at what is happening around us. For
-a person who is going through the process of catastrophic illness, the
-death process is not just something that’s out there, but something that
-is happening right inside that person’s body. It could be the
-proliferation of cancer cells reaching different parts of the body,
-obstructing tissues, and airways and spreading to the bones and the
-brain. I can recognize that all of that is something that could very
-likely happen to me. Or, some other disease will happen in this very
-body, to these internal organs, to all the parts we’ve been talking
-about, visualizing, and reciting. Each part will come to an end. They
-will all at some point cease to function, either one by one or at the
-same time. These parts of the body are subject to dissolution, decay,
-and decomposition and will return to the elements: earth, air, water,
-and fire, nothing more than that. Yet it all seems so real, so personal,
-and so “me,” which is where the suffering comes in.
+a person who is dying of a catastrophic illness, the death process is
+not just something that’s out there, but something that is happening
+right inside that person’s body. It could be the proliferation of cancer
+cells reaching different parts of the body, obstructing tissues and
+airways and spreading to the bones and the brain. I can recognize that
+all of that is something that could very likely happen to me. Or, some
+other disease will happen in this very body, to these internal organs,
+to all the parts we’ve been talking about, visualizing, and reciting.
+Each part will come to an end. They will all at some point cease to
+function, either one by one or at the same time. These parts of the body
+are subject to dissolution, decay, and decomposition and will return to
+the elements: earth, air, water, and fire, nothing more than that. Yet
+it all seems so real, so personal, and so “me,” which is where the
+suffering comes in.
 
 Bringing this reflection to heart is a significant part of daily
 meditation practice, both on the cushion and off. To do this we need to
@@ -2553,8 +2554,8 @@ if his blood dried up and his bones crumbled. We say to ourselves,
 Ajahn Chah, Ajahn pointed back at him and said, “Maybe *this* Buddha
 trying to do that isn’t the same as the *old* Buddha.” What Ajahn meant
 was that the Bodhisatta’s resolve was the culmination of hundreds of
-thousands of lifetimes spent building the *pāramī*, with steadiness and
-patience.
+thousands of lifetimes spent steadily and patientl building the
+*pāramī*.
 
 So that’s what we focus on—this steadiness of effort and patient
 endurance. Put them together and let them work for you.
@@ -2573,11 +2574,11 @@ people what to do and to lay down a rule, but that’s not the point.
 If we see anger arise in other people, one way to quell the anger is to
 get really angry back and basically squash them with our words. That may
 shut them up, but there isn’t much—if any—Dhamma present in that
-response. Another method is to manipulate them into to stopping their
-anger by using subtle, temporary tactics, but that also doesn’t help
-them grow in Dhamma. What helps is meeting their negative energy with
-space and loving acceptance. If we give them the space to reflect on
-their own anger, they might realize that anger is a form of suffering.
+response. Another method is to manipulate them into stopping their anger
+by using subtle, temporary tactics, but that also doesn’t help them grow
+in Dhamma. What helps is meeting their negative energy with space and
+loving acceptance. If we give them the space to reflect on their own
+anger, they might realize that anger is a form of suffering.
 
 Sometimes we give space but sense that no investigation has come from
 it. If we give people space and they don’t investigate their anger and
@@ -2587,7 +2588,7 @@ does give the other person the chance to work with it. And if we don’t
 give space, if we respond to negativity with negativity, it’s almost a
 guarantee that nothing profound will take place. Giving space is one of
 the best things we can do for people. It’s noble. We don’t condone what
-they’re doing at the moment but by giving them space, we encourage them
+they’re doing at the moment, but by giving them space, we encourage them
 to grow and gain insight into their own mental processes.
 
 So this is a gift that we can give to others, a gift that others can
@@ -2603,7 +2604,7 @@ ourselves and suffering for others.
 When we put up a building, we think it’s our building, our Dhamma Hall,
 or our *kuṭi*, but no one informs the geckos, the lizards, and the other
 creatures in the forest. They think it’s their place too. The
-woodpeckers were around long before the humans showed up in this valley.
+woodpeckers were around long before humans showed up in this valley.
 This is the season when woodpeckers start to gather acorns and drill
 holes in the buildings, making little cupboards to stash acorns in. When
 people come along and put up a building, to a woodpecker, it’s just a
@@ -2622,17 +2623,17 @@ chooses to sit under the rafters and the geckos defecate on him, whose
 problem is that?
 
 Our habit is to look at the world from a self-centered perspective: *My
-preferences, My priorities.* We look at our body in that same way: *My
+preferences. My priorities.* We look at our body in that same way: *My
 body has a right to be totally mobile, completely comfortable, pain
 free, and in an environment with the most desirable temperature at all
-times.* When that view gets intruded upon—when there’s an infection, if
-the body is afflicted with a poison-oak rash, or if it is too hot or too
-cold—then we become reactive and that same self-righteousness arises:
-*This is an intrusion upon my space, my time, my convenience. I haven’t
-got time for this; it shouldn’t be like this.* If we believe those
-perceptions, then we endlessly create more *dukkha* for ourselves—this
-sense of dis-ease and dissatisfaction—because it’s just the voice of
-self view, isn’t it?
+times.* When that view gets intruded upon—when there’s an infection,
+when the body is afflicted with a poison-oak rash, or when it is too hot
+or too cold—then we become reactive and that same self-righteousness
+arises: *This is an intrusion upon my space, my time, my convenience. I
+haven’t got time for this; it shouldn’t be like this.* If we believe
+those perceptions, then we endlessly create more *dukkha* for
+ourselves—this sense of dis-ease and dissatisfaction—because it’s just
+the voice of self view, isn’t it?
 
 We don’t tend to look at our body as a food source, but it is. It’s a
 collection of organic matter. I never really understood this until I was
@@ -2752,11 +2753,11 @@ workmanship, the patience, and the willingness to learn.
 ## Luang Por Pasanno • June 2013
 
 As we apply our practice to the circumstances in which we find
-ourselves—whether we are working in the kitchen, out on the trails or in
-the office—we apply mindfulness to the present moment while also
+ourselves—whether we are working in the kitchen, out on the trails, or
+in the office—we apply mindfulness to the present moment while also
 connecting and establishing our continuity of mindfulness to the posture
 of the body. There’s a natural tendency, as we are sitting at the
-computer, working in the kitchen or out on the trails, to move forward
+computer, working in the kitchen, or out on the trails, to move forward
 and hunch. We can make this habit conscious, re-grounding and
 reconnecting with the body by opening up the chest and breathing
 comfortably. We are not trying to strut around with a military
@@ -2766,16 +2767,16 @@ engage with the world around us.
 
 With the habit to collapse in and slump forward we can try to
 continually bring in that sense of an expanding and spacious presence.
-These are little reminders with which we can ask ourselves, *Am I
-present? Am I here?* If we do this, we end up acquiring a continuity of
-awareness that is then brought into our sitting meditation. When we are
-sitting in meditation, if we are slumping and collapsing our posture and
-not really putting effort into the present moment, we tend to collapse
-in the mind as well. Ajahn Chah put a lot of emphasis on continuity and
-steadiness in practice and training. This is shown in the little things
-that we do and not in some sort of major heroic activity. We continue to
-place our attention on the body and the present moment with a sense of
-opening. It’s an important attitude to carry into our daily practice.
+We can pose little reminders to ourselves as questions: *Am I present?
+Am I here?* If we do this, we end up acquiring a continuity of awareness
+that is then brought into our sitting meditation. When we are sitting in
+meditation, if we are slumping and collapsing our posture and not really
+putting effort into the present moment, we tend to collapse in the mind
+as well. Ajahn Chah put a lot of emphasis on continuity and steadiness
+in practice and training. This is shown in the little things that we do
+and not in some sort of major heroic activity. We continue to place our
+attention on the body and the present moment with a sense of opening.
+It’s an important attitude to carry into our daily practice.
 
 # Respecting Others’ Boundaries
 
@@ -2796,15 +2797,16 @@ appreciated for what I had done.
 
 In monastic life, it’s important to recognize and respect other people’s
 boundaries. In this case, if I had been more sensitive, I would have
-considered that my friend might feel that what I was doing impinged on
-his role and duties as the stores monk and if I felt something should be
-done differently, it might have been better to have kept that to myself.
-It can be difficult for the stores monk if all of us expresses our
-opinions about the way he should manage his job. Or I might have waited
-until he returned, approached him, and asked if there was anything I
-could do to help. Then if he’d said something like, “Yes, what did you
-have in mind?” it might have been a good time to express an opinion
-while still respecting his boundaries.
+considered whether my cleaning and reorganizing the stores room would
+affect my friends feelings by impinging on his role and duties as the
+stores monk. If I felt something should be done differently, it might
+have been better to have kept that to myself. It can be difficult for
+the stores monk if all of us expresses our opinions about the way he
+should manage his job. Or I might have waited until he returned,
+approached him, and asked if there was anything I could do to help. Then
+if he’d said something like, “Yes, what did you have in mind?” it might
+have been a good time to express an opinion while still respecting his
+boundaries.
 
 To take another example, we hear the guest monk in the office giving
 some advice to someone over the phone, and we feel *we* know what should
@@ -2826,7 +2828,7 @@ of awareness? Do we simply walk right in and announce our presence, or
 do we respect and appreciate the space in the room, entering with care?
 
 There are also property boundaries. Let’s say I was missing something I
-owned. I’m a senior monk and have an attendant. If I thought that what I
+owned. I’m a senior monk and have an attendant. If I thought what I
 was looking for might be in my attendant’s personal cupboard, I might
 ask him to look in his cupboard when I next see him. But I would never
 go through his stuff looking for something simply because I thought it
@@ -2868,7 +2870,7 @@ We need to use a sense of urgency, knowing there is an aging process,
 illness, and death. We don’t know when illness and death will occur. We
 only know that it will occur at some point in time. With this type of
 reflection we can develop a sense of urgency to encourage our minds to
-dwell in the present because the present is where we have the ability to
+dwell in the present, because the present is where we have the ability to
 change and create favorable conditions for the development of our minds.
 It’s not thinking about the past, having regrets about the past, or
 making projections into the future; it’s about responding to what comes
