@@ -5074,13 +5074,14 @@ useful tools for community life, but we can also develop a sense of
 identity around them—becoming this or becoming that—and doing what we
 might be doing if we were engaged in worldly careers. The idea is to
 pick up all of these things, use them, develop skills, but do this for
-the purpose of maintaining community life, offering service, and really
-looking at how to keep on giving up self identity and a sense of
-self-importance in the same process. Little by little, bit by bit, with
-this process we’re realizing that there really isn’t any “me” here who’s
-doing all of this. We are using skills to develop the Eightfold Path, to
-encourage each other, and to contribute to Saṅgha harmony. Gradually
-this process supports us in developing the insight into who we are not.
+the purpose of maintaining community life and offering service, as well
+as for the purpose of learning how to give up self identity and a sense
+of self-importance within this same process. Little by little, bit by
+bit, with this process we’re realizing that there really isn’t any “me”
+here who’s doing all of this. We are using skills to develop the
+Eightfold Path, to encourage each other, and to contribute to Saṅgha
+harmony. Gradually this process supports us in developing the insight
+into who we are not.
 
 # Remembering to Loosen Up
 
@@ -5088,15 +5089,15 @@ this process supports us in developing the insight into who we are not.
 
 By reflecting on the theme of kindness and establishing the quality of
 *mettā*, we gain insight into how mettā is developed. One of the
-not-so-obvious places where we create qualities of unkindness is in the
-way that we relate to our own attitudes, opinions, and pet projects
-through self-identification, *My responsibility, my job, my role.* Many
-of these aspects of our lives slip into existence and claim a
-substantial reality without our noticing. *Of course this is what I am.
-This is my job. I’m the water monk. I’m the co-abbot. I’m the head cook.
-I’m the driver. This is what I am.* The mind takes hold of these
-particular attitudes and creates a false substantiality around them. The
-more solid they become, the more we create the causes of friction.
+not-so-obvious ways we create qualities of unkindness is by relating to
+our own attitudes, opinions, and pet projects through
+self-identification: *My responsibility, my job, my role.* Many of these
+aspects of our lives slip into existence and claim a substantial reality
+without our noticing. *Of course this is what I am. This is my job. I’m
+the water monk. I’m the co-abbot. I’m the head cook. I’m the driver.
+This is what I am.* The mind takes hold of these particular attitudes
+and creates a false substantiality around them. The more solid they
+become, the more we create the causes of friction.
 
 If we want to sharpen a blade, we don’t get a soft grindstone made of
 gelatin. We get a good, hard grindstone for the blade to rub against,
@@ -5126,7 +5127,7 @@ occasions and stomping out of the house. “Those carrots have been cut
 wrong—it’s completely out of order, inappropriate, and contrary to the
 Dhamma to cut carrots like that!”
 
-We might not notice in the course of a day the 10,000 ways that the mind
+We might not notice in the course of a day the 10,000 ways the mind
 creates a sense of territory, priority, or position, and seeks ways to
 establish them. We can be very polite, keep the precepts, and do things
 in the appropriate way, but at the same time send out signals that are
@@ -5177,17 +5178,17 @@ in? What are we letting the mind run away with?* These are essential
 contemplations because they help us make the practice—including
 relinquishment and generosity—our first priority.
 
-The literal translation of the word *bhikkhu* is one who begs for alms.
-But in keeping with the commentaries, Ajahn Chah used to emphasize
-bhikkhu as meaning one who sees the danger in *saṃsāra*, the danger in
-the endless round of birth and death, the endless wandering. That’s a
-useful image for the unfocused, inattentive mind—the mind that does not
-prioritize, that drifts aimlessly about. It wanders to moods of like and
-dislike, moods of resentment and attachment, and continues to wander on.
-This reflection on one who sees the danger in saṃsāra applies to
-everybody, not only monks. It can encourage us all to make good use of
-our faculties, to take the opportunities afforded us through our bodies
-and our minds.
+The literal translation of the word *bhikkhu* is one who subsists on
+almsfood. But in keeping with the commentaries, Ajahn Chah used to
+emphasize that the meaning of *bhikkhu* is one who sees the danger in
+*saṃsāra*, the danger in the endless round of birth and death, the
+endless wandering. That’s a useful image for the unfocused, inattentive
+mind—the mind that does not prioritize, that drifts aimlessly about. It
+wanders to moods of like and dislike, moods of resentment and
+attachment, and continues to wander on. This reflection on one who sees
+the danger in saṃsāra applies to everybody, not only monks. It can
+encourage us all to make good use of our faculties, to take the
+opportunities afforded to us through our bodies and our minds.
 
 So we recollect and reflect on our impending death and the endless cycle
 of saṃsāra, in order to sustain our attention and to keep the practice
@@ -5212,7 +5213,7 @@ frozen or held state of being. It is much more an experience that allows
 us to let go of unwholesome states of mind, especially those we are
 obsessed with or attached to. What remains is a mind that is relaxed,
 peaceful, and stable. It’s not going out to search for happiness,
-because it is quite happy to stay where it is, at home.
+because it is quite happy to stay where it is: at home.
 
 We often use the words *cultivating concentration*. which is an
 important expression, but it can be misleading. Quite simply, it means
@@ -5259,17 +5260,17 @@ up in reaction and proliferation. When we take this quality of sense
 restraint as our center, we carry it into our daily lives of social
 interaction, duties and chores, and into formal meditation as well.
 
-During the morning work period and at mealtime, if we let the mind get
-swept up into reactions and proliferations arising from social contact,
-when we go back to our dwellings in the afternoon, the mind will be
-chewing on them for perhaps hours so that meditation becomes
-problematic. But if we are well established in sense restraint during
-such times of social contact, afterward the mind will be steady and
-stable—it will be in a state much more conducive to having a fruitful
-meditation. As we endeavor to establish continuity in our practice, we
-recognize sense restraint as a key aspect of that. Establishing a
-continuity of sense restraint ensures that the food in our web will be
-nourishing.
+During the morning work period and at mealtime, we may let the mind get
+swept up into reactions and proliferations arising from social contact.
+Then, when we go back to our dwellings in the afternoon, the mind will
+be chewing on these same reactions and proliferations for perhaps hours,
+so that meditation becomes problematic. But if we are well established
+in sense restraint during such times of social contact, afterward the
+mind will be steady and stable—it will be in a state much more conducive
+to having a fruitful meditation. As we endeavor to establish continuity
+in our practice, we recognize sense restraint as a key aspect of that.
+Establishing a continuity of sense restraint ensures that the food in
+our web will be nourishing.
 
 # Unplugged Realities
 
@@ -5293,7 +5294,7 @@ this sphere of a world he created. As the announcements for the plane
 departure began, it seemed that there was this subtle attention off in
 one corner of his mind and he was able to be in touch with the fact that
 he was about to board the plane. When it was his turn to board, he rose
-up but continued to speak on the phone conducting business up until the
+up but continued to speak on the phone, conducting business up until the
 very last point that he sat down on the plane and had to put his phone
 away.
 
@@ -5301,8 +5302,8 @@ I reflected upon this and thought about how, without cell phones or
 portable computers, we do much of the same thing here in the monastery.
 It is so easy to get caught up into our own realities and dwell in these
 separate spheres, absorbed in what we think is some permanent condition
-of the mind. We can get fixated upon some idea, mind state or concern we
-have and not really see that it is changing phenomena. It could be
+of the mind. We can get fixated upon some idea, mind state, or concern we
+have and not really see that it is a changing phenomena. It could be
 something like a health concern or some interaction we have with
 someone, and we believe this reality is all that exists for us. Our
 thoughts can revolve around this world to the degree that we are unable
@@ -5315,7 +5316,7 @@ remembering what we were so obsessed with just moments ago. This new
 reality becomes the focus of attention in a way that can prevent us from
 seeing this entire process. It’s as if we are jumping from one world to
 the next with no fixed point of reference. We can be blown around by our
-emotions, thoughts, and preoccupations about these insubstantial
+feelings, thoughts, and preoccupations about these insubstantial
 experiences.
 
 Even right now, as I end this talk, we are all going to get up, begin
@@ -5356,19 +5357,19 @@ our experience, both in formal practice, as well as in the day-to-day
 application of our mindfulness and contemplative living.
 
 It is quite essential in the practice to bring that investigation into
-the mind, so that the mind is seeded or primed. Last night at tea time
-we were talking about a video used to demonstrate a psychological
-phenomenon. It shows a circle of people passing two basketballs around.
-Some people in the group are wearing black and the others are wearing
-white. One ball is being passed between the players wearing black and
-the other ball is being passed between the players wearing white. The
-people viewing the video are told to keep track of the number of times
-the ball gets passed between the players wearing white. As a result,
-viewers focus on the players in white shirts and the ball to the
-exclusion of most everything else. So when somebody in the video dressed
-in a gorilla suit walks through the group of people throwing the
-basketballs, beats his chest, and walks off, most people don’t even
-notice!
+the mind, so that the mind is seeded or primed. Yesterday evening at
+teatime, we were talking about a video used to demonstrate a
+psychological phenomenon. It shows a circle of people passing two
+basketballs around. Some people in the group are wearing black and the
+others are wearing white. One ball is being passed between the players
+wearing black and the other ball is being passed between the players
+wearing white. The people viewing the video are told to keep track of
+the number of times the ball gets passed between the players wearing
+white. As a result, viewers focus on the players in white shirts and the
+ball to the exclusion of most everything else. So when somebody in the
+video dressed in a gorilla suit walks through the group of people
+throwing the basketballs, beats his chest, and walks off, most people
+don’t even notice!
 
 That’s because the mind was primed to focus in a particular way—a way
 that produced an overall state of heedlessness. But if we prime the mind
@@ -5415,7 +5416,7 @@ obsessed with.
 Of course, projects do have to be done, and we do have to plan for
 things. But when we get caught up in all of it, that’s what leads to
 suffering. We’ve lost our balance; we’ve temporarily lost contact with
-the whole purpose that we’re here for. At the same time, it isn’t
+the whole purpose of our living here. At the same time, it isn’t
 helpful to get down on ourselves for losing the plot—losing the plot
 happens to everyone. But in order to snap out of it, we need to be
 reminded of our purpose, which is to end suffering. We need to know that
@@ -5492,7 +5493,7 @@ usually take in making sure that everything has a plan, an answer, or
 some worldly solution.
 
 Ajahn Chah would often say that this reflection on uncertainty is the
-flag or emblem of the Noble Ones. He’d also say it’s like a spillway for
+flag or emblem of the Noble Ones. He would also say it’s like a spillway for
 a dam. When we build a dam, we need to have a spillway to relieve the
 pressure and divert the excess water. Ajahn Chah would say, “Uncertainty
 is the spillway for the mind.” That’s what relieves the pressure in our
