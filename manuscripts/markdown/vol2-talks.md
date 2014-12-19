@@ -5493,11 +5493,11 @@ usually take in making sure that everything has a plan, an answer, or
 some worldly solution.
 
 Ajahn Chah would often say that this reflection on uncertainty is the
-flag or emblem of the Noble Ones. He would also say it’s like a spillway for
-a dam. When we build a dam, we need to have a spillway to relieve the
-pressure and divert the excess water. Ajahn Chah would say, “Uncertainty
-is the spillway for the mind.” That’s what relieves the pressure in our
-lives and in our experience of the world.
+flag or emblem of the Noble Ones. He would also say it’s like a spillway
+for a dam. When we build a dam, we need to have a spillway to relieve
+the pressure and divert the excess water. Ajahn Chah would say,
+“Uncertainty is the spillway for the mind.” That’s what relieves the
+pressure in our lives and in our experience of the world.
 
 So remember: It’s uncertain, we don’t know. When the mind makes a
 judgment, calling this good or bad, right or wrong, we can reflect, *Is
