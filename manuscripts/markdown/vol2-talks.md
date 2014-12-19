@@ -1510,8 +1510,8 @@ mean it’s going to work tomorrow, and what didn’t work in the past may
 work for us now. This makes it necessary to adapt and experiment. Ajahn
 Chah used to repeat a quote from one of his teachers, Ajahn Tong Rat,
 who taught that the practice is very straightforward and easy: “If the
-defilements come high, then duck; if they come low, jump.” Within the
-bounds of *sīla*, morality, we practice with whatever the situation
+defilements come high, then duck; if they come low, then jump.” Within
+the bounds of *sīla*, morality, we practice with whatever the situation
 demands—whatever works—as long as it has a wholesome outcome. This
 entails asking ourselves, *How might I work with this particular
 situation?* Once we have a sense of what might be a proper approach, we
@@ -2279,13 +2279,13 @@ established here.
 
 There’s an idiom in Thai that refers to “one who is contented with
 little.” Reflecting on this can inspire a life without complication. We
-can live very simply, being conscious of how we use things, and
-contrary to what one might think, this doesn’t make us miserable.
-Contentment is quite the opposite of misery. Living in a conscious way
-like this can make us happier by fostering internal qualities that lead
-to ease and well-being. We realize that we don’t require so many things
-to keep us happy and comfortable. It’s an internal experience based on
-internal qualities.
+can live very simply by being conscious of how we use things. Contrary
+to what one might think, this doesn’t make us miserable. Contentment is
+quite the opposite of misery. Living in a conscious way like this can
+make us happier by fostering internal qualities that lead to ease and
+well-being. We realize that we don’t require so many things to keep us
+happy and comfortable. It’s an internal experience based on internal
+qualities.
 
 # The Best Potato Salad I’ve Ever Made
 
@@ -2893,12 +2893,12 @@ become somebody who can be much more free.* While it is true that things
 develop over time, it is the effort we put forth right here and right
 now, seeing our reactions and habits just as they arise that allows us
 to change our perceptions and understand our human experience. If we
-keep on putting it off or spend time regretting all the things we did in
-the past or project into the future without paying attention to right
-here and now, then we’ve missed the opportunity to make a genuine change
-in our present experience. Realization and genuine shifts of perspective
-don’t occur somewhere off in the distant future. They occur right now in
-this moment.
+keep on putting it off, spending time regretting all the things we did
+in the past, or projecting into the future without paying attention to
+right here and now, then we’ve missed the opportunity to make a genuine
+change in our present experience. Realization and genuine shifts of
+perspective don’t occur somewhere off in the distant future. They occur
+right now in this moment.
 
 # Nourishing the Spiritual Faculties
 
@@ -2914,11 +2914,11 @@ to apply effort or energy. In this way faith is nourishment for effort
 and energy in our practice.
 
 These two qualities are among the five spiritual faculties: *saddhā*,
-*viriya*, *sati*, *samādhi*, and *paññā* (faith, energy, mindfulness,
-concentration, and wisdom). None of these factors stands alone. They
+*viriya*, *sati*, *samādhi*, and *paññā*—faith, energy, mindfulness,
+concentration, and wisdom. None of these factors stand alone. They
 support, feed, and nourish each other. We need to attend to saddhā—faith
 or confidence—in a skillful way, so that it helps nourish the qualities
-of effort, mindfulness, wisdom and samādhi. Together these qualities
+of effort, mindfulness, wisdom, and samādhi. Together these qualities
 bring a steadiness of mind, a clarity of awareness. In the suttas, the
 Buddha teaches that the spiritual faculties are a direct source of
 awakening. When we generate and nurture them, we are directly nourishing
@@ -2929,12 +2929,13 @@ collectedness of mind—the fourth spiritual power. In doing so, he also
 specified that the function of samādhi is to stabilize and steady
 mindfulness. Ajahn Chah taught this as well. This is important because
 it’s easy for us to get caught up in our preconceptions about the
-various states of samādhi and its purposes. Having read or heard about
-them from various teachers, we may misunderstand the chief reason to
-practice samādhi. Again, it’s the stabilization of mindfulness. When
-mindfulness isn’t steady, we have to return to a wholesome meditation
-object and use formal exercises for developing samādhi, such as the
-mindfulness exercises described in the Satipaṭṭhāna Sutta.
+various states of samādhi and their purposes. Having read or heard about
+samādhi states from various teachers, we may misunderstand the chief
+reason to practice samādhi. Again, it’s the stabilization of
+mindfulness. When mindfulness isn’t steady, we have to return to a
+wholesome meditation object and use formal exercises for developing
+samādhi, such as the mindfulness exercises described in the Satipaṭṭhāna
+Sutta.
 
 Further, samādhi and mindfulness are mutually dependent—each nourishes
 the other. Samādhi develops through the continuity of mindfulness
@@ -3028,20 +3029,19 @@ bring forth the highest blessings. They engender the sense of not having
 to carry the burden of a sense of self all the time—which is an
 incredible burden. Sometimes we can lack humility and respect to the
 degree that we outwardly appear full of ourselves and carry our sense of
-self around showing it off to other people—which is not very inspiring.
+self around, showing it off to other people—which is not very inspiring.
 
 We have the opportunity to establish a sense of respectfulness and
-humility not just once a year, but in our day-to-day lives: How we live
+humility not just once a year, but in our day-to-day lives: how we live
 with each other, how we treat each other, and how we engage with the
-world around us. So often we’re thinking about meditation techniques and
+world around us. We can frequently think about meditation techniques and
 methodologies. But when we reflect on the qualities that help the mind
 become peaceful, we can see how often we overlook these fundamentals
 that are at the roots of our being—these qualities of respectfulness and
-humility that allow the mind to become quiet, at ease, and easily
-peaceful. If we’ve engendered these qualities within, then when we sit
-down to meditate, we don’t have to wonder what techniques or methods
-will make us peaceful, because the peace is already there waiting for
-us.
+humility that allow the mind to become quiet and at ease. If we’ve
+engendered these qualities within, then when we sit down to meditate, we
+don’t have to wonder what techniques or methods will make us peaceful,
+because the peace is already there waiting for us.
 
 # Making the Embers Bright Red
 
@@ -3052,14 +3052,14 @@ with harmony and good feelings, and most importantly, we have teachings
 that are encouraging us in the practice and leading us to truth and
 peace. We have the space and time to practice and relatively good
 health, and our requisites are well provided. We can recognize this and
-appreciate the opportunity that we have. This is a helpful reflection,
-but it is also important to have a clear insight into the extreme rarity
-of this kind of situation.
+appreciate the opportunity we have. This is a helpful reflection, but it
+is also important to have a clear insight into the extreme rarity of
+this kind of situation.
 
 When we develop this insight, it’s like waving a fan in front of a fire
 to make the embers bright red. We need to go over this insight and work
 at it until we really see it. We can do this by setting a goal, not so
-much to attain *samādhi* or to have perfect mindfulness, but, rather, to
+much to attain *samādhi* or to have perfect mindfulness, but rather, to
 arouse a clear, vivid sense of the urgency of our situation. If we are
 successful, and this insight arises, it can be very exhilarating.
 
@@ -3101,18 +3101,18 @@ alerts for Yosemite Valley. One was a warning about severe
 thunderstorms, another was a flash flood warning, and the third warned
 about unhealthy levels of smoke in the air due to the large fires
 burning in the area. And of course, there was the risk of fire itself. I
-said to myself sarcastically, Oh, this looks like a wonderful place to
-go camping! Luang Por Pasanno is urging me to go and says it’s a great
-opportunity. I keep thinking, *Does he just want to send me off to my
-death?* Sitting there during pūjā, I had the sense that it really could
-be my last pūjā on that platform.
+thought to myself sarcastically, *Oh, this looks like a wonderful place
+to go camping! Luang Por Pasanno is urging me to go and says it’s a
+great opportunity. Does he just want to send me off to my death?*
+Sitting there during pūjā, I had the sense that it really could be my
+last pūjā on that platform.
 
 This is true for every single one of us. Maybe you’re not heading off to
 Yosemite, but death could occur at any time—when you’re driving into
-Ukiah, or taking the small diesel vehicle up the monastery road, or
-perhaps working in the kitchen where the gas oven might explode. We
-don’t need to be obsessive or neurotic about death, but it is good to
-have it constantly in the back of our minds.
+Ukiah, taking the small diesel vehicle up the monastery road, or working
+in the kitchen where the gas oven might explode. We don’t need to be
+obsessive or neurotic about death, but it is good to have it constantly
+in the back of our minds.
 
 Just before coming to Abhayagiri, I used to be on the maintenance staff
 at IMS (Insight Meditation Society) in Barre, Massachusetts. I remember
@@ -3138,19 +3138,19 @@ were diagnosed with terminal cancer, then some trivial issue or a
 difficulty with a particular person would probably seem insignificant.
 So I encourage everyone to frequently bring up these contemplations on
 death. And the next time you’re sitting on the ordination platform for
-pūjā, enjoy the beauty there, and consider, This pūjā may be my last.
+pūjā, enjoy the beauty there, and consider, *This pūjā may be my last.*
 
 # Approaching Gorillas
 
 ## Luang Por Pasanno • August 2012
 
-Bring mindfulness to your day-to-day activities. We need to keep
-reminding ourselves of that. It’s easy to say to ourselves, *Just be
-mindful.* But we hear it so often that it can seem trite and can lose
-its impact. The practice of mindfulness, the application of mindfulness,
-learning how to direct mindfulness, are key foundations of our practice
-and training. Once we learn how to establish and balance mindfulness, we
-can more clearly understand the mind and its reactions.
+We are trying to bring mindfulness to our day-to-day activities. We need
+to keep reminding ourselves of that. It’s easy to say to ourselves,
+*Just be mindful.* But we hear it so often that it can seem trite and
+can lose its impact. The practice of mindfulness, the application of
+mindfulness, learning how to direct mindfulness, are key foundations of
+our practice and training. Once we learn how to establish and balance
+mindfulness, we can more clearly understand the mind and its reactions.
 
 The biologist George Schaller was the first person to study silverback
 mountain gorillas. People who read his studies were amazed that he was
@@ -3164,10 +3164,10 @@ of ease.
 
 Now think of what our minds are doing all the time. We carry weapons
 around—our “guns” of views and opinions, our moods and biases, our
-reactivity, and all our extra baggage. They keep us from getting close
-enough to clearly see what the mind is doing, its underlying tendencies,
-or what its potential capability might be. We’re not able to approach
-our experience mindfully.
+tendencies toward reactivity, and all our extra baggage. They keep us
+from getting close enough to clearly see what the mind is doing, its
+underlying tendencies, or what its potential capability might be. We’re
+not able to approach our experience mindfully.
 
 We need to put down the weapons of our likes and dislikes, our views and
 opinions, and the constant chatter and commentary that we’re always
@@ -3188,7 +3188,7 @@ been reflecting on some of the words I’ve heard from others and what I
 sometimes hear in my own head: *Why can’t we always be on retreat? Why
 can’t we always live this particular way? Can’t we slow down and have
 more space and time for formal practice in the day?* The logical answer
-is there’s a monastery that needs maintaining. All the buildings we live
+is that there’s a monastery that needs maintaining. All the buildings we live
 in and the different things we need as requisites have to be looked
 after. That’s the logical reason. If we didn’t have Abhayagiri, we
 wouldn’t have any place for retreat. So we all need to pitch in and
@@ -3245,7 +3245,7 @@ direct attention to what is wholesome, skillful, and positive. It’s not
 a small thing, because the mind requires a reserve and foundation of
 well-being, and gratitude is a very direct way of being able to
 establish that. We don’t need to have everything go our way or get what
-we want in order to be grateful; the fact that we’re alive, breathing
+we want in order to be grateful; the fact that we’re alive, breathing,
 and conscious is a lot to be grateful for already.
 
 Last night, one of the people at Yoga Mendocino mentioned the Jewish
@@ -3255,15 +3255,15 @@ gratitude. In the Jewish tradition, this would be gratitude to God. This
 reminded me of an eastern European Jewish story where a rabbi went to
 visit another highly respected elder rabbi in the Ukrainian Hasidic
 tradition. The visiting rabbi says to the elder rabbi, “In the Talmud it
-says we should be grateful and praise the Lord even for the evil that
-happens, let alone what is good. How are we supposed to understand
-that?” The elder rabbi replies, “Go to my student, Zusha, over in the
-House of Study and ask him.” So the visiting rabbi walks over to the
-House of Study and finds Zusha there, emaciated, filthy and clothed in
-rags. He asks, “Zusha, how are we supposed to understand the saying from
-the Talmud that we should be grateful and praise the Lord even for what
-is evil, let alone for what is good?” And Zusha answers, “I can’t tell
-you. I don’t really know. Nothing bad has ever happened to me.”
+says we should be grateful and praise the Lord even for what is evil,
+let alone for what is good. How are we supposed to understand that?” The
+elder rabbi replies, “Go to my student, Zusha, over in the House of
+Study and ask him.” So the visiting rabbi walks over to the House of
+Study and finds Zusha there, emaciated, filthy, and clothed in rags. He
+asks, “Zusha, how are we supposed to understand the saying from the
+Talmud that we should be grateful and praise the Lord even for what is
+evil, let alone for what is good?” And Zusha answers, “I can’t tell you.
+I don’t really know. Nothing bad has ever happened to me.”
 
 When we are established in the quality of gratitude, it buoys us up
 through everything. There are many logical reasons why we could feel
@@ -3274,10 +3274,10 @@ good and what is bad, what is conducive to happiness and well-being, and
 what is conducive to making the choices that lead to those wholesome
 qualities. That’s something to be incredibly grateful for. We can
 generate that gratitude by paying attention to the inclination of our
-minds, by recognizing what our minds are doing, and when we have lost
+minds, by recognizing what our minds are doing and when we have lost
 this sense of appreciation. In seemingly difficult and trying
 circumstances, we can encourage those qualities of gratitude that allow
-us to understand, just as Zusha suggests, that generally speaking,
+us to understand that, generally speaking, just as Zusha suggests,
 *Nothing bad has ever happened to me.*
 
 # Taints to Be Abandoned by Using
@@ -3322,44 +3322,44 @@ strengthen over the years.
 
 ## Luang Por Pasanno • July 2011
 
-*Student:* I’m trying to overcome a sense of self, but my spiritual
+Student: I’m trying to overcome a sense of self, but my spiritual
 quest seems to revolve around me trying to attain something. The thought
 of dropping my self seems like a snake swallowing its tail.
 
-*Luang Por Pasanno:* That’s the way it is in the beginning. It’s a
+Luang Por Pasanno: That’s the way it is in the beginning. It’s a
 process of feeling it out. You have to play with it and work it out over
 time as you get better and better at it. It’s important in the beginning
 to be in the right container and have good spiritual friends. These
 serve as supports. In the beginning you flail around a lot, but it’s not
 in vain.
 
-*Student:* Before the first stage of awakening, the stream-entry
+Student: Before the first stage of awakening, the stream-entry
 experience, are there places where a practitioner can experience the
 dropping away of the sense of self?
 
-*Luang Por Pasanno:* Sure, wherever it arises! Just like any other
+Luang Por Pasanno: Sure, wherever it arises! Just like any other
 conditioned phenomenon, the sense of self arises and passes away. It’s
 just that we’re so focused on the next thing that we don’t notice the
 cessation.
 
-*Student:* During the stream-entry experience, are the three lower
-fetters—personality view, attachment to rights and practices, and
+Student: During the stream-entry experience, are the three lower
+fetters—personality view, attachment to practices and precepts, and
 skeptical doubt—all dropped at once, or in stages?
 
-*Luang Por Pasanno:* All at once.
+Luang Por Pasanno: All at once.
 
-*Student:* Do the results of kamma speed up when you are practicing?
+Student: Do the results of kamma speed up when you are practicing?
 
-*Luang Por Pasanno:* Not necessarily. Kamma has its own way of playing
+Luang Por Pasanno: Not necessarily. Kamma has its own way of playing
 itself out. There’s a saying that kamma is going to do what kamma is
 going to do.
 
-*Student:* The Buddha said that kamma can’t be understood by a normal
+Student: The Buddha said that kamma can’t be understood by a normal
 mind. Are there practitioners who have good enough concentration that
 they can understand parts of it?
 
-*Luang Por Pasanno:* Oh, sure. There are meditators in Thailand with
-good concentration who can see parts of it. But only the Buddha could
+Luang Por Pasanno: Oh, sure. There are meditators with good
+concentration who can see parts of it. But only the Buddha could
 understand it completely.
 
 # The Importance of Informal Meditation
@@ -3387,8 +3387,8 @@ and “informal” practice. When we sit with our eyes closed and legs
 crossed, that’s formal practice. When working around the monastery and
 taking time with each other, this is the same practice, but in an
 informal mode. The informal practice is sometimes more challenging than
-that of trying to be mindful when everything is still, quiet, and highly
-controlled while we sit on our meditation cushions. So while we go about
+sitting on our meditation cushions and trying to be mindful when
+everything is still, quiet, and highly controlled. So while we go about
 the various work tasks this morning, we can bring attention and
 mindfulness to them.
 
@@ -3408,7 +3408,7 @@ simply seeing that this is how the mind works. When things go well,
 we’re happy. When things go badly, we’re unhappy. That’s just the way it
 is. We are recognizing that this is simply a flow of feeling and
 perception we’re engaged in, noticing for example the different changes
-of the day. When we start the work period, it’s nice, cool and, bright.
+of the day. When we start the work period, it’s nice, cool, and bright.
 *Ah, this is so lovely. What a beautiful place.* Then, when the
 temperature starts to pick up later in the morning, we might think, *Oh,
 it’s really hot. It’s only 10 o’clock, and I’m dying on my feet here.*
@@ -3472,7 +3472,7 @@ But sometimes we *can* rise above it. Sometimes we can experience a
 clear perception of the present moment—the whole aspect of the mind that
 creates time through projection, memory, and hope. It is a vivid,
 here-and-now perception of what we’re observing—like a portal, where we
-slip through the delusion of the created world we live in and, suddenly,
+slip through the delusion of the created world we live in, and suddenly,
 we’re in the present moment, which is grounded in reality and has a
 sense of authentic truth.
 
@@ -3510,21 +3510,21 @@ remain involved, absorbed, enmeshed, and identified with the work we’re
 doing. While intense focus like this can serve a purpose, the
 cultivation of an open and spacious mind can help keep this focus in the
 context of practice. This is talked about in certain meditation circles
-as keeping a “broad choiceless awareness.” It’s a concept that is quite
+as keeping a “broad, choiceless awareness.” It’s a concept that is quite
 useful, but often misinterpreted. I’ve always appreciated Luang Por
-Pasanno’s description of an unfocused spaciousness of mind as a nebulous
-nothingness that we are *not* trying to cultivate. We are not striving
-for spaciness, because spaciousness is different from that. This quality
-of space and being open carries with it a sense of alertness,
-attentiveness, and clear comprehension. Spaciousness doesn’t mean that
-we drift, totally object-less—it’s important we still maintain a frame
-of reference while we open up to that space.
+Pasanno’s description of an unfocused spaciousness of mind as, a
+“nebulous nothingness that we are *not* trying to cultivate.” We are not
+striving for *spaciness*, because *spaciousness* is different from that.
+This quality of space and being open carries with it a sense of
+alertness, attentiveness, and clear comprehension. Spaciousness doesn’t
+mean that we drift, totally object-less—it’s important we still maintain
+a frame of reference while we open up to that space.
 
 This is quite a useful quality to cultivate. It’s easy to get involved
 in our mental worlds but we can take the opportunity, even while working
 or walking from one place to another, to broaden the focus a bit. This
 helps to create a little more space in the mind and body without
-drifting off into the aether. It reminds me of something Ajahn
+drifting off into an ethereal realm. It reminds me of something Ajahn
 Sumedho used to say, possibly quoting Ajahn Chah: “Oftentimes we think
 of the mind as being within the body. We have this body and inside it is
 the mind. But it may be even more skillful to consider that the body is
