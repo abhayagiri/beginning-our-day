@@ -296,8 +296,8 @@ This includes investigating the drawbacks of things we like and are
 excited about. It’s starting to get cool, the dust has settled, the
 plants are coming out, and the forest is regenerating—these are the
 benefits of this lovely weather. At the same time, a gutter is leaking,
-water is dripping down the side of a wall onto a deck and needs to be
-repaired.
+and water is dripping down the side of a wall onto a deck and needs to
+be repaired.
 
 There was a group of Pa-Auk Sayadaw’s lay disciples who were planning on
 coming up today to have a look at Abhayagiri. They were thinking about
@@ -458,7 +458,7 @@ actions and our speech. We ask, *How am I establishing mindfulness and
 inner cultivation?* This is how we develop the Dhamma in our hearts and
 relinquish the defilements of the mind.
 
-# So What Am I, Chopped Liver?!
+# So What Am I, Chopped Liver?
 
 ## Ajahn Amaro • December 2008
 
@@ -493,7 +493,7 @@ We begin with listening to the critical, blaming, or complaining mind,
 and hearing what that mind is saying. What’s it coming up with? Is it
 the feeling of being unfairly treated, slighted, left out, or ignored?
 Can we hear the mind’s cry of righteous indignation, *So what am I,
-chopped liver?!* We receptively listen to the affronted, hurt, wounded,
+chopped liver?* We receptively listen to the affronted, hurt, wounded,
 abandoned, irritated feelings, and hear the mind coming up with the
 reactions and thought processes that follow those feelings. We are
 simply allowing this experience to be known—this narrow, painful,
@@ -528,7 +528,7 @@ all of the practice before completely letting go—also involves picking
 up. We learn this skill by discerning what it is we need to let go of
 and what it is we need to pick up and engage with. All the obstructions
 and hindrances to meditation—negative thoughts, reactions out of anger,
-greed, or confusion—are habits we can mindfully see see arise in our
+greed, or confusion—are habits we can mindfully see arise in our
 minds and let go of to the best of our abilities.
 
 In the same process so much of the path is involved with skillfully
@@ -594,7 +594,7 @@ or even in the realm of meditative states. It’s constantly looking for
 something else, not content with what it has or what it’s experiencing.
 The problem with the human condition is this constant seeking and, of
 course, not really finding. So we need to learn how to be someone who
-has enough, and to be someone who enjoys that “enough-ness.”
+has enough and to be someone who enjoys that “enough-ness.”
 
 # The Mood Is Not Who You Are
 
@@ -638,7 +638,7 @@ say, *I’ll take the good moods and forget the bad moods.* We train
 ourselves in meditation with any mood that comes up. We take stock of it
 and remember that the mood is not who we are. When a mood arises, we do
 our best to recognize its existence and then investigate how it may be
-pushing us to act in ways that aren’t helpful to our welfare, or the
+pushing us to act in ways that aren’t helpful to our welfare or the
 welfare of others.
 
 # Putting the Four Noble Truths Into Action
@@ -692,7 +692,7 @@ method—then we are bound to realize beneficial results.
 
 Paying attention to the method and its application, putting it into
 practice, bringing the Four Noble Truths into our experience, reflecting
-and applying these truths—this is how we can reap the fruits of
+upon and applying these truths—this is how we can reap the fruits of
 practice.
 
 # Doing What’s Difficult to Do
@@ -804,8 +804,8 @@ strong-willed in certain ways. We have plenty of leaders here and
 sometimes it can be difficult for us to break that classic paradigm,
 *The way I think we should do it is the right way.*
 
-How we begin to unravel this paradigm is by learning it’s okay to not be
-right all the time and to use honest self-appraisal to look at
+We begin to unravel this paradigm by learning that it’s okay to not be
+right all the time and to use honest self-appraisal to examine
 ourselves. This allows us to say *Okay, perhaps since everybody else is
 doing it a different way, I need to consider that, or a number of people
 are indicating to me that I may have missed the mark—maybe I should
@@ -1016,14 +1016,14 @@ socks I’m wearing, which were given to him by Tan Khemako, who received
 them from a layperson. The flowers on the shrine came from our friend
 Apple.
 
-As monastics, it’s nice that, for almost any material item around us, we
-can name the specific person or group of people who offered it. By doing
-this we realize that absolutely everything we have is a gift from
-faithful and generous people. As alms mendicants, we rely on the
-faithful generosity of the laity to provide us with food as well as
-other material supports—robe cloth, shelter, and medicine. Our survival
-is sustained through the gifts of others. When we reflect on this, quite
-naturally the result is a sense of gratitude and appreciation.
+As monastics, it’s nice that we can name the specific person who has
+offered almost any material item around us. By doing this we realize
+that absolutely everything we have is a gift from faithful and generous
+people. As alms mendicants, we rely on the faithful generosity of the
+laity to provide us with food as well as other material supports—robe
+cloth, shelter, and medicine. Our survival is sustained through the
+gifts of others. When we reflect on this, quite naturally the result is
+a sense of gratitude and appreciation.
 
 At the same time, such generosity and support can cause us to ask, *Why
 am I allowing myself to receive all this goodness and kindness?* The
@@ -1041,16 +1041,15 @@ For us, the word *should* can mean that if we don’t do it, we’re really
 bad monks. That’s the completely wrong approach. Instead, we can reflect
 that, *Since everything is given to me, even this body doesn’t belong to
 me. It belongs to the faithful—it’s merely loaned to me by them.* With
-that in mind, there’s still the sense that we *should* practice, but
-it comes from a completely different *should*. It’s more like a
-voluntary *should*. It comes from a wholesome desire to practice
-because we know that it’s worthwhile, a decent thing to do. We come to
-realize, *It’s for my own benefit, and it’s for other people’s benefit.*
+that in mind, there’s still the sense that we *should* practice, but it
+comes from a completely different “should.” It’s more like a voluntary
+“should.” It comes from a wholesome desire to practice because we
+know that it’s worthwhile, a decent thing to do. We come to realize,
+*It’s for my own benefit as well as for the benefit of others.*
 
-As we walk on the meditation path, we can contemplate the difference
-between these two kinds of *shoulds*. There’s a significant difference
-between the *should* of guilt and the *should* of the natural and
-wonderful activity we’re interested in doing. We can reflect on the
+As we walk on the meditation path, we can contemplate the significant
+difference between the “should” of guilt and the “should” of the natural
+and wonderful activity we’re interested in doing. We can reflect on the
 blessings of our lives, the things that have come to us, and realize
 what a wonderful opportunity we have to practice and cultivate the path
 of the Buddha.
@@ -1062,7 +1061,7 @@ of the Buddha.
 Yesterday Ajahn Saññamo gave us a reading about sweeping leaves—how
 sweeping can be an integral part of our practice. His reading came from
 a book detailing the practices at Ajahn Baen’s monastery. It is a big
-monastery with large open areas so every day, everyone goes out to
+monastery with large open areas, so every day, everyone goes out to
 sweep. In his monastery, sweeping is part of the practice and training.
 That’s the way it should be for us as well—and not only with sweeping.
 All the various chores, duties, and responsibilities we have are part of
@@ -1097,7 +1096,7 @@ he was about the last person to come out. Because he took so long to
 join the group, he’d often get the last broom, which was usually some
 scruffy old thing, made of a few little twigs that didn’t really do
 much. Ajahn Sumedho said he would go along and scratch a bit at the
-ground, stand, wait, internally grumble and complain, saying to
+ground, stand, wait, internally grumble and complain, and say to
 himself, *This is really stupid. I don’t like this. Why do we have to do
 this?* His mind would go on and on. Of course, Ajahn Chah noticed what
 was happening, and one day during the sweeping period he walked past
@@ -1126,9 +1125,8 @@ mental state and what’s going on in the mind *is* our practice.
 ## Ajahn Jotipālo • December 2012
 
 On mornings like this—when it’s pouring down with rain, when it’s not
-comfortably warm, and we have been assigned a job working outside, which
-will be wet and inconvenient—in this situation, the mind may rebel or
-complain.
+comfortably warm, and we have been assigned a wet and inconvenient job
+working outside—in this situation, the mind may rebel or complain.
 
 It was quite a cold morning and pouring down rain during the first work
 meeting I attended at Abhayagiri. Everybody was going to be working
@@ -1141,7 +1139,7 @@ going to get wet, that’s all. We had places to dry our clothes and we
 would be outside for only a couple hours. In addition, it was going to
 be really good work, a substantial service to the monastery.
 
-Ajahn Pasanno’s comment has stuck with me over time, and has encouraged
+Ajahn Pasanno’s comment has stuck with me over time, and encouraged
 me to ask myself, *What am I taking refuge in? Is it the work I’m
 doing? The relationships I’m cultivating? Am I taking refuge in wanting
 to feel good and not being inconvenienced in body or mind?* After
@@ -1177,15 +1175,15 @@ can have this split as well. We might try to force ourselves to focus or
 practice harder, but there’s a part of the mind that can rebel, that
 doesn’t want to do be forced.
 
-Rather than trying to force the mind, we can have an internal dialogue
-instead: *Why is it that I don’t want to practice sometimes? What is
-that about?* Without forcing and imposing our control, we can get to the
-root of the problem through skillful investigation. Instead of
-*telling*, we’re *asking*—we’re probing, inquiring, and looking for the
-defilements that lurk within. Forcing ourselves to do something doesn’t
-actually deal with any of the defilements. We need to investigate: What
-are the conditions that give rise to the defilements? What causes them
-to hang around? This gives rise to an understanding of ourselves, and an
+Rather than trying to force the mind, we can ask ourselves, *Why is it
+that I don’t want to practice sometimes? What is that about?* Without
+forcing and imposing our control, we can get to the root of the problem
+through skillful investigation. Instead of *telling*, we’re
+*asking*—we’re probing, inquiring, and looking for the defilements that
+lurk within. Forcing ourselves to do something doesn’t actually deal
+with any of the defilements. We need to investigate: What are the
+conditions that give rise to the defilements? What causes them to hang
+around? This gives rise to an understanding of ourselves and an
 understanding of suffering. We might say that investigating in this way
 is our krueng yoo.
 
@@ -1239,7 +1237,7 @@ But one of the more positive memories that I have from growing up as a
 Christian is Christ’s essential message of compassion. Very similar to
 the Buddhist motivation for compassion, Christ expressed his wish for
 others to be free from suffering. We find compassion inherent within the
-Four Noble Truths—we’re looking at the truth of suffering, and how to
+Four Noble Truths—we’re looking at the truth of suffering and how to
 end it.
 
 One of the messages I remember from my early Christian upbringing was
@@ -1335,9 +1333,9 @@ of others, those we know and those we don’t know. We can see how
 different textures of feeling can gather around particular waves. They
 seem so important because there’s a name for each wave, the name of
 someone close to us. But the knowing quality within us reflects that
-it’s just another wave. How could it be so different or special—even
+it’s just another wave. How could it be so different or special even
 when it has our own name on it? This body, these aches and pains, these
-ailments, this lifespan. There’s that knowing within us which can
+ailments, this lifespan—there’s that knowing within us which can
 realize, *Well, it’s not such a big deal. Waves rise up, they move, they
 break. That’s it, no big thing.* We have the ability to discover that
 quality of evenness, steadiness, and balance. We can have an unshakable
@@ -1770,8 +1768,8 @@ we forget that the whole reason we’re meditating is to free ourselves
 from greed, hatred, and delusion. The depth of our samādhi practice or
 the experiene of a profound insight is only significant because it
 supports that freedom. So we can reaffirm our intention to be free of
-greed, hatred, and delusion, to be content with our experience. For
-some, if not many of us, no matter how difficult our situation is—our
+greed, hatred, and delusion, to be content with our experience. For some
+of us, if not many of us, no matter how difficult our situation is—our
 health, our position, or our mental states—it’s not so bad. It could be
 much worse. It’s enough to be content with. This is simply where we find
 ourselves in this moment.  This is where our kamma has put us. And it is
@@ -1870,7 +1868,7 @@ of it.
 
 With many people away, it’s so quiet I can hear the water dripping over
 the sound of our breathing. We can have our own little retreat here
-today, which is the way it is here anyway regardless of the day. We can
+today, which is always the way it is here regardless of the day. We can
 use every opportunity to practice mindfulness—to be aware of where our
 body is and what our mind is doing and ask ourselves, *Is this a
 skillful state of mind or is it an unskillful state of mind? Am I
@@ -1900,7 +1898,7 @@ Circumstances change, communities change, and we never know where we are
 going to find ourselves next. If we keep this in mind, we can use the
 opportunity we have here to be sensitive to each other, to be mindful
 around one another, to orient ourselves to our present experience, and
-feel a sense of appreciation for the community we live in.
+to feel a sense of appreciation for the community we live in.
 
 # Leave No Trace
 
@@ -1921,7 +1919,7 @@ is neat and tidy. We see that everything is done in a circumspect,
 crisp, and clear manner. In this way, we can cultivate an attitude of
 leaving no trace.
 
-There’s an image for that in the Zen tradition: Apparently, when turtles
+There’s an image for that in the Zen Tradition. Apparently, when turtles
 walk, their tails swing back and forth, sweeping away their footprints.
 That image suggests not leaving a trail of debris behind us when we walk
 from one place to another. Sometimes when the monks are getting ready
@@ -2087,8 +2085,8 @@ gaining momentum. When that happens, we can consciously slow down and
 pay attention. Sometimes this means physically slowing down, not to the
 point of irritating everybody around us, but also not getting pulled
 into a sense that, *This is important. There’s not enough time. This has
-to be done now.* When we slow down, we can notice what happens—what
-happens is that we see things more clearly.
+to be done now.* When we slow down, we can notice what happens, which
+is that we see things more clearly.
 
 I’ve ridden in a car up and down Tomki Road to and from the monastery
 countless times. These last few months I’ve been walking on the road
@@ -2133,10 +2131,10 @@ further. But then, without even being aware of it, through a host of
 minor decisions, he manages to put into place various minor conditions
 that make the murder a real possibility. He goes from thinking that
 murdering the woman is ridiculous to feeling like he has no choice in
-the matter—he has to commit the act—and he does. It’s like setting in
-motion an avalanche: a little movement here, a little there, doing this,
-doing that—then all of a sudden those seemingly minor conditions come
-together and produce a catastrophic result.
+the matter. He has to commit the act and so he does. It’s like setting
+in motion an avalanche: a little movement here, a little there, doing
+this, doing that—then all of a sudden those seemingly minor conditions
+come together and produce a catastrophic result.
 
 So it behooves us to reflect on the little choices we make, the small,
 moment-by-moment decisions triggered throughout the day by the various
@@ -2162,12 +2160,12 @@ yesterday that Master Hua would both tease and challenge the students
 who came to study with him in the sixties and seventies, because at that
 time there was a strong ethos of people seeking freedom in many
 different ways. Master Hua would say, “You think you’re free, but I’m a
-lot freer than you are.” Our ways of trying to measure freedom—trying to
-do what we want, when we want, how we want, and where we want—assumes
-that these ways will result in experiencing freedom. In putting forth
-that challenge, Master Hua was questioning how people can measure
-freedom when they are still following their greed, hatred, and delusion.
-How can they be free when that’s the case?
+lot freer than you are.” Our ways of trying to measure freedom—by trying
+to do what we want; as well as when, how, and where we want to do
+it—assumes that these ways will result in our experiencing freedom.
+In putting forth that challenge, Master Hua was questioning how people
+can measure freedom when they are still following their greed, hatred,
+and delusion. How can they be free when that’s the case?
 
 For all of our attempts to be free or peaceful or whatever, we still let
 greed, hatred, delusion, clinging, craving, and confusion not only
@@ -2236,20 +2234,20 @@ have when walking, doing dishes, working outside, working in the office
 and the attention we bring to what we’re doing, even though it is quite
 active and engaged—helps to form that firm foundation.
 
-When we skillfully practice the Dhamma, all of those factors work closely
-together and act as a base for that type of collectedness of mind. It’s
-not a forced activity. We engage throughout the day with all the
-other aspects of the Noble Eightfold Path to have more ability to enter
-into a quiet, collected, enjoyable, peaceful state of mind. This
-concentration is not a result of having to go into sensory deprivation
-or exclusion of all experiences so we have a few moments of peace.
-That’s not the kind of samādhi that is going to be stable, long-lasting,
-or even enjoyable. When we go through periods of practice that don’t
-seem very fruitful or when we feel our minds will never settle down, we
-can bring to mind that the sitting practice and development of
-concentration is an important part of practice, but it’s only one part
-of the practice. It needs to be supported by and firmly grounded in the
-other factors of the path as well.
+When we skillfully practice the Dhamma, all of those factors work
+closely together and act as a base for that type of collectedness of
+mind. It’s not a forced activity. We engage throughout the day with all
+the other aspects of the Noble Eightfold Path, so we have a greater
+ability to enter into a quiet, collected, enjoyable, peaceful state of
+mind. This concentration is not a result of having to go into sensory
+deprivation or exclusion of all experiences so we have a few moments of
+peace. That’s not the kind of samādhi that is going to be stable,
+long-lasting, or even enjoyable. When we go through periods of practice
+that don’t seem very fruitful or when we feel our minds will never
+settle down, we can bring to mind that the sitting practice and
+development of concentration is an important part of practice, but it’s
+only one part of the practice. It needs to be supported by and firmly
+grounded in the other factors of the path as well.
 
 # Contented With Little
 
@@ -2329,7 +2327,7 @@ the highway, and then he would spend the day contemplating the heat
 element in the valley. Not that I wish for that to happen, but I can say
 to myself, *Oh, Ajahn Pasanno is going to Sacramento is he? Is that so?
 Really?* All we can know is that there’s a plan for him to go to
-Sacramento. There’s a plan to prepare the meal and there’s a plan to go
+Sacramento. There’s a plan to prepare the meal, and there’s a plan to go
 into town. This much we know, but what will happen is uncertain. Are
 things really the way we judge them to be? It’s not certain. This is not
 meant to create doubt and confusion, but the more we perceive each
@@ -2384,7 +2382,7 @@ burdened life are no longer generated.
 
 As monastics, it’s worth keeping in mind where our focus is. It is not
 on worldly skills such as well-honed public speaking. The Buddha said
-that in former times the monks who were respected and praised were those
+that in former times, the monks who were respected and praised were those
 who lived and trained in the forest and put effort into practice, but
 later, respect and praise went to the monks who had good speaking
 skills. Skills, talents, and even an ability to give good Dhamma talks
@@ -2501,7 +2499,7 @@ a person who is dying of a catastrophic illness, the death process is
 not just something that’s out there, but something that is happening
 right inside that person’s body. It could be the proliferation of cancer
 cells reaching different parts of the body, obstructing tissues and
-airways and spreading to the bones and the brain. I can recognize that
+airways, and spreading to the bones and the brain. I can recognize that
 all of that is something that could very likely happen to me. Or some
 other disease will happen in this very body, to these internal organs,
 to all the parts we’ve been talking about, visualizing, and reciting.
@@ -2554,7 +2552,7 @@ if his blood dried up and his bones crumbled. We say to ourselves,
 Ajahn Chah, Ajahn pointed back at him and said, “Maybe *this* Buddha
 trying to do that isn’t the same as the *old* Buddha.” What Ajahn meant
 was that the Bodhisatta’s resolve was the culmination of hundreds of
-thousands of lifetimes spent steadily and patientl building the
+thousands of lifetimes spent steadily and patiently building the
 *pāramī*.
 
 So that’s what we focus on—this steadiness of effort and patient
@@ -2756,10 +2754,9 @@ As we apply our practice to the circumstances in which we find
 ourselves—whether we are working in the kitchen, out on the trails, or
 in the office—we apply mindfulness to the present moment while also
 connecting and establishing our continuity of mindfulness to the posture
-of the body. There’s a natural tendency, as we are sitting at the
-computer, working in the kitchen, or out on the trails, to move forward
-and hunch. We can make this habit conscious, re-grounding and
-reconnecting with the body by opening up the chest and breathing
+of the body. There’s a natural tendency, as we engage in our work, to
+move forward and hunch. We can make this habit conscious, re-grounding
+and reconnecting with the body by opening up the chest and breathing
 comfortably. We are not trying to strut around with a military
 posture—we can open the body, the chest, and the heart base by expanding
 our posture. Another way to see it is opening up our presence to how we
@@ -2767,7 +2764,7 @@ engage with the world around us.
 
 With the habit to collapse in and slump forward we can try to
 continually bring in that sense of an expanding and spacious presence.
-We can pose little reminders to ourselves as questions: *Am I present?
+We can pose little questions to ourselves as reminders: *Am I present?
 Am I here?* If we do this, we end up acquiring a continuity of awareness
 that is then brought into our sitting meditation. When we are sitting in
 meditation, if we are slumping and collapsing our posture and not really
@@ -2798,10 +2795,10 @@ appreciated for what I had done.
 In monastic life, it’s important to recognize and respect other people’s
 boundaries. In this case, if I had been more sensitive, I would have
 considered whether my cleaning and reorganizing the stores room would
-affect my friends feelings by impinging on his role and duties as the
-stores monk. If I felt something should be done differently, it might
-have been better to have kept that to myself. It can be difficult for
-the stores monk if all of us expresses our opinions about the way he
+have affected my friends feelings by impinging on his role and duties
+as the stores monk. If I felt something should be done differently, it
+might have been better to have kept that to myself. It can be difficult
+for the stores monk if all of us expresses our opinions about the way he
 should manage his job. Or I might have waited until he returned,
 approached him, and asked if there was anything I could do to help. Then
 if he’d said something like, “Yes, what did you have in mind?” it might
@@ -2930,12 +2927,12 @@ specified that the function of samādhi is to stabilize and steady
 mindfulness. Ajahn Chah taught this as well. This is important because
 it’s easy for us to get caught up in our preconceptions about the
 various states of samādhi and their purposes. Having read or heard about
-samādhi states from various teachers, we may misunderstand the chief
-reason to practice samādhi. Again, it’s the stabilization of
-mindfulness. When mindfulness isn’t steady, we have to return to a
-wholesome meditation object and use formal exercises for developing
-samādhi, such as the mindfulness exercises described in the Satipaṭṭhāna
-Sutta.
+samādhi states from various teachers, we may misunderstand the most
+important reason for practicing samādhi. Again, it’s for the
+stabilization of mindfulness. When mindfulness isn’t steady, we have to
+return to a wholesome meditation object and use formal exercises for
+developing samādhi, such as the mindfulness exercises described in the
+Satipaṭṭhāna Sutta.
 
 Further, samādhi and mindfulness are mutually dependent—each nourishes
 the other. Samādhi develops through the continuity of mindfulness
@@ -3032,7 +3029,7 @@ degree that we outwardly appear full of ourselves and carry our sense of
 self around, showing it off to other people—which is not very inspiring.
 
 We have the opportunity to establish a sense of respectfulness and
-humility not just once a year, but in our day-to-day lives: how we live
+humility not just once a year, but in our day-to-day lives—how we live
 with each other, how we treat each other, and how we engage with the
 world around us. We can frequently think about meditation techniques and
 methodologies. But when we reflect on the qualities that help the mind
@@ -3277,8 +3274,8 @@ generate that gratitude by paying attention to the inclination of our
 minds, by recognizing what our minds are doing and when we have lost
 this sense of appreciation. In seemingly difficult and trying
 circumstances, we can encourage those qualities of gratitude that allow
-us to understand that, generally speaking, just as Zusha suggests,
-*Nothing bad has ever happened to me.*
+us to understand that, for the most part, as Zusha suggests, *Nothing bad
+has ever happened to me.*
 
 # Taints to Be Abandoned by Using
 
@@ -3512,8 +3509,8 @@ cultivation of an open and spacious mind can help keep this focus in the
 context of practice. This is talked about in certain meditation circles
 as keeping a “broad, choiceless awareness.” It’s a concept that is quite
 useful, but often misinterpreted. I’ve always appreciated Luang Por
-Pasanno’s description of an unfocused spaciousness of mind as, a
-“nebulous nothingness that we are *not* trying to cultivate.” We are not
+Pasanno’s description of an unfocused spaciousness of mind as being “a
+nebulous nothingness that we are *not* trying to cultivate.” We are not
 striving for *spaciness*, because *spaciousness* is different from that.
 This quality of space and being open carries with it a sense of
 alertness, attentiveness, and clear comprehension. Spaciousness doesn’t
@@ -3584,7 +3581,7 @@ tick and use investigation so that it can be a real quest.
 The work period is a good time for learning about how to let go. During
 these periods the mind is constantly thinking, *I have to do this and I
 have to do that and this needs to get done before I do that.* But when
-the mind lets go it’s malleable and as the Buddha said, “fit for work.”
+the mind lets go, it’s malleable and as the Buddha said, “fit for work.”
 If we only meditate and don’t challenge the mind with difficult and
 unpredictable situations, then the chances are the mind won’t learn how
 to let go. What really trains us in how to let go are the uncertain
@@ -3678,7 +3675,7 @@ drudgery, that it’s onerous, maybe even odious, or a burden in some way.
 We often view work as something we’re beset with, something we have to
 get done and out of the way before we can be comfortable and at ease. Or
 we may think of work as something that keeps us from our meditation
-practice. These are merely perceptions that come up in the mind and it's
+practice. These are merely perceptions that come up in the mind, and it's
 helpful to challenge these perceptions.
 
 If we do challenge them, we can learn to bring mindfulness into the work
@@ -3941,10 +3938,10 @@ interaction with Ajahn Chah while living at Wat Pah Pong.
 
 One day while out on alms round, Ajahn Ñāṇadhammo had a slight argument
 with another monk and became stirred up and upset. When he returned to
-the monastery, Ajahn Chah smiled at him and very sweetly, as well as
-uncharacteristically in English, said “Good morning.” Of course Ajahn
-Ñāṇadhammo was really tickled with that, and this feeling of happiness
-arose that was uplifting for him.
+the monastery, Ajahn Chah smiled at him and uncharacteristically in
+English said, “Good morning.” Of course Ajahn Ñāṇadhammo was really
+tickled with that, and this feeling of happiness arose that was
+uplifting for him.
 
 In the late afternoon, he went over to Ajahn Chah’s dwelling place.
 Oftentimes monks would go over there in the afternoon when laypeople
@@ -4155,7 +4152,7 @@ are agitated and heated, to recognize the friction around what we see,
 smell, taste, hear, touch, and think.
 
 During the course of the day, it’s helpful to recognize with mindfulness
-that quality of friction, tension—what the Buddha calls heat, *āditta*,
+that quality of friction or tension—what the Buddha calls heat, *āditta*,
 burning. The feeling can be one of ownership regarding some tool, the
 interest in a particular task, or the irritation with an exceptionally
 obstructive piece of rock that won’t move out of the way. Whatever it
@@ -4184,8 +4181,8 @@ didn’t even know existed before it was assigned to us, suddenly becomes
 cut’s not square and we all know who did it!” That would be so
 embarrassing.* By owning something, it can become our great achievement
 or our terrible crime—the heat of pride or the heat of shame. So again,
-“*Evaṃ passaṃ bhikkhave sutvā ariyasāvako pi nibbindati*—Seeing thus,
-bhikkhus, the wise noble disciple becomes dispassionate.”
+“*Evaṃ passaṃ bhikkhave sutvā ariyasāvako . . . pi nibbindati*—Seeing thus,
+bhikkhus, the wise noble disciple becomes dispassionate . . .”
 
 We can see how the mind creates these stupid, absurd reactions and
 projections about the world, and at the same time, what an amazing,
@@ -4252,7 +4249,7 @@ anxiety. It simply functions as a means of facing an existential truth.
 Here at Abhayagiri, we might be walking up and down on our walking path
 on a beautiful day. It could be 75 degrees, the flowers are out, and we
 feel strong and bright. Times like these are especially good for
-reflecting that illness is coming, and at some point, we will
+reflecting that illness is coming and at some point we will
 experience great pain. Rather than treating the matter in an
 abstract way, it’s best to be realistic, asking ourselves, *What does it
 mean that this body is subject to pain? How am I going to prepare for
@@ -4291,7 +4288,7 @@ courage to open up to the uncertainty of what will come. That is the
 real adventure of the death process.
 
 We are all involved in this project together. There is no project more
-important than deeply coming to terms with and understanding our
+important than deeply coming to terms with, and understanding, our
 condition as beings who are subject to birth, aging, illness, and
 ultimately, death. Everything else is far down the list.
 
@@ -4306,7 +4303,7 @@ floor of his shrine room, sore and aching because it was their first day
 of walking. They weren’t used to carrying all their gear for such a long
 distance, but they’ll get used to it. They were planning to leave
 Willits yesterday and head up north. Who knows how far they might get
-today and where they’ll be going on almsround. That is part of the
+today and where they’ll be going on alms round. That is part of the
 adventure and part of the practice of taking on uncertainty, *anicca*.
 
 When we are out on the road walking like that, uncertainty is a constant
@@ -4562,7 +4559,7 @@ the more we are aware that this is merely sense contact—*phassa*. Sense
 contact gives rise to pleasant, unpleasant, and neutral feelings—this is
 beautiful, this is ugly, this is ordinary. From that launchpad of
 feeling, in the ordinary flow of our experience, what arises is *taṇhā*,
-craving—*vedanā paccaya taṇhā*—feeling conditions craving, which then
+craving. *Vedanā paccaya taṇhā*—feeling conditions craving, which then
 leads to sorrow, lamentation, pain, grief, and despair. When we know
 this chain of causation, we are able to see that a feeling can easily
 turn into thoughts of *I can’t stand this. This is wrong. This is bad. I
@@ -4673,14 +4670,14 @@ distressed when we lose it.
 
 We all have *rāga-taṇhā*, sensual desire, as part of our being. If our
 parents didn’t have rāga-taṇhā, we wouldn’t be here. When sensual desire
-present, we want to perceive the beautiful in the body. When it’s not
+is present, we want to perceive the beautiful in the body. When it’s not
 present, the body doesn’t seem so beautiful anymore—it doesn’t appeal to
 us in the same way. We’re no longer in the grip of a desire that can
 lead to painful mind states and regrettable behavior. This is where
-asubha practice comes in. When we start thinking about what comprises the
-human body—bones, sinews, blood, intestines, undigested food, the heart,
-the whole lot of it—we may come to realize that these objects have an
-unattractive quality to them.
+asubha practice comes in. When we start thinking about what comprises
+the human body—bones, sinews, blood, intestines, undigested food, the
+heart, the whole lot of it—we may come to realize that these objects
+have an unattractive quality to them.
 
 When left to our own devices, we tend to only focus on the thin layer of
 skin that wraps around these unattractive objects, ignoring everything
@@ -4714,12 +4711,12 @@ loving-kindness toward ourselves and others.
 
 However, we *do* need to apply this practice with discernment, to watch
 out for any difficulties that arise. If we find ourselves getting
-negative results from the practice, it’s perfectly fine to put it aside,
-for years if necessary. However, it’s worth working with the
-difficulties, because asubha kammaṭṭhāna is such a potentially rewarding
-practice. Eventually, if we use this practice repeatedly, we will likely
-discover that it’s an extremely useful tool for the realization of
-Dhamma.
+negative results from the practice, it’s perfectly fine to put it aside
+for weeks, months, or even years if necessary. However, it’s worth
+working with the difficulties, because asubha kammaṭṭhāna is such a
+potentially rewarding practice. Eventually, if we use this practice
+repeatedly, we will likely discover that it’s an extremely useful tool
+for the realization of Dhamma.
 
 # What Do We Take With Us?
 
@@ -4733,7 +4730,7 @@ various activities we’re about to perform and the roles that we have—the
 ideas, thoughts, views, opinions, perceptions, conceptions. Watch how we
 identify with the activities and emotions of the mind.
 
-A couple days ago I went to visit a woman who is in the process of
+A couple of days ago I went to visit a woman who was in the process of
 dying. She probably doesn’t have too much longer to go now. She’s
 someone who has always wanted to live life fully, being involved and
 engaged with many different good things. Like most of us, she’s strongly
@@ -4756,32 +4753,32 @@ underneath us when the dying process begins. What a lesson this can be
 for all of us.
 
 This is why the Buddha suggested the contemplation of death as a
-necessary reflection for us. It helps uproot that sense of
-identification and impulse toward becoming what it is we think we are,
-who we think we are, what we identify with—whether it’s with our bodies,
-our activities, or our roles in the monastery. In the ordination process
-here, when we’re longterm lay residents in the monastery, we look
-forward to becoming anagārikas. When we’re anagārikas, we look forward
-to becoming sāmaṇeras. When we’re sāmaṇeras we look forward to becoming
-bhikkhus. Then, when we’re bhikkhus, we look forward to becoming
-ajahns. And then . . . we’re almost dead.
+necessary reflection for us. It helps us to uproot that sense of
+identification and the impulse we have toward becoming what or who we
+think we are, or what we identify with—our bodies, our activities, or
+our roles in the monastery. In the ordination process here, when we’re
+long-term lay residents in the monastery, we look forward to becoming
+anagārikas. When we’re anagārikas, we look forward to becoming
+sāmaṇeras. When we’re sāmaṇeras we look forward to becoming bhikkhus.
+Then, when we’re bhikkhus, we look forward to becoming ajahns. And then
+. . . we’re almost dead.
 
 What is it that we can take with us? We can’t take any of those
-identities or roles. We can’t take any of the accomplishments with us or
-our failures. We can’t take any of the praise we’ve received for things
-we’ve done well or the blame we’ve received for things we haven’t done
-well. Whatever we have gained or lost doesn’t go with us when we die.
-All of the status we’ve accumulated, all of our particular views about
-the way things should be run, all of the times we were able to be alone,
-wanting to escape from being around others, or all of the times we
-sought the company of others, being surrounded by family and friends—we
-don’t take any of those with us. They all disappear when we die. All we
-take with us are the impulses and the tendencies we have toward either
-skillful states of mind like generosity, morality, and patience or the
-more unskillful impulses of greed, hatred, and delusion. These
-tendencies, in as much as we develop them, are taken with us, but we
-don’t take any of the other things that we generally hold to as so
-important or permanent.
+identities or roles. We can’t take any of the accomplishments with us
+nor can we take our failures. We can’t take any of the praise we’ve
+received for things we’ve done well or the blame we’ve received for
+things we haven’t done well. Whatever we have gained or lost doesn’t go
+with us when we die. All of the status we’ve accumulated, all of our
+particular views about the way things should be run, all of the times we
+were able to be alone, wanting to escape from being around others, or
+all of the times we sought the company of others, being surrounded by
+family and friends—we don’t take any of those with us. They all
+disappear when we die. All we take with us are the impulses and the
+tendencies we have toward either skillful states of mind like
+generosity, morality, and patience or the more unskillful impulses of
+greed, hatred, and delusion. These tendencies, in as much as we develop
+them, are taken with us, but we don’t take any of the other things that
+we generally hold to as so important or permanent.
 
 So throughout the day, what is it that we want to develop? If we’re
 going to die tonight, what qualities do we want to take with us? Do we
@@ -4792,10 +4789,10 @@ work on those? Or do we want to work on developing the essential aspects
 of our practice: service, kindness, skillfulness, wisdom, discernment,
 patience, or energy? Those are the qualities, the tendencies we can take
 with us. The choice is up to us. We can choose the skillful tendencies
-leading us toward seeing this process of becoming, how it is that we
-identify with the body, and then learning how to let go. Or we can go in
-the opposite direction. It all depends on where we focus our attention
-as we move throughout the day.
+leading us toward seeing this process of becoming, this process of how
+we identify with the body. And then we can learn how to let it all go.
+Or we can go in the opposite direction. It all depends on where we focus
+our attention as we move throughout the day.
 
 # Carrying It Around
 
@@ -4977,11 +4974,11 @@ cup. It’s just that much.” So we need to recognize the impermanence,
 uncertainty, and unsure nature of experience, rather than making
 assumptions about things from the bias of “my way” or from perceptions
 of the world as good or bad. We might think, *Everything is falling
-apart.* Or *Everything is great and I’m going to get what I want. The
-world is going to gratify me!* Well, not sure. We need to stop and
-reflect, *What is sure?* We may see that what *is* sure is what we can
-know at this present moment. What *is* sure is that we can make choices
-and try to guide ourselves in ways that are skillful.
+apart.* Or we might think, *Everything is great and I’m going to get
+what I want. The world is going to gratify me!* Well, not sure. We need
+to stop and reflect, *What is sure?* We may see that what *is* sure is
+what we can know at this present moment. What *is* sure is that we can
+make choices and try to guide ourselves in ways that are skillful.
 
 When we make those choices, it is helpful to recollect that we are the
 owners of our actions, heirs to our actions, and that those actions have
@@ -5073,15 +5070,15 @@ whatever it is that we want to identify with. All of these skills can be
 useful tools for community life, but we can also develop a sense of
 identity around them—becoming this or becoming that—and doing what we
 might be doing if we were engaged in worldly careers. The idea is to
-pick up all of these things, use them, develop skills, but do this for
-the purpose of maintaining community life and offering service, as well
-as for the purpose of learning how to give up self identity and a sense
-of self-importance within this same process. Little by little, bit by
-bit, with this process we’re realizing that there really isn’t any “me”
-here who’s doing all of this. We are using skills to develop the
-Eightfold Path, to encourage each other, and to contribute to Saṅgha
-harmony. Gradually this process supports us in developing the insight
-into who we are not.
+pick up all of these things, use them, develop skills around them, but
+do this for the purpose of maintaining community life and offering
+service, as well as for the purpose of learning how to give up self
+identity and a sense of self-importance within this same process. Little
+by little, bit by bit, with this process we’re realizing that there
+really isn’t any “me” here who’s doing all of this. We are using skills
+to develop the Eightfold Path, to encourage each other, and to
+contribute to Saṅgha harmony. Gradually this process supports us in
+developing the insight into who we are not.
 
 # Remembering to Loosen Up
 
@@ -5179,7 +5176,7 @@ contemplations because they help us make the practice—including
 relinquishment and generosity—our first priority.
 
 The literal translation of the word *bhikkhu* is one who subsists on
-almsfood. But in keeping with the commentaries, Ajahn Chah used to
+alms food. But in keeping with the commentaries, Ajahn Chah used to
 emphasize that the meaning of *bhikkhu* is one who sees the danger in
 *saṃsāra*, the danger in the endless round of birth and death, the
 endless wandering. That’s a useful image for the unfocused, inattentive
@@ -5213,7 +5210,7 @@ frozen or held state of being. It is much more an experience that allows
 us to let go of unwholesome states of mind, especially those we are
 obsessed with or attached to. What remains is a mind that is relaxed,
 peaceful, and stable. It’s not going out to search for happiness,
-because it is quite happy to stay where it is: at home.
+because it is quite happy to stay where it is at home.
 
 We often use the words *cultivating concentration*. which is an
 important expression, but it can be misleading. Quite simply, it means
