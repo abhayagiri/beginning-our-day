@@ -30,7 +30,7 @@ loving-kindness, compassion, sympathetic joy, and equanimity).
 
 **Buddha:** The historical religious leader and teacher who lived around
 2500 BCE in the Ganges Valley of India. After his enlightenment, he
-established a monks’, nuns’, and lay order under the instruction of what
+established a monks’, nuns’, and lay community under the instruction of what
 he called the Dhamma-Vinaya—the doctrine and discipline. The word Buddha
 literally means “awakened one” or “enlightened one.”
 
@@ -120,9 +120,9 @@ written in the Pāli language.
 ingenuity. One of the ten perfections.
 
 **pāramī** (Sanskrit: pāramitā): Perfection of the character. A group of
-ten qualities developed over many lifetimes by a bodhisatta: generosity,
-virtue, renunciation, discernment, energy/persistence, patience or
-forbearance, truthfulness, determination, good will, and equanimity.
+ten qualities developed over many lifetimes: generosity, virtue,
+renunciation, discernment, energy/persistence, patience or forbearance,
+truthfulness, determination, good will, and equanimity.
 
 **paritta:** Literally, “protection.” Auspicious blessing and protective
 chants typically recited by monastics and sometimes lay followers as
@@ -135,7 +135,7 @@ pay homage to the Buddha, Dhamma, and Saṅgha.
 
 **Rains Retreat** (Vassa): The traditional time of year that monks and
 nuns determine to stay in one location for three months. Some monastics
-will take this time to intensify their formal or allowable acetic
+will take this time to intensify their formal or allowable ascetic
 practices. Monks and nuns will refer to themselves as having a certain
 number of Rains Retreats which signifies how many years they have been
 in robes.
@@ -151,8 +151,8 @@ and idle chatter.
 **right view:** The first factor of the Eightfold Path. Right view is
 seeing experience in terms of Dhamma. This requires an understanding of
 kamma—that there are wholesome actions, unwholesome actions, and results
-to those actions. In the highest or noble sense, to have right view
-means to completley understand the Four Noble Truths.
+of those actions. In the highest or noble sense, to have right view
+means to completely understand the Four Noble Truths.
 
 **samādhi:** Concentration, one-pointedness of mind, mental stability. A
 state of concentrated calm resulting from meditation practice.
@@ -166,17 +166,17 @@ and dying again and again, the world of all conditioned phenomena,
 mental and material.
 
 **Saṅgha:** This term is used to conventionally describe the community
-of ordained monks and nuns practising the teachings of the Buddha.
+of ordained monks and nuns practicing the teachings of the Buddha.
 However, from a noble or ideal view, it specifically describes the
 followers of the Buddha, lay or ordained, who have realized one of the
 four levels of awakening: stream-entry, once-returning, non-returning,
 or Nibbāna. Saṅgha is occasionally used to describe the broader
 community of Buddhist practitioners, lay or ordained.
 
-**saṅkhāra:** Formation, compound, formation; the forces and factors
+**saṅkhāra:** Formation, compound, fabrication; the forces and factors
 that form things (physical or mental), the process of forming, and the
 formed things that result. Saṅkhāra can refer to anything formed by
-conditions, or, more specifically, thought-formations within the mind.
+conditions, including thought-formations within the mind.
 
 **sati:** Mindfulness, self-collectedness, recollection, bringing to
 mind.  In some contexts, the word sati when used alone refers to
@@ -186,9 +186,8 @@ clear-comprehension (sampajañña) as well.
 prevents one from engaging in unskillful actions. Also, the training
 precepts that restrain one from performing unskillful actions.
 
-**five spiritual faculties** (pañca bala): A list of qualities the
-Buddha gathered for the attainment of supernormal powers or faculties.
-They are: faith, energy, mindfulness, concentration, and wisdom.
+**five spiritual faculties** (pañca indriya): Faith, energy,
+mindfulness, concentration, and wisdom.
 
 **sutta** (Sanskrit sūtra): Literally, “thread.” A discourse or sermon
 by the Buddha or his contemporary disciples. After the Buddha’s death
@@ -218,7 +217,7 @@ life.
 
 **Visuddhimagga:** A post-canonical collection compiled by the Bhikkhu
 Bhadantācariya Buddhaghosa in the fifth century. It is a treatise
-explaining in detail the path to enlightenment.
+explaining in detail the path of purification.
 
 **wat** (Thai): A monastery.
 

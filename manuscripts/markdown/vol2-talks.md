@@ -5176,7 +5176,7 @@ contemplations because they help us make the practice—including
 relinquishment and generosity—our first priority.
 
 The literal translation of the word *bhikkhu* is one who subsists on
-alms food. But in keeping with the commentaries, Ajahn Chah used to
+alms. But in keeping with the commentaries, Ajahn Chah used to
 emphasize that the meaning of *bhikkhu* is one who sees the danger in
 *saṃsāra*, the danger in the endless round of birth and death, the
 endless wandering. That’s a useful image for the unfocused, inattentive

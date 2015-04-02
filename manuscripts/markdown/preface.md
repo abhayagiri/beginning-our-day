@@ -34,7 +34,7 @@ substantive editors of the material, enduring the long and difficult
 process of editing the transcripts into compact and well-written
 teachings. Pamela Kirby generously assisted in various stages of the
 editing process. Ruby Grad helped with the copy editing. Shirley
-Johannesen compiled the glossary.  David Burrowes, Dee Cope, Josh
+Johannesen helped with the glossary.  David Burrowes, Dee Cope, Josh
 Himmelfarb, Evan Hirsch, Jeanie Daskais, Anagārika John Nishinaga, and
 members of the Lotus Volunteer Group: Viveka and Wendy Parker all helped
 with further refining of the text.  Sumi Shin designed the cover.
