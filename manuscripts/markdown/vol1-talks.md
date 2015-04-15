@@ -2118,22 +2118,22 @@ practices accord with Dhamma, what practices genuinely work for us.
 ## Ajahn Yatiko • June 2012
 
 There’s a passage in the suttas in which the Buddha talks about how long
-people live. He says a person who lives a long life might live 100 years
-or a bit more. It’s interesting that people lived that long in the
-Buddha’s day. According to the suttas, there were many monks who lived
-to be 80, and a few as old as 120.
+people live. He says a person who lives a long life might live one
+hundred years or a bit more. It’s interesting that people lived that
+long in the Buddha’s day. According to the suttas, there were many monks
+who lived to be 80, and a few as old as 120.
 
 Let’s assume, for the sake of contemplation, that the longest lifespan
-since the Buddha’s time was 100 years. And let’s say that our previous
-lives were all human. If we lived to be 100 years in each life, it would
-have been twenty-five lives ago that the Buddha was alive. I think it is
-helpful to recollect this regularly and make the connection between our
-own lives and the Buddha’s life. We can connect with this remarkable
-human being who walked the Earth and set rolling the unstoppable wheel
-of Dhamma. By regularly making this connection to the Buddha, we are
-consciously bringing to mind this remarkable human being who lived,
-walked, breathed, and had sense experiences exactly like we do. Whatever
-we’re doing, we can connect it to the Buddha.
+since the Buddha’s time was one hundred years. And let’s say that our
+previous lives were all human. If we lived to be one hundred years in
+each life, it would have been twenty-five lives ago that the Buddha was
+alive. I think it is helpful to recollect this regularly and make the
+connection between our own lives and the Buddha’s life. We can connect
+with this remarkable human being who walked the Earth and set rolling
+the unstoppable wheel of Dhamma. By regularly making this connection to
+the Buddha, we are consciously bringing to mind this remarkable human
+being who lived, walked, breathed, and had sense experiences exactly
+like we do. Whatever we’re doing, we can connect it to the Buddha.
 
 Suppose we were to forget about the past, as if the past didn’t exist,
 and imagine that today is the day of our birth, a fresh start. This can
@@ -2683,12 +2683,12 @@ living in community becomes just like breathing.
 ## Luang Por Pasanno • August 2013
 
 Yesterday, four senior monks from Abhayagiri participated in the
-ordination at the City of 10,000 Buddhas. The preceptor was Reverend
-Heng Sure. As he was instructing the candidates, he kept using a certain
-refrain: “There is inferior resolve, medium resolve, and superior
-resolve.” The examples he gave of inferior and medium resolve were
-humorous, so as to encourage the prospective monks to take on superior
-resolve.
+ordination at the City of Ten Thousand Buddhas. The preceptor was
+Reverend Heng Sure. As he was instructing the candidates, he kept using
+a certain refrain: “There is inferior resolve, medium resolve, and
+superior resolve.” The examples he gave of inferior and medium resolve
+were humorous, so as to encourage the prospective monks to take on
+superior resolve.
 
 It’s helpful to reflect on what it means to make a resolution and to
 understand that the way we resolve to do something is going to condition

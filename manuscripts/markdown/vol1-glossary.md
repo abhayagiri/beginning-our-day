@@ -111,7 +111,7 @@ ingenuity. One of the ten perfections.
 **pāramī** (Sanskrit: pāramitā): Perfection of the character. A group of
 ten qualities developed over many lifetimes: generosity, virtue,
 renunciation, discernment, energy/persistence, patience or forbearance,
-truthfulness, determination, good will, and equanimity.
+truthfulness, determination, goodwill, and equanimity.
 
 **paritta:** Literally, “protection.” Auspicious blessing and protective
 chants typically recited by monastics and sometimes lay followers as
@@ -145,7 +145,7 @@ and idle chatter.
 **samādhi:** Concentration, one-pointedness of mind, mental stability. A
 state of concentrated calm resulting from meditation practice.
 
-**Samaṇa:** Contemplative or wandering acetic. A samaṇa is literally a
+**Samaṇa:** Contemplative or wandering ascetic. A samaṇa is literally a
 person who abandons the conventional obligations of social life in order
 to find a way of life more “in tune” (sama) with the ways of nature.
 
