@@ -2118,10 +2118,10 @@ practices accord with Dhamma, what practices genuinely work for us.
 ## Ajahn Yatiko • June 2012
 
 There’s a passage in the suttas in which the Buddha talks about how long
-people live. He says a person who lives a long life might live one
-hundred years or a bit more. It’s interesting that people lived that
-long in the Buddha’s day. According to the suttas, there were many monks
-who lived to be 80, and a few as old as 120.
+people live. He says a person who lives a long life might live 100 years
+or a bit more. It’s interesting that people lived that long in the
+Buddha’s day. According to the suttas, there were many monks who lived
+to be 80, and a few as old as 120.
 
 Let’s assume, for the sake of contemplation, that the longest lifespan
 since the Buddha’s time was one hundred years. And let’s say that our
