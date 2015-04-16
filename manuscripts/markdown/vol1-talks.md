@@ -2125,7 +2125,7 @@ to be 80, and a few as old as 120.
 
 Let’s assume, for the sake of contemplation, that the longest lifespan
 since the Buddha’s time was one hundred years. And let’s say that our
-previous lives were all human. If we lived to be one hundred years in
+previous lives were all human. If we lived to be 100 years in
 each life, it would have been twenty-five lives ago that the Buddha was
 alive. I think it is helpful to recollect this regularly and make the
 connection between our own lives and the Buddha’s life. We can connect

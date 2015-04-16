@@ -122,7 +122,7 @@ ingenuity. One of the ten perfections.
 **pāramī** (Sanskrit: pāramitā): Perfection of the character. A group of
 ten qualities developed over many lifetimes: generosity, virtue,
 renunciation, discernment, energy/persistence, patience or forbearance,
-truthfulness, determination, good will, and equanimity.
+truthfulness, determination, goodwill, and equanimity.
 
 **paritta:** Literally, “protection.” Auspicious blessing and protective
 chants typically recited by monastics and sometimes lay followers as
@@ -170,8 +170,7 @@ of ordained monks and nuns practicing the teachings of the Buddha.
 However, from a noble or ideal view, it specifically describes the
 followers of the Buddha, lay or ordained, who have realized one of the
 four levels of awakening: stream-entry, once-returning, non-returning,
-or Nibbāna. Saṅgha is occasionally used to describe the broader
-community of Buddhist practitioners, lay or ordained.
+or Nibbāna.
 
 **saṅkhāra:** Formation, compound, fabrication; the forces and factors
 that form things (physical or mental), the process of forming, and the
