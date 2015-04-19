@@ -1,0 +1,64 @@
+%!TEX TS-program = xetex
+%!TEX encoding = UTF-8 Unicode
+\documentclass[11pt,openany]{memoir}
+
+\input{base.tex}
+
+\begin{document}
+
+\frontmatter
+\addtocontents{toc}{\protect\thispagestyle{plain}}
+\pagestyle{empty}
+
+\begin{center}
+\vspace*{100pt}
+{ \huge Beginning Our Day }
+
+\vspace{20pt}
+{ \Large Volume Two}
+
+\vspace{40pt}
+
+{\large
+Dhamma Reflections from Abhayagiri Monastery
+}
+
+\vfill{}
+
+\includegraphics[width=1in]{abm_logo.eps}
+
+\end{center}
+\clearpage
+
+\input{../../manuscripts/latex/colophon.tex}
+
+\input{../../manuscripts/latex/dedication.tex}
+
+\clearpage
+\mbox{}\clearpage
+
+\pagestyle{plain}
+\tableofcontents*
+
+
+%\thispagestyle{plain}
+\clearpage
+
+\thispagestyle{empty}
+\mbox{} \clearpage
+
+\input{../../manuscripts/latex/preface.tex}
+
+\input{../../manuscripts/latex/abbreviations.tex}
+
+\mainmatter
+
+\input{../../manuscripts/latex/vol2-talks.tex}
+
+\input{../../manuscripts/latex/vol2-glossary.tex}
+
+\clearpage
+
+\input{../../manuscripts/latex/license.tex}
+
+\end{document}
