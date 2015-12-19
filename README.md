@@ -2,5 +2,5 @@
 
 by Abhayagiri Buddhist Monastery
 
-Find the final PDFs in `publish` directory.
+Find the final PDFs in `publish/` directory.
 

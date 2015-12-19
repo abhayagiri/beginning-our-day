@@ -4484,46 +4484,6 @@ problems and attachments eventually leads to letting go of the bigger
 ones. We learn to let go where we can, renounce where we can and as a
 result, find peace where we can.
 
-# Challenging Our Perceptions of Work
-
-## Luang Por Pasanno • July 2013
-
-It’s helpful to consider and reflect on how we perceive work. If we
-bring up the word *work*, what comes to mind? There may be a feeling of
-drudgery, that it’s onerous, maybe even odious. We often view work as
-something we’re beset with, something we have to get done and out of the
-way before we can be comfortable and at ease. Or we may think of work as
-something that keeps us from our meditation practice. These are merely
-perceptions that come up in the mind, and it’s helpful to challenge
-them.
-
-If we do challenge them, we can learn to bring mindfulness into the work
-period, which helps us develop a continuity of attention and reflective
-clarity. When we approach the work period like this, we realize it isn’t
-something to get out of the way, but rather, it’s an important aspect of
-the training. We don’t want to be like so many people who live their
-whole lives waiting for the work to be over: *When I get this done, I’ll
-be happy and I can relax . . .* and as death approaches, they’re still
-waiting.
-
-It’s also helpful to remember that the work we do in the monastery
-serves to maintain the facilities here. We’re looking after the places
-we live in for our own benefit and for the benefit of others. When we
-perceive our work in this way, we can recognize that it’s an opportunity
-for giving, for generosity, and for putting forth effort that benefits
-everyone. We’re reminded that generosity is not limited to material
-things, but includes acts of service, wholesome, skillful, and selfless
-actions. As a result, our work can become a source of well-being and
-happiness.
-
-In Thai, the word for *work* also means festival. This blurs the
-distinction between work and enjoyment. During my time in Thailand, I
-was always struck by the northeastern villagers who came to the
-monastery to work. They really enjoyed themselves. They saw this work as
-an opportunity to do good things together. We can take a page from their
-book and use our work as an opportunity to develop a sense of lightness,
-to enjoy pitching in together and enjoy doing what is beneficial.
-
 # Seeing Clearly Into the Chain of Causation
 
 ## Ajahn Amaro • August 2005
